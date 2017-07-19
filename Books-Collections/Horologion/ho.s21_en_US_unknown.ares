@@ -1,0 +1,415 @@
+A_Resource_Whose_Name = ho.s21_en_US_unknown
+
+ho.title = "Service of Preparation for Holy Communion"
+ho.title2 = ""
+
+hoCA.title = ""
+hoCA.poet = ""
+
+hoCA.media.text = "" //for complete music
+
+R01 = ""
+
+hoCA.Ode11.ode = misc_en_US_unknown.Ode1
+hoCA.Ode11.mode = misc_en_US_unknown.Mode2
+hoCA.Ode11.melody = he.h.m2_en_US_unknown.DefteLaoi.name
+hoCA.Ode11.text = "May Your holy Body be for me the Bread of life everlasting, O compassionate Lord, and may Your precious Blood be a remedy for diverse maladies."
+
+hoCA.Ode12.ode = misc_en_US_unknown.Ode1
+hoCA.Ode12.mode = misc_en_US_unknown.Mode2
+hoCA.Ode12.melody = he.h.m2_en_US_unknown.DefteLaoi.name
+hoCA.Ode12.text = "Defiled by unseemly deeds, wretched as I am, I am unworthy, O Christ, to partake of Your immaculate Body and divine Blood; but make me worthy of Them."
+
+hoCA.Ode1T.ode = misc_en_US_unknown.Ode1
+hoCA.Ode1T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode1T.melody = he.h.m2_en_US_unknown.DefteLaoi.name
+hoCA.Ode1T.text = "O blessed Bride of God, O good land which produced the Ear of wheat which knew no husbandry and which brings salvation to the world: grant that I who eat of it may be saved."
+
+hoCA.Ode31.ode = misc_en_US_unknown.Ode3
+hoCA.Ode31.mode = misc_en_US_unknown.Mode2
+hoCA.Ode31.melody = he.h.m2_en_US_unknown.EnPetraMeTisPisteos.name
+hoCA.Ode31.text = "Grant me, O Christ, teardrops to cleanse the defilement of my heart, that, purified and with good conscience, I may draw near with fear and faith, O Master, to the communion of Your divine Gifts."
+
+hoCA.Ode32.ode = misc_en_US_unknown.Ode3
+hoCA.Ode32.mode = misc_en_US_unknown.Mode2
+hoCA.Ode32.melody = he.h.m2_en_US_unknown.EnPetraMeTisPisteos.name
+hoCA.Ode32.text = "May Your immaculate Body and divine Blood be for the forgiveness of my offenses, for communion with the Holy Spirit, and for life everlasting, O Friend of man, and for estrangement from passions and sorrows."
+
+hoCA.Ode3T.ode = misc_en_US_unknown.Ode3
+hoCA.Ode3T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode3T.melody = he.h.m2_en_US_unknown.EnPetraMeTisPisteos.name
+hoCA.Ode3T.text = "O all-holy one, table of the Bread of life Who for mercy's sake came down from on high and gave new life to the world, make even me, who am unworthy, worthy now with fear to taste of it and live."
+
+hoCA.Ode41.ode = misc_en_US_unknown.Ode4
+hoCA.Ode41.mode = misc_en_US_unknown.Mode2
+hoCA.Ode41.melody = he.h.m2_en_US_unknown.ElilythasEkParthenou.name
+hoCA.Ode41.text = "O most merciful One, Who was incarnate for us, You willed to be slain as a sheep for the sins of mortals.  Therefore also, I implore You to blot out my offenses."
+
+hoCA.Ode42.ode = misc_en_US_unknown.Ode4
+hoCA.Ode42.mode = misc_en_US_unknown.Mode2
+hoCA.Ode42.melody = he.h.m2_en_US_unknown.ElilythasEkParthenou.name
+hoCA.Ode42.text = "Heal the wounds of my soul, O Lord, and wholly sanctify me, the wretched one, and make me worthy, O Master, to partake of Your divine mystical Supper."
+
+hoCA.Ode4T.ode = misc_en_US_unknown.Ode4
+hoCA.Ode4T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode4T.melody = he.h.m2_en_US_unknown.ElilythasEkParthenou.name
+hoCA.Ode4T.text = "Make Him Who came forth from your womb, O Lady, to be gracious also to me; and to keep me, your supplicant, blameless and free of stain, that, by receiving within me the noetic Pearl, I may be sanctified."
+
+hoCA.Ode51.ode = misc_en_US_unknown.Ode5
+hoCA.Ode51.mode = misc_en_US_unknown.Mode2
+hoCA.Ode51.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.name
+hoCA.Ode51.text = "As You foretold, O Christ, so let it be even now to me Your abject slave, and abide in me as You promised; for behold, I eat Your divine Body and drink Your Blood."
+
+hoCA.Ode52.ode = misc_en_US_unknown.Ode5
+hoCA.Ode52.mode = misc_en_US_unknown.Mode2
+hoCA.Ode52.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.name
+hoCA.Ode52.text = "O Word of God, and God, may the live coal of Your Body be for the enlightenment of me who am darkened, and may Your Blood be for the cleansing of my defiled soul."
+
+hoCA.Ode5T.ode = misc_en_US_unknown.Ode5
+hoCA.Ode5T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode5T.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.name
+hoCA.Ode5T.text = "O Mary, Mother of God, august tabernacle of the sweet Fragrance: by your prayers, make me a chosen vessel, that I may partake of the holy Gifts of your Child."
+
+hoCA.Ode61.ode = misc_en_US_unknown.Ode6
+hoCA.Ode61.mode = misc_en_US_unknown.Mode2
+hoCA.Ode61.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.name
+hoCA.Ode61.text = "O Savior, sanctify my mind, soul, heart, and body; and grant that without condemnation, O Master, I may approach the dread Mysteries."
+
+hoCA.Ode62.ode = misc_en_US_unknown.Ode6
+hoCA.Ode62.mode = misc_en_US_unknown.Mode2
+hoCA.Ode62.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.name
+hoCA.Ode62.text = "Grant me estrangement from passions, and the increase of Your grace, and assurance of life by my participation in Your holy Mysteries, O Christ."
+
+hoCA.Ode6T.ode = misc_en_US_unknown.Ode6
+hoCA.Ode6T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode6T.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.name
+hoCA.Ode6T.text = "O Holy Word of God, and God, as I now approach Your divine Mysteries, sanctify the whole of me, by the supplications of Your holy Mother."
+
+hoCA.Kontakion.mode = misc_en_US_unknown.Mode2
+hoCA.Kontakion.melody = he.a.m2_en_US_unknown.TaAnoZiton.name
+hoCA.Kontakion.text = "Disdain me not to receive now, O Christ, the bread which is Your Body, and Your divine Blood, and to partake, O Master, of Your immaculate and dread Mysteries; and may these not be to me, the wretched one, for judgment, but for eternal and immortal life."
+
+hoCA.Ode71.ode = misc_en_US_unknown.Ode7
+hoCA.Ode71.mode = misc_en_US_unknown.Mode2
+hoCA.Ode71.melody = he.h.m2_en_US_unknown.EikonosChrysis.name
+hoCA.Ode71.text = "May the reception of Your immortal Mysteries, the Source of every good, O Christ, be now light, and life, and dispassion, and the cause of furtherance and proficiency in divine virtue, O only good One, that I may glorify You."
+
+hoCA.Ode72.ode = misc_en_US_unknown.Ode7
+hoCA.Ode72.mode = misc_en_US_unknown.Mode2
+hoCA.Ode72.melody = he.h.m2_en_US_unknown.EikonosChrysis.name
+hoCA.Ode72.text = "That I may be redeemed from passions, enemies, want, and every affliction, I now draw near with trembling, love, and reverence to Your immortal and divine Mysteries, O Friend of man, and chant unto You: Blessed are You, the God of our fathers."
+
+hoCA.Ode7T.ode = misc_en_US_unknown.Ode7
+hoCA.Ode7T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode7T.melody = he.h.m2_en_US_unknown.EikonosChrysis.name
+hoCA.Ode7T.text = "O you who are graced of God, and who gave birth incomprehensibly to Christ the Savior, I your slave, impure as I am, now beseech you, the pure one: from all defilement of flesh and spirit cleanse me who am now about to approach the immaculate Mysteries."
+
+hoCA.Ode81.ode = misc_en_US_unknown.Ode8
+hoCA.Ode81.mode = misc_en_US_unknown.Mode2
+hoCA.Ode81.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.name
+hoCA.Ode81.text = "Grant me, who am despairing, to be a communicant now of Your heavenly, dread, and holy Mysteries, O Christ, and of Your divine and mystical Supper, O God my Savior."
+
+hoCA.Ode82.ode = misc_en_US_unknown.Ode8
+hoCA.Ode82.mode = misc_en_US_unknown.Mode2
+hoCA.Ode82.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.name
+hoCA.Ode82.text = "I flee for refuge under Your compassion, O good One, and I cry to You with fear: abide in me, O Savior, and I in You, as You said; for behold, trusting in Your mercy, I eat Your Body and drink Your Blood."
+
+hoCA.Ode8T.ode = misc_en_US_unknown.Ode8
+hoCA.Ode8T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode8T.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.name
+hoCA.Ode8T.text = "I tremble as I receive the Fire, lest I be burned as wax and as grass.  O dread mystery.  O divine compassion.  How is it that I who am but clay partake of the divine Body and Blood and am made incorruptible?"
+
+hoCA.Ode91.ode = misc_en_US_unknown.Ode9
+hoCA.Ode91.mode = misc_en_US_unknown.Mode2
+hoCA.Ode91.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode91.text = "The Lord is good: O taste and see.  For of old He became like us for our sake, and offered Himself once as an offering to His Father, and is ever slain, sanctifying those that partake of Him."
+
+hoCA.Ode92.ode = misc_en_US_unknown.Ode9
+hoCA.Ode92.mode = misc_en_US_unknown.Mode2
+hoCA.Ode92.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode92.text = "May I be sanctified in body and soul, O Master; may I be enlightened; may I be saved; may I become Your dwelling-place by the communion of the sacred Mysteries, having You with the Father and the Spirit abiding in me, O most merciful Benefactor."
+
+hoCA.Ode93.ode = misc_en_US_unknown.Ode9
+hoCA.Ode93.mode = misc_en_US_unknown.Mode2
+hoCA.Ode93.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode93.text = "May Your most precious Body and Blood be to me as fire and light, O my Savior, consuming the substance of sin and burning the thorns of my passions, and enlightening the whole of me to worship Your Divinity."
+
+hoCA.Ode9T.ode = misc_en_US_unknown.Ode9
+hoCA.Ode9T.mode = misc_en_US_unknown.Mode2
+hoCA.Ode9T.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode9T.text = "God took flesh of your pure blood, wherefore, every generation hymns you, O Lady, and the multitudes of the noetic beings glorify you; for through you we have clearly seen the Master of all, Who assumed the nature of man."
+
+R02 = ""
+
+hoPCPrayer.Key000.title = "On the Following Day"
+R03 = "The morning on which you will receive Holy Communion, read the following as your Morning Prayer."
+hoPCPrayer.Key001.title = "Then the following Troparia:"
+hoPCPrayer.Key001.text = "Overlook my iniquities, O Lord Who was born of a Virgin, and purify my heart, and make it a temple for Your immaculate Body and Blood.  Do not cast me away from Your presence as one despised, O You Who has immeasurably great mercy." //oc.m2.d2_en_US_unknown.ocMA.Aposticha2.text
+hoPCPrayer.Key002.text = "How can I, the unworthy one, shamelessly dare to partake of Your Holy Gifts?  For should I dare to approach You with those who are worthy, my vesture betrays me, for it is not fitting for the Supper, and I shall bring condemnation upon my sin-laden soul.  O Lord, cleanse the defilement of my soul, and save me, since You love mankind."
+hoPCPrayer.Key003.text = "Great are the multitudes of my offenses, O Theotokos; I have fled to you, O pure one, and implore salvation.  Visit my ailing soul, and intercede with your Son and our God that He may grant me forgiveness for the grievous deeds which I have committed, O only-blessed one." //oc.m6.d3_en_US_unknown.ocMA.Kathisma33.text
+hoPCPrayer.Key004.title = ""
+hoPCPrayer.Key004.text = "" //tr.d068_en_US_unknown.trHW.Troparion.text
+
+hoPCPrayer.Key005.title = "Didactic Verses on "
+hoPCPrayer.Key005.title2 = "How One Must Approach the Immaculate Mysteries"
+hoPCPrayer.Key005.poet = ""
+hoPCPrayer.Key005_1.text = "When you, O man, are about to eat the Master's Body"
+hoPCPrayer.Key005_2.text = "draw near with fear, lest you be seared: It is Fire."
+hoPCPrayer.Key005_3.text = "And as you drink the divine Blood unto communion,"
+hoPCPrayer.Key005_4.text = "first reconcile yourself with those who grieve you,"
+hoPCPrayer.Key005_5.text = "then, with daring, venture to eat the Mystic Food."
+
+hoPCPrayer.Key006.title = "Other Similar Verses"
+hoPCPrayer.Key006_1.text = "Before partaking of the dread Sacrifice"
+hoPCPrayer.Key006_2.text = "of the life-creating Body of the Master,"
+hoPCPrayer.Key006_3.text = "pray in this manner with trembling:"
+
+hoPCPrayer.title = "Prayers of Holy Communion" //The Communion Prayers
+
+hoPCPrayer.Key011.title = "FIRST PRAYER of Saint Basil the Great"
+hoPCPrayer.Key011.text = "Master Lord Jesus Christ our God, the Source of life and immortality, Who are the Maker of all creation, both visible and invisible, the co-eternal and co-beginingless Son of the eternal Father, Who in the abundance of Your goodness were in the last days clothed in flesh, were crucified and buried for us, the ungrateful and thankless ones, and by Your own Blood refashioned our nature which had been corrupted by sin: O immortal King, accept the repentance even of me the sinner, and incline Your ear to me and hear my words.  For I have sinned, O Lord, I have sinned against heaven and before You, and I am not worthy to gaze on the height of Your glory; for I have provoked Your goodness by transgressing Your commandments and not obeying Your ordinances. But in Your forbearance, patience, and great mercy, You, O Lord, have not given me up to be destroyed with my sins, but You await my complete conversion. For You Who love mankind have said through Your Prophet that You desire not the death of the sinner, but that he should return to You and live.  For You do not will, O Lord, that the work of Your hands should be destroyed, neither do You delight in the destruction of men, but You desire that all should be saved and come to a knowledge of the Truth. Therefore, though I am unworthy both of heaven and earth, and even of this transient life – since I have completely succumbed to sin and am a slave to pleasure and have defaced Your image, yet being Your work and creation, wretch that I am, – even I do not despair of my salvation and dare to draw near to Your boundless compassion. Therefore receive even me, O Christ Who Loves mankind, as the harlot, as the thief, as the publican, and as the prodigal; and take from me the heavy burden of my sins: You Who take away the sin of the world, Who heal men's sicknesses, Who call the weary and heavy laden to Yourself and give them rest; for You came not to call the righteous but sinners to repentance.  And cleanse me from all defilement of flesh and spirit. Teach me to attain perfect holiness in the fear of You, that with the clear witness of my conscience I may receive a portion of Your holy Things and be united with Your holy Body and Blood, and have You dwelling and remaining in me with the Father and Your Holy Spirit. And, O Lord Jesus Christ, my God, do not let the communion of Your immaculate and life-giving Mysteries be to me for condemnation, nor let it make me sick in body or soul through my partaking of them unworthily; but rather grant that until my last breath I may receive a portion of Your holy Things without condemnation, for communion with the Holy Spirit, as a provision for eternal life, and as an acceptable defense at Your dread tribunal, so that I, too, with all Your elect may become a partaker of Your pure joys which You have prepared for those who love You, O Lord, in whom You are glorified throughout the ages.  Amen."
+
+hoPCPrayer.Key021.title = "SECOND PRAYER of Saint Basil the Great"
+hoPCPrayer.Key021.text = "I know, O Lord, that I partake of Your immaculate Body and precious Blood unworthily, and that I am guilty, and eat and drink judgment to myself by not discerning the Body and Blood of You, my Christ and God. But, trusting in Your compassion, I take courage and approach You, for You have said: \"He who eats My Flesh and drinks My Blood abides in Me and I in him.\" Therefore have compassion, O Lord, and do not make an example of me, the sinner, but deal with me according to Your mercy; and let these Holy Things be for my healing, and purification, and enlightenment, and protection, and salvation, and sanctification of body and soul; for the turning away of every fantasy, and all evil practice, and diabolical activity working subconsciously in my members; for confidence and love towards You; for reformation of life and stability; for an increase of virtue and perfection; for fulfillment of the commandments; for communion with the Holy Spirit; as a provision for eternal life; and as an acceptable defense at Your dread Tribunal, not unto judgment nor unto condemnation."
+
+hoPCPrayer.Key031.title = "THIRD PRAYER of Saint John Chrysostom"
+hoPCPrayer.Key031.text = "Lord my God, I know that I am not worthy or sufficient that You should come under the roof of the house of my soul, for all is desolate and fallen, and You do not have within me a place fit to lay Your head. But even as from on high You humbled Yourself for our sake, so now conform Yourself to my humility. And as You consented to lie in a cave and in a manger of irrational beasts, so also consent to lie in the manger of my irrational soul and to enter my defiled body. And as You did not disdain to enter and dine with sinners in the house of Simon the Leper, so consent also to enter the house of my humble soul which is leprous and sinful. And as You did not reject the woman who was a harlot and a sinner like me, when she approached and touched You, so also be compassionate with me, the sinner, as I approach and touch You, and let the live coal of Your most-holy Body and precious Blood be for the sanctification, and enlightenment, and strengthening of my humble soul and body; for a relief from the burden of my many sins; for a protection from all diabolical practices; for a restraint and a check on my evil and wicked way of life; for the mortification of passions; for the keeping of Your commandments; for an increase of Your divine grace; and for the advancement of Your Kingdom. For it is not as one insolent and presumptuous that I draw near to You, O Christ my God, but as one taking courage from Your ineffable goodness, so that having long abstained from Your communion I may not become a prey to the noetic wolf. Therefore, I pray to You, O Lord, Who alone are holy: sanctify my soul and body, my mind and heart, my emotions and affections, and wholly renew me. Root in my members the fear of You, and make Your sanctification indelible within me. Be also my Helper and Defender, guide my life in peace, and make me worthy to stand on Your right hand with Your Saints; through the prayers and intercessions of Your all-pure Mother, of Your ministering Angels, of the immaculate Powers, and of all the Saints who have been well-pleasing to You.  Amen."
+
+hoPCPrayer.Key041.title = "FOURTH PRAYER of Saint John Chrysostom"
+hoPCPrayer.Key041.text = "I am not worthy, Sovereign Lord, for you to come under the roof of my soul. Yet because of your love for all people, you wish to dwell in me. I boldly come. Command that the gates open which you alone made and you will come in with love toward all people, as is your nature. You will come in and enlighten my darkened reasoning. I believe that you will do this, for you did not send away the harlot who came to you with tears, nor cast out the repenting publican, nor reject the thief who acknowledged your kingdom, nor forsake the repentant persecutor for what he was. But you counted as your friends all of those who came to you in repentance. You alone are blessed, always, now and to the endless ages. Amen."
+
+hoPCPrayer.Key051.title = "FIFTH PRAYER of Saint John Chrysostom"
+hoPCPrayer.Key051.text = "Lord Jesus Christ my God, loose, remit, forgive, absolve, and pardon the sins, offenses and transgressions which I, Your sinful, useless and unworthy servant have committed from my youth, up to the present day and hour, whether in knowledge or in ignorance, whether by words or in deeds, whether in my intentions or in my thoughts, and whether by habit or through any of my senses. And through the intercession of her who conceived You without seed, the all-pure and ever-virgin Mary Your Mother, my only sure hope and protection and salvation, make me worthy to receive without condemnation Your pure, immortal, life-giving and fearful Mysteries, unto forgiveness of sins and for eternal life; for sanctification, and enlightenment, and strength, and healing, and health of soul and body; and for the blotting out and complete destruction of my evil reasonings, and intentions, and prejudices, and the nocturnal fantasies of dark evil spirits. For Yours is the Kingdom, and the power, and the glory, and the honor, and the worship, with the Father and the Holy Spirit, now and ever, and to the ages of ages.  Amen."
+
+hoPCPrayer.Key061.title = "SIXTH PRAYER of Saint John of Damascus"
+hoPCPrayer.Key061.text = "Master, Lord Jesus Christ our God, Who alone have authority to forgive men their sins, in Your goodness and love for men overlook all my offenses whether committed with knowledge or in ignorance, and make me worthy to receive without condemnation Your divine, glorious, spotless, and life-giving Mysteries, not for punishment, nor for an increase of sins, but for purification and sanctification, and as a pledge of the life and Kingdom to come, as a protection and help, for the destruction of enemies, and for the blotting out of my many transgressions. For You are a God of mercy and compassion and love for men, and to You we send up the glory, with the Father and the Holy Spirit, now and ever, and to the ages of ages.  Amen."
+
+hoPCPrayer.Key071.title = "SEVENTH PRAYER of Saint Symeon the New Theologian"
+hoPCPrayer.Key071.text = "From lips tainted and defiled, from a heart unclean and loathsome, from an unclean tongue, and out of a polluted soul: receive my prayer, O my Christ. Do not reject me, nor my words, nor my ways, nor even my shamelessness, but give me courage to say what I desire, O my Christ; and even more, teach me what to do and what to say. I have sinned more than the harlot who, on learning where You were lodging, bought myrrh and dared to come and anoint Your feet, my Christ, my Lord and my God. As You did not repulse her when she drew near in her heart, neither, O word, reject me, but grant that I may clasp and kiss Your feet , and dare to anoint them with a flood of tears as with most-precious myrrh. Wash me with my tears and purify me with them, O Word. Forgive my sins and grant me pardon. You know the multitude of my evil-doings, You also know my wounds, and You see my bruises. But You also know my faith, and You behold my willingness, and You hear my sighs. Nothing escapes You, my God, my Maker, my Redeemer, not even a tear-drop, nor part of a drop. Your eyes know what I have not achieved, and in Your book things not yet done are written by You. See my depression, and see how great is my trouble: take from me all my sins, O God of all, that with a clean heart, a trembling mind, and a contrite spirit I may partake of Your pure and all-holy Mysteries by which all who with sincerity of heart eat and drink You are quickened and deified. For You, my Lord, have said: \"Whoever eats My Flesh and drinks My Blood abides in Me and I in Him;\" wholly true is the word of my Lord and God. For whoever partakes of Your divine and deifying Gifts certainly is not alone, but is with You, my Christ, the Light of the Triune Sun Which illumines the world. That I may not remain alone without You, the Giver of Life, my Breath, my Life, my Joy, the Salvation of the world, I have therefore drawn near to You, as You see, with tears and with a contrite spirit. Ransom of my offenses, I beseech You to receive me, that I may partake without condemnation of Your life-giving and perfect Mysteries, and that You may remain as You have said with me, thrice-wretched as I am, lest the tempter find me without Your grace and craftily seize me and, having deceived me, seduce me from Your deifying words. Therefore I fall at Your feet and fervently cry to You: as You received the prodigal and the harlot who drew near to You, so also have compassion and receive me, the profligate and the prodigal, as I now draw near to You with a contrite spirit. I know, O Savior, that no other has sinned against You as I have, nor has done the deeds that I have committed. But I also know this: that neither the greatness of my offenses, nor the multitude of my sins, surpasses the great patience of my God, and His extreme love for men. Despite our offenses, You purify and enlighten with the oil of compassion those who fervently repent, and You make them children of the light and sharers of Your divine nature. And You act most generously, for what is strange to Angels and to the minds of men You often tell to the repentant as to Your true friends. These things make me bold, my Christ, these things give me wings, and I take courage from the wealth of Your goodness to us. With rejoicing, yet with trembling, I who am but straw partake of Fire and, strange wonder, I am ineffably bedewed, like the bush of old which burnt without being consumed. Therefore with thankful mind, and with thankful heart, and with thankfulness in all the members of my soul and body, I worship and magnify and glorify You, my God, for You are blessed, now and ever, to all ages."
+hoPCPrayer.Key071_001.text = "From lips tainted and defiled,"
+hoPCPrayer.Key071_002.text = "from a heart unclean and loathsome,"
+hoPCPrayer.Key071_003.text = "from an unclean tongue,"
+hoPCPrayer.Key071_004.text = "and out of a polluted soul:"
+hoPCPrayer.Key071_005.text = "receive my prayer, O my Christ."
+hoPCPrayer.Key071_006.text = "Do not reject me,"
+hoPCPrayer.Key071_007.text = "nor my words, nor my ways,"
+hoPCPrayer.Key071_008.text = "nor even my shamelessness,"
+hoPCPrayer.Key071_009.text = "but give me courage to say"
+hoPCPrayer.Key071_010.text = "what I desire, O my Christ;"
+hoPCPrayer.Key071_011.text = "and even more, teach me"
+hoPCPrayer.Key071_012.text = "what to do and what to say."
+hoPCPrayer.Key071_013.text = "I have sinned more than the harlot"
+hoPCPrayer.Key071_014.text = "who, on learning where You were lodging,"
+hoPCPrayer.Key071_015.text = "bought myrrh"
+hoPCPrayer.Key071_016.text = "and dared to come"
+hoPCPrayer.Key071_017.text = "and anoint Your feet, my Christ,"
+hoPCPrayer.Key071_018.text = "my Lord and my God."
+hoPCPrayer.Key071_019.text = "As You did not repulse her"
+hoPCPrayer.Key071_020.text = "when she drew near in her heart,"
+hoPCPrayer.Key071_021.text = "neither, O Word, reject me, "
+hoPCPrayer.Key071_022.text = "but grant that I may clasp"
+hoPCPrayer.Key071_023.text = "and kiss Your feet,"
+hoPCPrayer.Key071_024.text = "and dare to anoint them"
+hoPCPrayer.Key071_025.text = "with a flood of tears"
+hoPCPrayer.Key071_026.text = "as with most-precious myrrh."
+hoPCPrayer.Key071_027.text = "Wash me with my tears"
+hoPCPrayer.Key071_028.text = "and purify me with them, O Word."
+hoPCPrayer.Key071_029.text = "Forgive my sins"
+hoPCPrayer.Key071_030.text = "and grant me pardon."
+hoPCPrayer.Key071_031.text = "You know the multitude of my evil-doings,"
+hoPCPrayer.Key071_032.text = "You also know my wounds,"
+hoPCPrayer.Key071_033.text = "and You see my bruises."
+hoPCPrayer.Key071_034.text = "But You also know my faith,"
+hoPCPrayer.Key071_035.text = "and You behold my willingness,"
+hoPCPrayer.Key071_036.text = "and You hear my sighs."
+hoPCPrayer.Key071_037.text = "Nothing escapes You,"
+hoPCPrayer.Key071_038.text = "my God, my Maker, my Redeemer,"
+hoPCPrayer.Key071_039.text = "not even a tear-drop,"
+hoPCPrayer.Key071_040.text = "nor part of a drop."
+hoPCPrayer.Key071_041.text = "Your eyes know"
+hoPCPrayer.Key071_042.text = "what I have not achieved,"
+hoPCPrayer.Key071_043.text = "and in Your book"
+hoPCPrayer.Key071_044.text = "things not yet done"
+hoPCPrayer.Key071_045.text = "are written by You."
+hoPCPrayer.Key071_046.text = "See my depression,"
+hoPCPrayer.Key071_047.text = "and see how great is my trouble:"
+hoPCPrayer.Key071_048.text = "take from me all my sins,"
+hoPCPrayer.Key071_049.text = "O God of all,"
+hoPCPrayer.Key071_050.text = "that with a clean heart,"
+hoPCPrayer.Key071_051.text = "a trembling mind,"
+hoPCPrayer.Key071_052.text = "and a contrite spirit"
+hoPCPrayer.Key071_053.text = "I may partake of Your pure"
+hoPCPrayer.Key071_054.text = "and all-holy Mysteries,"
+hoPCPrayer.Key071_055.text = "by which all who with sincerity of heart"
+hoPCPrayer.Key071_056.text = "eat and drink You"
+hoPCPrayer.Key071_057.text = "are quickened and deified."
+hoPCPrayer.Key071_058.text = "For You, my Lord, have said:"
+hoPCPrayer.Key071_059.text = "\"Whoever eats My Flesh"
+hoPCPrayer.Key071_060.text = "and drinks My Blood"
+hoPCPrayer.Key071_061.text = "abides in Me"
+hoPCPrayer.Key071_062.text = "and I in Him;\""
+hoPCPrayer.Key071_063.text = "wholly true is the word"
+hoPCPrayer.Key071_064.text = "of my Lord and God."
+hoPCPrayer.Key071_065.text = "For whoever partakes of Your divine"
+hoPCPrayer.Key071_066.text = "and deifying Gifts"
+hoPCPrayer.Key071_067.text = "certainly is not alone,"
+hoPCPrayer.Key071_068.text = "but is with You, my Christ,"
+hoPCPrayer.Key071_069.text = "the Light of the Triune Sun"
+hoPCPrayer.Key071_070.text = "Which illumines the world."
+hoPCPrayer.Key071_071.text = "That I may not remain alone"
+hoPCPrayer.Key071_072.text = "without You, the Giver of Life,"
+hoPCPrayer.Key071_073.text = "my Breath, my Life,"
+hoPCPrayer.Key071_074.text = "my Joy,"
+hoPCPrayer.Key071_075.text = "the Salvation of the world,"
+hoPCPrayer.Key071_076.text = "I have therefore drawn near to You,"
+hoPCPrayer.Key071_077.text = "as You see, with tears"
+hoPCPrayer.Key071_078.text = "and with a contrite spirit."
+hoPCPrayer.Key071_079.text = "Ransom of my offenses,"
+hoPCPrayer.Key071_080.text = "I beseech You to receive me,"
+hoPCPrayer.Key071_081.text = "that I may partake"
+hoPCPrayer.Key071_082.text = "without condemnation"
+hoPCPrayer.Key071_083.text = "of Your life-giving and perfect Mysteries,"
+hoPCPrayer.Key071_084.text = "and that You may remain as You have said with me,"
+hoPCPrayer.Key071_085.text = "thrice-wretched as I am,"
+hoPCPrayer.Key071_086.text = "lest the tempter find me"
+hoPCPrayer.Key071_087.text = "without Your grace"
+hoPCPrayer.Key071_088.text = "and craftily seize me"
+hoPCPrayer.Key071_089.text = "and, having deceived me, seduce me"
+hoPCPrayer.Key071_090.text = "from Your deifying words."
+hoPCPrayer.Key071_091.text = "Therefore I fall at Your feet"
+hoPCPrayer.Key071_092.text = "and fervently cry to You:"
+hoPCPrayer.Key071_093.text = "as You received the prodigal"
+hoPCPrayer.Key071_094.text = "and the harlot who drew near to You,"
+hoPCPrayer.Key071_095.text = "so also have compassion and receive me,"
+hoPCPrayer.Key071_096.text = "the profligate and the prodigal,"
+hoPCPrayer.Key071_097.text = "as I now draw near to You"
+hoPCPrayer.Key071_098.text = "with a contrite spirit."
+hoPCPrayer.Key071_099.text = "I know, O Savior, that no other"
+hoPCPrayer.Key071_100.text = "has sinned against You as I have,"
+hoPCPrayer.Key071_101.text = "nor has done the deeds"
+hoPCPrayer.Key071_102.text = "that I have committed."
+hoPCPrayer.Key071_103.text = "But I also know this:"
+hoPCPrayer.Key071_104.text = "that neither the greatness of my offenses,"
+hoPCPrayer.Key071_105.text = "nor the multitude of my sins,"
+hoPCPrayer.Key071_106.text = "surpasses the great patience"
+hoPCPrayer.Key071_107.text = "of my God,"
+hoPCPrayer.Key071_108.text = "and His extreme love for men."
+hoPCPrayer.Key071_109.text = "Despite our offenses,"
+hoPCPrayer.Key071_110.text = "You purify and enlighten"
+hoPCPrayer.Key071_111.text = "with the oil of compassion"
+hoPCPrayer.Key071_112.text = "those who fervently repent,"
+hoPCPrayer.Key071_113.text = "and You make them children of the light"
+hoPCPrayer.Key071_114.text = "and sharers of Your divine nature."
+hoPCPrayer.Key071_115.text = "And You act most generously,"
+hoPCPrayer.Key071_116.text = "for what is strange to Angels and to the minds of men"
+hoPCPrayer.Key071_117.text = "You often tell to the repentant"
+hoPCPrayer.Key071_118.text = "as to Your true friends."
+hoPCPrayer.Key071_119.text = "These things make me bold,"
+hoPCPrayer.Key071_120.text = "my Christ, these things give me wings,"
+hoPCPrayer.Key071_121.text = "and I take courage from the wealth"
+hoPCPrayer.Key071_122.text = "of Your goodness to us."
+hoPCPrayer.Key071_123.text = "With rejoicing, yet with trembling,"
+hoPCPrayer.Key071_124.text = "I who am but straw partake of Fire"
+hoPCPrayer.Key071_125.text = "and, strange wonder,"
+hoPCPrayer.Key071_126.text = "I am ineffably bedewed,"
+hoPCPrayer.Key071_127.text = "like the bush of old"
+hoPCPrayer.Key071_128.text = "which burnt without being consumed."
+hoPCPrayer.Key071_129.text = "Therefore with thankful mind,"
+hoPCPrayer.Key071_130.text = "and with thankful heart,"
+hoPCPrayer.Key071_131.text = "and with thankfulness in all"
+hoPCPrayer.Key071_132.text = "the members of my soul and body,"
+hoPCPrayer.Key071_133.text = "I worship and magnify"
+hoPCPrayer.Key071_134.text = "and glorify You, my God,"
+hoPCPrayer.Key071_135.text = "for You are blessed,"
+hoPCPrayer.Key071_136.text = "now and ever, to all ages."
+
+hoPCPrayer.Key081.title = "EIGHTH PRAYER of Saint Symeon Metafrastes (Saint Symeon the Translator)"
+hoPCPrayer.Key081.text = "Lord, Who alone are pure and incorrupt, Who through the ineffable compassion of Your love for mankind assumed our whole nature through the pure and virgin blood of her who supernaturally conceived You by the coming of the Divine Spirit and by the will of the Eternal Father; O Christ Jesus, Wisdom and Peace and Power of God, Who in assuming our nature suffered Your life-giving and saving Passion – the Cross, the Nails, the Spear, and Death – mortify all the deadly passions of my body. You Who in Your burial spoiled the dominions of hell, bury with good thoughts my evil schemes and scatter the spirits of wickedness. You Who by Your life-giving Resurrection on the third day raised up our fallen first Parent, raise me up who am sunk in sin and suggest to me ways of repentance. You Who by Your glorious Ascension deified our nature which You had assumed and honored it by Your sitting at the right hand of the Father, make me worthy by partaking of Your holy Mysteries of a place at Your right hand among those who are saved. You Who by the descent of the Spirit, the Paraclete, made Your holy Disciples worthy vessels, make me also a recipient of His coming. You Who are to come again to judge the World with justice, grant me also to meet You on the clouds, my Maker and Creator, with all Your Saints, that I may unendingly glorify and praise You with Your Eternal Father and Your all-holy and good and life-creating Spirit, now and ever, and to the ages of ages. Amen."
+
+hoPCPrayer.Key091.title = "NINTH PRAYER of Saint John Damascene"
+hoPCPrayer.Key091.text = "I stand before the doors of Your sanctuary, yet I do not put away my terrible thoughts. But ,O Christ our God, Who justified the Publican, and Who had mercy on the Canaanite woman, and opened the gates of Paradise to the Thief, open to me the depths of Your love for mankind, and as I approach and touch You, receive me like the Harlot and the woman with an issue of blood. For the one easily received healing by touching the hem of Your garment, and the other obtained release from her sins by clasping Your sacred feet. And I, deplorable as I am, dare to receive Your whole Body; may I not be burnt, but receive me even as You did these. And enlighten the senses of my soul, and burn up the indictments of my sins, by the intercessions of her who bore You without seed, and of the Heavenly Hosts, for You are blessed to the ages of ages. Amen."
+
+hoPCPrayer.Key101.title = "" //Tenth Prayer: John Chrysostom
+hoPCPrayer.Key101.text = "I believe, Lord, and I confess, that You are truly the Christ, the Son of the living God, Who came into the world to save sinners, of whom I am the first.  Moreover, I believe that this is Your immaculate Body, and that this is Your precious Blood.  Therefore, I pray to You: have mercy on me, and forgive me my transgressions, those voluntary and involuntary, those in word, those in deed, those in knowledge and those in ignorance; and make me worthy to partake of Your immaculate Mysteries without condemnation, for the remission of sins and life everlasting. Amen."
+
+hoPCPrayer.Key111.rubric = "Approaching for Holy Communion, read the following verses from Saint Symeon the Translator:"
+hoPCPrayer.Key111.title = "Verses from Saint Symeon the Translator"
+hoPCPrayer.Key111.text = "Behold, I approach for divine Communion;"
+hoPCPrayer.Key112.text = "Creator, burn me not as I partake;"
+hoPCPrayer.Key113.text = "For You are Fire, which burns the unworthy."
+hoPCPrayer.Key114.text = "But, rather, cleanse me from every impurity."
+
+hoPCPrayer.Key121.title = ""
+hoPCPrayer.Key121.text = "Of Your Mystical Supper, Son of God, receive me today as a communicant; for I will not speak of the Mystery to Your enemies; nor will I give You a kiss, as did Judas, but like the thief I confess You: Remember me, Lord, when You come into Your Kingdom." //tr.d069_en_US_unknown.trLI.CommunionHymn.text
+
+hoPCPrayer.Key131.title = "Then again the following verses:"
+hoPCPrayer.Key131.text = "Be awe-stricken, O man, beholding the deifying Blood;"
+hoPCPrayer.Key132.text = "For it is a lighted Coal that burns the unworthy."
+hoPCPrayer.Key133.text = "The divine Body both deifies and nourishes me;"
+hoPCPrayer.Key134.text = "It deifies the spirit, and wondrously nourishes the mind."
+
+hoPCPrayer.Key141.title = "And these Troparia:"
+hoPCPrayer.Key141.text = "You have smitten me with yearning, O Christ, and by Your divine zeal You have changed me; but burn away my sins with immaterial Fire, and make me worthy to be filled with delight in You; that, leaping for joy, O good One, I may magnify Your two comings." //me.m08.d06_en_US_unknown.meMA.Ode9C23.text
+
+hoPCPrayer.Key151.title = ""
+hoPCPrayer.Key151.text = "Into the brilliant company of Your saints, how shall I the unworthy enter?  For if I dare to enter into the bridal chamber, my garment betrays me, for it is not a wedding garment, and I shall be bound and cast out by the Angels; Lord, cleanse my soul of pollution, and save me, for You love mankind." //tr.d066_en_US_unknown.trMA.Lauds1.text
+
+hoPCPrayer.Key161.title = ""
+hoPCPrayer.Key161.text = "Master, Who loves mankind, Lord Jesus Christ my God, do not let these Holy Things be to me for judgment because of my unworthiness, but rather may they be for the purification and sanctification of soul and body, and as a pledge of the life and Kingdom to come.  For it is good for me to cleave to God, to put my hope of salvation in the Lord."
+
+hoPCPrayer.Key200.title = "Prayers of Thanksgiving After Receiving Holy Communion"
+hoPCPrayer.Key200.title2 = ""
+
+hoPCPrayer.Key201.title = "" //Verses of Exhortation
+hoPCPrayer.Key201_1.text = "When you have had your due and rightful part"
+hoPCPrayer.Key201_2.text = "in these life-giving and mystical Gifts"
+hoPCPrayer.Key201_3.text = "immediately give praise and great thanks"
+hoPCPrayer.Key201_4.text = "and with a fervent soul say to God:"
+hoPCPrayer.Key201_5.text = "Glory to you, O God. Glory to you, O God. Glory to you, O God."
+
+R04 = "" //Then the following thanksgiving prayers:
+
+hoPCPrayer.Key202.title = "Anonymous"
+hoPCPrayer.Key202.text = "I thank You, Lord my God, that You have not rejected me, a sinner, but have made me worthy to partake of Your holy Mysteries. I thank You that You have granted me, although I am unworthy, to partake of Your most-pure and heavenly Gifts. Master Who loves mankind, Who died and rose for our sake, and granted to us these awesome and life-giving Mysteries for the well-being and sanctification of our souls and bodies, let these Gifts be for the healing of both soul and body, for the averting of every evil, for the enlightenment of the eyes of my heart, for the peace of the powers of my soul, for faith unashamed, for love unfeigned, for the fullness of wisdom, for the observing of Your commandments, for an increase of Your divine grace, and for the attainment of Your kingdom. Preserved by them in Your holiness, may I always remember Your grace and no longer live for myself, but for You, our Master and Benefactor. And thus, when I depart this life in the hope of eternal life, may I attain everlasting rest, where the sound of those that keep festival is unceasing, and the delight of those who behold the ineffable beauty of Your countenance is unending. For You are the true joy and inexpressible gladness of those who love You, Christ our God, and all creation hymns You to the ages. Amen."
+
+hoPCPrayer.Key203.title = "Of Saint Basil the Great"
+hoPCPrayer.Key203.text = "Master Christ God, King of the ages and Creator of all things, I thank You for all the good gifts You have given me, and especially for the communion of Your pure and life-giving Mysteries. I therefore pray to You good Lord Who loves mankind: keep me under the protection and in the shadow of Your wings; grant that even to my last breath I may with a pure conscience partake worthily of Your Holy Gifts for the remission of sins and for eternal life. For You are the Bread of life, the Source of holiness, the Giver of good things, and to You we send up glory, together with the Father and the Holy Spirit, now and ever and to the ages of ages. Amen."
+
+hoPCPrayer.Key204.title = "Of Saint Symeon Metafrastes (Saint Symeon the Translator)"
+hoPCPrayer.Key204.text = "You Who have willingly given me Your Flesh as food, Who are a burning fire to the unworthy, do not consume me. No, my Creator; rather penetrate into my members, all my joints, my organs, and my heart. Burn all my iniquities like thorns; cleanse my soul, make holy my thoughts, make firm my knees and my bones as well. Illumine my five senses and make vigilant my entire being with the fear of You. Watch over me always; shield and protect me from every deed and word which corrupts the soul. Cleanse me, purify me, and put me in order; adorn me, give me understanding, and illumine me. Show me to be the dwelling of Your Spirit alone, and not the dwelling place of sin; so that when You enter into the home of Your communion, every evil doer and every passion will flee from me as from fire. As intercessors I bring to You all the saints, the chiefs of the bodiless hosts, Your Forerunner, the wise Apostles, and moreover Your immaculate and pure Mother; accept their prayers, my compassionate Christ, and make Your servant a child of light. For in Your goodness You alone sanctify and enlighten our souls, and to You, our God and Master, as is right we send up glory every day."
+hoPCPrayer.Key204_001.text = "You Who have willingly given me Your Flesh as food,"
+hoPCPrayer.Key204_002.text = "Who are a burning fire to the unworthy,"
+hoPCPrayer.Key204_003.text = "do not consume me. No, my Creator;"
+hoPCPrayer.Key204_004.text = "rather penetrate into my members,"
+hoPCPrayer.Key204_005.text = "all my joints, my organs, and my heart."
+hoPCPrayer.Key204_006.text = "Burn all my iniquities like thorns;"
+hoPCPrayer.Key204_007.text = "cleanse my soul, make holy my thoughts,"
+hoPCPrayer.Key204_008.text = "make firm my knees and my bones as well."
+hoPCPrayer.Key204_009.text = "Illumine my five senses"
+hoPCPrayer.Key204_010.text = "and make vigilant my entire being with the fear of You."
+hoPCPrayer.Key204_011.text = "Watch over me always; shield and protect me"
+hoPCPrayer.Key204_012.text = "from every deed and word which corrupts the soul."
+hoPCPrayer.Key204_013.text = "Cleanse me, purify me, and put me in order;"
+hoPCPrayer.Key204_014.text = "adorn me, give me understanding, and illumine me."
+hoPCPrayer.Key204_015.text = "Show me to be the dwelling of Your Spirit alone,"
+hoPCPrayer.Key204_016.text = "and not the dwelling place of sin;"
+hoPCPrayer.Key204_017.text = "so that when You enter into the home of Your communion,"
+hoPCPrayer.Key204_018.text = "every evil doer and every passion will flee from me as from fire."
+hoPCPrayer.Key204_019.text = "As intercessors I bring to You all the saints,"
+hoPCPrayer.Key204_020.text = "the chiefs of the bodiless hosts,"
+hoPCPrayer.Key204_021.text = "Your Forerunner, the wise Apostles,"
+hoPCPrayer.Key204_022.text = "and moreover Your immaculate and pure Mother;"
+hoPCPrayer.Key204_023.text = "accept their prayers, my compassionate Christ,"
+hoPCPrayer.Key204_024.text = "and make Your servant a child of light."
+hoPCPrayer.Key204_025.text = "For in Your goodness You alone"
+hoPCPrayer.Key204_026.text = "sanctify and enlighten our souls,"
+hoPCPrayer.Key204_027.text = "and to You, our God and Master,"
+hoPCPrayer.Key204_028.text = "as is right we send up glory every day."
+
+hoPCPrayer.Key205.title = "Anonymous"
+hoPCPrayer.Key205.text = "Lord Jesus Christ our God, let Your sacred Body be to me for eternal life, and Your precious Blood for the remission of sins. Let this Eucharist be to me for joy, health and gladness. And at Your dread Second Coming make me, a sinner, worthy to stand at the right hand of Your glory; through the intercessions of Your all-pure Mother and of all the saints. Amen."
+
+hoPCPrayer.Key206.title = "Anonymous"
+hoPCPrayer.Key206.title2 = "To the Most Holy Theotokos"
+hoPCPrayer.Key206.text = "All-holy Lady, Theotokos, light of my darkened soul, my hope, shelter, refuge, comfort, and joy: I thank You, for you have deemed me, the unworthy one, worthy to partake of the most-pure Body and precious Blood of your Son. You who gave birth to the true Light, enlighten the spiritual eyes of my heart; you who conceived the Source of immortality, revive me who am dead in sin; you who are the lovingly compassionate Mother of the merciful God, have mercy on me and grant me compunction and contrition in my heart, humility in my thoughts and the recall of my thoughts from captivity. And grant me, until my last breath, to receive without condemnation the sanctification of the most-pure Mysteries for the healing of both soul and body. Grant me tears of repentance and confession that I may hymn and glorify you all the days of my life. For you are blessed and most-glorified to the ages. Amen. For you are blessed and most-glorified to the ages. Amen. For you are blessed and most-glorified to the ages. Amen."
+ 

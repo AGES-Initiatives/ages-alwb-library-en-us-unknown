@@ -1,0 +1,793 @@
+A_Resource_Whose_Name = titles_en_US_unknown
+
+Allilouia = "Alleluia."
+
+Anastasima = "Resurrectional."
+
+Anastasimon = "Resurrectional."
+
+Antifonon1 = "Antiphon I."
+
+Antifonon2 = "Antiphon II."
+
+Antifonon3 = "Antiphon III."
+
+Antifonon4 = "Antiphon IV."
+
+AntiTouEidomenToFos = "Instead of \"We have seen\":"
+
+ApodosisTisEortis = "Leave-taking of the Feast."
+
+Apolysis = "DISMISSAL"
+
+Apolytikia = "Apolytikia."
+
+Apolytikion = "Apolytikion."
+
+ApolytikionAnastasimon = "Resurrectional Apolytikion."
+
+ApolytikionTisEortis = "Apolytikion of the Feast."
+
+Aposticha = "Aposticha."
+
+ApostichaAnastasima = "Resurrectional Aposticha."
+
+ApostichaStichira = "Aposticha."
+
+ApostichaTonAinon = "Aposticha of Lauds."
+
+Apostolika = "For the Apostles."
+
+Apostolikon = "For the Apostles."
+
+Distichon = "Couplet."
+
+DoxologiaMegaliKaiApolysis = "Great Doxology and Dismissal."
+
+EfchiTouAgiouEfraim = "Prayer of St. Ephraim"
+
+EiEstinEideMi = "if it exists; if not,"
+
+EirmosEteros = "Another Heirmos."
+
+EirmosOAftos = "Same Heirmos."
+
+Eisodikon = "Entrance Hymn."
+
+eistinleitourgian = "as the Liturgy"
+EisTinLeitourgian = "AT THE LITURGY"
+
+EisTinLitin = "At the Lity."
+
+eistintrithektin = "at the Trithekti."
+EisTinTrithektin = "AT THE SIXTH HOUR"
+
+eistoapodeipnon = "at Compline."
+EisToApodeipnon = "AT COMPLINE"
+
+EisToKyrieEkekraxa = "At, Lord I Have Cried,"
+
+eistonesperinon = "at Vespers"
+EisTonEsperinon = "AT VESPERS"
+
+eistonorthron = "at Matins"
+EisTonOrthron = "AT MATINS"
+
+EisTonStichon = "At the Aposticha."
+
+EisTonStichonTonAinon = "At the Aposticha of Lauds."
+
+EisTousAinous = "At Lauds."
+
+Eita = "Then:"
+
+EkTouEsperinou = "From Vespers."
+
+EkTouMikrouEsperinou = "From Small Vespers."
+
+EkTouMinaiou = "From the Menaion."
+
+EnTiLeitourgia = "LITURGY"
+
+EnToMegaloEsperino = "GREAT VESPERS"
+
+EnToMesonyktiko = "MIDNIGHT OFFICE"
+
+EnToMikroEsperino = "SMALL VESPERS"
+
+EnToOrthro = "MATINS"
+
+Entrance = "THE ENTRANCE"
+
+Eothinon = "Eothinon"
+
+EothinonEvangelion = "Eothinon Gospel"
+
+EteraEisTonKanonaTouAgiou = "Additional for the Canon of the Saint."
+
+EteraKathismataAnastasima = "Additional Resurrectional Kathismata."
+
+EteraNekrosima = "Additional for the Dead."
+
+EteraStichira = "Additional Stichera."
+
+EteraStichiraAnatolika = "Additional Stichera by Anatolios."
+
+EteraTisTheotokou = "Additional for the Theotokos."
+
+Etera = "Additional "
+
+Eteron = "Another."
+
+EteronEktosTypikou = "Another Extra Hymn."
+
+EteronKontakion = "Another Kontakion."
+
+Eteros = "Another."
+
+EterosKanon = "Another Canon."
+
+EterosTisEortis = "Another for the Feast."
+
+EteronTisEortis = "Another for the Feast."
+
+Evlogitaria = "Evlogetaria."
+
+Exaposteilaria = "Exaposteilaria."
+
+Exaposteilarion = "Exaposteilarion."
+
+IchosOAftos = "Same Mode."
+
+IEvlogiaTonArton = "Blessing of the Loaves."
+
+ILiti = "Procession and Litany."
+
+ILitiKaiArtoklasia = "Litany and Blessing of Loaves."
+
+IStavrotheotokion = "Or Stavrotheotokion."
+
+Iamvikos = "Iambic."
+
+Idiomela = "Idiomela."
+
+IdiomelaTouPentikostariou = "Idiomela from the Pentecostarion."
+
+IdiomelaTouTriodiou = "Idiomela from the Triodion."
+
+Idiomelon1 = "Idiomelon 1."
+Idiomelon2 = "Idiomelon 2."
+Idiomelon3= "Idiomelon 3."
+Idiomelon4 = "Idiomelon 4."
+Idiomelon5 = "Idiomelon 5."
+Idiomelon6 = "Idiomelon 6."
+Idiomelon7 = "Idiomelon 7."
+Idiomelon8 = "Idiomelon 8."
+Idiomelon9 = "Idiomelon 9."
+Idiomelon10 = "Idiomelon 10."
+
+IProfiteia = "THE PROPHECY"
+
+ITisEvdomados = "(or the Mode of the week)"
+
+KaiTheotokionOmou = "And also Theotokion."
+
+Kanon1 = "Canon I."
+
+Kanon2 = "Canon II."
+
+Kanon3 = "Canon III."
+
+KanonEisKoimithentas = "Canon for the Deceased."
+
+KanonEisPantasTousAgious = "Canon for all Saints."
+
+KanonEisProfitasKaiMartyras = "Canon for Prophets and Martyrs."
+
+KanonIamvikos = "Iambic Canon."
+
+KanonKatanyktikos = "Canon of Compunction."
+
+KanonOAnastasimos = "Canon for the Resurrection."
+
+KanonProeortios = "Canon for the Forefeast."
+
+KanonStavrosimos = "Canon for the Cross."
+
+KanonStavroanastasimos = "Canon for the Cross and Resurrection."
+
+KanonTisAgias = "Canon for the Woman Saint."
+
+KanonATisEortis = "Canon 1 of the Feast."
+
+KanonBTisEortis = "Canon 2 of the Feast."
+
+KanonTisEortis = "Canon of the Feast."
+
+KanonATisMesopentikostis = "Canon 1 of Mid-Pentecost."
+
+KanonBTisMesopentikostis = "Canon 2 of Mid-Pentecost."
+
+KanonATisOsias = "Canon 1 for the Devout Woman."
+
+KanonBTisOsias = "Canon 2 for the Devout Woman."
+
+KanonTisOsias = "Canon for the Devout Woman."
+
+KanonATisTheotokou = "Canon 1 for the Theotokos."
+
+KanonBTisTheotokou = "Canon 2 for the Theotokos."
+
+KanonTisTheotokou = "Canon for the Theotokos."
+
+KanonTonAgion = "Canon for the Saints."
+
+KanonATonAgion = "Canon 1 for the Saints."
+
+KanonBTonAgion = "Canon 2 for the Saints."
+
+KanonTonAgionApostolon = "Canon for the Holy Apostles."
+
+KanonTonApostolon = "Canon for the Apostles."
+
+KanonATonAsomaton = "Canon 1 for the Bodiless Angels."
+
+KanonBTonAsomaton = "Canon 2 for the Bodiless Angels."
+
+KanonTonAsomaton = "Canon for the Bodiless Angels."
+
+KanonTonEnkainion = "Canon of the Consecration."
+
+KanonTonMartyron = "Canon for the Martyrs."
+
+KanonTonPateron = "Canon for the Fathers."
+
+KanonTouAgiou = "Canon for the Saint."
+
+KanonATouAgiou = "Canon 1 for the Saint."
+
+KanonBTouAgiou = "Canon 2 for the Saint."
+
+KanonTouAgiouNikolaou = "Canon for St. Nicholas."
+
+KanonTouApostolou = "Canon for the Apostle."
+
+KanonATouApostolou = "Canon 1 for the Apostle."
+
+KanonBTouApostolou = "Canon 2 for the Apostle."
+
+KanonTouArchangelou = "Canon for the Archangel."
+
+KanonTouEvangelistou = "Canon for the Evangelist."
+
+KanonTouIerarchou = "Canon for the Hierarch."
+
+KanonTouIeromartyros = "Canon for the Hieromartyr."
+
+KanonTouMartyros = "Canon for the Martyr."
+
+KanonTouOsiou = "Canon for the Devout Man."
+
+KanonATouOsiou = "Canon 1 for the Devout Man."
+
+KanonBTouOsiou = "Canon 2 for the Devout Man."
+
+KanonTouParalytou = "Canon for the Paralytic."
+
+KanonTouPascha = "Canon of Pascha."
+
+KanonTouProdromou = "Canon for the Forerunner."
+
+KanonATouProdromou = "Canon 1 for the Forerunner."
+
+KanonBTouProdromou = "Canon 2 for the Forerunner."
+
+KanonATouTriodiou = "Canon 1 from the Triodion."
+
+KanonBTouTriodiou = "Canon 2 from the Triodion."
+
+KanonTouProfitou = "Canon for the Prophet."
+
+KanonATouProfitou = "Canon 1 for the Prophet."
+
+KanonBTouProfitou = "Canon 2 for the Prophet."
+
+KanonTouStavrou = "Canon for the Cross."
+
+KanonTouTriodiou = "Canon from the Triodion."
+
+KanonTriadikos = "Canon for the Trinity."
+
+Katanyktika = "For compunction."
+
+Katanyktikon = "For compunction."
+
+Katavasia = "Katavasia."
+
+Katavasia2 = "Katavasias"
+
+KatavasiaEtera = "Another Katavasia."
+
+Kathisma = "Kathisma."
+
+Kathisma1 = "Kathisma I."
+
+Kathisma2 = "Kathisma II."
+
+Kathisma3 = "Kathisma III."
+
+KathismaMartyrikon = "Kathisma for the Martyrs."
+
+Kathismata = "Kathismata."
+
+KathismataAnastasima = "Resurrectional Kathismata."
+
+KathismataMartyrika = "Kathismata for the Martyrs."
+
+Koinonikon = "Communion Hymn."
+
+Kontakia = "Kontakia."
+
+Kontakion = "Kontakion."
+
+KontakionAnastasimon = "Resurrectional Kontakion."
+
+KontakionProeortion = "Kontakion of the Forefest."
+
+KontakionTisEortis = "Kontakion of the Feast."
+
+KontakionTisTheotokou = "Kontakion for the Theotokos."
+
+KontakionTonPateron = "Kontakion for the Fathers."
+
+KontakionTouPascha = "Kontakion of Pascha."
+
+KontakionTouTriodiou = "Kontakion from the Triodion."
+
+KyriakiProsefchi = "THE LORD'S PRAYER"
+
+Litanies = "THE LITANIES"
+
+Martyrika = "For the Martyrs."
+
+Martyrikon = "For the Martyrs."
+
+Megalynaria = "Megalynaria."
+
+Megalynarion = "Megalynarion."
+
+MetaTin1Stichologian = "After the first Psalter reading."
+
+MetaTin1StichologianKathismata = "After the first Psalter reading, Kathismata."
+
+MetaTin2Stichologian = "After the second Psalter reading."
+
+MetaTin2StichologianEK = "After the second Psalter reading, Kathismata."
+
+MetaTin3StichologianEK = "After the third Psalter reading, Kathismata."
+
+MetaTonAmomonKaiTaEvlogitaria = "After Psalm 118 and the Evlogetaria:"
+
+MetaTonPolyeleon = "After the Polyelelos."
+
+Mode = "Mode"
+
+Nekrosima = "For the Dead."
+
+Nekrosimon = "For the Dead."
+
+NekrosimonKanona = "Canon for the Dead."
+
+OAftos = "Same Mode."
+
+OApostolos = "THE EPISTLE"
+
+OEirmos = "Heirmos."
+
+OEirmosOsKatavasia = "The Heirmos as Katavasia."
+
+OiAinoi = "Lauds."
+
+OiAnavathmoi = "Anavathmoi."
+
+OiAnavathmoi41 = "Anavathmoi, Antiphon 1 of Mode 4."
+
+OiMakarismoi = "The Beatitudes."
+
+OKanon = "The Canon."
+
+OKanonTisEortis = "The Canon for the Feast."
+
+OKanonTouMinaiou = "The Canon from the Menaion."
+
+OKanonTouMinaiou2 = "The Canon from the General Menaion." //makes English say General Menaion
+
+Omoia = "Same Melody."
+
+Omoion = "Same Melody."
+
+OOikos = "Oikos."
+
+OPolyeleos = "The Polyeleos."
+
+OTrisagiosYmnos = "TRISAGIOS HYMN"
+
+OuIAkrostichis = "with the Acrostich:"
+
+PalinToAfto = "Repeat the same hymn."
+
+Pentikostarion = "Pentecostarion."
+
+Proeortia = "For the Forefeast."
+
+Proeortion = "For the Forefeast."
+
+Prokeimenon = "Prokeimenon."
+
+Prosomoia = "Prosomia."
+
+PsallomenaEnTiOdiTafti = "Sung in this Ode."
+
+SmallEntrance = "THE SMALL ENTRANCE"
+
+Salutations = "The Salutations."
+
+Stasis1 = "First Stanza."
+
+Stasis2 = "Second Stanza."
+
+Stasis3 = "Third Stanza."
+
+Stasis4 = "Fourth Stanza."
+
+Stavrosimon = "For the Cross."
+
+Stavrosima = "For the Cross."
+
+Stavrotheotokion = "Stavrotheotokion."
+
+Stichira = "Stichera."
+
+Stichiron = "Sticheron."
+
+Stichiron1 = "Sticheron 1."
+Stichiron2 = "Sticheron 2."
+Stichiron3 = "Sticheron 3."
+Stichiron4 = "Sticheron 4."
+Stichiron5 = "Sticheron 5."
+Stichiron6 = "Sticheron 6."
+Stichiron7 = "Sticheron 7."
+Stichiron8 = "Sticheron 8."
+Stichiron9 = "Sticheron 9."
+Stichiron10 = "Sticheron 10."
+
+StichiraAnastasima = "Resurrectional Stichera."
+
+StichiraAnastasimaTisOktoichou = "Resurrectional Stichera from the Octoechos."
+
+StichiraApostolika = "Stichera for the Apostles."
+
+StichiraDespotika = "Stichera for the Master."
+
+StichiraIdiomela = "Stichera Idiomela."
+
+StichironIdiomelon = "Sticheron Idiomelon."
+
+StichiraIdiomelaTisEortis = "Stichera Idiomela for the Feast."
+
+StichiraMartyrika  = "Stichera for the Martyrs."
+
+StichiraProsomoia = "Stichera Prosomia."
+
+StichiraProsomoiaTouAgiou = "Stichera Prosomia for the Saint."
+
+StichiraProsomoiaTouOsiou = "Stichera Prosomia for the Devout Man."
+
+StichiraStavrosima = "Stichera for the Cross."
+
+StichiraTisEortis = "Stichera for the Feast."
+
+StichiraTisTheotokou = "Stichera for the Theotokos."
+
+StichiraTonEnkainion = "Stichera for the Consecration."
+
+StichiraTonKekoimimenon  = "Stichera for the Deceased."
+
+StichiraTouAgiouNikolaou = "Stichera for St. Nicholas."
+
+StichiraTouMinaiou = "Stichera from the Menaion."
+
+StichiraTouPascha = "Stichera of Pascha."
+
+StichiraTouProdromou = "Stichera for the Forerunner."
+
+StichiraTouStavrou = "Stichera for the Cross."
+
+StichiraTouTriodiou = "Stichera of the Triodion."
+
+Stichoi = "Verses"
+
+Synaxarion = "Synaxarion."
+
+TaAnagnosmata = "THE READINGS"
+
+TaAnastasima = "Resurrectional."
+
+TaKatAlfaviton = "Alphabeticals."
+
+TaTypikaKaiOiMakarismoi = "The Typika and Beatitudes."
+
+Theotokia = "Theotokia."
+
+Theotokion = "Theotokion."
+
+TheotokionDogmatikon = "Dogmatic Theotokion."
+
+TisAgias = "For the Woman Saint."
+
+TisEortis = "For the Feast."
+
+TisIndiktou = "For the Indiction."
+
+TisMartyros = "For the Martyr."
+
+TisMesopentikostis = "For Mid-Pentecost."
+
+TisMyroforou = "For the Myrrhbearer."
+
+TisOktoichou = "From the Octoechos."
+
+TisOsias = "For the Devout Woman."
+
+TisSamaritidos = "For the Samaritan Woman."
+
+TisTheotokou = "For the Theotokos."
+
+ToAfto = "Repeat."
+
+ToAnastasimon = "Resurrectional."
+
+ToATheotokionTouIchou = "The First Theotokion of the Mode."
+
+ToEothinonDoxastikon = "The Eothinon Doxasticon."
+
+ToEothinonTisKyriakis = "The Eothinon of the Sunday."
+
+ToEvangelion = "THE GOSPEL"
+
+ToTheionEvangelion = "THE HOLY GOSPEL"
+
+TonAgion = "For the Saints."
+
+TonAgionGynaikon = "For the holy Women."
+
+TonApostolon = "For the Apostles."
+
+TonAsomaton = "For the Angels."
+
+TonDodeka = "For the Twelve Apostles."
+
+TonEnkainion = "For the Consecration."
+
+TonIerarchon = "For the Hierarchs."
+
+TonIsapostolon = "For the Equals-to-the-Apostles."
+
+TonKekoimimenon  = "For the Deceased."
+
+TonKoryfaion = "For Sts. Peter and Paul."
+
+TonMartyron = "For the Martyrs."
+
+TonMyroforon = "For the Myrrhbearers."
+
+TonOsion = "For the Devout Saints."
+
+TonPateron = "For the Fathers."
+
+TonPropatoron = "For the Forefathers."
+
+TonTheopatoron = "For the Ancestors of God."
+
+TouAgiou = "For the Saint."
+
+TouAgiouMandyliou = "For the Holy Napkin."
+
+TouAgiouNikolaou = "For St. Nicholas."
+
+TouApostolou = "For the Apostle."
+
+TouArchangelou = "For the Archangel."
+
+TouEvangelistou = "For the Evangelist."
+
+TouIerarchou = "For the Hierarch."
+
+TouIeromartyros = "For the Hieromartyr."
+
+TouLazarou = "For Lazarus."
+
+TouMartyros = "For the Martyr."
+
+TouMinaiou = "From the Menaion."
+
+TouMnistoros = "For Joseph the Betrothed."
+
+TouNaou = "For the church."
+
+TouOsiomartyros = "For the Devout Martyr."
+
+TouOsiou = "For the Devout Man."
+
+TouParalytou = "For the Paralytic."
+
+TouPascha = "Of Pascha."
+
+TouPenticostariou = "From the Pentecostarion."
+
+TouProdromou = "For the Forerunner."
+
+TouProfitou = "For the Prophet."
+
+TouProtomartyros = "For the Proto-martyr."
+
+TouSeismou = "For the Earthquake."
+
+TouStavrou = "For the Cross."
+
+TouTriodiou = "From the Triodion."
+
+TouTyflou = "For the Blindman."
+
+Triadikon = "For the Trinity."
+
+Trisagion = "Trisagion Prayers."
+
+Troparia = "Troparia."
+
+Troparion = "Troparion."
+
+TroparionTisProfiteias = "Troparion before the Prophecy."
+
+YmnoiMetaTinMikranEisodon = "Hymns After the Small Entrance."
+
+YmnosEisTinTheotokon = "Hymn to the Theotokos."
+
+Ypakoi = "Hypakoe."
+
+daySunday = "Sunday"
+dayMonday = "Monday"
+dayTuesday = "Tuesday"
+dayWednesday = "Wednesday"
+dayThursday = "Thursday"
+dayFriday = "Friday"
+daySaturday = "Saturday"
+OnSunday = "On Sunday"
+OnMonday = "On Monday"
+OnTuesday = "On Tuesday"
+OnWednesday = "On Wednesday"
+OnThursday = "On Thursday"
+OnFriday = "On Friday"
+OnSaturday = "On Saturday"
+
+AfterTheFeast = "After the Feast"
+BeforeChristmas = "Before Christmas"
+AfterChristmas = "After Christmas"
+BeforeEpiphany = "Before Epiphany"
+AfterEpiphany = "After Epiphany"
+BeforeCross = "Before the Elevation of the Cross"
+AfterCross = "After the Elevation of the Cross"
+
+daySunday.uc = "SUNDAY"
+dayMonday.uc = "MONDAY"
+dayTuesday.uc = "TUESDAY"
+dayWednesday.uc = "WEDNESDAY"
+dayThursday.uc = "THURSDAY"
+dayFriday.uc = "FRIDAY"
+daySaturday.uc = "SATURDAY"
+OnSunday.uc = "ON SUNDAY"
+OnMonday.uc = "ON MONDAY"
+OnTuesday.uc = "ON TUESDAY"
+OnWednesday.uc = "ON WEDNESDAY"
+OnThursday.uc = "ON THURSDAY"
+OnFriday.uc = "ON FRIDAY"
+OnSaturday.uc = "ON SATURDAY"
+
+AfterTheFeast.uc = "AFTER THE FEAST"
+BeforeChristmas.uc = "BEFORE CHRISTMAS"
+AfterChristmas.uc = "AFTER CHRISTMAS"
+BeforeEpiphany.uc = "BEFORE EPIPHANY"
+AfterEpiphany.uc = "AFTER EPIPHANY"
+BeforeCross.uc = "BEFORE THE ELEVATION OF THE CROSS"
+AfterCross.uc = "AFTER THE ELEVATION OF THE CROSS"
+
+ForTheDay = "For the Day."
+ForSunday = "For Sunday."
+ForMonday = "For Monday."
+ForTuesday = "For Tuesday."
+ForWednesday = "For Wednesday."
+ForThursday = "For Thursday."
+ForFriday = "For Friday."
+ForSaturday = "For Saturday."
+Evening = "Evening"
+intheEvening = "in the Evening"
+Morning = "Morning"
+ofCheeseWeek = "of Cheese Week"
+ofWeek1 = "of the First Week"
+ofWeek2 = "of the Second Week"
+ofWeek3 = "of the Third Week"
+ofWeek4 = "of the Fourth Week"
+ofWeek5 = "of the Fifth Week"
+ofWeek6_tr = "Before Palm Sunday"
+ofWeek6_pe = "of the Sixth Week"
+ofHolyWeek = "of Holy Week"
+ofWeek7 = "of the Seventh Week"
+ofWeek8_pe = "After Pentecost"
+ofCheeseWeek.uc = "OF CHEESE WEEK"
+ofWeek1.uc = "OF THE FIRST WEEK"
+ofWeek2.uc = "OF THE SECOND WEEK"
+ofWeek3.uc = "OF THE THIRD WEEK"
+ofWeek4.uc = "OF THE FOURTH WEEK"
+ofWeek5.uc = "OF THE FIFTH WEEK"
+ofWeek6_tr.uc = "BEFORE PALM SUNDAY"
+ofWeek6_pe.uc = "OF THE SIXTH WEEK"
+ofWeek7.uc = "OF THE SEVENTH WEEK"
+ofWeek8_pe.uc = "AFTER PENTECOST"
+FirstSunday = "First Sunday"
+SecondSunday = "Second Sunday"
+ThirdSunday = "Third Sunday"
+FourthSunday = "Fourth Sunday"
+FifthSunday = "Fifth Sunday"
+FirstSunday.uc = "FIRST SUNDAY"
+SecondSunday.uc = "SECOND SUNDAY"
+ThirdSunday.uc = "THIRD SUNDAY"
+FourthSunday.uc = "FOURTH SUNDAY"
+FifthSunday.uc = "FIFTH SUNDAY"
+ofLent = "of Lent"
+ofLent.uc = "OF LENT"
+TriadicHymns = "Triadic Hymns"
+IntermediateVersesOde1 = "Intermediate Verses of Ode One."
+IntermediateVersesOde3 = "Intermediate Verses of Ode Three."
+IntermediateVersesOde4 = "Intermediate Verses of Ode Four."
+IntermediateVersesOde5 = "Intermediate Verses of Ode Five."
+IntermediateVersesOde6 = "Intermediate Verses of Ode Six."
+IntermediateVersesOde7 = "Intermediate Verses of Ode Seven."
+IntermediateVersesOde8 = "Intermediate Verses of Ode Eight."
+PhotagogicHymns = "Photagogic Hymns"
+ofBrightWeek = "of Bright Week"
+
+sourceEuchologion = "From Euchologion - - -"
+sourceHorologion = "From Horologion - - -"
+sourceMenaion = "From Menaion - - -"
+sourceMeSupplement = "Menaion Supplement - - -"
+sourceOctoechos = "From Octoechos - - -"
+sourcePentecostarion = "From Pentecostarion - - -"
+sourcePeSupplement = "Pentecostarion Supplement - - -"
+sourceTriodion = "From Triodion - - -"
+
+//used by Horologion Eclogarion
+eclog.title1 = ""
+eclog.title2 = ""
+eclog.title3 = ""
+eclog.rubric1 = ""
+eclog.TheotokosBirth.title = "Selected Psalm Verses for the Birth of our Most-holy Lady Theotokos"
+eclog.Cross.title = ""
+eclog.Apostles.title = ""
+eclog.Martyrs.title = ""
+eclog.Archngels.title = ""
+eclog.Hierarchs.title = ""
+eclog.Entry.title = ""
+eclog.Monastics.title = ""
+eclog.Christmas.title = ""
+eclog.Epiphany.title = ""
+eclog.Meeting.title = ""
+eclog.Annunciation.title = "Selected Psalm Verses for the Annunciation of the Most-holy Theotokos"
+eclog.Palm.title = "Selected Psalm Verses for Palm Sunday"
+eclog.Thomas.title = "Selected Psalm Verses for the Sunday of Thomas"
+eclog.Ascension.title = "Selected Psalm Verses for Ascension"
+eclog.Pentecost.title = "Selected Psalm Verses for Pentecost"
+eclog.Forerunner.title = "Selected Psalm Verses for the Feast of the Holy Forerunner"
+eclog.StAnne.title = ""
+eclog.Transfiguration.title = "Selected Psalm Verses for Transfiguration"
+eclog.Dormition.title = "Selected Psalm Verses for the Dormition of the Most-holy Theotokos"
+eclog.Meatfare.title = ""
