@@ -132,7 +132,7 @@ EmegalynasChriste.mode = misc_en_US_unknown.Mode2
 EmegalynasChriste.ode = misc_en_US_unknown.Ode9
 EmegalynasChriste.text = ""
 
-EnAvyssoPtaismaton.notmetered = "N/M (In the sea now surrounded.)"
+EnAvyssoPtaismaton.notmetered = "N/M (In the sea now.)"
 EnAvyssoPtaismaton.name = ""
 EnAvyssoPtaismaton.mode = misc_en_US_unknown.Mode2
 EnAvyssoPtaismaton.ode = misc_en_US_unknown.Ode6
