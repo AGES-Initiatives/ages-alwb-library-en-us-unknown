@@ -300,7 +300,7 @@ OStereosasEnTiCheiriSou.mode = misc_en_US_unknown.Mode8
 OStereosasEnTiCheiriSou.ode = misc_en_US_unknown.Ode3
 OStereosasEnTiCheiriSou.text = ""
 
-OStereosasKatArchas.notmetered = "N/M (In the beginning You confirmed.)"
+OStereosasKatArchas.notmetered = "N/M (In the beginning.)"
 OStereosasKatArchas.name = ""
 OStereosasKatArchas.mode = misc_en_US_unknown.Mode8
 OStereosasKatArchas.ode = misc_en_US_unknown.Ode3
