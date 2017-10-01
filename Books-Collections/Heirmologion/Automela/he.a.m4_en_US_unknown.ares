@@ -2,50 +2,50 @@ A_Resource_Whose_Name = he.a.m4_en_US_unknown
 
 DiaXylouOAdam.mode = misc_en_US_unknown.Mode4
 DiaXylouOAdam.notmetered = "N/M (Adam fell by a tree.)"
-DiaXylouOAdam.name = ""
+DiaXylouOAdam.name = "Adam fell by a tree."
 DiaXylouOAdam.text = ""
 
 EdokasSimeiosin.mode = misc_en_US_unknown.Mode4
 EdokasSimeiosin.notmetered = "N/M (You have given.)"
-EdokasSimeiosin.name = ""
+EdokasSimeiosin.name = "You have given."
 EdokasSimeiosin.text = ""
 
 EpefanisSimeron.mode = misc_en_US_unknown.Mode4
 EpefanisSimeron.notmetered = "N/M (You appeared today.)"
-EpefanisSimeron.name = ""
+EpefanisSimeron.name = "You appeared today."
 EpefanisSimeron.text = ""
 
 IthelonDakrysinExaleipsai.mode = misc_en_US_unknown.Mode4
 IthelonDakrysinExaleipsai.notmetered = "N/M (How I intended.)"
-IthelonDakrysinExaleipsai.name = ""
+IthelonDakrysinExaleipsai.name = "How I intended."
 IthelonDakrysinExaleipsai.text = ""
 
 KateplagiIosif.mode = misc_en_US_unknown.Mode4
 KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
-KateplagiIosif.name = ""
+KateplagiIosif.name = "Joseph marveled."
 KateplagiIosif.text = ""
 
 KyrieAnelthonEnToStavro.mode = misc_en_US_unknown.Mode4
 KyrieAnelthonEnToStavro.notmetered = "N/M (Sovereign Lord.)"
-KyrieAnelthonEnToStavro.name = ""
+KyrieAnelthonEnToStavro.name = "Sovereign Lord."
 KyrieAnelthonEnToStavro.text = ""
 
 OExYpsistouKlitheis.mode = misc_en_US_unknown.Mode4
 OExYpsistouKlitheis.notmetered = "N/M (When you were called.)"
-OExYpsistouKlitheis.name = ""
+OExYpsistouKlitheis.name = "When you were called."
 OExYpsistouKlitheis.text = ""
 
 OYpsotheisEnToStavro.mode = misc_en_US_unknown.Mode4
 OYpsotheisEnToStavro.notmetered = "N/M (You who were lifted.)"
-OYpsotheisEnToStavro.name = ""
+OYpsotheisEnToStavro.name = "You who were lifted."
 OYpsotheisEnToStavro.text = ""
 
 OsGennaionEnMartysi.mode = misc_en_US_unknown.Mode4
 OsGennaionEnMartysi.notmetered = "N/M (To a brave one.)"
-OsGennaionEnMartysi.name = ""
+OsGennaionEnMartysi.name = "To a brave one."
 OsGennaionEnMartysi.text = ""
 
 TachyProkatalave.mode = misc_en_US_unknown.Mode4
 TachyProkatalave.notmetered = "N/M (Come quickly.)"
-TachyProkatalave.name = ""
+TachyProkatalave.name = "Come quickly."
 TachyProkatalave.text = ""

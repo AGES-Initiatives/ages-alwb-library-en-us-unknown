@@ -2,27 +2,27 @@ A_Resource_Whose_Name = he.a.m6_en_US_unknown
 
 AiAngelikai.mode = misc_en_US_unknown.Mode6
 AiAngelikai.notmetered = "N/M (O angelic powers.)"
-AiAngelikai.name = ""
+AiAngelikai.name = "O angelic powers."
 AiAngelikai.text = ""
 
 AngelikaiDynameis.mode = misc_en_US_unknown.Mode6
 AngelikaiDynameis.notmetered = "N/M (When the angelic powers.)"
-AngelikaiDynameis.name = ""
+AngelikaiDynameis.name = "When the angelic powers."
 AngelikaiDynameis.text = ""
 
 EkGastrosEtechthis.mode = misc_en_US_unknown.Mode6
 EkGastrosEtechthis.notmetered = "N/M (From the womb.)"
-EkGastrosEtechthis.name = ""
+EkGastrosEtechthis.name = "From the womb."
 EkGastrosEtechthis.text = ""
 
 ElpisTouKosmouAgathi.mode = misc_en_US_unknown.Mode6
 ElpisTouKosmouAgathi.notmetered = "N/M (You are the good hope.)"
-ElpisTouKosmouAgathi.name = ""
+ElpisTouKosmouAgathi.name = "You are the good hope."
 ElpisTouKosmouAgathi.text = ""
 
 IApegnosmeni.mode = misc_en_US_unknown.Mode6
 IApegnosmeni.notmetered = "N/M (That woman, who was spurned.)"
-IApegnosmeni.name = ""
+IApegnosmeni.name = "That woman, who was spurned."
 IApegnosmeni.text = ""
 
 KyrieEleisonImas.mode = misc_en_US_unknown.Mode6
@@ -32,20 +32,20 @@ KyrieEleisonImas.text = ""
 
 OlinApothemenoi.mode = misc_en_US_unknown.Mode6
 OlinApothemenoi.notmetered = "N/M (When the saints deposited.)"
-OlinApothemenoi.name = ""
+OlinApothemenoi.name = "When the saints deposited."
 OlinApothemenoi.text = ""
 
 TinEnPresveiais.mode = misc_en_US_unknown.Mode6
 TinEnPresveiais.notmetered = "N/M (The Theotokos, unsleeping.)"
-TinEnPresveiais.name = ""
+TinEnPresveiais.name = "The Theotokos, unsleeping."
 TinEnPresveiais.text = ""
 
 TinYperImon.mode = misc_en_US_unknown.Mode6
 TinYperImon.notmetered = "N/M (When You had fulfilled.)"
-TinYperImon.name = ""
+TinYperImon.name = "When You had fulfilled."
 TinYperImon.text = ""
 
 TriimerosAnestis.mode = misc_en_US_unknown.Mode6
 TriimerosAnestis.notmetered = "N/M (O Christ, as it is written.)"
-TriimerosAnestis.name = ""
+TriimerosAnestis.name = "O Christ, as it is written."
 TriimerosAnestis.text = ""

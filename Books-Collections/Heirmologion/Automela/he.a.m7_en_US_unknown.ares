@@ -2,7 +2,7 @@ A_Resource_Whose_Name = he.a.m7_en_US_unknown
 
 KatafronisantesPanton.mode = misc_en_US_unknown.Mode7
 KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
-KatafronisantesPanton.name = ""
+KatafronisantesPanton.name = "When you had wisely."
 KatafronisantesPanton.text = ""
 
 ODiEmeAnaschomenos.mode = misc_en_US_unknown.Mode7
@@ -17,12 +17,12 @@ OsEchousaToSympathes.text = ""
 
 OuketiFloginiRomfaia.mode = misc_en_US_unknown.Mode7
 OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
-OuketiFloginiRomfaia.name = ""
+OuketiFloginiRomfaia.name = "The fiery sword."
 OuketiFloginiRomfaia.text = ""
 
 OukEtiKolyometha.mode = misc_en_US_unknown.Mode7
 OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
-OukEtiKolyometha.name = ""
+OukEtiKolyometha.name = "No longer are we barred."
 OukEtiKolyometha.text = ""
 
 PyrosFoteinoteron.mode = misc_en_US_unknown.Mode7
@@ -32,10 +32,10 @@ PyrosFoteinoteron.text = ""
 
 SimeronGrigoreiOIoudas.mode = misc_en_US_unknown.Mode7
 SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
-SimeronGrigoreiOIoudas.name = ""
+SimeronGrigoreiOIoudas.name = "Judas today is vigilant."
 SimeronGrigoreiOIoudas.text = ""
 
 XylonZois.mode = misc_en_US_unknown.Mode7
 XylonZois.notmetered = "N/M (The tree of life.)"
-XylonZois.name = ""
+XylonZois.name = "The tree of life."
 XylonZois.text = ""

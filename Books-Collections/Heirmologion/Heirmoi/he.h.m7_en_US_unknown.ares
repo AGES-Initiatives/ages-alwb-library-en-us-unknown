@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = he.h.m7_en_US_unknown
 
 AflektosPyri.notmetered = "N/M (Sinai's bush revealed.)"
-AflektosPyri.name = ""
+AflektosPyri.name = "Sinai's bush revealed."
 AflektosPyri.mode = misc_en_US_unknown.Mode7
 AflektosPyri.ode = misc_en_US_unknown.Ode8
 AflektosPyri.text = ""
@@ -67,7 +67,7 @@ KaminonPaides.ode = misc_en_US_unknown.Ode7
 KaminonPaides.text = ""
 
 KatanoonOProfitis.notmetered = "N/M (Prophet Habakkuk considered.)"
-KatanoonOProfitis.name = ""
+KatanoonOProfitis.name = "Prophet Habakkuk considered."
 KatanoonOProfitis.mode = misc_en_US_unknown.Mode7
 KatanoonOProfitis.ode = misc_en_US_unknown.Ode4
 KatanoonOProfitis.text = ""
@@ -79,25 +79,25 @@ KyrieOTheosMou.ode = misc_en_US_unknown.Ode5
 KyrieOTheosMou.text = ""
 
 MiTisFthoras.notmetered = "N/M (Without sustaining corruption.)"
-MiTisFthoras.name = ""
+MiTisFthoras.name = "Without sustaining corruption."
 MiTisFthoras.mode = misc_en_US_unknown.Mode7
 MiTisFthoras.ode = misc_en_US_unknown.Ode9
 MiTisFthoras.text = ""
 
 MitirTheouKaiParthenos.notmetered = "N/M (You as the Mother of God.)"
-MitirTheouKaiParthenos.name = ""
+MitirTheouKaiParthenos.name = "You as the Mother of God."
 MitirTheouKaiParthenos.mode = misc_en_US_unknown.Mode7
 MitirTheouKaiParthenos.ode = misc_en_US_unknown.Ode9
 MitirTheouKaiParthenos.text = ""
 
 NaftionToSalo.notmetered = "N/M (Nauseous from the tempest.)"
-NaftionToSalo.name = ""
+NaftionToSalo.name = "Nauseous from the tempest."
 NaftionToSalo.mode = misc_en_US_unknown.Mode7
 NaftionToSalo.ode = misc_en_US_unknown.Ode6
 NaftionToSalo.text = ""
 
 NefseiSouProsGeodi.notmetered = "N/M (Formerly freely flowing.)"
-NefseiSouProsGeodi.name = ""
+NefseiSouProsGeodi.name = "Formerly freely flowing."
 NefseiSouProsGeodi.mode = misc_en_US_unknown.Mode7
 NefseiSouProsGeodi.ode = misc_en_US_unknown.Ode1
 NefseiSouProsGeodi.text = ""
@@ -115,7 +115,7 @@ OIonasEkKoilias.ode = misc_en_US_unknown.Ode6
 OIonasEkKoilias.text = ""
 
 OKatArchasTousOuranous.notmetered = "N/M (In the beginning.)"
-OKatArchasTousOuranous.name = ""
+OKatArchasTousOuranous.name = "In the beginning."
 OKatArchasTousOuranous.mode = misc_en_US_unknown.Mode7
 OKatArchasTousOuranous.ode = misc_en_US_unknown.Ode3
 OKatArchasTousOuranous.text = ""
@@ -145,7 +145,7 @@ OTonPateron.ode = misc_en_US_unknown.Ode7
 OTonPateron.text = ""
 
 OiEnKaminoTouPyros.notmetered = "N/M (When the devout young men.)"
-OiEnKaminoTouPyros.name = ""
+OiEnKaminoTouPyros.name = "When the devout young men."
 OiEnKaminoTouPyros.mode = misc_en_US_unknown.Mode7
 OiEnKaminoTouPyros.ode = misc_en_US_unknown.Ode7
 OiEnKaminoTouPyros.text = ""
@@ -169,7 +169,7 @@ PanymniteTonOuranonYpsilotera.ode = misc_en_US_unknown.Ode9
 PanymniteTonOuranonYpsilotera.text = ""
 
 PontoEkalypse.notmetered = "N/M (He who crushes wars.)"
-PontoEkalypse.name = ""
+PontoEkalypse.name = "He who crushes wars."
 PontoEkalypse.mode = misc_en_US_unknown.Mode7
 PontoEkalypse.ode = misc_en_US_unknown.Ode1
 PontoEkalypse.text = ""
@@ -199,7 +199,7 @@ TinEnsarkonParousianSou.ode = misc_en_US_unknown.Ode4
 TinEnsarkonParousianSou.text = ""
 
 TinExYpsousDynamin.notmetered = "N/M (O my Christ, You said.)"
-TinExYpsousDynamin.name = ""
+TinExYpsousDynamin.name = "O my Christ, You said."
 TinExYpsousDynamin.mode = misc_en_US_unknown.Mode7
 TinExYpsousDynamin.ode = misc_en_US_unknown.Ode3
 TinExYpsousDynamin.text = ""
@@ -211,7 +211,7 @@ TinYperFysinMitera.ode = misc_en_US_unknown.Ode9
 TinYperFysinMitera.text = ""
 
 ToDiaTonFovonSou.notmetered = "N/M (That which for the fear of You.)"
-ToDiaTonFovonSou.name = ""
+ToDiaTonFovonSou.name = "That which for the fear of You."
 ToDiaTonFovonSou.mode = misc_en_US_unknown.Mode7
 ToDiaTonFovonSou.ode = misc_en_US_unknown.Ode5
 ToDiaTonFovonSou.text = ""

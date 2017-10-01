@@ -7,19 +7,19 @@ AkikoaKyrieTinAkoin.ode = misc_en_US_unknown.Ode4
 AkikoaKyrieTinAkoin.text = ""
 
 AllotrionTonMiteron.notmetered = "N/M (Virginity is a state.)"
-AllotrionTonMiteron.name = ""
+AllotrionTonMiteron.name = "Virginity is a state."
 AllotrionTonMiteron.mode = misc_en_US_unknown.Mode8
 AllotrionTonMiteron.ode = misc_en_US_unknown.Ode9
 AllotrionTonMiteron.text = ""
 
 AngeloiKaiOuranoi.notmetered = "N/M (All you angels.)"
-AngeloiKaiOuranoi.name = ""
+AngeloiKaiOuranoi.name = "All you angels."
 AngeloiKaiOuranoi.mode = misc_en_US_unknown.Mode8
 AngeloiKaiOuranoi.ode = misc_en_US_unknown.Ode8
 AngeloiKaiOuranoi.text = ""
 
 ArmatilatinFarao.notmetered = "N/M (The rod of Moses.)"
-ArmatilatinFarao.name = ""
+ArmatilatinFarao.name = "The rod of Moses."
 ArmatilatinFarao.mode = misc_en_US_unknown.Mode8
 ArmatilatinFarao.ode = misc_en_US_unknown.Ode1
 ArmatilatinFarao.text = ""
@@ -61,7 +61,7 @@ AsomenToKyrio.ode = misc_en_US_unknown.Ode1
 AsomenToKyrio.text = ""
 
 AvyssosAmartion.notmetered = "N/M (The abyss of many sins.)"
-AvyssosAmartion.name = ""
+AvyssosAmartion.name = "The abyss of many sins."
 AvyssosAmartion.mode = misc_en_US_unknown.Mode8
 AvyssosAmartion.ode = misc_en_US_unknown.Ode6
 AvyssosAmartion.text = ""
@@ -73,13 +73,13 @@ ChitonaMoiParaschou.ode = misc_en_US_unknown.Ode6
 ChitonaMoiParaschou.text = ""
 
 EfrixePasaAkoi.notmetered = "N/M (All hearers shuddered.)"
-EfrixePasaAkoi.name = ""
+EfrixePasaAkoi.name = "All hearers shuddered."
 EfrixePasaAkoi.mode = misc_en_US_unknown.Mode8
 EfrixePasaAkoi.ode = misc_en_US_unknown.Ode9
 EfrixePasaAkoi.text = ""
 
 EisakikoaKyrie.notmetered = "N/M (I have heard the report.)"
-EisakikoaKyrie.name = ""
+EisakikoaKyrie.name = "I have heard the report."
 EisakikoaKyrie.mode = misc_en_US_unknown.Mode8
 EisakikoaKyrie.ode = misc_en_US_unknown.Ode4
 EisakikoaKyrie.text = ""
@@ -97,7 +97,7 @@ EkSarkosSouVolides.ode = misc_en_US_unknown.Ode4
 EkSarkosSouVolides.text = ""
 
 EknoonProstagma.notmetered = "N/M (The impious tyrant's.)"
-EknoonProstagma.name = ""
+EknoonProstagma.name = "The impious tyrant's."
 EknoonProstagma.mode = misc_en_US_unknown.Mode8
 EknoonProstagma.ode = misc_en_US_unknown.Ode7
 EknoonProstagma.text = ""
@@ -115,19 +115,19 @@ EpevisEfIppous.ode = misc_en_US_unknown.Ode4
 EpevisEfIppous.text = ""
 
 EptaplasiosKaminon.notmetered = "N/M (The tyrant king.)"
-EptaplasiosKaminon.name = ""
+EptaplasiosKaminon.name = "The tyrant king."
 EptaplasiosKaminon.mode = misc_en_US_unknown.Mode8
 EptaplasiosKaminon.ode = misc_en_US_unknown.Ode8
 EptaplasiosKaminon.text = ""
 
 EstereothiIKardiaMouEnKyrio.notmetered = "N/M (My heart exults.)"
-EstereothiIKardiaMouEnKyrio.name = ""
+EstereothiIKardiaMouEnKyrio.name = "My heart exults."
 EstereothiIKardiaMouEnKyrio.mode = misc_en_US_unknown.Mode8
 EstereothiIKardiaMouEnKyrio.ode = misc_en_US_unknown.Ode3
 EstereothiIKardiaMouEnKyrio.text = ""
 
 EvlogeitePaides.notmetered = "N/M (You in equal number.)"
-EvlogeitePaides.name = ""
+EvlogeitePaides.name = "You in equal number."
 EvlogeitePaides.mode = misc_en_US_unknown.Mode8
 EvlogeitePaides.ode = misc_en_US_unknown.Ode8
 EvlogeitePaides.text = ""
@@ -145,13 +145,13 @@ ExOrousKataskiou.ode = misc_en_US_unknown.Ode4
 ExOrousKataskiou.text = ""
 
 ExestiEpiTouto.notmetered = "N/M (The heavens were astounded.)"
-ExestiEpiTouto.name = ""
+ExestiEpiTouto.name = "The heavens were astounded."
 ExestiEpiTouto.mode = misc_en_US_unknown.Mode8
 ExestiEpiTouto.ode = misc_en_US_unknown.Ode9
 ExestiEpiTouto.text = ""
 
 FotisonImas.notmetered = "N/M (Sovereign Lord our God.)"
-FotisonImas.name = ""
+FotisonImas.name = "Sovereign Lord our God."
 FotisonImas.mode = misc_en_US_unknown.Mode8
 FotisonImas.ode = misc_en_US_unknown.Ode5
 FotisonImas.text = ""
@@ -187,25 +187,25 @@ IdeteIdeteOPalaiTonIsrail.ode = misc_en_US_unknown.Ode2
 IdeteIdeteOPalaiTonIsrail.text = ""
 
 IlasthitiMoiSotir.notmetered = "N/M (Be gracious to me.)"
-IlasthitiMoiSotir.name = ""
+IlasthitiMoiSotir.name = "Be gracious to me."
 IlasthitiMoiSotir.mode = misc_en_US_unknown.Mode8
 IlasthitiMoiSotir.ode = misc_en_US_unknown.Ode6
 IlasthitiMoiSotir.text = ""
 
 InaTiMeAposo.notmetered = "N/M (Why, O Lord, have You cast me.)"
-InaTiMeAposo.name = ""
+InaTiMeAposo.name = "Why, O Lord, have You cast me."
 InaTiMeAposo.mode = misc_en_US_unknown.Mode8
 InaTiMeAposo.ode = misc_en_US_unknown.Ode5
 InaTiMeAposo.text = ""
 
 KyrieOTheosImon.notmetered = "N/M (O Lord our God, give peace.)"
-KyrieOTheosImon.name = ""
+KyrieOTheosImon.name = "O Lord our God, give peace."
 KyrieOTheosImon.mode = misc_en_US_unknown.Mode8
 KyrieOTheosImon.ode = misc_en_US_unknown.Ode5
 KyrieOTheosImon.text = ""
 
 KyriosTheotokon.notmetered = "N/M (You are the Theotokos.)"
-KyriosTheotokon.name = ""
+KyriosTheotokon.name = "You are the Theotokos."
 KyriosTheotokon.mode = misc_en_US_unknown.Mode8
 KyriosTheotokon.ode = misc_en_US_unknown.Ode9
 KyriosTheotokon.text = ""
@@ -235,7 +235,7 @@ MousikonOrganon.ode = misc_en_US_unknown.Ode8
 MousikonOrganon.text = ""
 
 MystikosEiTheotoke.notmetered = "N/M (Theotokos, you are mystical.)"
-MystikosEiTheotoke.name = ""
+MystikosEiTheotoke.name = "Theotokos, you are mystical."
 MystikosEiTheotoke.mode = misc_en_US_unknown.Mode8
 MystikosEiTheotoke.ode = misc_en_US_unknown.Ode9
 MystikosEiTheotoke.text = ""
@@ -246,14 +246,14 @@ MystikosOProfitis.mode = misc_en_US_unknown.Mode8
 MystikosOProfitis.ode = misc_en_US_unknown.Ode4
 MystikosOProfitis.text = ""
 
-NikitaiTyrannou.notmetered = "N/M (By Your grace those Servants.)"
-NikitaiTyrannou.name = ""
+NikitaiTyrannou.notmetered = "N/M (By Your grace.)"
+NikitaiTyrannou.name = "By Your grace those Servants."
 NikitaiTyrannou.mode = misc_en_US_unknown.Mode8
 NikitaiTyrannou.ode = misc_en_US_unknown.Ode8
 NikitaiTyrannou.text = ""
 
 NotiouThiros.notmetered = "N/M (When Jonah.)"
-NotiouThiros.name = ""
+NotiouThiros.name = "When Jonah."
 NotiouThiros.mode = misc_en_US_unknown.Mode8
 NotiouThiros.ode = misc_en_US_unknown.Ode6
 NotiouThiros.text = ""
@@ -265,7 +265,7 @@ ODiAngelouPaidas.ode = misc_en_US_unknown.Ode7
 ODiAngelouPaidas.text = ""
 
 ODiaVroseos.notmetered = "N/M (Unto the human race.)"
-ODiaVroseos.name = ""
+ODiaVroseos.name = "Unto the human race."
 ODiaVroseos.mode = misc_en_US_unknown.Mode8
 ODiaVroseos.ode = misc_en_US_unknown.Ode9
 ODiaVroseos.text = ""
@@ -283,7 +283,7 @@ OEnArchiTinGin.ode = misc_en_US_unknown.Ode7
 OEnArchiTinGin.text = ""
 
 OProfitisAvvakoum.notmetered = "N/M (With his spiritual eyes.)"
-OProfitisAvvakoum.name = ""
+OProfitisAvvakoum.name = "With his spiritual eyes."
 OProfitisAvvakoum.mode = misc_en_US_unknown.Mode8
 OProfitisAvvakoum.ode = misc_en_US_unknown.Ode4
 OProfitisAvvakoum.text = ""
@@ -301,7 +301,7 @@ OStereosasEnTiCheiriSou.ode = misc_en_US_unknown.Ode3
 OStereosasEnTiCheiriSou.text = ""
 
 OStereosasKatArchas.notmetered = "N/M (In the beginning.)"
-OStereosasKatArchas.name = ""
+OStereosasKatArchas.name = "In the beginning You confirmed."
 OStereosasKatArchas.mode = misc_en_US_unknown.Mode8
 OStereosasKatArchas.ode = misc_en_US_unknown.Ode3
 OStereosasKatArchas.text = ""
@@ -319,13 +319,13 @@ OTousPaidasDrosisas.ode = misc_en_US_unknown.Ode7
 OTousPaidasDrosisas.text = ""
 
 OTrismakaristonXylon.notmetered = "N/M (O tree.)"
-OTrismakaristonXylon.name = ""
+OTrismakaristonXylon.name = "O tree."
 OTrismakaristonXylon.mode = misc_en_US_unknown.Mode8
 OTrismakaristonXylon.ode = misc_en_US_unknown.Ode5
 OTrismakaristonXylon.text = ""
 
 OiEkTisIoudaias.notmetered = "N/M (The Servants from Judea.)"
-OiEkTisIoudaias.name = ""
+OiEkTisIoudaias.name = "The Servants from Judea."
 OiEkTisIoudaias.mode = misc_en_US_unknown.Mode8
 OiEkTisIoudaias.ode = misc_en_US_unknown.Ode7
 OiEkTisIoudaias.text = ""
@@ -367,7 +367,7 @@ OsTonProfitinErryso.ode = misc_en_US_unknown.Ode6
 OsTonProfitinErryso.text = ""
 
 OsYdataThalassis.notmetered = "N/M (The waves of life.)"
-OsYdataThalassis.name = ""
+OsYdataThalassis.name = "The waves of life."
 OsYdataThalassis.mode = misc_en_US_unknown.Mode8
 OsYdataThalassis.ode = misc_en_US_unknown.Ode6
 OsYdataThalassis.text = ""
@@ -379,13 +379,13 @@ OukEstinAgios.ode = misc_en_US_unknown.Ode3
 OukEstinAgios.text = ""
 
 OuraniasApsidos.notmetered = "N/M (O divine Master Builder.)"
-OuraniasApsidos.name = ""
+OuraniasApsidos.name = "O divine Master Builder."
 OuraniasApsidos.mode = misc_en_US_unknown.Mode8
 OuraniasApsidos.ode = misc_en_US_unknown.Ode3
 OuraniasApsidos.text = ""
 
 PaidesEvraion.notmetered = "N/M (Servants, descendants.)"
-PaidesEvraion.name = ""
+PaidesEvraion.name = "Servants, descendants."
 PaidesEvraion.mode = misc_en_US_unknown.Mode8
 PaidesEvraion.ode = misc_en_US_unknown.Ode7
 PaidesEvraion.text = ""
@@ -409,7 +409,7 @@ ProsecheOurane.ode = misc_en_US_unknown.Ode2
 ProsecheOurane.text = ""
 
 RavdosEisTypon.notmetered = "N/M (The rod is taken.)"
-RavdosEisTypon.name = ""
+RavdosEisTypon.name = "The rod is taken."
 RavdosEisTypon.mode = misc_en_US_unknown.Mode8
 RavdosEisTypon.ode = misc_en_US_unknown.Ode3
 RavdosEisTypon.text = ""
@@ -427,7 +427,7 @@ SeTinOuranou.ode = misc_en_US_unknown.Ode9
 SeTinOuranou.text = ""
 
 StavronCharaxasMosis.notmetered = "N/M (When Moses inscribed.)"
-StavronCharaxasMosis.name = ""
+StavronCharaxasMosis.name = "When Moses inscribed."
 StavronCharaxasMosis.mode = misc_en_US_unknown.Mode8
 StavronCharaxasMosis.ode = misc_en_US_unknown.Ode1
 StavronCharaxasMosis.text = ""
@@ -445,13 +445,13 @@ StereosonImonTonNoun.ode = misc_en_US_unknown.Ode3
 StereosonImonTonNoun.text = ""
 
 SyEiToStereoma.notmetered = "N/M (Lord, You are the firm.)"
-SyEiToStereoma.name = ""
+SyEiToStereoma.name = "Lord, You are the firm."
 SyEiToStereoma.mode = misc_en_US_unknown.Mode8
 SyEiToStereoma.ode = misc_en_US_unknown.Ode3
 SyEiToStereoma.text = ""
 
 SyMouIschys.notmetered = "N/M (You are my strength.)"
-SyMouIschys.name = ""
+SyMouIschys.name = "You are my strength."
 SyMouIschys.mode = misc_en_US_unknown.Mode8
 SyMouIschys.ode = misc_en_US_unknown.Ode4
 SyMouIschys.text = ""
@@ -462,26 +462,26 @@ SynechomenonDexaiMe.mode = misc_en_US_unknown.Mode8
 SynechomenonDexaiMe.ode = misc_en_US_unknown.Ode6
 SynechomenonDexaiMe.text = ""
 
-ThalassanEpixas.notmetered = "N/M (Lord, You congealed the sea.)"
-ThalassanEpixas.name = ""
+ThalassanEpixas.notmetered = "N/M (Lord, You congealed.)"
+ThalassanEpixas.name = "Lord, You congealed the sea."
 ThalassanEpixas.mode = misc_en_US_unknown.Mode8
 ThalassanEpixas.ode = misc_en_US_unknown.Ode1
 ThalassanEpixas.text = ""
 
 TheouSynkatavasin.notmetered = "N/M (The fire in Babylon.)"
-TheouSynkatavasin.name = ""
+TheouSynkatavasin.name = "The fire in Babylon."
 TheouSynkatavasin.mode = misc_en_US_unknown.Mode8
 TheouSynkatavasin.ode = misc_en_US_unknown.Ode7
 TheouSynkatavasin.text = ""
 
 TinAgninEndoxos.notmetered = "N/M (The pure Theotokos.)"
-TinAgninEndoxos.name = ""
+TinAgninEndoxos.name = "The pure Theotokos."
 TinAgninEndoxos.mode = misc_en_US_unknown.Mode8
 TinAgninEndoxos.ode = misc_en_US_unknown.Ode9
 TinAgninEndoxos.text = ""
 
 TinDeisinEkcheo.notmetered = "N/M (My prayer.)"
-TinDeisinEkcheo.name = ""
+TinDeisinEkcheo.name = "My prayer."
 TinDeisinEkcheo.mode = misc_en_US_unknown.Mode8
 TinDeisinEkcheo.ode = misc_en_US_unknown.Ode6
 TinDeisinEkcheo.text = ""
@@ -517,7 +517,7 @@ TonAoratonMorfi.ode = misc_en_US_unknown.Ode9
 TonAoratonMorfi.text = ""
 
 TonChaldaionIKaminos.notmetered = "N/M (All ablaze.)"
-TonChaldaionIKaminos.name = ""
+TonChaldaionIKaminos.name = "All ablaze."
 TonChaldaionIKaminos.mode = misc_en_US_unknown.Mode8
 TonChaldaionIKaminos.ode = misc_en_US_unknown.Ode7
 TonChaldaionIKaminos.text = ""
@@ -535,7 +535,7 @@ TonEkPatrosProAionon.ode = misc_en_US_unknown.Ode8
 TonEkPatrosProAionon.text = ""
 
 TonEnOreiAgio.notmetered = "N/M (O extol Him.)"
-TonEnOreiAgio.name = ""
+TonEnOreiAgio.name = "O extol Him."
 TonEnOreiAgio.mode = misc_en_US_unknown.Mode8
 TonEnOreiAgio.ode = misc_en_US_unknown.Ode8
 TonEnOreiAgio.text = ""
@@ -559,13 +559,13 @@ TonIsrailEkDouleias.ode = misc_en_US_unknown.Ode1
 TonIsrailEkDouleias.text = ""
 
 TonProdilothenta.notmetered = "N/M (Let us sing to Him.)"
-TonProdilothenta.name = ""
+TonProdilothenta.name = "Let us sing to Him."
 TonProdilothenta.mode = misc_en_US_unknown.Mode8
 TonProdilothenta.ode = misc_en_US_unknown.Ode9
 TonProdilothenta.text = ""
 
 TonVasileaTonOuranon.notmetered = "N/M (O praise and bless Him.)"
-TonVasileaTonOuranon.name = ""
+TonVasileaTonOuranon.name = "O praise and bless Him."
 TonVasileaTonOuranon.mode = misc_en_US_unknown.Mode8
 TonVasileaTonOuranon.ode = misc_en_US_unknown.Ode8
 TonVasileaTonOuranon.text = ""
@@ -577,7 +577,7 @@ TonZofonTisPsychisMou.ode = misc_en_US_unknown.Ode5
 TonZofonTisPsychisMou.text = ""
 
 YgranDiodefsas.notmetered = "N/M (Of old when the Israelite.)"
-YgranDiodefsas.name = ""
+YgranDiodefsas.name = "Of old when the Israelite."
 YgranDiodefsas.mode = misc_en_US_unknown.Mode8
 YgranDiodefsas.ode = misc_en_US_unknown.Ode1
 YgranDiodefsas.text = ""

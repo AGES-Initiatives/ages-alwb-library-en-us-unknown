@@ -2,60 +2,60 @@ A_Resource_Whose_Name = he.a.m2_en_US_unknown
 
 EfsplagchniasYparchousa.mode = misc_en_US_unknown.Mode2
 EfsplagchniasYparchousa.notmetered = "N/M (Since you are the source.)"
-EfsplagchniasYparchousa.name = ""
+EfsplagchniasYparchousa.name = "Since you are the source."
 EfsplagchniasYparchousa.text = ""
 
 GynaikesAkoutisthite.mode = misc_en_US_unknown.Mode2
 GynaikesAkoutisthite.notmetered = "N/M (O Women, hearken.)"
-GynaikesAkoutisthite.name = ""
+GynaikesAkoutisthite.name = "O Women, hearken."
 GynaikesAkoutisthite.text = ""
 
 OikosTouEfratha.mode = misc_en_US_unknown.Mode2
 OikosTouEfratha.notmetered = "N/M (O House of Ephratha.)"
-OikosTouEfratha.name = ""
+OikosTouEfratha.name = "O House of Ephratha. "
 OikosTouEfratha.text = ""
 
 OteEkTouXylou.mode = misc_en_US_unknown.Mode2
 OteEkTouXylou.notmetered = "N/M (Joseph took You.)"
-OteEkTouXylou.name = ""
+OteEkTouXylou.name = "Joseph took You down."
 OteEkTouXylou.text = ""
 
 PoioisEffimionStemmasin.mode = misc_en_US_unknown.Mode2
 PoioisEffimionStemmasin.notmetered = "N/M (Which are the wreaths.)"
-PoioisEffimionStemmasin.name = ""
+PoioisEffimionStemmasin.name = "Which are the wreaths."
 PoioisEffimionStemmasin.text = ""
 
 SarkiYpnosas.mode = misc_en_US_unknown.Mode2
 SarkiYpnosas.notmetered = "N/M (When You had slumbered.)"
-SarkiYpnosas.name = ""
+SarkiYpnosas.name = "When You had slumbered."
 SarkiYpnosas.text = ""
 
 StavrosOFylax.mode = misc_en_US_unknown.Mode2
 StavrosOFylax.notmetered = "N/M (O Cross, you are the guardian.)"
-StavrosOFylax.name = ""
+StavrosOFylax.name = "O Cross, you are the guardian."
 StavrosOFylax.text = ""
 
 TaAnoZiton.mode = misc_en_US_unknown.Mode2
 TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
-TaAnoZiton.name = ""
+TaAnoZiton.name = "In seeking the heights."
 TaAnoZiton.text = ""
 
 ToisMathitaisSynelthomen.mode = misc_en_US_unknown.Mode2
 ToisMathitaisSynelthomen.notmetered = "N/M (On the mountain.)"
-ToisMathitaisSynelthomen.name = ""
+ToisMathitaisSynelthomen.name = "On the mountain."
 ToisMathitaisSynelthomen.text = ""
 
 ToisTonAimatonSou.mode = misc_en_US_unknown.Mode2
 ToisTonAimatonSou.notmetered = "N/M (In the pools of your blood.)"
-ToisTonAimatonSou.name = ""
+ToisTonAimatonSou.name = "In the pools of your blood."
 ToisTonAimatonSou.text = ""
 
 TonMathitonOrontonSe.mode = misc_en_US_unknown.Mode2
 TonMathitonOrontonSe.notmetered = "N/M (With the disciples.)"
-TonMathitonOrontonSe.name = ""
+TonMathitonOrontonSe.name = "With the disciples."
 TonMathitonOrontonSe.text = ""
 
 TousAsfaleis.mode = misc_en_US_unknown.Mode2
 TousAsfaleis.notmetered = "N/M (You have taken.)"
-TousAsfaleis.name = ""
-TousAsfaleis.text = "You have taken to yourself, O Lord, the pinnacles of Your Disciples, those unerring theologians and preachers, to enjoy Your blessings and repose. For You accepted their labors and their death as being higher than any whole-burnt offering, for only You know what is in the heart."
+TousAsfaleis.name = "You have taken."
+TousAsfaleis.text = ""

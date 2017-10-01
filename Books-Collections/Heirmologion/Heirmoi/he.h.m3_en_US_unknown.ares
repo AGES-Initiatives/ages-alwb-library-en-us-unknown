@@ -19,7 +19,7 @@ AsomenToKyrio.ode = misc_en_US_unknown.Ode1
 AsomenToKyrio.text = ""
 
 AstektoPyri.notmetered = "N/M (The Youths, being piety's defenders.)"
-AstektoPyri.name = ""
+AstektoPyri.name = "The Youths, being piety's defenders."
 AstektoPyri.mode = misc_en_US_unknown.Mode3
 AstektoPyri.ode = misc_en_US_unknown.Ode8
 AstektoPyri.text = ""
@@ -31,7 +31,7 @@ AvyssosEschati.ode = misc_en_US_unknown.Ode6
 AvyssosEschati.text = ""
 
 ChersonAvyssotokon.notmetered = "N/M (Once did the sun.)"
-ChersonAvyssotokon.name = ""
+ChersonAvyssotokon.name = "Once did the sun."
 ChersonAvyssotokon.mode = misc_en_US_unknown.Mode3
 ChersonAvyssotokon.ode = misc_en_US_unknown.Ode1
 ChersonAvyssotokon.text = ""
@@ -43,13 +43,13 @@ EisakikoaTinAkoin.ode = misc_en_US_unknown.Ode4
 EisakikoaTinAkoin.text = ""
 
 EkalypsenOuranous.notmetered = "N/M (The heavens were covered.)"
-EkalypsenOuranous.name = ""
+EkalypsenOuranous.name = "The heavens were covered."
 EkalypsenOuranous.mode = misc_en_US_unknown.Mode3
 EkalypsenOuranous.ode = misc_en_US_unknown.Ode4
 EkalypsenOuranous.text = ""
 
 EnNomoSkia.notmetered = "N/M (O believers, come.)"
-EnNomoSkia.name = ""
+EnNomoSkia.name = "O believers, come."
 EnNomoSkia.mode = misc_en_US_unknown.Mode3
 EnNomoSkia.ode = misc_en_US_unknown.Ode9
 EnNomoSkia.text = ""
@@ -97,7 +97,7 @@ EvoisaEnStenagmois.ode = misc_en_US_unknown.Ode6
 EvoisaEnStenagmois.text = ""
 
 EvoiseSoi.notmetered = "N/M (The Elder cried out.)"
-EvoiseSoi.name = ""
+EvoiseSoi.name = "The Elder cried out."
 EvoiseSoi.mode = misc_en_US_unknown.Mode3
 EvoiseSoi.ode = misc_en_US_unknown.Ode6
 EvoiseSoi.text = ""
@@ -169,7 +169,7 @@ OrthrizontesAnymnoumen.ode = misc_en_US_unknown.Ode5
 OrthrizontesAnymnoumen.text = ""
 
 OsEidenIsaias.notmetered = "N/M (Isaiah once symbolically.)"
-OsEidenIsaias.name = ""
+OsEidenIsaias.name = "Isaiah once symbolically."
 OsEidenIsaias.mode = misc_en_US_unknown.Mode3
 OsEidenIsaias.ode = misc_en_US_unknown.Ode5
 OsEidenIsaias.text = ""
@@ -199,19 +199,19 @@ ProsecheGiKaiOurane.ode = misc_en_US_unknown.Ode2
 ProsecheGiKaiOurane.text = ""
 
 SeTinAkataflekton.notmetered = "N/M (We, O holy Virgin, perceive you.)"
-SeTinAkataflekton.name = ""
+SeTinAkataflekton.name = "We, O holy Virgin, perceive you."
 SeTinAkataflekton.mode = misc_en_US_unknown.Mode3
 SeTinAkataflekton.ode = misc_en_US_unknown.Ode9
 SeTinAkataflekton.text = ""
 
 SeTinAthanaton.notmetered = "N/M (We ever magnify you. (not metered))"
-SeTinAthanaton.name = ""
+SeTinAthanaton.name = "We ever magnify you. (not metered)"
 SeTinAthanaton.mode = misc_en_US_unknown.Mode3
 SeTinAthanaton.ode = misc_en_US_unknown.Ode9
 SeTinAthanaton.text = ""
 
 SeTonEnPyri.notmetered = "N/M (In the fire You refreshed.)"
-SeTonEnPyri.name = ""
+SeTonEnPyri.name = "In the fire You refreshed."
 SeTonEnPyri.mode = misc_en_US_unknown.Mode3
 SeTonEnPyri.ode = misc_en_US_unknown.Ode7
 SeTonEnPyri.text = ""
@@ -283,7 +283,7 @@ ToPrinEikoni.ode = misc_en_US_unknown.Ode7
 ToPrinEikoni.text = ""
 
 ToStereoma.notmetered = "N/M (As the firm support.)"
-ToStereoma.name = ""
+ToStereoma.name = "As the firm support."
 ToStereoma.mode = misc_en_US_unknown.Mode3
 ToStereoma.ode = misc_en_US_unknown.Ode3
 ToStereoma.text = ""
@@ -301,7 +301,7 @@ TonEnFlogi.ode = misc_en_US_unknown.Ode8
 TonEnFlogi.text = ""
 
 TonExAnarchou.notmetered = "N/M (Extol Him who is God. (not metered))"
-TonExAnarchou.name = ""
+TonExAnarchou.name = "Extol Him who is God. (not metered)"
 TonExAnarchou.mode = misc_en_US_unknown.Mode3
 TonExAnarchou.ode = misc_en_US_unknown.Ode8
 TonExAnarchou.text = ""
