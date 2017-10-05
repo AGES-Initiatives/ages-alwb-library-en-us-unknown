@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = he.a.m1_en_US_unknown
 
 ChorosAngelikos.mode = misc_en_US_unknown.Mode1
-ChorosAngelikos.notmetered = "N/M (In heaven be amazed.)"
+ChorosAngelikos.notmetered = "N/M (In heaven.)"
 ChorosAngelikos.name = "In heaven be amazed."
 ChorosAngelikos.text = ""
 
@@ -11,7 +11,7 @@ NefelinSeFotos.name = "Nefelin Se Fotos"
 NefelinSeFotos.text = ""
 
 OTouParadoxouThavmatos.mode = misc_en_US_unknown.Mode1
-OTouParadoxouThavmatos.notmetered = "N/M (What a paradoxical miracle.)"
+OTouParadoxouThavmatos.notmetered = "N/M (What a paradoxical.)"
 OTouParadoxouThavmatos.name = "What a paradoxical miracle."
 OTouParadoxouThavmatos.text = ""
 
@@ -26,21 +26,21 @@ PaneffimoiMartyres.name = "O Martyrs, extolled. "
 PaneffimoiMartyres.text = ""
 
 TisErimouPolitis.mode = misc_en_US_unknown.Mode1
-TisErimouPolitis.notmetered = "N/M (As a citizen of the desert.)"
+TisErimouPolitis.notmetered = "N/M (As a citizen.)"
 TisErimouPolitis.name = "As a citizen of the desert."
 TisErimouPolitis.text = ""
 
 TonOuranionTagmaton.mode = misc_en_US_unknown.Mode1
-TonOuranionTagmaton.notmetered = "N/M (For the celestial orders.)"
+TonOuranionTagmaton.notmetered = "N/M (For the celestial.)"
 TonOuranionTagmaton.name = "For the celestial orders."
 TonOuranionTagmaton.text = ""
 
 TonTafonSouSotir.mode = misc_en_US_unknown.Mode1
-TonTafonSouSotir.notmetered = "N/M (The soldiers keeping watch.)"
+TonTafonSouSotir.notmetered = "N/M (The soldiers.)"
 TonTafonSouSotir.name = "The soldiers keeping watch."
 TonTafonSouSotir.text = ""
 
 TouLithouSfragisthentos.mode = misc_en_US_unknown.Mode1
-TouLithouSfragisthentos.notmetered = "N/M (The stone had been secured.)"
+TouLithouSfragisthentos.notmetered = "N/M (The stone.)"
 TouLithouSfragisthentos.name = "The stone had been secured."
 TouLithouSfragisthentos.text = ""
