@@ -11,7 +11,7 @@ EdokasSimeiosin.name = "You have given."
 EdokasSimeiosin.text = ""
 
 EpefanisSimeron.mode = misc_en_US_unknown.Mode4
-EpefanisSimeron.notmetered = "N/M (You appeared today.)"
+EpefanisSimeron.notmetered = "N/M (You appeared.)"
 EpefanisSimeron.name = "You appeared today."
 EpefanisSimeron.text = ""
 

@@ -1,12 +1,12 @@
 A_Resource_Whose_Name = he.a.m3_en_US_unknown
 
 ApostoloiEkPeraton.mode = misc_en_US_unknown.Mode3
-ApostoloiEkPeraton.notmetered = "N/M (Apostles, you have assembled.)"
+ApostoloiEkPeraton.notmetered = "N/M (Apostles assembled.)"
 ApostoloiEkPeraton.name = "Apostles, you have assembled."
 ApostoloiEkPeraton.text = ""
 
 EnPnevmatiToIero.mode = misc_en_US_unknown.Mode3
-EnPnevmatiToIero.notmetered = "N/M (The Elder in the Temple.)"
+EnPnevmatiToIero.notmetered = "N/M (The Elder.)"
 EnPnevmatiToIero.name = "The Elder in the Temple."
 EnPnevmatiToIero.text = ""
 
