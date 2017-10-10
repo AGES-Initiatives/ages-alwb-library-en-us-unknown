@@ -98,7 +98,7 @@ EikonosChrysis.mode = misc_en_US_unknown.Mode2
 EikonosChrysis.ode = misc_en_US_unknown.Ode7
 EikonosChrysis.text = ""
 
-EisakikoaKyrieTinAkoin.notmetered = "N/M (I have heard the report.)"
+EisakikoaKyrieTinAkoin.notmetered = "N/M (I have heard.)"
 EisakikoaKyrieTinAkoin.name = "I have heard the report."
 EisakikoaKyrieTinAkoin.mode = misc_en_US_unknown.Mode2
 EisakikoaKyrieTinAkoin.ode = misc_en_US_unknown.Ode4
