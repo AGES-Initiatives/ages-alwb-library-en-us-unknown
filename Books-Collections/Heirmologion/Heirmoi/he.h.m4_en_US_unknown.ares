@@ -522,7 +522,13 @@ OsEmpsychoTheouKivoto.mode = misc_en_US_unknown.Mode4
 OsEmpsychoTheouKivoto.ode = misc_en_US_unknown.Ode9
 OsEmpsychoTheouKivoto.text = ""
 
-OsIonanTonProfitin.notmetered = "N/M ()"
+OsEmpsychoTheouKivoto_Annunciation.notmetered = "N/M (Now let no uninitiated hand.)"
+OsEmpsychoTheouKivoto_Annunciation.name = "Now let no uninitiated hand."
+OsEmpsychoTheouKivoto_Annunciation.mode = misc_en_US_unknown.Mode4
+OsEmpsychoTheouKivoto_Annunciation.ode = misc_en_US_unknown.Ode9
+OsEmpsychoTheouKivoto_Annunciation.text = ""
+
+OsIonanTonProfitin.notmetered = "N/M (Now let no uninitiated hand.)"
 OsIonanTonProfitin.name = ""
 OsIonanTonProfitin.mode = misc_en_US_unknown.Mode4
 OsIonanTonProfitin.ode = misc_en_US_unknown.Ode6
