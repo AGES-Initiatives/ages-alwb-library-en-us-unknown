@@ -319,7 +319,7 @@ meMA.Kontakion1.text = "WITH hymns let us acclaim James, the eyewitness and godl
 
 meMA.Oikos1.text = "AS I have purposed to extol the great James, the son of Alphaeus, who was initiated by Heaven into the knowledge of the Word and openly preached the Gospel to those on earth, I implore Thee to send down grace to me, O Christ Jesus, Who didst fill Thy wise disciple with the Divine Spirit and gavest him to us as a herald unto all the ends of the world and an acceptable intercessor before Thee; for he ever intercedeth in behalf of us all."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C11.mode = misc_en_US_unknown.Mode6

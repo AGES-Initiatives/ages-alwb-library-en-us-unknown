@@ -205,7 +205,7 @@ meMA.Kontakion1.text = "The holy Martyrs and brave soldiers of Christ, Probos, T
 
 meMA.Oikos1.text = "The wise Martyrs Tarachos, Probos and Andronicos  valiantly imitated the Passion of Jesus, when they were led into the stadium rejoicing; and they rebuked the godlessness of the lawless. Therefore with longing we honor their memory, and extol them with hymns of praise, and faithfully proclaim their feats; for the Lord has made them wondrous, like stars in the world, for they valiantly contested for the faith."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C11.mode = misc_en_US_unknown.Mode8

@@ -1205,6 +1205,7 @@ trMA.Synaxarion.commemoration.text = "On this day, Thursday of the fifth week of
 trMA.Synaxarion.couplet1.title = titles_en_US_unknown.Stichoi
 trMA.Synaxarion.couplet1.verse1 = "Jesus, give the habbit of compunction"
 trMA.Synaxarion.couplet1.verse2 = "to us who now sing the Great Canon."
+trMA.Synaxarion.text = "[This is where the text of the Triodion's Synaxarion will appear.]"
 trMA.Synaxarion.lastline.text = "By the intercessions of Saint Andrew, O God, have mercy on us and save us. Amen."
 
 trGC.Beatitudes01.mode = misc_en_US_unknown.Mode6
