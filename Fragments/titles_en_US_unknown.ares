@@ -28,6 +28,10 @@ ApolytikionAnastasimon = "Resurrectional Apolytikion."
 
 ApolytikionTisEortis = "Apolytikion of the Feast."
 
+ApolytikionTisImeras = ""
+
+ApolytikionTouTriodiou = ""
+
 Aposticha = "Aposticha."
 
 ApostichaAnastasima = "Resurrectional Aposticha."
@@ -355,6 +359,8 @@ KontakionAnastasimon = "Resurrectional Kontakion."
 KontakionProeortion = "Kontakion of the Forefest."
 
 KontakionTisEortis = "Kontakion of the Feast."
+
+KontakionTisImeras = ""
 
 KontakionTisTheotokou = "Kontakion for the Theotokos."
 
