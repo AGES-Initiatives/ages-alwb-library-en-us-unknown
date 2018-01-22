@@ -230,6 +230,8 @@ KanonATisMesopentikostis = "Canon 1 of Mid-Pentecost."
 
 KanonBTisMesopentikostis = "Canon 2 of Mid-Pentecost."
 
+KanonTisMyroforou = ""
+
 KanonATisOsias = "Canon 1 for the Devout Woman."
 
 KanonBTisOsias = "Canon 2 for the Devout Woman."
@@ -263,6 +265,10 @@ KanonTonEnkainion = "Canon of the Consecration."
 KanonTonMartyron = "Canon for the Martyrs."
 
 KanonTonPateron = "Canon for the Fathers."
+
+KanonATonPateron = ""
+
+KanonBTonPateron = ""
 
 KanonTonPropatoron = ""
 
