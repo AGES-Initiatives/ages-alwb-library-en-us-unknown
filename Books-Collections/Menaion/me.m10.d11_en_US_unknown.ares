@@ -305,8 +305,6 @@ meMA.Kontakion2.mode = misc_en_US_unknown.Mode4
 meMA.Kontakion2.melody = he.a.m4_en_US_unknown.EpefanisSimeron.name
 meMA.Kontakion2.text = ""
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C11.mode = misc_en_US_unknown.Mode6
 meMA.Ode7C11.melody = he.h.m6_en_US_unknown.DrosovolonMenTinKaminon.name
