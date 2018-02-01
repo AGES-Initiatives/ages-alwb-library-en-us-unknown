@@ -85,3 +85,9 @@ Twice = "(2)"
 TwiceWithNoVerse = "Twice, with no verse."
 
 WineOil = "Wine and oil allowed."
+
+fasting.strict = ""
+fasting.wine = ""
+fasting.fish = ""
+fasting.dairy = ""
+fasting.free = ""
