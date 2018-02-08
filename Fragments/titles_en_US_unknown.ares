@@ -274,6 +274,8 @@ KanonBTonPateron = ""
 
 KanonTonPropatoron = ""
 
+KanonTonTheopatoron = ""
+
 KanonTouAgiou = "Canon for the Saint."
 
 KanonATouAgiou = "Canon 1 for the Saint."
@@ -664,6 +666,8 @@ TouMinaiou = "From the Menaion."
 TouMnistoros = "For Joseph the Betrothed."
 
 TouNaou = "For the church."
+
+TouNeomartyros = ""
 
 TouOsiomartyros = "For the Devout Martyr."
 
