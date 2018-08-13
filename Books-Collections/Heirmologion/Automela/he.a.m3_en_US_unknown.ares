@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = he.a.m3_en_US_unknown
 
+he.title = ""
+
 ApostoloiEkPeraton.mode = misc_en_US_unknown.Mode3
 ApostoloiEkPeraton.notmetered = "N/M (Apostles assembled.)"
 ApostoloiEkPeraton.name = "Apostles, you have assembled."
