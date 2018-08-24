@@ -563,6 +563,10 @@ Synaxarion = "Synaxarion."
 
 TaAnagnosmata = "THE READINGS"
 
+TaAnagnosmataTisSeiras = ""
+
+TaAnagnosmataTouMinologiou = ""
+
 TaAnastasima = "Resurrectional."
 
 TaKatAlfaviton = "Alphabeticals."
@@ -594,6 +598,8 @@ TisOsias = "For the Devout Woman."
 TisOsiomartyros = ""
 
 TisSamaritidos = "For the Samaritan Woman."
+
+TisSeiras = ""
 
 TisTheotokou = "For the Theotokos."
 
