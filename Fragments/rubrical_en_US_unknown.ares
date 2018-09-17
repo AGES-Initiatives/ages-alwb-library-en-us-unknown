@@ -44,6 +44,8 @@ HolidayFish = "Holiday. Fish allowed."
 
 HolidayWineOil = "Holiday. Wine and oil allowed."
 
+IfLityNotDoneAtVespers = ""
+
 InALowVoice = "(in a low voice)"
 
 Inaudibly = "(inaudibly)"
@@ -91,6 +93,8 @@ TwiceWithNoVerse = "Twice, with no verse."
 VigilEntry = ""
 
 WineOil = "Wine and oil allowed."
+
+WithoutVersesComingBefore = ""
 
 fasting.rule.title = ""
 fasting.rule.strict = ""

@@ -171,6 +171,10 @@ IchosTisEvdomados = ""
 
 Idiomela = "Idiomela."
 
+IdiomelaTisLitis = ""
+
+IdiomelaTonApostichon = ""
+
 IdiomelaTouPentikostariou = "Idiomela from the Pentecostarion."
 
 IdiomelaTouTriodiou = "Idiomela from the Triodion."
@@ -779,6 +783,7 @@ ForWednesday = "For Wednesday."
 ForThursday = "For Thursday."
 ForFriday = "For Friday."
 ForSaturday = "For Saturday."
+ForWeekday = ""
 Evening = "Evening"
 intheEvening = "in the Evening"
 Morning = "Morning"
