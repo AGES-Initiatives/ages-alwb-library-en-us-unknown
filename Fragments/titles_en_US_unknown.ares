@@ -346,6 +346,8 @@ KanonTriadikos = "Canon for the Trinity."
 
 Katanyktika = "For compunction."
 
+KatanyktikaTroparia = ""
+
 Katanyktikon = "For compunction."
 
 Katavasia = "Katavasia."
@@ -542,6 +544,8 @@ StichiraStavrosima = "Stichera for the Cross."
 StichiraTisEortis = "Stichera for the Feast."
 
 StichiraTisTheotokou = "Stichera for the Theotokos."
+
+StichiraTonAinon = ""
 
 StichiraTonEnkainion = "Stichera for the Consecration."
 
@@ -751,6 +755,11 @@ BeforeEpiphany = "Before Epiphany"
 AfterEpiphany = "After Epiphany"
 BeforeCross = "Before the Elevation of the Cross"
 AfterCross = "After the Elevation of the Cross"
+
+SkippedEpistle = ""
+SkippedGospel = ""
+SkippedEpistleP = ""
+SkippedGospelP = ""
 
 daySunday.uc = "SUNDAY"
 dayMonday.uc = "MONDAY"
