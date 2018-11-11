@@ -629,7 +629,7 @@ trMA.Ode8C3H.text = he.h.m5_en_US_unknown.TonPoiitinTisKtiseos.text
 trMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 trMA.Ode9C1H.mode = misc_en_US_unknown.Mode4
 trMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
-trMA.Ode9C1H.text = he.h.m4_en_US_unknown.ApasGigenis.text
+trMA.Ode9C1H.text = he.h.m4_en_US_unknown.ApasGigenis_Akathist.text
 
 trMA.Ode9C11.ode = misc_en_US_unknown.Ode9
 trMA.Ode9C11.mode = misc_en_US_unknown.Mode4

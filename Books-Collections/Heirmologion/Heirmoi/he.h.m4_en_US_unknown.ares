@@ -35,26 +35,26 @@ AnaxAnakton3.text = ""
 AnaxAnakton4.text = ""
 AnaxAnakton5.text = ""
 
-AnoixoToStomaMou.notmetered = "N/M (My mouth shall I open.)"
-AnoixoToStomaMou.name = "My mouth shall I open."
+AnoixoToStomaMou.notmetered = "N/M (I open my mouth.)"
+AnoixoToStomaMou.name = "I open my mouth."
 AnoixoToStomaMou.mode = misc_en_US_unknown.Mode4
 AnoixoToStomaMou.ode = misc_en_US_unknown.Ode1
 AnoixoToStomaMou.text = ""
 
-AnoixoToStomaMou_Eisodia.notmetered = "N/M (My mouth shall I open.)"
-AnoixoToStomaMou_Eisodia.name = "My mouth shall I open."
+AnoixoToStomaMou_Eisodia.notmetered = "N/M (I open my mouth.)"
+AnoixoToStomaMou_Eisodia.name = "I open my mouth."
 AnoixoToStomaMou_Eisodia.mode = misc_en_US_unknown.Mode4
 AnoixoToStomaMou_Eisodia.ode = misc_en_US_unknown.Ode1
 AnoixoToStomaMou_Eisodia.text = ""
 
-AnoixoToStomaMou_Koimisis.notmetered = "N/M (My mouth shall I open.)"
-AnoixoToStomaMou_Koimisis.name = "My mouth shall I open."
+AnoixoToStomaMou_Koimisis.notmetered = "N/M (I open my mouth.)"
+AnoixoToStomaMou_Koimisis.name = "I open my mouth."
 AnoixoToStomaMou_Koimisis.mode = misc_en_US_unknown.Mode4
 AnoixoToStomaMou_Koimisis.ode = misc_en_US_unknown.Ode1
 AnoixoToStomaMou_Koimisis.text = ""
 
-AnoixoToStomaMou_Syllipsis.notmetered = "N/M (My mouth shall I open.)"
-AnoixoToStomaMou_Syllipsis.name = "My mouth shall I open."
+AnoixoToStomaMou_Syllipsis.notmetered = "N/M (I open my mouth.)"
+AnoixoToStomaMou_Syllipsis.name = "I open my mouth."
 AnoixoToStomaMou_Syllipsis.mode = misc_en_US_unknown.Mode4
 AnoixoToStomaMou_Syllipsis.ode = misc_en_US_unknown.Ode1
 AnoixoToStomaMou_Syllipsis.text = ""
@@ -570,8 +570,8 @@ OutosOTheosImon.mode = misc_en_US_unknown.Mode4
 OutosOTheosImon.ode = misc_en_US_unknown.Ode4
 OutosOTheosImon.text = ""
 
-PaidasEvageis.notmetered = "N/M (Pious Servants.)"
-PaidasEvageis.name = "Pious Servants."
+PaidasEvageis.notmetered = "N/M (Guiltless were those Servants.)"
+PaidasEvageis.name = "Guiltless were those Servants."
 PaidasEvageis.mode = misc_en_US_unknown.Mode4
 PaidasEvageis.ode = misc_en_US_unknown.Ode8
 PaidasEvageis.text = ""
@@ -676,8 +676,8 @@ TinSionEpOrous.mode = misc_en_US_unknown.Mode4
 TinSionEpOrous.ode = misc_en_US_unknown.Ode5
 TinSionEpOrous.text = ""
 
-TinTheianTaftin.notmetered = "N/M (Let us possessed.)"
-TinTheianTaftin.name = "Let us possessed."
+TinTheianTaftin.notmetered = "N/M (O godly-minded believers.)"
+TinTheianTaftin.name = "O godly-minded believers."
 TinTheianTaftin.mode = misc_en_US_unknown.Mode4
 TinTheianTaftin.ode = misc_en_US_unknown.Ode6
 TinTheianTaftin.text = ""
