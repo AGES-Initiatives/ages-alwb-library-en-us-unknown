@@ -1,0 +1,107 @@
+A_Resource_Whose_Name = pe.d098_en_US_unknown
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peHO.daytitle = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = //dismissals_en_US_unknown.dis00.resurrection
+
+peVE.Stichera01.mode = misc_en_US_unknown.Mode1
+peVE.Stichera01.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+peVE.Stichera01.text = "The Logos, who is of one essence with God the Father, and who created all things and grants life to all, was born of the Virgin, and assumed our flesh, and willingly became a man. He is by nature good, and for all people He has poured out His wise teachings of ineffable wisdom."
+
+peVE.Stichera02.mode = misc_en_US_unknown.Mode1
+peVE.Stichera02.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+peVE.Stichera02.text = "As the Master of the Law, You entered the court of the temple, and there You taught at Mid-feast, as it is written, O Christ; speaking with authority, You rebuked and censured the mindless scribes, and all were amazed by the wisdom in Your words, and by all the miracles that You did."
+
+peVE.Stichera03.mode = misc_en_US_unknown.Mode1
+peVE.Stichera03.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+peVE.Stichera03.text = "Christ, the Bestower of Wisdom, the Giver of all good things, who pours out divine streams from a never-ending spring, cries out and says: \"Come to Me, all you who thirst, and drink the water of life. And thus rivers of grace and divine gifts will issue freely from within you."
+
+peVE.SticGlory.mode = misc_en_US_unknown.Mode1
+peVE.SticGlory.melody = misc_en_US_unknown.Idiomelon
+peVE.SticGlory.text = //pe.d095_en_US_unknown.peVE.Aposticha1.text
+
+peVE.SticBoth.mode = misc_en_US_unknown.Mode3
+peVE.SticBoth.melody = misc_en_US_unknown.Idiomelon
+peVE.SticBoth.text = //oc.m3.d1_en_US_unknown.ocVE.SticTheotokion.text
+
+peVE.Aposticha1.mode = misc_en_US_unknown.Mode3
+peVE.Aposticha1.melody = ""
+peVE.Aposticha1.text = //oc.m3.d1_en_US_unknown.ocVE.Stichera1.text
+
+peVE.Aposticha2.mode = misc_en_US_unknown.Mode3
+peVE.Aposticha2.melody = ""
+peVE.Aposticha2.text = //oc.m3.d1_en_US_unknown.ocVE.Stichera2.text
+
+peVE.Aposticha3.mode = misc_en_US_unknown.Mode3
+peVE.Aposticha3.melody = ""
+peVE.Aposticha3.text = //oc.m3.d1_en_US_unknown.ocVE.Stichera3.text
+
+peVE.Aposticha4.mode = misc_en_US_unknown.Mode3
+peVE.Aposticha4.melody = ""
+peVE.Aposticha4.text = //oc.m3.d1_en_US_unknown.ocVE.Aposticha1.text
+
+peVE.AposGlory.mode = misc_en_US_unknown.Mode1
+peVE.AposGlory.melody = misc_en_US_unknown.Idiomelon
+peVE.AposGlory.text = //pe.d095_en_US_unknown.peVE.Aposticha2.text
+
+peMA.Kathisma11.mode = misc_en_US_unknown.Mode3
+peMA.Kathisma11.melody = ""
+peMA.Kathisma11.text = //pe.d092_en_US_unknown.peMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_en_US_unknown.Mode3
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.text = //pe.d092_en_US_unknown.peMA.Kathisma12.text
+
+peMA.Kathisma1T.mode = misc_en_US_unknown.Mode3
+peMA.Kathisma1T.melody = ""
+peMA.Kathisma1T.text = //oc.m3.d7_en_US_unknown.ocMA.Kathisma14.text
+
+peMA.Kathisma21.mode = misc_en_US_unknown.Mode8
+peMA.Kathisma21.melody = he.a.m8_en_US_unknown.TinSofianKaiLogon.notmetered
+peMA.Kathisma21.text = ""
+
+peMA.Lauds1.mode = misc_en_US_unknown.Mode3
+peMA.Lauds1.melody = ""
+peMA.Lauds1.text = //oc.m3.d1_en_US_unknown.ocMA.Lauds1.text
+
+peMA.Lauds2.mode = misc_en_US_unknown.Mode3
+peMA.Lauds2.melody = ""
+peMA.Lauds2.text = //oc.m3.d1_en_US_unknown.ocMA.Lauds2.text
+
+peMA.Lauds3.mode = misc_en_US_unknown.Mode3
+peMA.Lauds3.melody = ""
+peMA.Lauds3.text = //oc.m3.d1_en_US_unknown.ocMA.Lauds3.text
+
+peMA.Lauds4.mode = misc_en_US_unknown.Mode3
+peMA.Lauds4.melody = ""
+peMA.Lauds4.text = //oc.m3.d1_en_US_unknown.ocMA.Lauds4.text
+
+peMA.LaudsGlory.mode = misc_en_US_unknown.Mode4
+peMA.LaudsGlory.melody = misc_en_US_unknown.Idiomelon
+peMA.LaudsGlory.text = //pe.d095_en_US_unknown.peMA.LaudsGlory.text
+
+peMA.Aposticha1.mode = misc_en_US_unknown.Mode2
+peMA.Aposticha1.melody = he.a.m2_en_US_unknown.OikosTouEfratha.notmetered
+peMA.Aposticha1.text = ""
+
+peMA.Aposticha2.mode = misc_en_US_unknown.Mode2
+peMA.Aposticha2.melody = he.a.m2_en_US_unknown.OikosTouEfratha.notmetered
+peMA.Aposticha2.text = ""
+
+peMA.Aposticha3.mode = misc_en_US_unknown.Mode2
+peMA.Aposticha3.melody = he.a.m2_en_US_unknown.OikosTouEfratha.notmetered
+peMA.Aposticha3.text = ""
+
+peMA.AposGlory.mode = misc_en_US_unknown.Mode4
+peMA.AposGlory.melody = misc_en_US_unknown.Idiomelon
+peMA.AposGlory.text = ""
+
