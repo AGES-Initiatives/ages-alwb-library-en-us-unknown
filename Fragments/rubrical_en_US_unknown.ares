@@ -16,6 +16,10 @@ BeginMatins = "And then Matins begins."
 
 BeginVespers = "And Vespers commences immediately with, \"Come, let us worship...\""
 
+ChoirLeftBegins = ""
+
+ChoirRightBegins = ""
+
 ContinueBasilLiturgy = "Continue with the Liturgy of St. Basil the Great."
 
 ContinueLiturgy = "Continue with the rest of the Divine Liturgy."
