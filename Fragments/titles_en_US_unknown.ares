@@ -60,6 +60,8 @@ EgkainiaNaou = ""
 
 EiEstinEideMi = "if it exists; if not,"
 
+EirmosAllos = ""
+
 EirmosEteros = "Another Heirmos."
 
 EirmosOAftos = "Same Heirmos."
@@ -291,6 +293,8 @@ KanonATouAgiou = "Canon 1 for the Saint."
 KanonBTouAgiou = "Canon 2 for the Saint."
 
 KanonTouAgiouNikolaou = "Canon for St. Nicholas."
+
+KanonTouApodeipnou = ""
 
 KanonTouApostolou = "Canon for the Apostle."
 
