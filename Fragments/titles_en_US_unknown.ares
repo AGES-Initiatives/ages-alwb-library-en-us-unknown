@@ -234,6 +234,8 @@ KanonBTisEortis = "Canon 2 of the Feast."
 
 KanonTisEortis = "Canon of the Feast."
 
+KanonTisMartyros = ""
+
 KanonATisMesopentikostis = "Canon 1 of Mid-Pentecost."
 
 KanonBTisMesopentikostis = "Canon 2 of Mid-Pentecost."
@@ -881,6 +883,7 @@ eclog.Thomas.title = "Selected Psalm Verses for the Sunday of Thomas"
 eclog.Ascension.title = "Selected Psalm Verses for Ascension"
 eclog.Pentecost.title = "Selected Psalm Verses for Pentecost"
 eclog.Forerunner.title = "Selected Psalm Verses for the Feast of the Holy Forerunner"
+eclog.ProphetElias.title = ""
 eclog.StAnne.title = ""
 eclog.Transfiguration.title = "Selected Psalm Verses for Transfiguration"
 eclog.Dormition.title = "Selected Psalm Verses for the Dormition of the Most-holy Theotokos"
