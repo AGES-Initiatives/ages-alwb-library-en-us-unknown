@@ -99,7 +99,7 @@ AsomaiSoiKyrie.notmetered = "N/M ()"
 AsomaiSoiKyrie.name = ""
 AsomaiSoiKyrie.mode = misc_en_US_unknown.Mode4
 AsomaiSoiKyrie.ode = misc_en_US_unknown.Ode1
-AsomaiSoiKyrie.text = ""
+AsomaiSoiKyrie.text = "To You will I sing, O Lord my God, for You brought your people out from Egyptian bondage and smothered the chariots of Pharaoh and his company."
 
 AvramiaioiPote.notmetered = "N/M (Servants in Babylon.)"
 AvramiaioiPote.name = "Servants in Babylon."
@@ -206,7 +206,7 @@ EnKyrioTheoMou.notmetered = "N/M ()"
 EnKyrioTheoMou.name = ""
 EnKyrioTheoMou.mode = misc_en_US_unknown.Mode4
 EnKyrioTheoMou.ode = misc_en_US_unknown.Ode3
-EnKyrioTheoMou.text = ""
+EnKyrioTheoMou.text = "My heart is grounded in the Lord my God; and thus those without might have girded themselves with power."
 
 EnPelageiTouViou.notmetered = "N/M ()"
 EnPelageiTouViou.name = ""
@@ -430,7 +430,7 @@ OAnateilasToFos.notmetered = "N/M ()"
 OAnateilasToFos.name = ""
 OAnateilasToFos.mode = misc_en_US_unknown.Mode4
 OAnateilasToFos.ode = misc_en_US_unknown.Ode5
-OAnateilasToFos.text = ""
+OAnateilasToFos.text = "You have made the light to dawn, and have radiated the morning, and have manifested the day: Glory to You, glory to You, O Jesus, Son of God."
 
 ODiasosasEnPyri.notmetered = "N/M (You saved Your Servants.)"
 ODiasosasEnPyri.name = "You saved Your Servants."
@@ -448,7 +448,7 @@ OEnToOreiToMosei.notmetered = "N/M ()"
 OEnToOreiToMosei.name = ""
 OEnToOreiToMosei.mode = misc_en_US_unknown.Mode4
 OEnToOreiToMosei.ode = misc_en_US_unknown.Ode7
-OEnToOreiToMosei.text = ""
+OEnToOreiToMosei.text = "O Lord, the God of our Fathers, You are blessed who spoke with Moses on the mountain and manifested the bush as a prototype of the Virgin."
 
 OKathimenosEnDoxi.notmetered = "N/M (He who sits in holy glory.)"
 OKathimenosEnDoxi.name = "He who sits in holy glory."
@@ -528,11 +528,11 @@ OsEmpsychoTheouKivoto_Annunciation.mode = misc_en_US_unknown.Mode4
 OsEmpsychoTheouKivoto_Annunciation.ode = misc_en_US_unknown.Ode9
 OsEmpsychoTheouKivoto_Annunciation.text = ""
 
-OsIonanTonProfitin.notmetered = "N/M (Now let no uninitiated hand.)"
+OsIonanTonProfitin.notmetered = "N/M ()"
 OsIonanTonProfitin.name = ""
 OsIonanTonProfitin.mode = misc_en_US_unknown.Mode4
 OsIonanTonProfitin.ode = misc_en_US_unknown.Ode6
-OsIonanTonProfitin.text = ""
+OsIonanTonProfitin.text = "O Christ God, the only Friend of mankind, just as you saved the Prophet Jonas from the monster of the sea, deliver me also from the depth of sins and save me."
 
 OtiEpoiiseMoiMegaleia.notmetered = "N/M ()"
 OtiEpoiiseMoiMegaleia.name = ""
@@ -686,7 +686,7 @@ TisSisEpiGis.notmetered = "N/M ()"
 TisSisEpiGis.name = ""
 TisSisEpiGis.mode = misc_en_US_unknown.Mode4
 TisSisEpiGis.ode = misc_en_US_unknown.Ode4
-TisSisEpiGis.text = ""
+TisSisEpiGis.text = "Foretelling Your advent upon the earth, O Christ God, the Prophet joyously exclaimed: Glory to Your power, O Lord."
 
 ToOdigisantiPalai.notmetered = "N/M ()"
 ToOdigisantiPalai.name = ""
@@ -704,7 +704,7 @@ TonAsporonTokonSou.notmetered = "N/M ()"
 TonAsporonTokonSou.name = ""
 TonAsporonTokonSou.mode = misc_en_US_unknown.Mode4
 TonAsporonTokonSou.ode = misc_en_US_unknown.Ode9
-TonAsporonTokonSou.text = ""
+TonAsporonTokonSou.text = "O pure Mother of God, the One whom you gave birth to without seed, Christ our God, we magnify with constant praise."
 
 TonEnKaminoTouPyros.notmetered = "N/M ()"
 TonEnKaminoTouPyros.name = ""
@@ -752,7 +752,7 @@ TonVasileaChriston.notmetered = "N/M ()"
 TonVasileaChriston.name = ""
 TonVasileaChriston.mode = misc_en_US_unknown.Mode4
 TonVasileaChriston.ode = misc_en_US_unknown.Ode8
-TonVasileaChriston.text = ""
+TonVasileaChriston.text = "The youths in captivity confessed Christ the King, exclaiming with a loud voice in the oven: O all you works, praise and glorify Him exceedingly for all the ages."
 
 TousOuranousIAretiSou.notmetered = "N/M ()"
 TousOuranousIAretiSou.name = ""
