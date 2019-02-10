@@ -107,11 +107,11 @@ meMA.Ode3Kathisma1.text = "You were ordained as priests through fragrant chrism.
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_unknown.TinOraiotita.notmetered
-meMA.Ode3KathismaT.text = "O Virgin, being a grape-vine that is not plowed,, you produced a mature and gorgeous Cluster for our sakes. He pours out sweet wine in excess for our salvation. He truly causes the souls and bodies of all men to become joyful. Therefore we declare you to be blessed and the source of every good thing we have. Like the Angle, we always exclaim to you: Rejoice, O Full of Grace."
+meMA.Ode3KathismaT.text = //oc.m3.d5_en_US_unknown.octrMA.Kathisma1T.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_unknown.TinOraiotita.notmetered
-meMA.Ode3KathismaSt.text = "O most empathetic, you willingly suffered a death devoid of honor when you were nailed to the Cross. O Christ, Your Mother saw this, and she wailed and was painfully hurt. Lord, who alone is the Friend of man, the only One who is of complete goodness, through the prayers which she prays to You in holiness, and because of your tender love, have compassion on us, and give salvation to the world by Your mercy. O Savior, it is You who takes away its sin."
+meMA.Ode3KathismaSt.text = //oc.m3.d6_en_US_unknown.octrMA.Kathisma1T.text
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode4

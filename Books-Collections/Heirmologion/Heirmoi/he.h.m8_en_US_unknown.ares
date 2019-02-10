@@ -34,7 +34,7 @@ AsmaAnapempsomen.notmetered = "N/M ()"
 AsmaAnapempsomen.name = ""
 AsmaAnapempsomen.mode = misc_en_US_unknown.Mode8
 AsmaAnapempsomen.ode = misc_en_US_unknown.Ode1
-AsmaAnapempsomen.text = ""
+AsmaAnapempsomen.text = "O you people, let us send up a song unto our wondrous God who rescued Israel from bondage. Let us sing a triumphal hymn and cry: We shall sing to You, the only Master."
 
 AsmaAsmaton.notmetered = "N/M ()"
 AsmaAsmaton.name = ""
@@ -112,7 +112,7 @@ EpevisEfIppous.notmetered = "N/M ()"
 EpevisEfIppous.name = ""
 EpevisEfIppous.mode = misc_en_US_unknown.Mode8
 EpevisEfIppous.ode = misc_en_US_unknown.Ode4
-EpevisEfIppous.text = ""
+EpevisEfIppous.text = "O Lord, you have mounted on Your Apostles as on horses. You have taken their reins in Your hands. Your horsemanship is become salvation for them that sing with faith: Glory to Your power, O Lord."
 
 EptaplasiosKaminon.notmetered = "N/M (The tyrant king.)"
 EptaplasiosKaminon.name = "The tyrant king."
@@ -400,7 +400,7 @@ ProsTonDynamenonSozein.notmetered = "N/M ()"
 ProsTonDynamenonSozein.name = ""
 ProsTonDynamenonSozein.mode = misc_en_US_unknown.Mode8
 ProsTonDynamenonSozein.ode = misc_en_US_unknown.Ode6
-ProsTonDynamenonSozein.text = ""
+ProsTonDynamenonSozein.text = "From the deep of sins have I cried to the Lord, Who is able to save me. He led my life up out of corruption, because He is the Friend of man."
 
 ProsecheOurane.notmetered = "N/M ()"
 ProsecheOurane.name = ""
