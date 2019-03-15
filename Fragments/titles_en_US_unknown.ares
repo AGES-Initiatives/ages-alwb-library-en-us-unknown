@@ -691,6 +691,8 @@ TouIerarchou = "For the Hierarch."
 
 TouIeromartyros = "For the Hieromartyr."
 
+TouIosif = ""
+
 TouLazarou = "For Lazarus."
 
 TouMartyros = "For the Martyr."
@@ -889,3 +891,12 @@ eclog.Transfiguration.title = "Selected Psalm Verses for Transfiguration"
 eclog.Dormition.title = "Selected Psalm Verses for the Dormition of the Most-holy Theotokos"
 eclog.Theotokos.title = ""
 eclog.Meatfare.title = ""
+
+forMeeting = ""
+forAnnunciation = ""
+forTransfiguration = ""
+forDormition = ""
+forTheotokosBirth = ""
+forCross = ""
+forEntry = ""
+forChristmas = ""
