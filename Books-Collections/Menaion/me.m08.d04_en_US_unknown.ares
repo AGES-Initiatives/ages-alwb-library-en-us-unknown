@@ -1,0 +1,276 @@
+A_Resource_Whose_Name = me.m08.d04_en_US_unknown
+
+meDate.text = ""
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_unknown.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_unknown.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_unknown.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_unknown.Mode4
+meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
+meVE.SticTheotokion.text = ""
+
+meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode4
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
+meVE.SticStavrotheotokion.text = ""
+
+meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
+meVE.Apolytikion1.mode = misc_en_US_unknown.Mode3
+meVE.Apolytikion1.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
+meVE.Apolytikion1.text = ""
+
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = titles_en_US_unknown.KanonTonAgion
+meMA.C1.verse = //prayers_en_US_unknown.verse_SaintsM.text
+
+meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C11.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C11.text = "Let us come and faithfully venerate those seven gleaming precious stones. They blaze upon the Church of Christ with a light greater than the seven-branched lampstand of the Law."
+
+meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C12.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C12.text = "The Seven Youths had previously lived in Christ through the mortification of the flesh. They later confirmed the doctrine of the Resurrection by arising as though they had wondrously slept and not died."
+
+meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C13.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C13.text = "At the sound of seven trumpets Jericho fell. And now the elation of error has descended to Hades and is totally destroyed at the faith of the prizewinners of seven voices."
+
+meMA.Ode1C14.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C14.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C14.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C14.text = "O righteous Seven Youths, you have truly received a double crown. You have destroyed error and the denial of the universal resurrection, the former before your death, and the latter in your awakening."
+
+meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C1T.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C1T.text = "O unwedded Bride, you have inaugurated a new kind of birth. For the Logos received a body from you without suffering change or intermingling. In the Holy Spirit is He eternal and without beginning with the Father."
+
+meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C11.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C11.text = "O prizewinners, as seven unerring stars shining with faith, you guided them that were perishing on the sea of error to the harbor of salvation."
+
+meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C12.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C12.text = "O Saints, you stood fearlessly before the tyrant's judgment seat like the Maccabees in ancient times. You traded temporary glory for warfare as soldiers of Christ."
+
+meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C13.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C13.text = "O holy Youths, you shone forth as a worthy sacrifice of prayer to Christ, and as an odor of the sweetest fragrance. You firmly repelled the foul stench of delusion."
+
+meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C1T.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C1T.text = "O Virgin, the bush upon Sinai prefigured the uniqueness of your childbirth. You were not burned when you faithfully received the fire of the Godhead in your womb."
+
+meMA.Ode3H.ode = misc_en_US_unknown.Ode3
+meMA.Ode3H.mode = misc_en_US_unknown.Mode2
+meMA.Ode3H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3H.text = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode4
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
+meMA.Ode3Kathisma1.text = "Let all the faithful venerate the Seven Youths with songs of praise on this day while we exalt Christ. For they that rejected all the things of the world as corrupted found the gifts that nothing can corrupt. Corruption did not touch them when they died. Thus after many years they again awoke and buried all the unbelief of the malicious."
+
+meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaT.text = "O all-honorable Lady, who is forgiveness for sinners and the salvation and help of faithful souls, although I love sin, I beg you, who gave birth to the sinless God and Creator who takes away the sins` of the world. Have compassion on my soul which is full of iniquity and unrighteousness. Blot out all my many sins."
+
+meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode4
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C11.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C11.text = "Let us praise the Seven honorable Youths, who are a righteous company honored with the number seven."
+
+meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C12.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C12.text = "The Youths of Ephesus showed the impious and delusional king to be senseless when he contrived empty machinations."
+
+meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C13.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C13.text = "O holy Youths, you truly became all-spotless victims and sacrifices to the Lord by your faithfulness."
+
+meMA.Ode4C14.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C14.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C14.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C14.text = "O Youths, you died in the body and unfathomably rose again even before the general Resurrection. You have been crowned with glory."
+
+meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C1T.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C1T.text = "O blessed and immaculate Virgin, do not disdain to constantly intercede on our behalf, so that we may be saved from every distress."
+
+meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C11.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C11.text = "O Ephesian Youths, first you died a normal death on earth. Then you wondrously rose again You demonstrably confirmed the Resurrection of the dead."
+
+meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C12.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C12.text = "O wise Youths, you were sacrificed to God through your true statement of faith as the Lord's righteous contenders. You were spared beatings and whippings and took the prize."
+
+meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C13.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C13.text = "O famous Martyrs, you have mightily defeated the deception of idols and the doctrine of ungodly heresy. You always guard those who confess the Resurrection of the dead."
+
+meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C1T.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C1T.text = "Although transcendent in Essence, You were born of a holy Mother. You are now in two natures but one hypostasis. You are completely mortal and completely God without intermingling."
+
+meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C11.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C11.text = "The Seven Youths smashed the godless decree of the tyrants with words like stones. Let the pillars be acclaimed that are equal in number to those of the Divine Wisdom."
+
+meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C12.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C12.text = "O Saints, watched over by divine providence, you received a cave as a hidden tomb. You lay dead and preserved for many years."
+
+meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C13.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C13.text = "O Martyrs, you drive away corrupting and dead faith as partakers of incorruption. You supplicate to God for those who hope in the Resurrection."
+
+meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C1T.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C1T.text = "Now is the woman's nature joyful. Now has sorrow ended, and joy has flowered. For Mary has given birth to joy, Who is the Savior and Lord."
+
+meMA.Ode6H.ode = misc_en_US_unknown.Ode6
+meMA.Ode6H.mode = misc_en_US_unknown.Mode2
+meMA.Ode6H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6H.text = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.text
+
+meMA.Kontakion1.mode = misc_en_US_unknown.Mode4
+meMA.Kontakion1.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
+meMA.Kontakion1.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C11.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C11.text = "The Youths became the pure and elected vessels of Christ, by which heretical teaching is expelled far from the Church, and by which Orthodoxy shines. There will later be the Resurrection of every soul and body as has already happened to them."
+
+meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C12.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C12.text = "O holy Youths, as you were truly firm in your trial before death, you appeared again living even after death. You were made mighty with divine glory. You piously confirmed in yourselves the truth of the Resurrection."
+
+meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C13.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C13.text = "The Resurrection will be of spirits and physical bodies together. Those who are of great acclaim have said that even as the soul did not spring forth without the body, to come forth without it into the world, neither will the soul be glorified or put to trial without the body."
+
+meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C1T.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C1T.text = "O Mary, in giving birth to God, the Savior of all, you became the one who sets the despairing upright, the help of those who have wandered, and the healing of those who chant: \"Blessed is the Fruit of your womb.\""
+
+meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C11.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C11.text = "The divine Youths have now rooted out the bitter delusion and heresy of the godless that rose up in evil. By faith they live, were buried, and rose again, and so they are full of the fruit of the Faith."
+
+meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C12.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C12.text = "The saintly Seven Youths and prizewinners, who are the chiefs of Ephesians, have manifested by faith and divine inspiration to be a staff of the Church and Kingdom of Christ. We supremely exalt them to all the ages."
+
+meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C13.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C13.text = "Appearing as firm athletes, and equal in number to the planets, the Youths rid error from the path of correct religion as they cried: \"You do we supremely exalt, O Christ, to the ages.\""
+
+meMA.Ode8C14.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C14.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C14.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C14.text = "Light and resurrection of life were wondrously given by God to the Youths in the cave. Those who had previous died, were risen, and now live exclaimed: \"Save, O God, them that hymn you with faith.\""
+
+meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C1T.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C1T.text = "O pure Virgin, Mother of God, no man has ever perished who in an Orthodox manner had the hope of his faith in you, except those alone who in envy refuse to venerate the image of your likeness."
+
+meMA.Ode8H.ode = misc_en_US_unknown.Ode8
+meMA.Ode8H.mode = misc_en_US_unknown.Mode2
+meMA.Ode8H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8H.text = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.text
+
+meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C11.melody = he.h.m2_en_US_unknown.ITonProIliouFostira.notmetered
+meMA.Ode9C11.text = "The resurrection of the Saints has now demonstrated to be a treasure of mysteries anda revelation of holy wonders. For those who died a natural death long ago are now risen up without corruption. They are wearing clothes like men who had been asleep."
+
+meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C12.melody = he.h.m2_en_US_unknown.ITonProIliouFostira.notmetered
+meMA.Ode9C12.text = "The Saints' cave is a treasury of strengthening and a seal of true faith. It announces the glory of the future Resurrection, which will not raise Lazarus up who had been dead for four days but all who have died since the beginning of time."
+
+meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C13.melody = he.h.m2_en_US_unknown.ITonProIliouFostira.notmetered
+meMA.Ode9C13.text = "The Youths, both in number and in faith, are truly the honorable eyes of the Church of Christ. They flash more brilliantly than the plummet-stone of Zorobabel. Let us praise in spirit their godly spirits."
+
+meMA.Ode9C14.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C14.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C14.melody = he.h.m2_en_US_unknown.ITonProIliouFostira.notmetered
+meMA.Ode9C14.text = "O Seven Youths and pillars of the Wisdom of God, you rightly strove and put on the crown of martyrdom. You have proven to be the resurrection of the doctrines of Orthodoxy. You are the defenders of the Church and the intercessors for those who praise you."
+
+meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C1T.melody = he.h.m2_en_US_unknown.ITonProIliouFostira.notmetered
+meMA.Ode9C1T.text = "O pure one, supremely glorious Mary, since you preserved your body and soul for God without defilement, Christ the King loved your beauty. He showed you to be the Mother of His Incarnation and thus achieved my eternal salvation."
+
+meMA.Ode9H.ode = misc_en_US_unknown.Ode9
+meMA.Ode9H.mode = misc_en_US_unknown.Mode2
+meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9H.text = he.h.m2_en_US_unknown.ITonProIliouFostira.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_unknown.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_unknown.ToisMathitaisSynelthomen.notmetered
+meMA.Exaposteilarion1.text = ""
+
+meMA.ExapTheotokion.mode = misc_en_US_unknown.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_unknown.ToisMathitaisSynelthomen.notmetered
+meMA.ExapTheotokion.text = ""
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meMegalynarion.text = ""
+

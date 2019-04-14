@@ -1,0 +1,248 @@
+A_Resource_Whose_Name = me.m07.d28_en_US_unknown
+
+meDate.text = ""
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_unknown.Mode1
+meVE.Stichera01.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_unknown.Mode1
+meVE.Stichera02.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_unknown.Mode1
+meVE.Stichera03.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+meVE.Stichera03.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_unknown.Mode1
+meVE.SticTheotokion.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+meVE.SticTheotokion.text = ""
+
+meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode1
+meVE.SticStavrotheotokion.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
+meVE.SticStavrotheotokion.text = //me.m01.d23_en_US_unknown.meVE.AposStavrotheotokion.text
+
+meVE.Apolytikion1.mode = misc_en_US_unknown.Mode4
+meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.TachyProkatalave.notmetered
+meVE.Apolytikion1.text = ""
+
+meVE.Apolytikion2.mode = misc_en_US_unknown.Mode5
+meVE.Apolytikion2.melody = he.a.m5_en_US_unknown.TonSynanarchonLogon.notmetered
+meVE.Apolytikion2.text = ""
+
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = ""
+meMA.C1.verse = ""
+
+//Canon translated by Austin Martin, 2019
+
+meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
+meMA.Ode1C11.text = "O all-wise Apostles, since you have become light by your participation in the Godhead, from the gloom of passions rescue those who celebrate your venerable and light-bearing festival and grant them illumination."
+
+meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
+meMA.Ode1C12.text = "O blessed ones, you were captivated with the most sweet desire of Christ. You followed after Him and truly became His disciples by piously throwing off the delights of this corruptible life."
+
+meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
+meMA.Ode1C13.text = "Parmenas, Prochoros, wonderous Timon, and God-inspired Nicanor became illuminators of souls. They issue as lamps from the Dayspring that bestows light."
+
+meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
+meMA.Ode1C1T.text = "O all-blameless Virgin, the processionals of God were made known in you. They happened in a strange giving of birth and a union without compare. Thus we glorify you as the Sovereign Lady of all creation."
+
+meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C11.text = "O glorious Apostles, in holiness you rained down the water of true knowledge on those on earth as though you were spiritual clouds."
+
+meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C12.text = "O all-wise Deacons, you were filled with the Spirit's grace. You were appointed by His election to minister to the needs of the Saints."
+
+meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C13.text = "Let us venerate the glorious Parmenas, the wise Timon, the august Prochoros, and the lofty-minded Nicanor."
+
+meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C1T.text = "O immaculate and all-blameless Virgin, you gave birth to the good Lord. He produces sweetness and salvation from tribulation."
+
+meMA.Ode3H.ode = misc_en_US_unknown.Ode3
+meMA.Ode3H.mode = misc_en_US_unknown.Mode4
+meMA.Ode3H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3H.text = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode1
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
+meMA.Ode3Kathisma1.text = "Nicanor, Prochoros, glorious Timon, and Parmenas, by faith you were shown forth as hallowed deacons of the Logos. You were His venerable eye-witnesses and chosen vessels. Thus we celebrate your sacred memorial on this day. We keep the festival with a joyful heart in gladness, and we call you blessed."
+
+meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode1
+meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
+meMA.Ode3KathismaT.text = "O pure Virgin Mary, unwedded Theotokos, you are the only strength and shelter protecting the faithful. O blessed Maiden, deliver from dangers, woes, and all grievous adversity all of those who faithfully place their hope in you. O our Lady, hurry to save our humble souls by your holy prayers to God."
+
+meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode1
+meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
+meMA.Ode4C11.text = "The Apostles of the Benefactor dissipated the darkness of impiety and illuminated the world by blazing in the canopy of the Church like stars that never set."
+
+meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
+meMA.Ode4C12.text = "O all-blessed Prochoros, you became the excellent teacher of Nicomedia and its first divine hierarch. You ministered in the Gospel of Grace and presided over the flock of Christ."
+
+meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
+meMA.Ode4C13.text = "O blessed Nicanor, you were slaughtered like a lamb the same day that Stephen the first athlete was perfected, along with the two thousand who hoped in Christ. Thus you inherited a divine reward."
+
+meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C1T.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
+meMA.Ode4C1T.text = "O all-pure Lady, in virginal innocence you conceived God the Word, Who assumed a body beyond explanation by mind or speech. Thus we duly glorify you, the Virgin, and we properly call you blessed."
+
+meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
+meMA.Ode5C11.text = "Lord, you sent forth Your disciples as trumpets. They awakened those souls that sing Your worship out of the graveyard of delusion."
+
+meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
+meMA.Ode5C12.text = "The holy Timon became the shepherd of Bostra. He was consumed by fire and found the blessed end of martyrdom."
+
+meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
+meMA.Ode5C13.text = "The great Parmenas fell asleep in view of the Apostles. He finished the holy ministry with fervent care."
+
+meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C1T.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
+meMA.Ode5C1T.text = "O all-blameless one, we venerate you through whom we have been redeemed from the corruption of death and from the evil of the destroyer that once oppressed us."
+
+meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C11.text = "Nicanor is put to death, having been murdered at the hands of the Jews. He declared unending life and the Cross and Passion of Him Who suffered in the flesh for the sake of His compassion."
+
+meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C12.text = "The great Timon was kindled with strong desire for the love of the Lord. He was perfected in the fire and became a sacred whole-burnt offering at the command of the unrighteous."
+
+meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C13.text = "O blessed Apostles, you holy memorial is clothed with light and filled with grace. It hallows the minds of everyone who keeps it with faith."
+
+meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C1T.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C1T.text = "O Birthgiver of God, you unfathomably conceived the King of all. Thus the orders of bodiless Angels, the choirs of Apostles, and the multitudes of Martyrs praise you."
+
+meMA.Ode6H.ode = misc_en_US_unknown.Ode6
+meMA.Ode6H.mode = misc_en_US_unknown.Mode4
+meMA.Ode6H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6H.text = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.text
+
+meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C11.text = "O all-praised Apostles, you received the heavenly Kingdom as your portion, since with your whole mind you loved Christ, Who alone is truly beautiful beyond compare."
+
+meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C12.text = "O inspired martyrs of God, you became saviors of the faithful both by word and sacred deed. You lead them to the confession of the Faith. You are honored by the Logos, Who shined on us from a Virgin."
+
+meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C13.text = "O blessed Nicanor, you fought an unusual contest. You were murdered by the will of the godless Hebrews and offered to Christ as a lamb, while exclaiming, \"Blessed are You, O my God and my Lord.\""
+
+meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C1T.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C1T.text = "O all-pure Maiden, you gave birth at a word to the Word of the Father, Who with a word made heaven and earth. He has given word to those who now faithfully trust in Him that they should give Him glory."
+
+meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C11.text = "O all-wise Apostles, you have rescued those who obey your teachings from the mire of passions and vanity. You have led them to the pinnacle of knowledge. They have become well-pleasing to God and exclaim: \"O all you works, praise you the Lord.\""
+
+meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C12.text = "Let the holy Parmenas be venerated in inspired songs with Timon, the praiseworthy Prochoros, and the wonderful Nicanor. They are disciples of Jesus and enrich the nations. They exclaim: \"O all you works, praise you the Lord.\""
+
+meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C13.text = "O famous and glorious Deacons, the Lord has elected you to be disciples after Peter and the rest of the Twelve. You are numbered with the chosen Seventy. You are rightly chosen for your faithfulness to minister to the needs of the Saints."
+
+meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C1T.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C1T.text = "O graced of God, behold that the voices of the holy heralds have been fulfilled. For you have given birth to the Lord, Who is transcendent in His Essence. He was announced by them for the salvation of the faithful who exclaim: \"O all you works, praise you the Lord.\""
+
+meMA.Ode8H.ode = misc_en_US_unknown.Ode8
+meMA.Ode8H.mode = misc_en_US_unknown.Mode4
+meMA.Ode8H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8H.text = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.text
+
+meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
+meMA.Ode9C11.text = "O elect and venerable Deacons, you are manifest as vessels of the Logos. You contain all of His splendor and are completely wise. You have ministered to the needs of the Saints and now enjoy unfathomable glory with the Logos."
+
+meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
+meMA.Ode9C12.text = "O all-blessed eyewitnesses, Timon, Parmenas, Nicanor, and Prochoros the herald of Christ, today the creation commemorates your memorial and worthily calls you blessed. "
+
+meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
+meMA.Ode9C13.text = "O glorious ones, you have been exalted to very great glory as disciples of God the Logos. You rejoice with the choirs of the Apostles and the Angels. You forever intercede with them that we may find mercy."
+
+meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
+meMA.Ode9C1T.text = "O Virgin, we joyously exclaim to you with the voice of the Archangel: \"Rejoice, joy of the Angels, revered glory of the Apostles, message of the Prophets, and crowning of the Martyrs.\""
+
+meMA.Ode9H.ode = misc_en_US_unknown.Ode9
+meMA.Ode9H.mode = misc_en_US_unknown.Mode4
+meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9H.text = he.h.m4_en_US_unknown.LithosAcheirotmitos.text
+
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.text = ""
+
+meMegalynarion.text = ""
