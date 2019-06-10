@@ -47,7 +47,7 @@ meVE.SticTheotokion2.text = //ho.s23_en_US_unknown.hoCA.Troparion7.text
 
 meVE.SticStavrotheotokion2.mode = misc_en_US_unknown.Mode2
 meVE.SticStavrotheotokion2.melody = he.a.m2_en_US_unknown.OteEkTouXylou.notmetered
-meVE.SticStavrotheotokion2.text = ""
+meVE.SticStavrotheotokion2.text = //me.m01.d22_en_US_unknown.meVE.AposStavrotheotokion.text
 
 meVE.AposGlory.poet = poets_en_US_unknown.Sykeotou
 meVE.AposGlory.mode = misc_en_US_unknown.Mode6
