@@ -318,6 +318,8 @@ KanonTouIeromartyros = "Canon for the Hieromartyr."
 
 KanonTouMartyros = "Canon for the Martyr."
 
+KanonTouMegalomartyros = ""
+
 KanonTouOsiou = "Canon for the Devout Man."
 
 KanonATouOsiou = "Canon 1 for the Devout Man."
@@ -700,6 +702,8 @@ TouIosif = ""
 TouLazarou = "For Lazarus."
 
 TouMartyros = "For the Martyr."
+
+TouMegalomartyros = ""
 
 TouMinaiou = "From the Menaion."
 
