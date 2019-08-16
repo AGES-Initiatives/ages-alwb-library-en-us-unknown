@@ -252,6 +252,8 @@ KanonBTisOsias = "Canon 2 for the Devout Woman."
 
 KanonTisOsias = "Canon for the Devout Woman."
 
+KanonTisSamaritidos = ""
+
 KanonATisTheotokou = "Canon 1 for the Theotokos."
 
 KanonBTisTheotokou = "Canon 2 for the Theotokos."
@@ -357,6 +359,8 @@ KanonBTouProfitou = "Canon 2 for the Prophet."
 KanonTouStavrou = "Canon for the Cross."
 
 KanonTouTriodiou = "Canon from the Triodion."
+
+KanonTouTyflou = ""
 
 KanonTriadikos = "Canon for the Trinity."
 
