@@ -103,5 +103,5 @@ peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_US_unknown.Mode4
 peMA.AposGlory.melody = misc_en_US_unknown.Idiomelon
-peMA.AposGlory.text = ""
+peMA.AposGlory.text = //pe.d096_gr_GR_cog.peMA.LaudsGlory.text
 
