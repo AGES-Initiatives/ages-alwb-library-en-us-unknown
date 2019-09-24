@@ -509,7 +509,7 @@ meMA.LaudsGlory.text = //me.m04.d23_en_US_unknown.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_US_unknown.Mode4
 meMA.LaudsTheotokion.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
-meMA.LaudsTheotokion.text = ""
+meMA.LaudsTheotokion.text = //oc.m4.d4_en_US_unknown.ocVE.Stichera6.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_unknown.media.key
 
