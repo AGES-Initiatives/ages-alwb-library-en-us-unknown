@@ -1,0 +1,314 @@
+A_Resource_Whose_Name = me.m01.d19_en_US_unknown
+
+meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_unknown.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_unknown.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_unknown.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
+meVE.Stichera03.text = ""
+
+meVE.SticGlory.poet = poets_en_US_unknown.Anatoliou
+meVE.SticGlory.mode = misc_en_US_unknown.Mode8
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_unknown.Mode8
+meVE.SticTheotokion.melody = he.a.m8_en_US_unknown.KyrieEiKaiKritirio.notmetered
+meVE.SticTheotokion.text = ""
+
+meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode8
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_unknown.KyrieEiKaiKritirio.notmetered
+meVE.SticStavrotheotokion.text = ""
+
+meVE.AposGlory.poet = poets_en_US_unknown.Anatoliou
+meVE.AposGlory.mode = misc_en_US_unknown.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = //me.m01.d15_en_US_unknown.meVE.AposGlory.text
+
+meVE.AposTheotokion.mode = misc_en_US_unknown.Mode6
+meVE.AposTheotokion.melody = he.a.m6_en_US_unknown.OlinApothemenoi.notmetered
+meVE.AposTheotokion.text = ""
+
+meVE.AposStavrotheotokion.mode = misc_en_US_unknown.Mode6
+meVE.AposStavrotheotokion.melody = he.a.m6_en_US_unknown.OlinApothemenoi.notmetered
+meVE.AposStavrotheotokion.text = ""
+
+meVE.GeneralApolytikion1.mode = misc_en_US_unknown.Mode1
+meVE.GeneralApolytikion1.melody = //he.ga_en_US_unknown.TisErimouPolitis.notmetered
+meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
+meVE.MM.GeneralApolytikion1.text = properties_en_US_unknown.media.key
+
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = titles_en_US_unknown.KanonTouOsiou
+meMA.C1.verse = //prayers_en_US_unknown.verse_DevoutMan.text
+
+meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_unknown.ChoroiIsrail.notmetered
+meMA.Ode1C11.text = "O Father, shining now with light divine and dwelling with the Angels, by your intercessions save us who observe your most sacred memory, as we joyously cry out: Let us sing to our God, for He is greatly glorified."
+
+meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_unknown.ChoroiIsrail.notmetered
+meMA.Ode1C12.text = "O all-blessed Makarios, you set out on the path leading to life, and you finished it without turning back. You avoided the commotion of the world and you dispersed the tumult of the demons, as you joyously cried out: Let us sing to our God, for He is greatly glorified."
+
+meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_unknown.ChoroiIsrail.notmetered
+meMA.Ode1C13.text = "O Makarios, through ascetic labors in the Holy Spirit, you put death the mind set on the flesh. You were guided by His divine power, as you joyously cried out: Let us sing to our God, for He is greatly glorified."
+
+meMA.Ode1C14.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C14.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C14.melody = he.h.m4_en_US_unknown.ChoroiIsrail.notmetered
+meMA.Ode1C14.text = "O Father, you forsook all delights, for you loved the never-ending delight, in the house of the Lord, where the sound is of those who celebrate and joyously cry out: Let us sing to our God, for He is greatly glorified."
+
+meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
+meMA.Ode1C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_unknown.ChoroiIsrail.notmetered
+meMA.Ode1C1T.text = "O Virgin, you conceived in your womb the unoriginate Father's timeless Son, when He became flesh for the sake of humanity; and you incomprehensibly gave birth to Him in time. To Him we joyously cry out: Let us sing to our God, for He is greatly glorified."
+
+meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_unknown.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C11.text = "O devout St. Makarios, you subordinated yourself to the law of the Spirit, whose whole armor you put on, and you did not allow your will to incline to the law of sin."
+
+meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_unknown.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C12.text = "O God-bearing father, your mind was on high with God. You renounced all things on earth, and by labors of abstinence you were continually lifted up."
+
+meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_unknown.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C13.text = "O God-bearer, you broke the bonds of nature by your pure way of life, which transcended nature, and you received the grace to accomplish supernatural deeds."
+
+meMA.Ode3C14.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C14.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C14.melody = he.h.m4_en_US_unknown.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C14.text = "O Father Makarios, you chose to live in the desert and to stay far away from commotion, so that free from disturbance you might be with God."
+
+meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
+meMA.Ode3C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_unknown.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C1T.text = "O Mother of God, our humane Lord and Benefactor dwelt in your womb without being circumscribed, wishing thus to save humanity."
+
+meMA.Ode3H.ode = misc_en_US_unknown.Ode3
+meMA.Ode3H.mode = misc_en_US_unknown.Mode4
+meMA.Ode3H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3H.text = he.h.m4_en_US_unknown.ToxonDynatonIsthenise.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode1
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
+meMA.Ode3Kathisma1.text = "O wise Father, you were tested in ascetic discipline like gold is in fire, and you shone even brighter. Then you were translated to heavenly courts. We faithfully extol you and cry out: Pray that we may receive grace, mercy and forgiveness of sins."
+
+meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode1
+meMA.Ode3KathismaT.melody =he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered 
+meMA.Ode3KathismaT.text = "O blessed Mary, guide us in the way of repentance, since we continually turn aside to the byways of evil, and thus enrage the Lord. O unwed Virgin, you are the  refuge of humans in despair, O dwelling place of God."
+
+meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode1
+meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_unknown.OKathimenosEnDoxi.notmetered
+meMA.Ode4C11.text = "O all-venerable Father Makarios, swiftly did you strip off the old man, which is corrupt, along with the sinful passions; and exercising self-control, you put on the new man according to Christ."
+
+meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_unknown.OKathimenosEnDoxi.notmetered
+meMA.Ode4C12.text = "O Father, your illustrious life exemplified every divine virtue. It has become a perfect rule of prayer and fasting and vigil and supplication to Christ, who loves humanity."
+
+meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_unknown.OKathimenosEnDoxi.notmetered
+meMA.Ode4C13.text = "O God-bearing Father, you gave your eyes no slumber, until you had made yourself to be an exquisite house for the omnicient Master, to whom you cried aoud: Glory to Your power, O Christ!"
+
+meMA.Ode4C14.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C14.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C14.melody = he.h.m4_en_US_unknown.OKathimenosEnDoxi.notmetered
+meMA.Ode4C14.text = ""
+
+meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
+meMA.Ode4C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C1T.melody = he.h.m4_en_US_unknown.OKathimenosEnDoxi.notmetered
+meMA.Ode4C1T.text = "O all-pure Virgin, you revived mortal humanity, and you raised us who had fallen to ruin, when you gave birth to the Giver of Life, who redeems all who cry aloud: Glory to Your power, O Christ."
+
+meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_unknown.TonFotismonSouKyrie.notmetered
+meMA.Ode5C11.text = "O devout St. Makarios, you gave wings to the noetic faculty of your soul, and you wisely governed your senses, Thus you became a hallowed and all-sacred temple of God."
+
+meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_unknown.TonFotismonSouKyrie.notmetered
+meMA.Ode5C12.text = "O Saint, you broke the devices of the perverted dragon, and you frustrated his bitter schemes, all the while keeping your soul in harmony with the law of God."
+
+meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_unknown.TonFotismonSouKyrie.notmetered
+meMA.Ode5C13.text = "O devout St. Makarios, you had Christ as charioteer on the way to heaven, for you had adorned the noetic faculty of your soul, and had set your mind as to govern it."
+
+meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
+meMA.Ode5C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C1T.melody = he.h.m4_en_US_unknown.TonFotismonSouKyrie.notmetered
+meMA.Ode5C1T.text = "The timeless Son, to whom the Virgin gave birth, ordains purity for all; and to those on earth He declares the pure and true faith."
+
+meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_unknown.EvoiseProtypon.notmetered
+meMA.Ode6C11.text = "O God-bearing Saint, you intensly loved to live in the wilderness, where you received God, who delivered you and preserved your steps from any harm."
+
+meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_unknown.EvoiseProtypon.notmetered
+meMA.Ode6C12.text = "O godly-minded Makarios, you remained unyielding in ascetic discipline, observing its rigour until the end. Because of this, you were counted worthy of ineffable divine illumination."
+
+meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_unknown.EvoiseProtypon.notmetered
+meMA.Ode6C13.text = "O Saint, you have been worthily granted the angelic honor to stand with the Angels near the God of all, for while on earth you had lived the life of the Angels."
+
+meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
+meMA.Ode6C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C1T.melody = he.h.m4_en_US_unknown.EvoiseProtypon.notmetered
+meMA.Ode6C1T.text = "O Theotokos, in your womb you conceived God the Logos, who is unoriginate, and who immutably became like us humans for our sakes, and who is therefore known in two natures."
+
+meMA.Ode6H.ode = misc_en_US_unknown.Ode6
+meMA.Ode6H.mode = misc_en_US_unknown.Mode4
+meMA.Ode6H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6H.text = he.h.m4_en_US_unknown.EvoiseProtypon.text
+
+meMA.Kontakion1.mode = misc_en_US_unknown.Mode4
+meMA.Kontakion1.melody = he.a.m4_en_US_unknown.EpefanisSimeron.notmetered
+meMA.Kontakion1.text = ""
+
+meMA.Oikos1.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_unknown.ODiasosasEnPyri.notmetered
+meMA.Ode7C11.text = "O Saint, you threw down the enemies, with the stroke from above and the help of God, and you became victorious and cried out: Blessed are You, O supremely praised Lord, the God of our Fathers. "
+
+meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_unknown.ODiasosasEnPyri.notmetered
+meMA.Ode7C12.text = "O St. Makarios, you purified yourself of the dark mist of the sinful passions. Then you were illumined with the light of dispassion, and you cried out: Blessed are You, O supremely praised Lord, the God of our Fathers."
+
+meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_unknown.ODiasosasEnPyri.notmetered
+meMA.Ode7C13.text = "O Saint, you made your soul radiant with the beauty of virtue, and thus you became very beautiful to God, and joyfully you sang: Blessed are You, O supremely praised Lord, the God of our Fathers."
+
+meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
+meMA.Ode7C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C1T.melody = he.h.m4_en_US_unknown.ODiasosasEnPyri.notmetered
+meMA.Ode7C1T.text = "O Virgin, wishing to call us, who had been taken into captivity, back to our original state, the Lord who loves humanity dwelt in your womb and became incarnate. He is the blessed God of our Fathers."
+
+meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_unknown.PaidasEvageis.notmetered
+meMA.Ode8C11.text = "O all-blessed Makarios, when you received the words of eternal life in your heart, you whithered your flesh and died to the world. Thus clothed in a life-giving mortification, you cried aloud: Praise the Lord, and exalt Him beyond measure unto all the ages."
+
+meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_unknown.PaidasEvageis.notmetered
+meMA.Ode8C12.text = "O God-bearing Saint, implore our God, the only Giver of good, to be merciful to us who celebrate your most sacred memory, and ask Him to forgive our sins as we cry aloud: Praise the Lord, and exalt Him beyond measure unto all the ages."
+
+meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_unknown.PaidasEvageis.notmetered
+meMA.Ode8C13.text = "O Saint, you waited on God with unyielding steadfastness, and you received the splendor that comes from Him. Like a mirror you reflect that shining light to those who sing: O all you works, praise the Lord, and exalt Him beyond measure unto all the ages."
+
+meMA.Ode8C14.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C14.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C14.melody = he.h.m4_en_US_unknown.PaidasEvageis.notmetered
+meMA.Ode8C14.text = ""
+
+meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
+meMA.Ode8C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C1T.melody = he.h.m4_en_US_unknown.PaidasEvageis.notmetered
+meMA.Ode8C1T.text = "O Lady full of grace, we praise you; for you gave birth to God incarnate for our sakes. And therefore we all call you Theotokos, the table that held God, the beauty of Jacob, and we cry aloud: Praise the Lord, and exalt Him beyond measure unto all the ages."
+
+meMA.Ode8H.ode = misc_en_US_unknown.Ode8
+meMA.Ode8H.mode = misc_en_US_unknown.Mode4
+meMA.Ode8H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8H.text = he.h.m4_en_US_unknown.PaidasEvageis.text
+
+meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_unknown.EvaMenToTisParakois.notmetered
+meMA.Ode9C11.text = "O God-bearing Father Makarios, you watered the field of your heart with tears of asceticism; but now with rejoicing you gather the sheaves, the rewards of your labors. Therefore, we all call you blessed."
+
+meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_unknown.EvaMenToTisParakois.notmetered
+meMA.Ode9C12.text = "O all-blessed Father, the light that never sets has risen on you, the eternal gladness has received you. As you dance there for joy with the Angels in the presence of the King and Lord, remember us who faithfully observe your memory."
+
+meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_unknown.EvaMenToTisParakois.notmetered
+meMA.Ode9C13.text = "O Father, you competed as an athlete according to the rules, and you rightfully prevailed. Therefore, the only Benefactor has honored you with a glorious halo, and He has granted you divine illumination and the bliss of the blessed."
+
+meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
+meMA.Ode9C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.EvaMenToTisParakois.notmetered
+meMA.Ode9C1T.text = "O Mother of God, you gave birth to the Maker of all creation. We magnify you, for you surpass all creation in divine glory, holiness, and grace; and you virtue is superior to all."
+
+meMA.Ode9H.ode = misc_en_US_unknown.Ode9
+meMA.Ode9H.mode = misc_en_US_unknown.Mode4
+meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9H.text = he.h.m4_en_US_unknown.EvaMenToTisParakois.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_unknown.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_unknown.OOuranonToisAstrois.notmetered
+meMA.Exaposteilarion1.text = ""
+
+meMA.ExapTheotokion.mode = misc_en_US_unknown.Mode3
+meMA.ExapTheotokion.melody = he.a.m3_en_US_unknown.OOuranonToisAstrois.notmetered
+meMA.ExapTheotokion.text = ""
+
+meMA.MM.Ve1123as5678.text = properties_en_US_unknown.media.key
+
+meMA.AposGlory.mode = misc_en_US_unknown.Mode4
+meMA.AposGlory.melody = ""
+meMA.AposGlory.text = ""
+
+meMA.AposTheotokion.mode = misc_en_US_unknown.Mode4
+meMA.AposTheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
+meMA.AposTheotokion.text = //oc.m4.d2_en_US_unknown.ocVE.SticTheotokion.text
+
+meMA.AposStavrotheotokion.mode = misc_en_US_unknown.Mode4
+meMA.AposStavrotheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
+meMA.AposStavrotheotokion.text = "" //similar to me.m01.d16_en_US_unknownmeMA.LaudsStavrotheotokion.text
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.MM.CommunionHymn.text = properties_en_US_unknown.media.key
+
+meMegalynarion.text = ""
+
