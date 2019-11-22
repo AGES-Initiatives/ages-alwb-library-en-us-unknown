@@ -165,7 +165,7 @@ meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.text = //me.m06.d28_en_US_unknown.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
