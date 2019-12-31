@@ -189,7 +189,7 @@ meMA.PostGospelBoth.text = //ho.s03_en_US_unknown.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_unknown.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = ""
+meMA.PostGospelIdiomelon.text = //me.m01.d18_en_US_unknown.meMA.PostGospelIdiomelon.text
 
 meMA.C1Poet = poets_en_US_unknown.IoannouEfchaiton
 meMA.C1Acrostic.text = ""
