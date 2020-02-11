@@ -49,6 +49,7 @@ Ode7 = "Ode vii."
 Ode8 = "Ode viii."
 Ode9 = "Ode ix."
 
+book.BooksSources.title = ""
 book.Euchologion.name = "Euchologion"
 book.Heirmologion.name = "Heirmologion"
 book.Hieratikon.name = "Hieratikon"
