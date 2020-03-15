@@ -102,6 +102,8 @@ TwOrMorePriests = ""
 
 VigilEntry = ""
 
+WhenNoPriest = ""
+
 WineOil = "Wine and oil allowed."
 
 WithoutVersesComingBefore = ""
