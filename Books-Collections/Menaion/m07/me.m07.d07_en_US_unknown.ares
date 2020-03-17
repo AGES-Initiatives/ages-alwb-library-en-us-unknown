@@ -50,7 +50,7 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_unknown.TriimerosAnestis.notmetered
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = //me.m01.d16_en_US_unknown.meVE.SticStavrotheotokion.text
 
 meVE.Aposticha.notice = ""
 
