@@ -30,7 +30,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode1
 meVE.SticTheotokion.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = //me.m07.d12_en_US_unknown.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_unknown.TonOuranionTagmaton.notmetered
