@@ -332,7 +332,7 @@ meMA.Lauds3.text = ""
 meMA.LaudsGlory.poet = poets_en_US_unknown.IoannouMonachou
 meMA.LaudsGlory.mode = misc_en_US_unknown.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = //me.m07.d11_en_US_unknown.meVE.SticGlory.text
+meMA.LaudsGlory.text = //me.m07.d07_en_US_unknown.meVE.SticGlory.text
 
 meMA.LaudsBoth.mode = misc_en_US_unknown.Mode3
 meMA.LaudsBoth.melody = ""

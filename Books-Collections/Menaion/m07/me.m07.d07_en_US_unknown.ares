@@ -42,7 +42,7 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_US_unknown.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = //me.m07.d11_en_US_unknown.meVE.SticGlory.text
+meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_unknown.TriimerosAnestis.notmetered
@@ -68,7 +68,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_US_unknown.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = //me.m07.d26_en_US_unknown.meMA.LaudsGlory.text
+meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_unknown.Mode2
 meVE.AposTheotokion.melody = ""
