@@ -3,6 +3,7 @@ A_Resource_Whose_Name = me.m09.d22_en_US_unknown
 meDate.text = ""
 meCommemoration.text = "" //full title of day
 meShortCommemoration1.text = ""
+meShortCommemoration2.text = ""
 meCom1.title = ""
 meCom2.title = ""
 meInsert1 = "" //for use in petitions and dismissal
