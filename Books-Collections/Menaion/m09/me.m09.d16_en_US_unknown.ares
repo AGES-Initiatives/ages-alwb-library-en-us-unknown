@@ -88,7 +88,7 @@ meMA.Kathisma21.text = "O pure and modest maiden, your contests, and your crown,
 
 meMA.Kathisma22.mode = misc_en_US_unknown.Mode4
 meMA.Kathisma22.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
-meMA.Kathisma22.text = "When I was in Paradise I fell badly through the bitter advice of the slayer of man. Then, O Savior, on Calvary You raised me up, healing the curse of the tree by Your Tree, namely the Cross. And You slew the accursed serpent who had slain me through deceit; and You have granted me divine life. Glory to Your divine Crucifixion, O Lord."
+meMA.Kathisma22.text = //oc.m4.d4_en_US_unknown.ocMA.Kathisma31.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_US_unknown.Mode4
 meMA.PostGospelIdiomelon.melody = ""
