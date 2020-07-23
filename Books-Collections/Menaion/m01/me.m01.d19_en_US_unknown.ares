@@ -52,7 +52,7 @@ meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_unknown.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_unknown.OlinApothemenoi.notmetered
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.text = //me.m01.d15_en_US_unknown.meVE.AposStavrotheotokion.text
 
 meVE.GeneralApolytikion1.mode = misc_en_US_unknown.Mode1
 meVE.GeneralApolytikion1.melody = //he.ga_en_US_unknown.TisErimouPolitis.notmetered

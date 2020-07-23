@@ -35,11 +35,11 @@ meVE.SticGlory.text = "When you became soldiers of Christ, you left behind the d
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.text = //oc.m4.d6_en_US_unknown.ocVE.Stichera4.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = //oc.m4.d4_en_US_unknown.ocVE.SticTheotokion.text
 
 meVE.AposGlory.poet = poets_en_US_unknown.AndreouIerosolymitou
 meVE.AposGlory.mode = misc_en_US_unknown.Mode1

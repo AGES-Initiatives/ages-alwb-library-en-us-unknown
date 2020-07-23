@@ -52,7 +52,7 @@ meVE.SticTheotokion.text = //oc.m4.d4_en_US_unknown.ocVE.Stichera6.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = //oc.m4.d4_en_US_unknown.ocVE.SticTheotokion.text
 
 meVE.GeneralApolytikion1.name = ""
 meVE.MM.GeneralApolytikion1.text = properties_en_US_unknown.media.key
