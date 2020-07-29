@@ -50,7 +50,7 @@ meVE.SticTheotokion.text = //he.o_en_US_unknown.TheotokeSyEiAthloforou.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_unknown.TriimerosAnestis.notmetered
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = //oc.m6.d4_en_US_unknown.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_unknown.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
@@ -62,7 +62,7 @@ meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = misc_en_US_unknown.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = //me.m04.d23_en_US_unknown.meVE.Stichera04.text
 
 meVE.AposGlory.poet = poets_en_US_unknown.EfraimKarias
 meVE.AposGlory.mode = misc_en_US_unknown.Mode6
@@ -497,11 +497,11 @@ meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_unknown.Mode4
 meMA.Lauds2.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meMA.Lauds2.text = ""
+meMA.Lauds2.text = //me.m04.d23_en_US_unknown.meVE.Stichera05.text
 
 meMA.Lauds3.mode = misc_en_US_unknown.Mode4
 meMA.Lauds3.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meMA.Lauds3.text = ""
+meMA.Lauds3.text = //me.m04.d23_en_US_unknown.meVE.Stichera06.text
 
 meMA.LaudsGlory.mode = misc_en_US_unknown.Mode4
 meMA.LaudsGlory.melody = ""
