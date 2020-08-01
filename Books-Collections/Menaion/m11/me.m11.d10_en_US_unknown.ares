@@ -46,7 +46,7 @@ meVE.SticTheotokion.text = me.m03.d05_en_US_unknown.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_unknown.PaneffimoiMartyres.notmetered
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = me.m03.d05_en_US_unknown.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_unknown.Mode5
@@ -441,7 +441,7 @@ meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_unknown.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_unknown.GynaikesAkoutisthite.notmetered
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = //ho.s03_en_US_unknown.hoMA.ExapThuTh.text
 
 meMA.MM.LaudsSunday.text = properties_en_US_unknown.media.key
 
