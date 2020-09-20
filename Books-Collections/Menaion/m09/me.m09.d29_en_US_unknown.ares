@@ -317,8 +317,6 @@ meMA.ExapTheotokion.mode = misc_en_US_unknown.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_unknown.GynaikesAkoutisthite.notmetered
 meMA.ExapTheotokion.text = ""
 
-meMA.MM.LaudsSunday.text = properties_en_US_unknown.media.key
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text

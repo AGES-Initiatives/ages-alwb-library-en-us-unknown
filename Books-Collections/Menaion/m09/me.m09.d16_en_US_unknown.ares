@@ -338,8 +338,6 @@ meMA.LaudsBoth.mode = misc_en_US_unknown.Mode3
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = ""
 
-meMA.MM.LaudsSunday.text = properties_en_US_unknown.media.key
-
 meMA.Aposticha1.mode = misc_en_US_unknown.Mode6
 meMA.Aposticha1.melody = he.a.m6_en_US_unknown.TriimerosAnestis.notmetered
 meMA.Aposticha1.text = ""

@@ -232,8 +232,6 @@ meMA.Ode9H.mode = misc_en_US_unknown.Mode5
 meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
 meMA.Ode9H.text = he.h.m5_en_US_unknown.IsaiaChoreve.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_unknown.media.key
-
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
 meLI.Kontakion1.text = ""

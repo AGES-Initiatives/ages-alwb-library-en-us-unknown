@@ -526,8 +526,6 @@ meMA.LaudsTheotokion.mode = misc_en_US_unknown.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = //oc.m8.d5_en_US_unknown.ocMA.AposTheotokion.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_unknown.media.key
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
