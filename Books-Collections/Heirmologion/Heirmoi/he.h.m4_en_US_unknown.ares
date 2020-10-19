@@ -582,11 +582,11 @@ PantaTaErgaTouTheou.mode = misc_en_US_unknown.Mode4
 PantaTaErgaTouTheou.ode = misc_en_US_unknown.Ode8
 PantaTaErgaTouTheou.text = ""
 
-ParthenomartysPolyathlos.notmetered = "N/M ()"
-ParthenomartysPolyathlos.name = ""
-ParthenomartysPolyathlos.mode = misc_en_US_unknown.Mode4
-ParthenomartysPolyathlos.ode = misc_en_US_unknown.Ode9
-ParthenomartysPolyathlos.text = ""
+ParthenosMartysPolyathlos.notmetered = "N/M ()"
+ParthenosMartysPolyathlos.name = ""
+ParthenosMartysPolyathlos.mode = misc_en_US_unknown.Mode4
+ParthenosMartysPolyathlos.ode = misc_en_US_unknown.Ode9
+ParthenosMartysPolyathlos.text = ""
 
 PyrFlegonEnKamino.notmetered = "N/M ()"
 PyrFlegonEnKamino.name = ""
