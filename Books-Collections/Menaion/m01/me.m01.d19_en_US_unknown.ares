@@ -48,7 +48,7 @@ meVE.AposGlory.text = //me.m01.d15_en_US_unknown.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_en_US_unknown.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_unknown.OlinApothemenoi.notmetered
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = //me.m01.d15_en_US_unknown.meVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_unknown.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_unknown.OlinApothemenoi.notmetered
