@@ -105,7 +105,7 @@ meMA.Ode3Kathisma1.text = "O renowned Benedict, you lived in virtue and solitude
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.TouLithouSfragisthentos.notmetered
-meMA.Ode3KathismaT.text = "O all-holy Virgin, reach out your holy hands that held the Creator. He incarnated because of His supreme goodness. Fervently ask Him to redeem us from passions, all forms of temptation, and all perils who chant your praise in faith and call to you with yearning: Glory to Him that desired to abide in you. Glory to Him that came forth from you. Glory to Him that has saved us through your childbirth."
+meMA.Ode3KathismaT.text = //me.m02.d13_en_US_unknown.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.TouLithouSfragisthentos.notmetered
