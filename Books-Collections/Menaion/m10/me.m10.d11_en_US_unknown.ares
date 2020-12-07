@@ -444,11 +444,11 @@ meMA.Ode9H.text = he.h.m2_en_US_unknown.AporeiPasaGlossa.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_unknown.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_unknown.ToisMathitaisSynelthomen.notmetered
-meMA.Exaposteilarion1.text = "As he was making straight his paths, * Candace's famous eunuch, * as he rode in the chariot, * was at a loss when reading * the book of Prophet Isaiah. * But Philip overtook him * and by the Holy Spirit * he resolved his confusion * and taught him all; * and he baptized him and sent him proclaiming * to all of Ethiopia * that Jesus is the true God."
+meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = misc_en_US_unknown.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_unknown.ToisMathitaisSynelthomen.notmetered
-meMA.Exaposteilarion2.text = "Standing beside the throne of Christ, * there with the all-pure Virgin * Mother of our God, O Hierarch, unceasingly entreat Him, our divine Benefactor, * to grant our leaders trophies * of vict'ry over enemies, * and to give to the whole world enduring peace; * and request salvation of soul for us all * who yearly observe your memory, * O wise St. Theophanis."
+meMA.Exaposteilarion2.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

@@ -60,7 +60,7 @@ meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_unknown.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_unknown.TriimerosAnestis.notmetered
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.text = //oc.m6.d4_en_US_unknown.ocMA.AposTheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_unknown.Mode3
