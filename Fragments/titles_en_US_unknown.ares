@@ -466,6 +466,8 @@ OEirmos = "Heirmos."
 
 OEirmosOsKatavasia = "The Heirmos as Katavasia."
 
+OEirmosProsTo = ""
+
 OiAinoi = "Lauds."
 
 OiAnavathmoi = "Anavathmoi."
@@ -830,8 +832,10 @@ ForFriday = "For Friday."
 ForSaturday = "For Saturday."
 ForWeekday = ""
 Evening = "Evening"
+Evening.uc = ""
 intheEvening = "in the Evening"
 Morning = "Morning"
+Morning.uc = ""
 beforeMeatFareSunday = ""
 ofCheeseWeek = "of Cheese Week"
 ofWeek1 = "of the First Week"
