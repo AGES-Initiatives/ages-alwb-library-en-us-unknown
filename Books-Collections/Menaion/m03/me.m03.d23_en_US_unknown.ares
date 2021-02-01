@@ -41,7 +41,7 @@ meVE.Apolytikion1.mode = misc_en_US_unknown.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.TachyProkatalave.notmetered
 meVE.Apolytikion1.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode4

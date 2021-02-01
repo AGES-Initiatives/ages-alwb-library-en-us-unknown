@@ -58,9 +58,9 @@ meVE.Apolytikion2.mode = misc_en_US_unknown.Mode1
 meVE.Apolytikion2.melody = he.a.m1_en_US_unknown.TouLithouSfragisthentos.notmetered
 meVE.Apolytikion2.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
-meMA.C2Acrostic.text = ""
+meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_unknown.KanonTonApostolon
 meMA.C1.verse = //prayers_en_US_unknown.verse_Apostles.text

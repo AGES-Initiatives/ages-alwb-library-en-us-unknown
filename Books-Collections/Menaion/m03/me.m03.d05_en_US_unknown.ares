@@ -43,7 +43,7 @@ meVE.Apolytikion1.text = ""
 
 //Canon translated by Austin Martin
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode5

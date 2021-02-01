@@ -43,8 +43,8 @@ meVE.Apolytikion1.text = ""
 
 //Canon translated by Austin Martin
 
-meMA.C1Acrostic.text = ""
-meMA.C1Poet = poets_en_US_unknown.StefanouTouSavaitou
+meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_unknown.StefanouTouSavaitou
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode8

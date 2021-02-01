@@ -122,8 +122,8 @@ trAK.Oikos120.text = ""
 trAK.Oikos121.text = trAK.Refrain2.text
 
 trMA.C1.title = ""
-trMA.C1Poet = poets_en_US_unknown.IosifTouYmnografou
-trMA.C1Acrostic.text = ""
+trMA.C1.poet = poets_en_US_unknown.IosifTouYmnografou
+trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 trMA.Ode1C1H.mode = misc_en_US_unknown.Mode4
@@ -326,8 +326,8 @@ trMA.Ode6C14.mode = misc_en_US_unknown.Mode4
 trMA.Ode6C14.melody = he.h.m4_en_US_unknown.TinTheianTaftin.notmetered
 trMA.Ode6C14.text = ""
 
-trMA.C2Poet = poets_en_US_unknown.Iosif
-trMA.C2Acrostic.text = ""
+trMA.C2.poet = poets_en_US_unknown.Iosif
+trMA.C2.acrostic = ""
 trMA.C2.title = ""
 trMA.C2.verse = //prayers_en_US_unknown.verse_SaintsM.text
 
@@ -351,7 +351,7 @@ trMA.Ode6C2T.mode = misc_en_US_unknown.Mode6
 trMA.Ode6C2T.melody = he.h.m6_en_US_unknown.TouViouTinThalassan.notmetered
 trMA.Ode6C2T.text = "O Mother and Virgin, alone worthy of all glory, intercede with the most holy Word, that we who sing your praises with faith may be granted remission of sins and a share in God's gifts of grace."
 
-trMA.C3Poet = poets_en_US_unknown.TheodorouTouStouditou
+trMA.C3.poet = poets_en_US_unknown.TheodorouTouStouditou
 trMA.C3.title = ""
 trMA.C3.verse = //prayers_en_US_unknown.verse_SaintsM.text
 

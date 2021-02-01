@@ -94,8 +94,8 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_unknown.Mode4
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Poet = poets_en_US_unknown.IoannouMonachou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_unknown.IoannouMonachou
+meMA.C1.acrostic = ""
 
 meMA.C1.title = ""
 meMA.C1.verse = ""

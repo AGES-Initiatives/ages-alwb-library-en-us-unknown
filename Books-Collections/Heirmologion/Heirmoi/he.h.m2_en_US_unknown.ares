@@ -1,61 +1,61 @@
 A_Resource_Whose_Name = he.h.m2_en_US_unknown
 
 AkikoaKyrieTinEndoxon.notmetered = "N/M ()"
-AkikoaKyrieTinEndoxon.name = ""
+AkikoaKyrieTinEndoxon.incipit = ""
 AkikoaKyrieTinEndoxon.mode = misc_en_US_unknown.Mode2
 AkikoaKyrieTinEndoxon.ode = misc_en_US_unknown.Ode4
 AkikoaKyrieTinEndoxon.text = ""
 
 AkikoeKyrieFonisSou.notmetered = "N/M (When You thundered.)"
-AkikoeKyrieFonisSou.name = "When You thundered."
+AkikoeKyrieFonisSou.incipit = "When You thundered."
 AkikoeKyrieFonisSou.mode = misc_en_US_unknown.Mode2
 AkikoeKyrieFonisSou.ode = misc_en_US_unknown.Ode4
 AkikoeKyrieFonisSou.text = ""
 
 AnarchouGennitoros.notmetered = "N/M (To us has appeared.)"
-AnarchouGennitoros.name = "To us has appeared."
+AnarchouGennitoros.incipit = "To us has appeared."
 AnarchouGennitoros.mode = misc_en_US_unknown.Mode2
 AnarchouGennitoros.ode = misc_en_US_unknown.Ode9
 AnarchouGennitoros.text = ""
 
 AntitheonProstagma.notmetered = "N/M ()"
-AntitheonProstagma.name = ""
+AntitheonProstagma.incipit = ""
 AntitheonProstagma.mode = misc_en_US_unknown.Mode2
 AntitheonProstagma.ode = misc_en_US_unknown.Ode7
 AntitheonProstagma.text = ""
 
 AporeiPasaGlossa.notmetered = "N/M (Every tongue.)"
-AporeiPasaGlossa.name = "Every tongue."
+AporeiPasaGlossa.incipit = "Every tongue."
 AporeiPasaGlossa.mode = misc_en_US_unknown.Mode2
 AporeiPasaGlossa.ode = misc_en_US_unknown.Ode9
 AporeiPasaGlossa.text = ""
 
 AsomenToKyrio.notmetered = "N/M ()"
-AsomenToKyrio.name = ""
+AsomenToKyrio.incipit = ""
 AsomenToKyrio.mode = misc_en_US_unknown.Mode2
 AsomenToKyrio.ode = misc_en_US_unknown.Ode1
 AsomenToKyrio.text = ""
 
 AtriptonAsynithi.notmetered = "N/M (When they had traversed.)"
-AtriptonAsynithi.name = "When they had traversed."
+AtriptonAsynithi.incipit = "When they had traversed."
 AtriptonAsynithi.mode = misc_en_US_unknown.Mode2
 AtriptonAsynithi.ode = misc_en_US_unknown.Ode1
 AtriptonAsynithi.text = ""
 
 AvyssosAmartimaton.notmetered = "N/M ()"
-AvyssosAmartimaton.name = ""
+AvyssosAmartimaton.incipit = ""
 AvyssosAmartimaton.mode = misc_en_US_unknown.Mode2
 AvyssosAmartimaton.ode = misc_en_US_unknown.Ode2
 AvyssosAmartimaton.text = ""
 
 DefteLaoi.notmetered = "N/M (Peoples, now come.)"
-DefteLaoi.name = "Peoples, now come."
+DefteLaoi.incipit = "Peoples, now come."
 DefteLaoi.mode = misc_en_US_unknown.Mode2
 DefteLaoi.ode = misc_en_US_unknown.Ode1
 DefteLaoi.text = ""
 
 EchthrouZofodous.notmetered = "N/M (The Spirit's cleansing.)"
-EchthrouZofodous.name = "The Spirit's cleansing."
+EchthrouZofodous.incipit = "The Spirit's cleansing."
 EchthrouZofodous.mode = misc_en_US_unknown.Mode2
 EchthrouZofodous.ode = misc_en_US_unknown.Ode5
 EchthrouZofodous.text = ""
@@ -71,7 +71,7 @@ EchthrouZofodous4.text = ""
 EchthrouZofodous5.text = ""
 
 EflexeReithro.notmetered = "N/M (He who retarded.)"
-EflexeReithro.name = "He who retarded."
+EflexeReithro.incipit = "He who retarded."
 EflexeReithro.mode = misc_en_US_unknown.Mode2
 EflexeReithro.ode = misc_en_US_unknown.Ode7
 EflexeReithro.text = ""
@@ -87,25 +87,25 @@ EflexeReithro4.text = ""
 EflexeReithro5.text = ""
 
 EfrixePaidonEvagon.notmetered = "N/M (Fed with unending fuel.)"
-EfrixePaidonEvagon.name = "Fed with unending fuel."
+EfrixePaidonEvagon.incipit = "Fed with unending fuel."
 EfrixePaidonEvagon.mode = misc_en_US_unknown.Mode2
 EfrixePaidonEvagon.ode = misc_en_US_unknown.Ode8
 EfrixePaidonEvagon.text = ""
 
 EikonosChrysis.notmetered = "N/M (The image of gold.)"
-EikonosChrysis.name = "The image of gold."
+EikonosChrysis.incipit = "The image of gold."
 EikonosChrysis.mode = misc_en_US_unknown.Mode2
 EikonosChrysis.ode = misc_en_US_unknown.Ode7
 EikonosChrysis.text = ""
 
 EisakikoaKyrieTinAkoin.notmetered = "N/M (I have heard.)"
-EisakikoaKyrieTinAkoin.name = "I have heard the report."
+EisakikoaKyrieTinAkoin.incipit = "I have heard the report."
 EisakikoaKyrieTinAkoin.mode = misc_en_US_unknown.Mode2
 EisakikoaKyrieTinAkoin.ode = misc_en_US_unknown.Ode4
 EisakikoaKyrieTinAkoin.text = ""
 
 EleftheraMenIKtisis.notmetered = "N/M (The created world.)"
-EleftheraMenIKtisis.name = "The created world."
+EleftheraMenIKtisis.incipit = "The created world."
 EleftheraMenIKtisis.mode = misc_en_US_unknown.Mode2
 EleftheraMenIKtisis.ode = misc_en_US_unknown.Ode8
 EleftheraMenIKtisis.text = ""
@@ -121,91 +121,91 @@ EleftheraMenIKtisis4.text = ""
 EleftheraMenIKtisis5.text = ""
 
 ElilythasEkParthenou.notmetered = "N/M (You came from a Virgin.)"
-ElilythasEkParthenou.name = "You came from a Virgin."
+ElilythasEkParthenou.incipit = "You came from a Virgin."
 ElilythasEkParthenou.mode = misc_en_US_unknown.Mode2
 ElilythasEkParthenou.ode = misc_en_US_unknown.Ode4
 ElilythasEkParthenou.text = ""
 
 EmegalynasChriste.notmetered = "N/M (You have magnified.)"
-EmegalynasChriste.name = "You have magnified."
+EmegalynasChriste.incipit = "You have magnified."
 EmegalynasChriste.mode = misc_en_US_unknown.Mode2
 EmegalynasChriste.ode = misc_en_US_unknown.Ode9
 EmegalynasChriste.text = ""
 
 EnAvyssoPtaismaton.notmetered = "N/M (In the sea now.)"
-EnAvyssoPtaismaton.name = "In the sea now surrounded."
+EnAvyssoPtaismaton.incipit = "In the sea now surrounded."
 EnAvyssoPtaismaton.mode = misc_en_US_unknown.Mode2
 EnAvyssoPtaismaton.ode = misc_en_US_unknown.Ode6
 EnAvyssoPtaismaton.text = ""
 
 EnPetraMeTisPisteos.notmetered = "N/M (On the rock of faith.)"
-EnPetraMeTisPisteos.name = "On the rock of faith."
+EnPetraMeTisPisteos.incipit = "On the rock of faith."
 EnPetraMeTisPisteos.mode = misc_en_US_unknown.Mode2
 EnPetraMeTisPisteos.ode = misc_en_US_unknown.Ode3
 EnPetraMeTisPisteos.text = ""
 
 EnTiKamino.notmetered = "N/M ()"
-EnTiKamino.name = ""
+EnTiKamino.incipit = ""
 EnTiKamino.mode = misc_en_US_unknown.Mode2
 EnTiKamino.ode = misc_en_US_unknown.Ode8
 EnTiKamino.text = ""
 
 EnVythoKatestrose.notmetered = "N/M (In the deep.)"
-EnVythoKatestrose.name = "In the deep."
+EnVythoKatestrose.incipit = "In the deep."
 EnVythoKatestrose.mode = misc_en_US_unknown.Mode2
 EnVythoKatestrose.ode = misc_en_US_unknown.Ode1
 EnVythoKatestrose.text = ""
 
 ExinthisenIErimos.notmetered = "N/M (The wilderness.)"
-ExinthisenIErimos.name = "The wilderness."
+ExinthisenIErimos.incipit = "The wilderness."
 ExinthisenIErimos.mode = misc_en_US_unknown.Mode2
 ExinthisenIErimos.ode = misc_en_US_unknown.Ode3
 ExinthisenIErimos.text = ""
 
 IEnOuranois.notmetered = "N/M ()"
-IEnOuranois.name = ""
+IEnOuranois.incipit = ""
 IEnOuranois.mode = misc_en_US_unknown.Mode2
 IEnOuranois.ode = misc_en_US_unknown.Ode9
 IEnOuranois.text = ""
 
 IFoniTouLogou.notmetered = "N/M (The voice of the Logos.)"
-IFoniTouLogou.name = "The voice of the Logos."
+IFoniTouLogou.incipit = "The voice of the Logos."
 IFoniTouLogou.mode = misc_en_US_unknown.Mode2
 IFoniTouLogou.ode = misc_en_US_unknown.Ode6
 IFoniTouLogou.text = ""
 
 ITonAchoritonTheon.notmetered = "N/M ()"
-ITonAchoritonTheon.name = ""
+ITonAchoritonTheon.incipit = ""
 ITonAchoritonTheon.mode = misc_en_US_unknown.Mode2
 ITonAchoritonTheon.ode = misc_en_US_unknown.Ode9
 ITonAchoritonTheon.text = ""
 
 ITonProIliouFostira.notmetered = "N/M (Lady, from your virginal belly.)"
-ITonProIliouFostira.name = "Lady, from your virginal belly."
+ITonProIliouFostira.incipit = "Lady, from your virginal belly."
 ITonProIliouFostira.mode = misc_en_US_unknown.Mode2
 ITonProIliouFostira.ode = misc_en_US_unknown.Ode9
 ITonProIliouFostira.text = ""
 
 IchouRimatonDeiseos.notmetered = "N/M ()"
-IchouRimatonDeiseos.name = ""
+IchouRimatonDeiseos.incipit = ""
 IchouRimatonDeiseos.mode = misc_en_US_unknown.Mode2
 IchouRimatonDeiseos.ode = misc_en_US_unknown.Ode6
 IchouRimatonDeiseos.text = ""
 
 IdeteIdeteOEnThalassi.notmetered = "N/M ()"
-IdeteIdeteOEnThalassi.name = ""
+IdeteIdeteOEnThalassi.incipit = ""
 IdeteIdeteOEnThalassi.mode = misc_en_US_unknown.Mode2
 IdeteIdeteOEnThalassi.ode = misc_en_US_unknown.Ode2
 IdeteIdeteOEnThalassi.text = ""
 
 IisousOZoisArchigos.notmetered = "N/M (He is Jesus.)"
-IisousOZoisArchigos.name = "He is Jesus."
+IisousOZoisArchigos.incipit = "He is Jesus."
 IisousOZoisArchigos.mode = misc_en_US_unknown.Mode2
 IisousOZoisArchigos.ode = misc_en_US_unknown.Ode5
 IisousOZoisArchigos.text = ""
 
 ImertonExefine.notmetered = "N/M (With the blessed utterance.)"
-ImertonExefine.name = "With the blessed utterance."
+ImertonExefine.incipit = "With the blessed utterance."
 ImertonExefine.mode = misc_en_US_unknown.Mode2
 ImertonExefine.ode = misc_en_US_unknown.Ode6
 ImertonExefine.text = ""
@@ -221,67 +221,67 @@ ImertonExefine4.text = ""
 ImertonExefine5.text = ""
 
 IndalmatosChrysou.notmetered = "N/M ()"
-IndalmatosChrysou.name = ""
+IndalmatosChrysou.incipit = ""
 IndalmatosChrysou.mode = misc_en_US_unknown.Mode2
 IndalmatosChrysou.ode = misc_en_US_unknown.Ode8
 IndalmatosChrysou.text = ""
 
 IschynODidous.notmetered = "N/M (The Lord who bestows.)"
-IschynODidous.name = "The Lord who bestows."
+IschynODidous.incipit = "The Lord who bestows."
 IschynODidous.mode = misc_en_US_unknown.Mode2
 IschynODidous.ode = misc_en_US_unknown.Ode3
 IschynODidous.text = ""
 
 KaminosPote.notmetered = "N/M ()"
-KaminosPote.name = ""
+KaminosPote.incipit = ""
 KaminosPote.mode = misc_en_US_unknown.Mode2
 KaminosPote.ode = misc_en_US_unknown.Ode8
 KaminosPote.text = ""
 
 MesitisTheou.notmetered = "N/M ()"
-MesitisTheou.name = ""
+MesitisTheou.incipit = ""
 MesitisTheou.mode = misc_en_US_unknown.Mode2
 MesitisTheou.ode = misc_en_US_unknown.Ode5
 MesitisTheou.text = ""
 
 MystirionParadoxon.notmetered = "N/M (The furnace once.)"
-MystirionParadoxon.name = "The furnace once."
+MystirionParadoxon.incipit = "The furnace once."
 MystirionParadoxon.mode = misc_en_US_unknown.Mode2
 MystirionParadoxon.ode = misc_en_US_unknown.Ode8
 MystirionParadoxon.text = ""
 
 NeousEfseveis.notmetered = "N/M (When the pious youths.)"
-NeousEfseveis.name = "When the pious youths."
+NeousEfseveis.incipit = "When the pious youths."
 NeousEfseveis.mode = misc_en_US_unknown.Mode2
 NeousEfseveis.ode = misc_en_US_unknown.Ode7
 NeousEfseveis.text = ""
 
 OAnthraxToIsaia.notmetered = "N/M ()"
-OAnthraxToIsaia.name = ""
+OAnthraxToIsaia.incipit = ""
 OAnthraxToIsaia.mode = misc_en_US_unknown.Mode2
 OAnthraxToIsaia.ode = misc_en_US_unknown.Ode5
 OAnthraxToIsaia.text = ""
 
 OFotismos.notmetered = "N/M ()"
-OFotismos.name = ""
+OFotismos.incipit = ""
 OFotismos.mode = misc_en_US_unknown.Mode2
 OFotismos.ode = misc_en_US_unknown.Ode5
 OFotismos.text = ""
 
 OSkiografonAchlyn.notmetered = "N/M ()"
-OSkiografonAchlyn.name = ""
+OSkiografonAchlyn.incipit = ""
 OSkiografonAchlyn.mode = misc_en_US_unknown.Mode2
 OSkiografonAchlyn.ode = misc_en_US_unknown.Ode5
 OSkiografonAchlyn.text = ""
 
 OTinKaminonPalai.notmetered = "N/M ()"
-OTinKaminonPalai.name = ""
+OTinKaminonPalai.incipit = ""
 OTinKaminonPalai.mode = misc_en_US_unknown.Mode2
 OTinKaminonPalai.ode = misc_en_US_unknown.Ode7
 OTinKaminonPalai.text = ""
 
 OTonYperNoun.notmetered = "N/M (O all spotless Bride.)"
-OTonYperNoun.name = "O all spotless Bride."
+OTonYperNoun.incipit = "O all spotless Bride."
 OTonYperNoun.mode = misc_en_US_unknown.Mode2
 OTonYperNoun.ode = misc_en_US_unknown.Ode9
 OTonYperNoun.text = ""
@@ -297,19 +297,19 @@ OTonYperNoun4.text = ""
 OTonYperNoun5.text = ""
 
 OTouFotosChorigos.notmetered = "N/M (Lord, the provider of light.)"
-OTouFotosChorigos.name = "Lord, the provider of light."
+OTouFotosChorigos.incipit = "Lord, the provider of light."
 OTouFotosChorigos.mode = misc_en_US_unknown.Mode2
 OTouFotosChorigos.ode = misc_en_US_unknown.Ode5
 OTouFotosChorigos.text = ""
 
 OlosYparcheisEfesis.notmetered = "N/M (You are desire entirely.)"
-OlosYparcheisEfesis.name = "You are desire entirely."
+OlosYparcheisEfesis.incipit = "You are desire entirely."
 OlosYparcheisEfesis.mode = misc_en_US_unknown.Mode2
 OlosYparcheisEfesis.ode = misc_en_US_unknown.Ode9
 OlosYparcheisEfesis.text = ""
 
 OsoiPalaion.notmetered = "N/M (From the ancient snares.)"
-OsoiPalaion.name = "From the ancient snares."
+OsoiPalaion.incipit = "From the ancient snares."
 OsoiPalaion.mode = misc_en_US_unknown.Mode2
 OsoiPalaion.ode = misc_en_US_unknown.Ode3
 OsoiPalaion.text = ""
@@ -325,31 +325,31 @@ OsoiPalaion4.text = ""
 OsoiPalaion5.text = ""
 
 ProsKyrionEkKitous.notmetered = "N/M ()"
-ProsKyrionEkKitous.name = ""
+ProsKyrionEkKitous.incipit = ""
 ProsKyrionEkKitous.mode = misc_en_US_unknown.Mode2
 ProsKyrionEkKitous.ode = misc_en_US_unknown.Ode6
 ProsKyrionEkKitous.text = ""
 
 ProsecheteLaoi.notmetered = "N/M ()"
-ProsecheteLaoi.name = ""
+ProsecheteLaoi.incipit = ""
 ProsecheteLaoi.mode = misc_en_US_unknown.Mode2
 ProsecheteLaoi.ode = misc_en_US_unknown.Ode2
 ProsecheteLaoi.text = ""
 
 ProsecheteLaosMou.notmetered = "N/M ()"
-ProsecheteLaosMou.name = ""
+ProsecheteLaosMou.incipit = ""
 ProsecheteLaosMou.mode = misc_en_US_unknown.Mode2
 ProsecheteLaosMou.ode = misc_en_US_unknown.Ode2
 ProsecheteLaosMou.text = ""
 
 PsychaisKatharais.notmetered = "N/M (With souls that are pure.)"
-PsychaisKatharais.name = "With souls that are pure."
+PsychaisKatharais.incipit = "With souls that are pure."
 PsychaisKatharais.mode = misc_en_US_unknown.Mode2
 PsychaisKatharais.ode = misc_en_US_unknown.Ode9
 PsychaisKatharais.text = ""
 
 PyrsoKathartheis.notmetered = "N/M (Once purged.)"
-PyrsoKathartheis.name = "Once purged."
+PyrsoKathartheis.incipit = "Once purged."
 PyrsoKathartheis.mode = misc_en_US_unknown.Mode2
 PyrsoKathartheis.ode = misc_en_US_unknown.Ode4
 PyrsoKathartheis.text = ""
@@ -365,37 +365,37 @@ PyrsoKathartheis4.text = ""
 PyrsoKathartheis5.text = ""
 
 RimaTyrannou.notmetered = "N/M (When the decree.)"
-RimaTyrannou.name = "When the decree."
+RimaTyrannou.incipit = "When the decree."
 RimaTyrannou.mode = misc_en_US_unknown.Mode2
 RimaTyrannou.ode = misc_en_US_unknown.Ode8
 RimaTyrannou.text = ""
 
 RitoresAnedeichthisanPaides.notmetered = "N/M ()"
-RitoresAnedeichthisanPaides.name = ""
+RitoresAnedeichthisanPaides.incipit = ""
 RitoresAnedeichthisanPaides.mode = misc_en_US_unknown.Mode2
 RitoresAnedeichthisanPaides.ode = misc_en_US_unknown.Ode7
 RitoresAnedeichthisanPaides.text = ""
 
 SeTinNoitin.notmetered = "N/M ()"
-SeTinNoitin.name = ""
+SeTinNoitin.incipit = ""
 SeTinNoitin.mode = misc_en_US_unknown.Mode2
 SeTinNoitin.ode = misc_en_US_unknown.Ode9
 SeTinNoitin.text = ""
 
 SteirothentaMouTonNoun.notmetered = "N/M (Barren has my mind.)"
-SteirothentaMouTonNoun.name = "Barren has my mind."
+SteirothentaMouTonNoun.incipit = "Barren has my mind."
 SteirothentaMouTonNoun.mode = misc_en_US_unknown.Mode2
 SteirothentaMouTonNoun.ode = misc_en_US_unknown.Ode3
 SteirothentaMouTonNoun.text = ""
 
 StereosonImasEnSoiKyrie.notmetered = "N/M (Establish us in You.)"
-StereosonImasEnSoiKyrie.name = "Establish us in You."
+StereosonImasEnSoiKyrie.incipit = "Establish us in You."
 StereosonImasEnSoiKyrie.mode = misc_en_US_unknown.Mode2
 StereosonImasEnSoiKyrie.ode = misc_en_US_unknown.Ode3
 StereosonImasEnSoiKyrie.text = ""
 
 SteiveiThalassis.notmetered = "N/M (Israel treaded.)"
-SteiveiThalassis.name = "Israel treaded."
+SteiveiThalassis.incipit = "Israel treaded."
 SteiveiThalassis.mode = misc_en_US_unknown.Mode2
 SteiveiThalassis.ode = misc_en_US_unknown.Ode1
 SteiveiThalassis.text = ""
@@ -411,145 +411,145 @@ SteiveiThalassis4.text = ""
 SteiveiThalassis5.text = ""
 
 SyToLogoSouKyrie.notmetered = "N/M ()"
-SyToLogoSouKyrie.name = ""
+SyToLogoSouKyrie.incipit = ""
 SyToLogoSouKyrie.mode = misc_en_US_unknown.Mode2
 SyToLogoSouKyrie.ode = misc_en_US_unknown.Ode3
 SyToLogoSouKyrie.text = ""
 
 TaCherouvimMimoumenoi.notmetered = "N/M (The Servants in the furnace.)"
-TaCherouvimMimoumenoi.name = "The Servants in the furnace."
+TaCherouvimMimoumenoi.incipit = "The Servants in the furnace."
 TaCherouvimMimoumenoi.mode = misc_en_US_unknown.Mode2
 TaCherouvimMimoumenoi.ode = misc_en_US_unknown.Ode7
 TaCherouvimMimoumenoi.text = ""
 
 TinAchlynTisPsychisMou.notmetered = "N/M ()"
-TinAchlynTisPsychisMou.name = ""
+TinAchlynTisPsychisMou.incipit = ""
 TinAchlynTisPsychisMou.mode = misc_en_US_unknown.Mode2
 TinAchlynTisPsychisMou.ode = misc_en_US_unknown.Ode5
 TinAchlynTisPsychisMou.text = ""
 
 TinAgninKaiAchranton.notmetered = "N/M ()"
-TinAgninKaiAchranton.name = ""
+TinAgninKaiAchranton.incipit = ""
 TinAgninKaiAchranton.mode = misc_en_US_unknown.Mode2
 TinAgninKaiAchranton.ode = misc_en_US_unknown.Ode9
 TinAgninKaiAchranton.text = ""
 
 TinEkParthenou.notmetered = "N/M (When he foresaw.)"
-TinEkParthenou.name = "When he foresaw."
+TinEkParthenou.incipit = "When he foresaw."
 TinEkParthenou.mode = misc_en_US_unknown.Mode2
 TinEkParthenou.ode = misc_en_US_unknown.Ode4
 TinEkParthenou.text = ""
 
 TinMoseosOdin.notmetered = "N/M (O my soul, taking up.)"
-TinMoseosOdin.name = "O my soul, taking up."
+TinMoseosOdin.incipit = "O my soul, taking up."
 TinMoseosOdin.mode = misc_en_US_unknown.Mode2
 TinMoseosOdin.ode = misc_en_US_unknown.Ode1
 TinMoseosOdin.text = ""
 
 TinParthenianSou.notmetered = "N/M ()"
-TinParthenianSou.name = ""
+TinParthenianSou.incipit = ""
 TinParthenianSou.mode = misc_en_US_unknown.Mode2
 TinParthenianSou.ode = misc_en_US_unknown.Ode9
 TinParthenianSou.text = ""
 
 TinYperfyosSarki.notmetered = "N/M ()"
-TinYperfyosSarki.name = ""
+TinYperfyosSarki.incipit = ""
 TinYperfyosSarki.mode = misc_en_US_unknown.Mode2
 TinYperfyosSarki.ode = misc_en_US_unknown.Ode9
 TinYperfyosSarki.text = ""
 
 TisNyktosDielthousis.notmetered = "N/M (With the night being over.)"
-TisNyktosDielthousis.name = "With the night being over."
+TisNyktosDielthousis.incipit = "With the night being over."
 TisNyktosDielthousis.mode = misc_en_US_unknown.Mode2
 TisNyktosDielthousis.ode = misc_en_US_unknown.Ode5
 TisNyktosDielthousis.text = ""
 
 TisPisteosEnPetra.notmetered = "N/M (You strengthened me.)"
-TisPisteosEnPetra.name = "You strengthened me."
+TisPisteosEnPetra.incipit = "You strengthened me."
 TisPisteosEnPetra.mode = misc_en_US_unknown.Mode2
 TisPisteosEnPetra.ode = misc_en_US_unknown.Ode3
 TisPisteosEnPetra.text = ""
 
 ToDogmatiToTyranniko.notmetered = "N/M ()"
-ToDogmatiToTyranniko.name = ""
+ToDogmatiToTyranniko.incipit = ""
 ToDogmatiToTyranniko.mode = misc_en_US_unknown.Mode2
 ToDogmatiToTyranniko.ode = misc_en_US_unknown.Ode8
 ToDogmatiToTyranniko.text = ""
 
 ToTinAvaton.notmetered = "N/M (Let us sing to the Lord.)"
-ToTinAvaton.name = "Let us sing to the Lord."
+ToTinAvaton.incipit = "Let us sing to the Lord."
 ToTinAvaton.mode = misc_en_US_unknown.Mode2
 ToTinAvaton.ode = misc_en_US_unknown.Ode1
 ToTinAvaton.text = ""
 
 TonArritoSofia.notmetered = "N/M ()"
-TonArritoSofia.name = ""
+TonArritoSofia.incipit = ""
 TonArritoSofia.mode = misc_en_US_unknown.Mode2
 TonArritoSofia.ode = misc_en_US_unknown.Ode8
 TonArritoSofia.text = ""
 
 TonEkTheouTheonLogon.notmetered = "N/M (Being from God.)"
-TonEkTheouTheonLogon.name = "Being from God."
+TonEkTheouTheonLogon.incipit = "Being from God."
 TonEkTheouTheonLogon.mode = misc_en_US_unknown.Mode2
 TonEkTheouTheonLogon.ode = misc_en_US_unknown.Ode9
 TonEkTheouTheonLogon.text = ""
 
 TonEnFonaisAngelikais.notmetered = "N/M ()"
-TonEnFonaisAngelikais.name = ""
+TonEnFonaisAngelikais.incipit = ""
 TonEnFonaisAngelikais.mode = misc_en_US_unknown.Mode2
 TonEnFonaisAngelikais.ode = misc_en_US_unknown.Ode8
 TonEnFonaisAngelikais.text = ""
 
 TonEnKaminoTouPyros.notmetered = "N/M (When God went down.)"
-TonEnKaminoTouPyros.name = "When God went down."
+TonEnKaminoTouPyros.incipit = "When God went down."
 TonEnKaminoTouPyros.mode = misc_en_US_unknown.Mode2
 TonEnKaminoTouPyros.ode = misc_en_US_unknown.Ode8
 TonEnKaminoTouPyros.text = ""
 
 TonEnTiVatoMosi.notmetered = "N/M (Within the bush.)"
-TonEnTiVatoMosi.name = "Within the bush."
+TonEnTiVatoMosi.incipit = "Within the bush."
 TonEnTiVatoMosi.mode = misc_en_US_unknown.Mode2
 TonEnTiVatoMosi.ode = misc_en_US_unknown.Ode8
 TonEnTiVatoMosi.text = ""
 
 TonGigenonTisIkouse.notmetered = "N/M (Among the earthborn.)"
-TonGigenonTisIkouse.name = "Among the earthborn."
+TonGigenonTisIkouse.incipit = "Among the earthborn."
 TonGigenonTisIkouse.mode = misc_en_US_unknown.Mode2
 TonGigenonTisIkouse.ode = misc_en_US_unknown.Ode9
 TonGigenonTisIkouse.text = ""
 
 TonPalaiDrosisanta.notmetered = "N/M ()"
-TonPalaiDrosisanta.name = ""
+TonPalaiDrosisanta.incipit = ""
 TonPalaiDrosisanta.mode = misc_en_US_unknown.Mode2
 TonPalaiDrosisanta.ode = misc_en_US_unknown.Ode8
 TonPalaiDrosisanta.text = ""
 
 ToxonSynetriviDynaston.notmetered = "N/M ()"
-ToxonSynetriviDynaston.name = ""
+ToxonSynetriviDynaston.incipit = ""
 ToxonSynetriviDynaston.mode = misc_en_US_unknown.Mode2
 ToxonSynetriviDynaston.ode = misc_en_US_unknown.Ode3
 ToxonSynetriviDynaston.text = ""
 
 VatosEnOrei.notmetered = "N/M ()"
-VatosEnOrei.name = ""
+VatosEnOrei.incipit = ""
 VatosEnOrei.mode = misc_en_US_unknown.Mode2
 VatosEnOrei.ode = misc_en_US_unknown.Ode7
 VatosEnOrei.text = ""
 
 VythoAmartimaton.notmetered = "N/M (The gulf.)"
-VythoAmartimaton.name = "The gulf of my transgressions."
+VythoAmartimaton.incipit = "The gulf of my transgressions."
 VythoAmartimaton.mode = misc_en_US_unknown.Mode2
 VythoAmartimaton.ode = misc_en_US_unknown.Ode6
 VythoAmartimaton.text = ""
 
 VythouAnekalypse.notmetered = "N/M (The Lord who is powerful.)"
-VythouAnekalypse.name = "The Lord who is powerful."
+VythouAnekalypse.incipit = "The Lord who is powerful."
 VythouAnekalypse.mode = misc_en_US_unknown.Mode2
 VythouAnekalypse.ode = misc_en_US_unknown.Ode1
 VythouAnekalypse.text = ""
 
 YmnoSeAkoi.notmetered = "N/M ()"
-YmnoSeAkoi.name = ""
+YmnoSeAkoi.incipit = ""
 YmnoSeAkoi.mode = misc_en_US_unknown.Mode2
 YmnoSeAkoi.ode = misc_en_US_unknown.Ode4
 YmnoSeAkoi.text = ""

@@ -59,7 +59,7 @@ meVE.GeneralApolytikion1.melody = //he.ga_en_US_unknown.TisErimouPolitis.notmete
 meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 meVE.MM.GeneralApolytikion1.text = properties_en_US_unknown.media.key
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.C1.title = titles_en_US_unknown.KanonTouOsiou
 meMA.C1.verse = //prayers_en_US_unknown.verse_DevoutMan.text
@@ -124,7 +124,7 @@ meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.text = "O wise Father, you were tested in ascetic discipline like gold is in fire, and you shone even brighter. Then you were translated to heavenly courts. We faithfully extol you and cry out: Pray that we may receive grace, mercy and forgiveness of sins."
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode1
-meMA.Ode3KathismaT.melody =he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered 
+meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered 
 meMA.Ode3KathismaT.text = "O blessed Mary, guide us in the way of repentance, since we continually turn aside to the byways of evil, and thus enrage the Lord. O unwed Virgin, you are the  refuge of humans in despair, O dwelling place of God."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode1

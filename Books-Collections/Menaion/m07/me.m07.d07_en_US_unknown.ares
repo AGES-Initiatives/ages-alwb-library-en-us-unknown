@@ -112,7 +112,7 @@ meMA.Kathisma2T.mode = misc_en_US_unknown.Mode1
 meMA.Kathisma2T.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
 meMA.Kathisma2T.text = //oc.m1.d1_en_US_unknown.ocMA.Kathisma13.text
 
-meMA.C2Acrostic.text = ""
+meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_unknown.KanonTouAgiou
 meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text

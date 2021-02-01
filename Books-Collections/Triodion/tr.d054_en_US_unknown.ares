@@ -35,8 +35,8 @@ trVE.Stichera03.mode = misc_en_US_unknown.Mode8
 trVE.Stichera03.melody = misc_en_US_unknown.NotMetered
 trVE.Stichera03.text = ""
 
-trGC.SticheraPoet = ""
-trGC.SticheraAcrostic.text = ""
+trGC.Stichera.poet = ""
+trGC.Stichera.acrostic = ""
 
 trGC.Stichera01.mode = misc_en_US_unknown.Mode4
 trGC.Stichera01.melody = ""
@@ -140,7 +140,7 @@ trGC.SticheraT.text = ""
 
 //Matins
 trGC.title = "The Great Canon"
-trGC.C1Poet = poets_en_US_unknown.AndreouKritis
+trGC.C1.poet = poets_en_US_unknown.AndreouKritis
 trGC.Verse1 = "Have mercy on me, O God. Have mercy on me." //prayers_en_US_unknown.EleisonMeOTheos.text
 trGC.Verse2 = "Holy Mother Mary, pray to God for us."
 trGC.Verse3 = "Holy Father Andrew, pray to God for us."
@@ -268,7 +268,7 @@ trGC.Ode1C123.mode = misc_en_US_unknown.Mode6
 trGC.Ode1C123.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
 trGC.Ode1C123.text = "Enter not into judgment with me, bringing before me the things I should have done, examining my words and correcting my impulses. But in Your mercy overlook my sins and save me, O Lord almighty."
 
-trGC.C2Acrostic.text = ""
+trGC.C2.acrostic = ""
 
 trGC.Ode1C201.ode = misc_en_US_unknown.Ode1
 trGC.Ode1C201.mode = misc_en_US_unknown.Mode6
@@ -721,7 +721,7 @@ trMA.Ode3Kathisma3.text = ""
 
 // Ode 4 Triodion
 
-trMA.C1Poet = poets_en_US_unknown.Iosif
+trMA.C1.poet = poets_en_US_unknown.Iosif
 
 trMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 trMA.Ode4C1H.mode = misc_en_US_unknown.Mode8
@@ -748,7 +748,7 @@ trMA.Ode4C1T.mode = misc_en_US_unknown.Mode8
 trMA.Ode4C1T.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.notmetered
 trMA.Ode4C1T.text = ""
 
-trMA.C2Poet = poets_en_US_unknown.Theodorou
+trMA.C2.poet = poets_en_US_unknown.Theodorou
 
 trMA.Ode4C2H.ode = misc_en_US_unknown.Ode4
 trMA.Ode4C2H.mode = misc_en_US_unknown.Mode8

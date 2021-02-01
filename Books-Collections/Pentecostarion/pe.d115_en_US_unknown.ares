@@ -46,7 +46,7 @@ peVE.AposGlory.melody = //pe.d110_en_US_unknown.peVE.Lity5.melody
 peVE.AposGlory.text = //pe.d110_en_US_unknown.peVE.Lity5.text
 
 peMA.Kathisma11.mode = misc_en_US_unknown.Mode2
-peMA.Kathisma11.melody = he.a.m2_en_US_unknown.TaAnoZiton.name
+peMA.Kathisma11.melody = he.a.m2_en_US_unknown.TaAnoZiton.incipit
 peMA.Kathisma11.text = "From Heaven to earth * You have descended unto us. * In turn You have gone * from earth up to the heights again. * When You did ascend to Your Father, Your disciples looked on with awe. * And with them we now celebrate * and praise Your Ascension, O our Saviour Christ."
 
 peMA.Kathisma21.mode = //pe.d110_en_US_unknown.peMA.Kathisma21.mode

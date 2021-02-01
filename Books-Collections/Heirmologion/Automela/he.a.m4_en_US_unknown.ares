@@ -4,50 +4,50 @@ he.title = ""
 
 DiaXylouOAdam.mode = misc_en_US_unknown.Mode4
 DiaXylouOAdam.notmetered = "N/M (Adam fell by a tree.)"
-DiaXylouOAdam.name = "Adam fell by a tree."
+DiaXylouOAdam.incipit = "Adam fell by a tree."
 DiaXylouOAdam.text = ""
 
 EdokasSimeiosin.mode = misc_en_US_unknown.Mode4
 EdokasSimeiosin.notmetered = "N/M (You have given.)"
-EdokasSimeiosin.name = "You have given."
+EdokasSimeiosin.incipit = "You have given."
 EdokasSimeiosin.text = ""
 
 EpefanisSimeron.mode = misc_en_US_unknown.Mode4
 EpefanisSimeron.notmetered = "N/M (You appeared.)"
-EpefanisSimeron.name = "You appeared today."
+EpefanisSimeron.incipit = "You appeared today."
 EpefanisSimeron.text = ""
 
 IthelonDakrysinExaleipsai.mode = misc_en_US_unknown.Mode4
 IthelonDakrysinExaleipsai.notmetered = "N/M (How I intended.)"
-IthelonDakrysinExaleipsai.name = "How I intended."
+IthelonDakrysinExaleipsai.incipit = "How I intended."
 IthelonDakrysinExaleipsai.text = ""
 
 KateplagiIosif.mode = misc_en_US_unknown.Mode4
 KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
-KateplagiIosif.name = "Joseph marveled."
+KateplagiIosif.incipit = "Joseph marveled."
 KateplagiIosif.text = ""
 
 KyrieAnelthonEnToStavro.mode = misc_en_US_unknown.Mode4
 KyrieAnelthonEnToStavro.notmetered = "N/M (Sovereign Lord.)"
-KyrieAnelthonEnToStavro.name = "Sovereign Lord."
+KyrieAnelthonEnToStavro.incipit = "Sovereign Lord."
 KyrieAnelthonEnToStavro.text = ""
 
 OExYpsistouKlitheis.mode = misc_en_US_unknown.Mode4
 OExYpsistouKlitheis.notmetered = "N/M (When you were called.)"
-OExYpsistouKlitheis.name = "When you were called."
+OExYpsistouKlitheis.incipit = "When you were called."
 OExYpsistouKlitheis.text = ""
 
 OYpsotheisEnToStavro.mode = misc_en_US_unknown.Mode4
 OYpsotheisEnToStavro.notmetered = "N/M (You who were lifted.)"
-OYpsotheisEnToStavro.name = "You who were lifted."
+OYpsotheisEnToStavro.incipit = "You who were lifted."
 OYpsotheisEnToStavro.text = ""
 
 OsGennaionEnMartysi.mode = misc_en_US_unknown.Mode4
 OsGennaionEnMartysi.notmetered = "N/M (To a brave one.)"
-OsGennaionEnMartysi.name = "To a brave one."
+OsGennaionEnMartysi.incipit = "To a brave one."
 OsGennaionEnMartysi.text = ""
 
 TachyProkatalave.mode = misc_en_US_unknown.Mode4
 TachyProkatalave.notmetered = "N/M (Come quickly.)"
-TachyProkatalave.name = "Come quickly."
+TachyProkatalave.incipit = "Come quickly."
 TachyProkatalave.text = ""

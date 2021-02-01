@@ -41,7 +41,7 @@ meVE.Apolytikion1.mode = misc_en_US_unknown.Mode5
 meVE.Apolytikion1.melody = he.a.m5_en_US_unknown.TonSynanarchonLogon.notmetered
 meVE.Apolytikion1.text = ""
 
-meMA.C1Poet = poets_en_US_unknown.Ignatiou
+meMA.C1.poet = poets_en_US_unknown.Ignatiou
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode2

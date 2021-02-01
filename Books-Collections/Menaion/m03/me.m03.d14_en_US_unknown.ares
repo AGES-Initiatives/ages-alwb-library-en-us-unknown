@@ -42,7 +42,7 @@ meVE.Apolytikion1.melody = he.a.m1_en_US_unknown.TisErimouPolitis.notmetered
 meVE.Apolytikion1.text = ""
 
 meMA.C1.notice = rubrical_en_US_unknown.DifferentMenaionCanonInEnglish
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode2

@@ -191,13 +191,13 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_unknown.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = //me.m01.d18_en_US_unknown.meMA.PostGospelIdiomelon.text
 
-meMA.C1Poet = poets_en_US_unknown.IoannouEfchaiton
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = poets_en_US_unknown.IoannouEfchaiton
+meMA.C1.acrostic = ""
 
-meMA.C2Poet = poets_en_US_unknown.IoannouEfchaiton
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_US_unknown.IoannouEfchaiton
+meMA.C2.acrostic = ""
 
-meMA.C3Poet = poets_en_US_unknown.IoannouEfchaiton
+meMA.C3.poet = poets_en_US_unknown.IoannouEfchaiton
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode2
@@ -808,7 +808,7 @@ alt1.meHO.commemorations = ""
 alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
-alt1.meMA.C1Poet = poets_en_US_unknown.IoannouMonachou
+alt1.meMA.C1.poet = poets_en_US_unknown.IoannouMonachou
 
 alt1.meMA.C1.title = titles_en_US_unknown.KanonTouAgiou
 alt1.meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
