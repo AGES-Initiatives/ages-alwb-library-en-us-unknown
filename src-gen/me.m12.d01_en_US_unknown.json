@@ -1,0 +1,189 @@
+{'id_' : 'me|m12|d01_en_US_unknown|meHO|Month|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meHO|DaysHours|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meDate|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meCommemoration|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meShortCommemoration1|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meCom1|title', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meCom2|title', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meInsert1', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meInsert2', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meNote|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meLE|commemoration1', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meLE|commemoration2', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meHO|number', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meHO|rank', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meHO|commemorations', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meHO|note1', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meHO|note2', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera01|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera01|melody', 'text' : 'N/M (The power of Your holy Cross.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera01|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera02|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera02|melody', 'text' : 'N/M (The power of Your holy Cross.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera02|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera03|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera03|melody', 'text' : 'N/M (The power of Your holy Cross.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Stichera03|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|SticTheotokion|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|SticTheotokion|melody', 'text' : 'N/M (The power of Your holy Cross.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|SticTheotokion|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|SticStavrotheotokion|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|SticStavrotheotokion|melody', 'text' : 'N/M (The power of Your holy Cross.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|SticStavrotheotokion|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion1|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion1|melody', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|GeneralApolytikion1|notmetered', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion2|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion2|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion2|melody', 'text' : 'N/M (Your confession.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion2|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion3|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion3|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion3|melody', 'text' : 'N/M (Your confession.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meVE|Apolytikion3|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|C1|title', 'text' : 'Canon for the Prophet.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|C1|verse', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C11|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C11|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C11|text', 'text' : 'O God-inspired Nahum, we count you blessed when we look upon the holy burden your mind saw. O most excellent Prophet, your mind was overcome by divine inspiration from God, and it radiated with His grace.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C12|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C12|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C12|text', 'text' : 'O wonder-worthy Prophet, the grace of the Holy Spirit echoed in your soul from above and gave you a God-inspired tongue. You were worthy to have prophetic power breathed into you.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C13|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C13|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C13|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C13|text', 'text' : 'O all-celebrated Nahum, you showed yourself to be a harp played by the Spirit. You sang about God's jealousy and preached the impartial holy judgment to all.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C1T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C1T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode1C1T|text', 'text' : 'O supremely blessed and all-pure Virgin, guard those who faithfully praise you and long after you as the revered Mother of God. Make the unassailable ferocity of our troubles cease.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C11|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C11|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C11|text', 'text' : 'O God-inspired Nahum, your soul became a great lantern by participation in the deifying Holy Spirit. You were appointed by holy inspiration to forewarn the people concerning everything that was in the distant future.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C12|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C12|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C12|text', 'text' : 'O blessed one, you foresaw the judgment ordered against the enemies in a divine vision, who out of incurable malice impiously despised the patience, mercy, and goodness of God.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C1T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C1T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3C1T|text', 'text' : 'O pure Virgin, He Who is above everyone is the Friend of man for the sake of His love for humanity. He Who created the universe from nothing now proceeds from your holy womb. He has become a man so that He may save mankind.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3H|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3H|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3H|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3Kathisma1|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3Kathisma1|melody', 'text' : 'N/M (Let us worship the Word.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3Kathisma1|text', 'text' : 'O renowned and holy Prophet of the Lord Nahum, you became a pure vessel for truth by the Holy Spirit. Your mind was free of earthly images. You passed on the Lord's enlightenment which you had brilliantly received to all men. Thus we now ask you to pray that peace may be given to the world.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3KathismaT|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3KathismaT|melody', 'text' : 'N/M (Let us worship the Word.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3KathismaT|text', 'text' : 'Ever-virgin and pure Lady, the most amazing wonder was revealed in you. Your womb ineffably conceived a child. Thus my mind is filled with wonder, and my thoughts are stricken with awe at the glory which you pour out upon all humanity for the salvation of our depraved souls, O Theotokos.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3KathismaSt|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3KathismaSt|melody', 'text' : 'N/M (Let us worship the Word.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode3KathismaSt|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C11|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C11|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C11|text', 'text' : 'O revealer of divine things, You radiated with the light of the Holy Spirit. You preached to the Ninevites the warning of destruction. You displayed the unassailable power of God.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C12|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C12|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C12|text', 'text' : 'O all-blessed Prophet of God Nahum, your prophecy warned that the righteous judgment of the Creator condemns a wicked nation to horrific desolation.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C13|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C13|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C13|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C13|text', 'text' : 'O Good One, Your Prophet was elevated above nature to the sacred vision of You and the Light thereof, for his soul had been clothed in humility.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C1T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C1T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode4C1T|text', 'text' : 'O all-hymned Mary, the Sovereign Lady of creation, rescue me from the tyranny of the passions by your prayers, for you alone gave birth to the King of all.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C11|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C11|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C11|text', 'text' : 'O most wondrous Prophet Nahum, you were counted as worthy of the power and enlightenment of the Holy Spirit, for you lived a life without blame or fault.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C12|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C12|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C12|text', 'text' : 'O Saint, with zeal you caused your flesh to submit to a sovereign mind. You made your heart to ascend, and thus you were granted holy power.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C13|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C13|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C13|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C13|text', 'text' : 'O Prophet, the works of those who are honored with the gift of prophecy are higher than anything in the visible world. For through these prophets the Good and Holy Spirit of the Lord speaks.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C1T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C1T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode5C1T|text', 'text' : 'O Theotokos, even the minds of those in heaven are not able to worthily praise you. You gave birth to the Creator, Whose praises are sung by the ranks of Heaven.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C11|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C11|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C11|text', 'text' : 'We the faithful will honor Nahum, for he became a temple of the grace of God. He was a vessel free of blemish for the holy power which is beyond human understanding'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C12|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C12|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C12|text', 'text' : 'Nahum received the light of the Holy Spirit which never sets. He achieved a mind like that of God. He inspires the pious to sing hymns.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C1T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C1T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6C1T|text', 'text' : 'O blessed and all-blameless Maiden, the noetic powers and all the generations of humanity never cease to give you glory as the one who gave birth to God.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6H|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6H|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode6H|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C11|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C11|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C11|text', 'text' : 'We piously observe this festival, for we have as our choir director the great prophet Nahum who saw God. Thus we are inspired to sing: "O God, blessed are You."'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C12|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C12|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C12|text', 'text' : 'O Nahum, we know that you are an instrument played by the Holy Spirit. You are a God-inspired harp. We call upon you to be our helper, while we sing the hymn: "O God, blessed are You."'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C13|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C13|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C13|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C13|text', 'text' : 'O Saint, the Lord has give you the crown of an inspired Prophet. He has given you the grace to speak of things that have not yet happened. We all sing to Him: "O God, blessed are You."'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C1T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C1T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode7C1T|text', 'text' : 'O all-immaculate Virgin, the Prophet saw you as a gate which could not be passed through. Christ alone has traveled through this gate, and we all sing to Him: "O God, blessed are You."'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C11|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C11|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C11|text', 'text' : 'O Prophet, you look upon the immaterial light of the Sovereign Trinity. Thus you joyously sing: "O all you works, praise you the Lord, and supremely exalt Him unto all the ages."'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C12|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C12|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C12|text', 'text' : 'O marvelous Prophet Nahum, we piously remember your holy life. Thus we sing: "O all you works, praise you the Lord, and supremely exalt Him unto all the ages."'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C1T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C1T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8C1T|text', 'text' : 'O pure Virgin, make the constitution of my soul to be firm, for it has become weak by my failings and passions. Then I shall be able to sing hymns to your Child and supremely exalt you, who are full of grace.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8H|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8H|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode8H|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C11|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C11|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C11|melody', 'text' : 'N/M (O Isaiah, dance with joy.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C11|text', 'text' : 'O Prophet, you truly preached on earth as though you were an Angel. Now you have made your home in the Heavens with the angelic choirs, where you bask in the the full Light of the Trinity. Thus you watch over those who praise you.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C12|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C12|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C12|melody', 'text' : 'N/M (O Isaiah, dance with joy.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C12|text', 'text' : 'O blessed Nahum, we offer you to God as an intercessor for the world. With the boldness of a Prophet, fervently ask Him that in His goodness He may give the eternal salvation that never fades to the faithful.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C1T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C1T|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C1T|melody', 'text' : 'N/M (O Isaiah, dance with joy.)'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9C1T|text', 'text' : 'O all-holy Virgin Mother, because you have given birth to God, we the faithful piously call you the immaculate Theotokos. For it is appropriate and natural to use a name that is completely true. And thus we worship your praiseworthy Child.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9H|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9H|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|Ode9H|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meMA|MM|LaudsSunday|text', 'text' : 'For media only.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meLI|Kontakion1|mode', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meLI|Kontakion1|melody', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meLI|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m12|d01_en_US_unknown|meLI|MM|CommunionHymn|text', 'text' : 'For media only.'}
+{'id_' : 'me|m12|d01_en_US_unknown|meMegalynarion|text', 'text' : ''}

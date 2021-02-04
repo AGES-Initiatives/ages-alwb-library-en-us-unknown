@@ -1,0 +1,382 @@
+{'id_' : 'me|m09|d22_en_US_unknown|meDate|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meCommemoration|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meShortCommemoration1|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meCom1|title', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meCom2|title', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meInsert1', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meInsert2', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meNote|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meLE|commemoration1', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meLE|commemoration2', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meHO|number', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meHO|rank', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meHO|commemorations', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meHO|note1', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meHO|note2', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera01|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera01|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera01|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera02|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera02|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera02|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera03|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera03|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera03|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera04|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera04|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera04|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera05|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera05|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera05|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera06|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera06|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Stichera06|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticGlory|poet', 'text' : 'By Cyprian.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticGlory|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticGlory|melody', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticGlory|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticTheotokion|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticTheotokion|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticTheotokion|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticStavrotheotokion|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticStavrotheotokion|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|SticStavrotheotokion|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|GeneralApolytikion1|name', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|MM|GeneralApolytikion1|text', 'text' : 'For media only.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion1|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion1|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion1|melody', 'text' : 'N/M (The stone.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion1|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|GeneralApolytikion2|name', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|MM|GeneralApolytikion2|text', 'text' : 'For media only.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion2|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion2|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion2|melody', 'text' : 'N/M (Your confession.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion2|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion3|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion3|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion3|melody', 'text' : 'N/M (Come quickly.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meVE|Apolytikion3|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|C2Acrostic|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|C1|title', 'text' : 'Canon for the Apostle.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|C1|verse', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C11|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C11|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C12|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C12|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C13|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C13|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C1T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C1T|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|C2|title', 'text' : 'Canon for the Hieromartyr.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|C2|verse', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C21|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C21|melody', 'text' : 'N/M (The people of Israel.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C21|text', 'text' : 'O glorious shepherd and Martyr of our Almighty God, make my soul shine with the illuminating radiance of the Spirit. I long to sing hymns for your holy memorial today.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C22|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C22|melody', 'text' : 'N/M (The people of Israel.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C22|text', 'text' : 'O Phocas blessed by God, you have become remarkably wealthy with the divine glory of the Martyrs. You have been shown to be an excellent shepherd. Your robe has been dyed red with the blood of your sacred contest.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C23|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C23|melody', 'text' : 'N/M (The people of Israel.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C23|text', 'text' : 'O all-wise Phocas, you stripped the one mighty in evil of all strength, when you had strengthened your mind with hope in the better things. You have ascended to the Heavens and a victorious conqueror.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C2T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C2T|melody', 'text' : 'N/M (The people of Israel.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode1C2T|text', 'text' : 'O immaculate one, the penalty of our forefathers has been undone. You have given birth to God, Who was before the ages yet became a small infant. He has truly given a new nature to mankind.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C11|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C11|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C12|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C12|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C13|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C13|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C1T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C1T|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C21|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C21|melody', 'text' : 'N/M (Your Church rejoices.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C21|text', 'text' : 'O righteous Phocas, you saved cities and nations from the delusion of the enemy by working healings in divine grace with the invocation of Christ.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C22|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C22|melody', 'text' : 'N/M (Your Church rejoices.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C22|text', 'text' : 'O Martyr, you shattered the temples of the idols into pieces, for your co-worker and helper is the power that can do all things. You are a temple of God.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C23|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C23|melody', 'text' : 'N/M (Your Church rejoices.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C23|text', 'text' : 'O Phocas, when you stood in front of the throne of the judges, the Lord was glorifying you. For an angelic host and the boundless light of God had appeared.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C2T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C2T|melody', 'text' : 'N/M (Your Church rejoices.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3C2T|text', 'text' : 'O only all-blessed Lady, God was united to mortals in His compassion and put an end to the curse when He took on flesh from you.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3H|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3H|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Kontakion1|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Kontakion1|melody', 'text' : 'N/M (You have taken.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Oikos1|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3Kathisma1|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3Kathisma1|melody', 'text' : 'N/M (Come quickly.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3Kathisma1|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3Kathisma2|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3Kathisma2|melody', 'text' : 'N/M (Come quickly.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3Kathisma2|text', 'text' : 'O Phocas, the grace of the Spirit which dwelt in you has displayed you as a fountain overflowing with many gifts. You daily help those who sail perilous waters when they call on you with faith. Grant mercy and aid to us as well.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3KathismaT|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3KathismaT|melody', 'text' : 'N/M (Come quickly.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3KathismaT|text', 'text' : 'O all-blameless Virgin, you have given birth to God, Who is transcendent in Essence. With the Angels, O only all-lauded one, implore Him without ceasing that He may grant the pardon of our transgressions and the correction of our life before the end of us who duly and faithfully praise you with longing.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3KathismaSt|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3KathismaSt|melody', 'text' : 'N/M (Come quickly.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode3KathismaSt|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C11|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C11|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C12|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C12|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C13|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C13|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C14|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C14|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C14|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C1T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C1T|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C21|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C21|melody', 'text' : 'N/M (When the Church.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C21|text', 'text' : 'O most sacred Phocas, the Master has set you as a star that shines far and wide in the height of the Church. Enlighten the hearts of all with the radiance of your trials and miracles.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C22|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C22|melody', 'text' : 'N/M (When the Church.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C22|text', 'text' : 'O prizewinning Martyr, you wondrously put the devotions of the Greeks and the godlessness of polytheism to shame by confessing the Incarnation of the Lord before the court of the despot.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C23|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C23|melody', 'text' : 'N/M (When the Church.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C23|text', 'text' : 'O glorious Phocas, you became a peaceful harbor for all who sail the sea, for by righteous helmsmanship you crossed over the sea of delusion, which was tossing and turning with the ominous storm of polytheism.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C2T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C2T|melody', 'text' : 'N/M (When the Church.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode4C2T|text', 'text' : 'O Virgin, you were shown to still be a virgin after giving birth. You conceived without experience of wedlock. O Lady, we cry to you with voices that will never be silent and with faith that will never doubt: "Rejoice"'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C11|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C11|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C12|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C12|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C13|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C13|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C1T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C1T|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C21|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C21|melody', 'text' : 'N/M (My Lord, You are the light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C21|text', 'text' : 'O most sacred Phocas, you clearly tripped up the steps of the enemy by directing your steps in the way of the will of God.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C22|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C22|melody', 'text' : 'N/M (My Lord, You are the light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C22|text', 'text' : 'O divinely blessed Phocas, your body shattered the bonds of godlessness with righteous strength, though it had suffered much and was covered in wounds.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C23|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C23|melody', 'text' : 'N/M (My Lord, You are the light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C23|text', 'text' : 'O famous Saint, you offered yourself as a complete sacrifice to God, Who was sacrificed Himself and ended the bloody sacrifices of idols.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C2T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C2T|melody', 'text' : 'N/M (My Lord, You are the light.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode5C2T|text', 'text' : 'O Lady Theotokos, the Wisdom of God thought it good to build a House for Himself with your pure blood.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C11|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C11|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C12|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C12|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C13|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C13|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C1T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C1T|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C21|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C21|melody', 'text' : 'N/M (The Church cries out.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C21|text', 'text' : 'O all-wise Phocas, you dried the sea of godlessness by pouring out holy teachings like a fountain of life. Now you wash away the swamp of passions with showers of wonders.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C22|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C22|melody', 'text' : 'N/M (The Church cries out.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C22|text', 'text' : 'O blessed Hierarch and Martyr who endured much, you were lifted up on a stock and terrifyingly lacerated with swords. Your limbs were pulled out of joint. But you were strengthened by a voice from on high.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C23|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C23|melody', 'text' : 'N/M (The Church cries out.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C23|text', 'text' : 'O Phocas, since you have imitated the Passion of the passionless One, heal our numerous passions with your holy prayers. Deliver those who sail the sea from storms and winds.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C2T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C2T|melody', 'text' : 'N/M (The Church cries out.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6C2T|text', 'text' : 'O all-holy Maiden, the Logos brought salvation when He emptied Himself like a shower of rain in your inviolate womb. He has dried up the floods of evil by divine power.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6H|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode6H|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Kontakion2|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Kontakion2|melody', 'text' : 'N/M (O Planter.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Kontakion2|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Oikos2|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C11|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C11|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C12|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C12|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C13|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C13|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C1T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C1T|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C21|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C21|melody', 'text' : 'N/M (Inside the furnace.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C21|text', 'text' : 'O all-wise Phocas, you did not fear the wrath of the tyrants. You were offered in martyrdom as a lamb to the Chief Shepherd while you were watching over your rational flock. Thus you have been made glorious.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C22|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C22|melody', 'text' : 'N/M (Inside the furnace.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C22|text', 'text' : 'O Martyr, you were tested like gold in a furnace when you were thrown into the burning quicklime. Yet you were in no way burned, as you exclaimed: "Blessed are You, my God and Lord."'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C23|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C23|melody', 'text' : 'N/M (Inside the furnace.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C23|text', 'text' : 'O glorious Hierarch, your heart was consumed by holy desire like a fire, which preserved you with a divine dew so that you were not extinguished in the fire. Rather, you burned unrighteousness away.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C2T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C2T|melody', 'text' : 'N/M (Inside the furnace.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode7C2T|text', 'text' : 'O all-blameless Maiden, since you are good, renew the decrepit house of my soul through repentance, for you have renewed all of humanity through your birth-giving.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C11|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C11|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C12|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C12|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C13|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C13|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C1T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C1T|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C21|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C21|melody', 'text' : 'N/M (Daniel shut.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C21|text', 'text' : 'O wise Phocas, grace was poured out from your lips. Thus you converted a nation who had been led astray by the counsels of the serpent. As a true shepherd you brought them to Christ, as they exclaimed: "O all you works of the Lord, bless you the Lord."'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C22|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C22|melody', 'text' : 'N/M (Daniel shut.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C22|text', 'text' : 'O wise Father, the assembly of the faithful has you as an unsleeping intercessor. You cause the waves of the sea of passions to sleep. You calm temptations and deliver us from every kind of distress, as we exclaim: "O all you works, praise you the Lord."'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C23|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C23|melody', 'text' : 'N/M (Daniel shut.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C23|text', 'text' : 'O Martyr, your temple continually pours out streams of healings to those in need. It is shown to be a harbor untouched by waves, which expels the passions for those who venerate you and exclaim to Christ: 'O all you works of the Lord, bless you the Lord."'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C24|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C24|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C24|melody', 'text' : 'N/M (Daniel shut.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C24|text', 'text' : 'O Phocas, earnestly ask the Lord Who surpasses goodness that salvation from trials may be granted to us, so that your venerable memorial may be honored and celebrated by us who cry: "O all you works, praise you the Lord."'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C2T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C2T|melody', 'text' : 'N/M (Daniel shut.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8C2T|text', 'text' : 'O all-pure Lady, the ark of the Law, and the vessel that held the manna, the sacred table, and the lampstand gleaming with gold were all a prefiguration of you, who conceived the Light for the revelation of the nations which illuminates the farthest reaches of the earth with holy knowledge.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8H|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode8H|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C11|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C11|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C11|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C12|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C12|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C12|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C13|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C13|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C13|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C1T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C1T|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C1T|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C21|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C21|melody', 'text' : 'N/M (A cornerstone.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C21|text', 'text' : 'With sacred songs inspired by God, let us all come and piously commemorate the most sacred memorial of the sacred shepherd, as he prays for us to the Benefactor and Lord.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C22|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C22|melody', 'text' : 'N/M (A cornerstone.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C22|text', 'text' : 'O blessed Martyr, you were seen to be on fire with zeal for the Lord when you entered the burning bath. Thus you joyously delivered your spirit into the hands of God.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C23|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C23|melody', 'text' : 'N/M (A cornerstone.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C23|text', 'text' : 'O Martyr Phocas, the choruses of the hierarchs, the assemblies of the martyrs, the gathering of the holy apostles, and the spirits of all the righteous rejoice to have you in their company.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C24|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C24|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C24|melody', 'text' : 'N/M (A cornerstone.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C24|text', 'text' : 'O praiseworthy shepherd and Martyr, your memorial is spread throughout the earth. It illumines the souls of those who faithfully praise your sufferings, your battles, and your courageous contest.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C2T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C2T|melody', 'text' : 'N/M (A cornerstone.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9C2T|text', 'text' : 'O pure Virgin, enlighten my soul, which has become dark through sin. Save me from the eternal flame and darkness by your mediation, so that I may joyfully praise your majesty.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9H|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Ode9H|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Exaposteilarion1|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Exaposteilarion1|melody', 'text' : 'N/M (O Women, hearken.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Exaposteilarion1|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Exaposteilarion2|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Exaposteilarion2|melody', 'text' : 'N/M (Having embellished.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|Exaposteilarion2|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|ExapTheotokion|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|ExapTheotokion|melody', 'text' : 'N/M (Having embellished.)'}
+{'id_' : 'me|m09|d22_en_US_unknown|meMA|ExapTheotokion|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meLI|Kontakion1|mode', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meLI|Kontakion1|melody', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meLI|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m09|d22_en_US_unknown|meMegalynarion|text', 'text' : ''}

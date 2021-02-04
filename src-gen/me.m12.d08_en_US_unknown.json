@@ -1,0 +1,405 @@
+{'id_' : 'me|m12|d08_en_US_unknown|meDate|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meCommemoration|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meShortCommemoration1|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meCom1|title', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meCom2|title', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meInsert1', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meInsert2', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meNote|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meLE|commemoration1', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meLE|commemoration2', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meHO|number', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meHO|rank', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meHO|commemorations', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meHO|note1', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meHO|note2', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera01|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera01|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera01|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera02|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera02|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera02|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|MM|Stichera112as8910|text', 'text' : 'For media only.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera03|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera03|melody', 'text' : 'N/M (For the celestial.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera03|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera04|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera04|melody', 'text' : 'N/M (O Martyrs, extolled.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera04|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera05|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera05|melody', 'text' : 'N/M (O Martyrs, extolled.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera05|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera06|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera06|melody', 'text' : 'N/M (O Martyrs, extolled.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Stichera06|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|SticTheotokion|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|SticTheotokion|melody', 'text' : 'N/M (O Martyrs, extolled.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|SticTheotokion|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|SticStavrotheotokion|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|SticStavrotheotokion|melody', 'text' : 'N/M (O Martyrs, extolled.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|SticStavrotheotokion|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Apolytikion1|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Apolytikion1|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Apolytikion1|melody', 'text' : 'N/M (Your confession.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meVE|Apolytikion1|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1H|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|C1|title', 'text' : 'Canon for the Forefeast.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|C1|verse', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C11|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C11|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C11|text', 'text' : 'Today it is revealed to us before the time that the storehouses of joy have been opened and the sorrow of the curse has been closed, for the Mother of God has been divinely conceived.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C12|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C12|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C12|text', 'text' : 'Let us the faithful today pick beautiful flowers of words inspired by God. Let us weave a wreath of praises in anticipation for the feast. Let us praise the Virgin for her conception.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C13|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C13|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C14|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C14|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1T|melody', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C1T|text', 'text' : 'O immaculate Virgin, today the race of mortals is given knowledge of its renewal and the good news of its adoption, for you have been conceived beyond what we had hoped for.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|C2|title', 'text' : 'Canon for the Devout Man.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|C2|verse', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C21|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C21|melody', 'text' : 'N/M (In the deep.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C22|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C22|melody', 'text' : 'N/M (In the deep.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C23|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C23|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C23|melody', 'text' : 'N/M (In the deep.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C23|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C2T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C2T|melody', 'text' : 'N/M (In the deep.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode1C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1H|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C11|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C11|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C11|text', 'text' : 'Let us loudly blow the trumpet in triumph on this day. Let us piously invite all of creation to praise the holy conception of the all-pure Mother in anticipation of the feast.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C12|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C12|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C12|text', 'text' : 'The gifts and graces of God are offered to humanity today, for this conception is shown to be the time of the wondrous gifts of Christ.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C13|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C13|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C14|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C14|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1T|melody', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C1T|text', 'text' : 'O all-blameless Virgin, the prior barrenness of mortals is now undone by the brilliance of divine works. You come forth beyond all hope from a barren woman without fruit, O all-blameless Virgin.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C21|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C21|melody', 'text' : 'N/M (The wilderness.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C22|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C22|melody', 'text' : 'N/M (The wilderness.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C23|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C23|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C23|melody', 'text' : 'N/M (The wilderness.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C23|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C2T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C2T|melody', 'text' : 'N/M (The wilderness.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3H|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma1|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma1|melody', 'text' : 'N/M (Seeing how beautiful.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma1|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma2|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma2|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma2|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma3|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma3|melody', 'text' : 'N/M (Come quickly.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode3Kathisma3|text', 'text' : 'Today the gate which shall not be entered is truly conceived for the world. The bright city shines with her light, and the only one without stain is declared today to the righteous by an Angel. Thus they joyfully exclaimed to the Creator: "The source of incorruption do you grant unto us as fruit."'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1H|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C11|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C11|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C11|text', 'text' : 'O Theotokos, on this day the creation joyfully sings praise to you in anticipation of the feast.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C12|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C12|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C12|text', 'text' : 'O Virgin, the sky becomes clear, and the clouds calmly roll away, as they prefigure the joy of your conception to humanity.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C13|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C13|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C14|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C14|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1T|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C1T|text', 'text' : 'O Maiden, on this day the nature of humanity begins its fruitfulness to God as it accepts your conception.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C21|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C21|melody', 'text' : 'N/M (You came from a Virgin.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C22|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C22|melody', 'text' : 'N/M (You came from a Virgin.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C23|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C23|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C23|melody', 'text' : 'N/M (You came from a Virgin.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C23|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C2T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C2T|melody', 'text' : 'N/M (You came from a Virgin.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode4C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1H|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C11|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C11|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C11|text', 'text' : 'O pure Bride of God, the earth is filled with gladness, and those born on it receive spiritual joy by your conception. Thus we celebrate the anticipation of your festival and longingly sing your praise.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C12|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C12|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C12|text', 'text' : 'O immaculate Maiden, although our nature had become weak, now it is strengthened and receives the first-fruit of a sacred flourishing in the virtues because of your conception beyond expectation.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C13|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C13|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C14|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C14|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1T|melody', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C1T|text', 'text' : 'O pure Virgin, today your noetic gifts pour forth in prefestal rivers like a fountain for us. We draw from it in abundance as we longingly praise and glorify you.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C21|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C21|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C22|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C22|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C23|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C23|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C23|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C23|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C2T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C2T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode5C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1H|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C11|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C11|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C11|text', 'text' : 'Today begins the preludes of the salvation of mortals. They are announced to those who observe the prefestival of the conception of the pure Virgin.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C12|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C12|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C12|text', 'text' : 'The One Who announced to Anna the conception of the Virgin who is transcendent in her blamelessness has granted the good news of our common joy and a surplus of goodness to humanity.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C13|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C13|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C14|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C14|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1T|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C1T|text', 'text' : 'O graced of God, today those born on earth weave together a song of your praise in anticipation of your festival. Your venerable conception is good news of joy to them.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C21|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C21|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C22|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C22|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C23|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C23|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C23|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C23|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C2T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C2T|melody', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6H|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode6H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Kontakion1|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Kontakion1|melody', 'text' : 'N/M (On this day.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Oikos1|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1H|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C11|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C11|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C11|text', 'text' : 'Today the foretaste of God's grace has descended to humanity by the conception of the all-immaculate Virgin. We celebrate it in anticipation and longing, as we exclaim: "Blessed are You, the God of our Fathers."'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C12|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C12|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C12|text', 'text' : 'The sacred conception of the all-pure Virgin exudes a spiritual fragrance before the time. Our understanding is filled with the breath of myrrh which bestows the sweet fragrance of grace onto those who keep her prefestival and exclaim: "Blessed are You, the God of our Fathers."'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C13|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C13|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C14|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C14|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1T|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C1T|text', 'text' : 'O immaculate one, because of your unanticipated conception, the nature of mortals is now established upon the noetic rock of the knowledge of the Master and of the divine nature. Having already proclaimed this, it now sings: "Blessed are You, the God of our Fathers."'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C21|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C21|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C22|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C22|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C2T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C2T|melody', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode7C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1H|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C11|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C11|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C11|text', 'text' : 'The fruit of barrenness will foretell the surplus of goodness that will come to humanity when she sprouts forth. She invites all mankind together for the joy of her prefestival.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C12|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C12|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C12|text', 'text' : 'Now it has been clearly announced that the roots of the curse will be pulled up, even though the curse had sprung up among mortals by the sin in Eden. Likewise, the staff now shows the world that a holy blessing will spring up in it.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C13|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C13|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C14|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C14|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1T|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C1T|text', 'text' : 'O Birthgiver of God, we who trust and incessantly glory in you faithfully and longingly reverence your sacred conception. We praise the Lord without ceasing and supremely exalt Him unto all the ages.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C21|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C21|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C22|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C22|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C23|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C23|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C23|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C23|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C2T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C2T|melody', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8H|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode8H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1H|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C11|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C11|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C11|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C11|text', 'text' : 'O most august and pure Lady, your conception makes spiritual graces to dawn upon the world before the time as though they were rays of wondrous light. Your conception makes them to be radiant who thus faithfully and longingly sing a prefestal song to the Master of all.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C12|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C12|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C12|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C12|text', 'text' : 'O immaculate and all-pure Virgin, Anna was freed from her barrenness. Now she declares to all mortals a bounty of blessings and the fruitfulness of nature. Because of your conception, she invites all creation to give you praise as gifts in anticipation of the festival.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C13|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C13|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C13|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C13|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C14|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C14|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C14|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C14|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1T|melody', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C1T|text', 'text' : 'The grace of Christ's compassion pours out over all humanity in abundance. It has given you as a mediatress and supplier of all His blessings to mankind. Thus we faithfully and longingly bless you.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C21|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C21|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C21|melody', 'text' : 'N/M (To us has appeared.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C21|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C22|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C22|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C22|melody', 'text' : 'N/M (To us has appeared.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C22|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C23|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C23|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C23|melody', 'text' : 'N/M (To us has appeared.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C23|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C2T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C2T|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C2T|melody', 'text' : 'N/M (To us has appeared.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9C2T|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9H|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9H|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Ode9H|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Exaposteilarion1|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Exaposteilarion1|melody', 'text' : 'N/M (On the mountain.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|Exaposteilarion1|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|ExapTheotokion|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|ExapTheotokion|melody', 'text' : 'N/M (On the mountain.)'}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|ExapTheotokion|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMA|MM|LaudsSunday|text', 'text' : 'For media only.'}
+{'id_' : 'me|m12|d08_en_US_unknown|meLI|Kontakion1|mode', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meLI|Kontakion1|melody', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meLI|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m12|d08_en_US_unknown|meMegalynarion|text', 'text' : ''}

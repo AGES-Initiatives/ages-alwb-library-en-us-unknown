@@ -1,0 +1,361 @@
+{'id_' : 'me|m10|d11_en_US_unknown|meDate|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meCommemoration|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meShortCommemoration1|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meCom1|title', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meCom2|title', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meInsert1', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meInsert2', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meNote|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meLE|commemoration1', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meLE|commemoration2', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meHO|number', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meHO|rank', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meHO|commemorations', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meHO|note1', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meHO|note2', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera01|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera01|melody', 'text' : 'N/M (When you were called.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera01|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera02|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera02|melody', 'text' : 'N/M (When you were called.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera02|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera03|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera03|melody', 'text' : 'N/M (When you were called.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera03|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera04|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera04|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera04|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera05|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera05|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera05|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera06|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera06|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Stichera06|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|SticTheotokion|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|SticTheotokion|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|SticTheotokion|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|SticStavrotheotokion|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|SticStavrotheotokion|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|SticStavrotheotokion|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion1|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion1|mode', 'text' : 'Mode 3.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion1|melody', 'text' : 'N/M (Your confession.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion1|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion2|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion2|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion2|melody', 'text' : 'N/M (Let us worship the Word.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meVE|Apolytikion2|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|C1|title', 'text' : 'Canon for the Apostle.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|C1|verse', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C11|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C11|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C12|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C12|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C13|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C13|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C1T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C1T|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|C2|title', 'text' : 'Canon for the Devout Man.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|C2|verse', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C21|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C21|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C22|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C22|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C23|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C23|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C2T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C2T|melody', 'text' : 'N/M (The host of Israel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode1C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C11|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C11|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C12|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C12|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C13|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C13|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C1T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C1T|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C21|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C21|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C22|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C22|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C23|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C23|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C2T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C2T|melody', 'text' : 'N/M (O Lord my God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3H|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3H|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3H|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Kontakion1|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Kontakion1|melody', 'text' : 'N/M (You appeared.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Kontakion1|text', 'text' : 'O Apostle Philip, as an imitator of your Lord and Teacher, for His sake you earnestly ministered to the needs of His saints with faith. Therefore we believers now call you blest.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Oikos1|text', 'text' : 'O blessed and wise Apostle Philip, when you heard the saving and life-giving words of Christ, and saw His wondrous deeds, you were enlightened through them with the light of truth. You believed in Him with joy, and you eagerly preached Him to others, saying: "The salvation of man has appeared; the Sun of Righteousness has risen." And you became a lamp and beacon, guiding many to the knowledge of Him and to the divine Faith, and a light to those in darkness. Therefore we believers now call you blest.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3Kathisma1|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3Kathisma1|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3Kathisma1|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3Kathisma2|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3Kathisma2|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3Kathisma2|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3KathismaT|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3KathismaT|melody', 'text' : 'Automelon.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3KathismaT|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3KathismaSt|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3KathismaSt|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode3KathismaSt|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C11|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C11|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C12|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C12|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C13|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C13|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C14|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C14|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C14|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C14|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C1T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C1T|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C21|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C21|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C22|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C22|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C23|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C23|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C2T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C2T|melody', 'text' : 'N/M (O Christ, my strength.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode4C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C11|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C11|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C12|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C12|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C13|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C13|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C1T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C1T|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C21|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C21|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C22|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C22|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C23|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C23|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C2T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C2T|melody', 'text' : 'N/M (With Your divine light.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode5C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C11|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C11|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C12|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C12|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C13|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C13|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C1T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C1T|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C21|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C21|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C22|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C22|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C23|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C23|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C2T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C2T|melody', 'text' : 'N/M (Perceiving the open sea.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6H|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6H|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode6H|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Kontakion2|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Kontakion2|melody', 'text' : 'N/M (You appeared.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Kontakion2|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C11|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C11|melody', 'text' : 'N/M (Once the Angel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C12|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C12|melody', 'text' : 'N/M (Once the Angel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C13|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C13|melody', 'text' : 'N/M (Once the Angel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C1T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C1T|melody', 'text' : 'N/M (Once the Angel.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C21|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C21|melody', 'text' : 'N/M (In Babylon those Servants.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C22|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C22|melody', 'text' : 'N/M (In Babylon those Servants.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C23|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C23|melody', 'text' : 'N/M (In Babylon those Servants.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C2T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C2T|melody', 'text' : 'N/M (In Babylon those Servants.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode7C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C11|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C11|melody', 'text' : 'N/M (You made dew gush.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C12|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C12|melody', 'text' : 'N/M (You made dew gush.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C13|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C13|melody', 'text' : 'N/M (You made dew gush.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C1T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C1T|melody', 'text' : 'N/M (You made dew gush.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C21|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C21|melody', 'text' : 'N/M (Braving all danger.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C22|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C22|melody', 'text' : 'N/M (Braving all danger.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C23|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C23|melody', 'text' : 'N/M (Braving all danger.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C2T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C2T|melody', 'text' : 'N/M (Braving all danger.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8H|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8H|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode8H|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C11|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C11|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C11|melody', 'text' : 'N/M (For man to see God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C11|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C12|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C12|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C12|melody', 'text' : 'N/M (For man to see God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C12|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C13|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C13|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C13|melody', 'text' : 'N/M (For man to see God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C13|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C14|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C14|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C14|melody', 'text' : 'N/M (For man to see God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C14|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C1T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C1T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C1T|melody', 'text' : 'N/M (For man to see God.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C1T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C21|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C21|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C21|melody', 'text' : 'N/M (Every tongue.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C21|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C22|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C22|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C22|melody', 'text' : 'N/M (Every tongue.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C22|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C23|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C23|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C23|melody', 'text' : 'N/M (Every tongue.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C23|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C2T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C2T|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C2T|melody', 'text' : 'N/M (Every tongue.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9C2T|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9H|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9H|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Ode9H|text', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Exaposteilarion1|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Exaposteilarion1|melody', 'text' : 'N/M (On the mountain.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Exaposteilarion1|text', 'text' : 'As he was making straight his paths, * Candace's famous eunuch, * as he rode in the chariot, * was at a loss when reading * the book of Prophet Isaiah. * But Philip overtook him * and by the Holy Spirit * he resolved his confusion * and taught him all; * and he baptized him and sent him proclaiming * to all of Ethiopia * that Jesus is the true God.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Exaposteilarion2|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Exaposteilarion2|melody', 'text' : 'N/M (On the mountain.)'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMA|Exaposteilarion2|text', 'text' : 'Standing beside the throne of Christ, * there with the all-pure Virgin * Mother of our God, O Hierarch, unceasingly entreat Him, our divine Benefactor, * to grant our leaders trophies * of vict'ry over enemies, * and to give to the whole world enduring peace; * and request salvation of soul for us all * who yearly observe your memory, * O wise St. Theophanis.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meLI|Kontakion1|mode', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meLI|Kontakion1|melody', 'text' : ''}
+{'id_' : 'me|m10|d11_en_US_unknown|meLI|Kontakion1|text', 'text' : 'O Apostle Philip, as an imitator of your Lord and Teacher, for His sake you earnestly ministered to the needs of His saints with faith. Therefore we believers now call you blest.'}
+{'id_' : 'me|m10|d11_en_US_unknown|meMegalynarion|text', 'text' : ''}

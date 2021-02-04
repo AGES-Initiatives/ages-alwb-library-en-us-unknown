@@ -18,27 +18,33 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_unknown.Mode2
 meVE.Stichera01.melody = he.a.m2_en_US_unknown.OteEkTouXylou.notmetered
+meVE.Stichera01.incipit = ""
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_unknown.Mode2
 meVE.Stichera02.melody = he.a.m2_en_US_unknown.OteEkTouXylou.notmetered
+meVE.Stichera02.incipit = ""
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_unknown.Mode2
 meVE.Stichera03.melody = he.a.m2_en_US_unknown.OteEkTouXylou.notmetered
+meVE.Stichera03.incipit = ""
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode2
 meVE.SticTheotokion.melody = he.a.m2_en_US_unknown.OteEkTouXylou.notmetered
+meVE.SticTheotokion.incipit = ""
 meVE.SticTheotokion.text = //oc.m2.d1_en_US_unknown.ocSV.Aposticha1.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_unknown.OteEkTouXylou.notmetered
+meVE.SticStavrotheotokion.incipit = ""
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_unknown.Mode5
 meVE.Apolytikion1.melody = he.a.m5_en_US_unknown.TonSynanarchonLogon.notmetered
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = poets_en_US_unknown.Ignatiou
@@ -46,6 +52,7 @@ meMA.C1.poet = poets_en_US_unknown.Ignatiou
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode1C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode1C1H.incipit = he.h.m2_en_US_unknown.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_unknown.DefteLaoi.text
 
 meMA.C1.title = titles_en_US_unknown.KanonTouAgiou
@@ -56,212 +63,255 @@ meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode1C11.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C11.incipit = "O James, you had received"
 meMA.Ode1C11.text = "O James, you had received the enlightenment of your Master in your soul. You forsook the world and its murky deception. You attained to glory that transcends the world."
 
 meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode1C12.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C12.incipit = "O righteous Father, you took"
 meMA.Ode1C12.text = "O righteous Father, you took the Cross upon your shoulders. You followed after the Crucified. You lived in solitude with all wisdom. You diminished the passions through abstinence."
 
 meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C13.incipit = "O blessed James, from your"
 meMA.Ode1C13.text = "O blessed James, from your tender youth you became a vessel receptive of the Spirit's gifts. You became a citizen and heir of the Zion on high."
 
 meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode1C1T.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
+meMA.Ode1C1T.incipit = "O Maid, you alone gave"
 meMA.Ode1C1T.text = "O Maid, you alone gave birth to God, whom nothing can contain. In His goodness He was contained in you. Implore Him that those who praise you may be saved."
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode3C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3C1H.incipit = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode3C11.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C11.incipit = "Your way of life was"
 meMA.Ode3C11.text = "Your way of life was delightful. Your speech was inspired and seasoned with the salt of love. Your heart was readily moved with compunction. For this reason, with faith we call you blessed."
 
 meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode3C12.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C12.incipit = " O all-blessed Father James,"
 meMA.Ode3C12.text = " O all-blessed Father James, you venerated the holy icon of Christ, who appeared in a body for our sakes. You endured persecutions and perils and pains."
 
 meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode3C13.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C13.incipit = "You offered yourself as a"
 meMA.Ode3C13.text = "You offered yourself as a pure sacrifice to the Lord, by putting sin to death. As a lawful hierarch, you offered Him the bloodless Sacrifice."
 
 meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode3C1T.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
+meMA.Ode3C1T.incipit = "O Virgin, we call you"
 meMA.Ode3C1T.text = "O Virgin, we call you golden censer, the vessel of the divine manna, and the throne and most delightful palace of God."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode3
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_unknown.TinOraiotita.notmetered
+meMA.Ode3Kathisma1.incipit = "O Father blessed by God,"
 meMA.Ode3Kathisma1.text = "O Father blessed by God, we are amazed before the splendor of your thoughts, the beauty of your wise teachings of piety, and the persecutions that you endured for the holy icons. Therefore, as is fitting, we honor you, far-famed and all-lauded James, sacred priest of your Fashioner. Thus with praises we cry out to you: O Saint, grant us salvation by your prayers."
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaT.melody = ""
+meMA.Ode3KathismaT.incipit = "O Mother of God, every"
 meMA.Ode3KathismaT.text = "O Mother of God, every man rightly runs for refuge to where he can be saved. And what other refuge is there like you who shelters our souls?"
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaSt.melody = ""
+meMA.Ode3KathismaSt.incipit = "O Mother of God, we"
 meMA.Ode3KathismaSt.text = "O Mother of God, we who ceaselessly magnify you with love possess the Cross of your Son as a sceptre of power. By it we humble the insolence of our enemies."
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode4C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode4C1H.incipit = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode4C11.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C11.incipit = "O all-blessed James, you were"
 meMA.Ode4C11.text = "O all-blessed James, you were washed with streams of tears. You became a pure vessel of the Spirit."
 
 meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode4C12.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C12.incipit = "You put to sleep the"
 meMA.Ode4C12.text = "You put to sleep the pleasures of the body with night-long supplications. You were seen to be an unsleeping lamp of dispassion."
 
 meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode4C13.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C13.incipit = "O righteous Hierarch, you were"
 meMA.Ode4C13.text = "O righteous Hierarch, you were humble, moderate, compassionate, guileless, and sober minded."
 
 meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode4C1T.melody = he.h.m2_en_US_unknown.EisakikoaKyrieTinAkoin.notmetered
+meMA.Ode4C1T.incipit = "O sovereign Lady, perpetually virgin,"
 meMA.Ode4C1T.text = "O sovereign Lady, perpetually virgin, you inexpressibly conceived God. Deliver us all from temptations and afflictions."
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode5C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode5C1H.incipit = he.h.m2_en_US_unknown.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_unknown.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode5C11.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C11.incipit = "O righteous Father, you loved"
 meMA.Ode5C11.text = "O righteous Father, you loved true glory. You abominated that which is highly esteemed among men. You became a luminary, conspicuous with the splendor of humility."
 
 meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode5C12.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C12.incipit = "O Father and Hierarch, godly-minded"
 meMA.Ode5C12.text = "O Father and Hierarch, godly-minded James, you set yourself like a pillar. You stood in prayers throughout the night. You received the divine rays in the eye of your soul,."
 
 meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode5C13.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C13.incipit = "O righteous one, in much"
 meMA.Ode5C13.text = "O righteous one, in much self-control, in fervent vigil, in prayer and hardship, you sought God. He has carried you to the mansions on high."
 
 meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode5C1T.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
+meMA.Ode5C1T.incipit = "O immaculate Virgin, because you"
 meMA.Ode5C1T.text = "O immaculate Virgin, because you are compassionate, heal my heart, which is wounded by the attacks of the enemy. You ineffably gave birth to Him who was wounded in the flesh on the Cross."
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode6C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6C1H.incipit = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode6C11.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C11.incipit = "O righteous James, the rivers"
 meMA.Ode6C11.text = "O righteous James, the rivers of your tears dried up a sea of evil passions. They gained consolation on high for your venerable soul."
 
 meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode6C12.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C12.incipit = "O all-celebrated Father, you were"
 meMA.Ode6C12.text = "O all-celebrated Father, you were forbearing, meek, guileless, righteous, sweet, humble-minded, moderate, and full of illumination."
 
 meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode6C13.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C13.incipit = "O wise shepherd James, your"
 meMA.Ode6C13.text = "O wise shepherd James, your memorial is glorified with the memorial of the divine shepherds. Like the Good Shepherd, you shepherded your flock in righteousness."
 
 meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode6C1T.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
+meMA.Ode6C1T.incipit = "He who made the universe"
 meMA.Ode6C1T.text = "He who made the universe by His will, willed to dwell in your virginal womb. He made rich with incorruption those who were diseased with corruption, for He is compassionate."
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode7C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode7C1H.incipit = he.h.m2_en_US_unknown.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_unknown.EikonosChrysis.text
 
 meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode7C11.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C11.incipit = "O Father, you endured many"
 meMA.Ode7C11.text = "O Father, you endured many persecutions and unrelenting temptations. You warded off the enemies of the icons as a zealot of righteousness. O James, you enlightened all who saw, while crying: Blessed are You, the God of our Fathers."
 
 meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode7C12.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C12.incipit = "O blessed one, you brought"
 meMA.Ode7C12.text = "O blessed one, you brought to mind the dread coming of Christ. You passed your whole life in compunction. You found complete cleansing of offences, eternal consolation, true enlightenment, and unspeakable glory."
 
 meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode7C13.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C13.incipit = "In meekness of soul, you"
 meMA.Ode7C13.text = "In meekness of soul, you were a lamb of Christ the Shepherd. O Father, you were tended by Him. You became a shepherd of rational sheep in the Spirit, ever singing together with them: Blessed are You, the God of our Fathers."
 
 meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode7C1T.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
+meMA.Ode7C1T.incipit = "O venerable Mary, pure and"
 meMA.Ode7C1T.text = "O venerable Mary, pure and blessed Ever-virgin, You restore those who fall and give redemption to those who sin. Save me, the prodigal. Save me, who cries out to your Son: Blessed are You, the God of our Fathers."
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode8C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8C1H.incipit = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode8C11.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C11.incipit = "O righteous James, your most"
 meMA.Ode8C11.text = "O righteous James, your most pure mind communed with the pure emissions of light. It wisely declined from the darkness of the demons and the murk of the passions, as you cried: Praise you Christ unto the ages."
 
 meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode8C12.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C12.incipit = "O wise and all-blessed Father,"
 meMA.Ode8C12.text = "O wise and all-blessed Father, you quenched the fiery darts of the enemy with the showers of your unceasing tears. You were aflame with the love of Christ. You burned up the wildly overgrown thorns of the pleasures."
 
 meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode8C13.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C13.incipit = "O wise James, divine and"
 meMA.Ode8C13.text = "O wise James, divine and full of light, by your prayers preserve from temptations and perils this flock that you have gathered by your teachings. Preserve those who with faith celebrate your sacred and august memorial."
 
 meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode8C1T.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
+meMA.Ode8C1T.incipit = "O Virgin Mother of God,"
 meMA.Ode8C1T.text = "O Virgin Mother of God, you are the living fountain that brought forth the Water of Life. Give my soul a drink, withered up as it is by the burning heat of sin, so that I may glorify you unto all the ages."
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1H.mode = misc_en_US_unknown.Mode2
 meMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9C1H.incipit = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C11.mode = misc_en_US_unknown.Mode2
 meMA.Ode9C11.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C11.incipit = "O most sacred Father, peer"
 meMA.Ode9C11.text = "O most sacred Father, peer of the righteous, after your many labors, and after innumerable pains, sweat, and veritable tribulations, you have come to rest in the heavenly port, bearing the riches of divine virtues. "
 
 meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C12.mode = misc_en_US_unknown.Mode2
 meMA.Ode9C12.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C12.incipit = "O Father James, we honor"
 meMA.Ode9C12.text = "O Father James, we honor you as a star that outshines the day, a house of the Spirit, a rose wholly fragrant with mystical sweetness, a towering tree, a partaker of eternal glory, and a wise hierarch."
 
 meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C13.mode = misc_en_US_unknown.Mode2
 meMA.Ode9C13.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C13.incipit = "O godly-minded Hierarch, our Father"
 meMA.Ode9C13.text = "O godly-minded Hierarch, our Father James, the torrents of your tears indeed poured abundantly into the earth of your heart. They have fattened a ripe ear of wheat, which ever feeds the souls of those who honor you with faith."
 
 meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1T.mode = misc_en_US_unknown.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
+meMA.Ode9C1T.incipit = "Spare me, O Lord, spare"
 meMA.Ode9C1T.text = "Spare me, O Lord, spare me when You come to judge me. Do not condemn me to the fire nor rebuke me in Your anger. O Christ, the Virgin that gave You birth beseeches You, and so do the multitudes of the Angels and the glorious James."
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
+meLI.Kontakion1.incipit = ""
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""

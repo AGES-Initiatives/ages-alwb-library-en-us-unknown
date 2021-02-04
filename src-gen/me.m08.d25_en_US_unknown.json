@@ -1,0 +1,376 @@
+{'id_' : 'me|m08|d25_en_US_unknown|meDate|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meCommemoration|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meShortCommemoration1|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meCom1|title', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meCom2|title', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meInsert1', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meInsert2', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meNote|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meLE|commemoration1', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meLE|commemoration2', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meHO|number', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meHO|rank', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meHO|commemorations', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meHO|note1', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meHO|note2', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera01|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera01|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera01|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera02|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera02|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera02|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera03|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera03|melody', 'text' : 'N/M (To a brave one.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera03|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera04|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera04|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera04|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera05|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera05|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera05|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera06|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera06|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Stichera06|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|SticGlory|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|SticGlory|melody', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|SticGlory|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|SticTheotokion|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|SticTheotokion|melody', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|SticTheotokion|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|AposGlory|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|AposGlory|melody', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|AposGlory|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|AposTheotokion|mode', 'text' : 'Mode pl. 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|AposTheotokion|melody', 'text' : 'N/M (O Christ, as it is written.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|AposTheotokion|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion1|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion1|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion1|melody', 'text' : 'N/M (Let us worship the Word.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion1|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion2|poet', 'text' : 'By Gerasimos.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion2|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion2|melody', 'text' : 'N/M (Let us worship the Word.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meVE|Apolytikion2|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|C1Acrostic|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|C2Acrostic|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|C1|title', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|C1|verse', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C11|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C11|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C11|text', 'text' : 'O Apostle Bartholomew, seer of God, the Rock of Life has shown you to be a very precious stone, on which He has built His Church. Thus we venerate you and call you blessed.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C12|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C12|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C12|text', 'text' : 'O Saint, when you had found the enhypostatic Wisdom, Who deeply initiated you into the things which surpass the mind and all understanding, you made the wisdom of the Greeks foolish and made the farthest regions wise with holy instruction.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C13|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C13|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C13|text', 'text' : 'O Apostle, you cooperated with the command of God and became an entombed corpse that travelled the sea. You came from the East to the West like the sun and filled it with light.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C1T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C1T|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C1T|text', 'text' : 'O divinely blessed Bartholomew, He Who is full is emptied out. He Who was before the ages has a beginning, for he was born of the Maiden Mother of God. You preached Him to be in two essences but one hypostasis.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|C2|title', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|C2|verse', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C21|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C21|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C21|text', 'text' : 'O celebrated Titus, the grace of the Spirit has made you to overflow with diverse gifts and sends you to the ends of the world as a holy Apostle who announces the incarnation of the Logos.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C22|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C22|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C22|text', 'text' : 'O all-wise Apostle, blessed one, receiving the richness of divine grace inside you, you shone like the sun in darkness, and you enlightened souls. You delivered them from sin and ransomed them from the bondage of error.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C23|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C23|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C23|text', 'text' : 'O wondrous Titus, Paul, who is full of wisdom and the gifts of the Spirit, appoints you to be a minister, an interpreter of the sacred, and a teacher of the Faith.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C2T|ode', 'text' : 'Ode i.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C2T|melody', 'text' : 'N/M (I open my mouth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode1C2T|text', 'text' : 'O Bride of God and Maiden, the Lord shone from your womb. He delivered the ends of the world from error. You continually supplicate and beg Him that those who faithfully honor you may be saved.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C11|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C11|melody', 'text' : 'N/M (Establish your servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C11|text', 'text' : 'O all-wise Bartholomew, they that were captive in error and lay in the insanity and gloom of godlessness found you to be a mighty consolation, a light, and a deliverance from tribulations.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C12|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C12|melody', 'text' : 'N/M (Establish your servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C12|text', 'text' : 'O glorious Apostle, celebrated Bartholomew, you became the mouth of God the Logos. You saved people from the mouth of the noetic wolf. You led them to the Creator through the washtub of Baptism.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C13|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C13|melody', 'text' : 'N/M (Establish your servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C13|text', 'text' : 'O supremely wise one, with your fiery mouth you totally burnt away the bitter substance of falsehood. You plowed arid and hardened hearts, which you prepared for the cultivation of heavenly thoughts.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C1T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C1T|melody', 'text' : 'N/M (Establish your servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C1T|text', 'text' : 'O immaculate Virgin and Mother, God the Logos was pleased to be unfathomably born of you in the flesh. He chose the glorious Bartholomew as a disciple and true servant.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C21|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C21|melody', 'text' : 'N/M (Not in our wisdom.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C21|text', 'text' : 'O blessed Titus, you cast away ignorance from souls that had recourse to you with genuine knowledge and not with the wisdom that made those who clung to it foolish.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C22|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C22|melody', 'text' : 'N/M (Not in our wisdom.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C22|text', 'text' : 'You cleared the field of the heritage of the nations with a holy sickle when it was overgrown with the thorns of godlessness. You planted it with the seeds of knowledge.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C23|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C23|melody', 'text' : 'N/M (Not in our wisdom.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C23|text', 'text' : 'O blessed one, you proclaimed One Godhead in Three Persons. You cast out the haze of polytheism. You brought the farthest reaches of the world to divine knowledge.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C2T|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C2T|melody', 'text' : 'N/M (Not in our wisdom.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3C2T|text', 'text' : 'The One Who was born in the flesh from you has made you to be holier than the Angels and higher than all creation. Thus we venerate you as the Sovereign Lady of all.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3H|ode', 'text' : 'Ode iii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3H|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3Kathisma1|mode', 'text' : 'Mode 1.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3Kathisma1|melody', 'text' : 'N/M (The soldiers.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3Kathisma1|text', 'text' : 'O all-famed Bartholomew, Apostle of God the Lord, the wondrous return of your holy relics has now become for us the cause of a bright and joyful feast. We piously honor you by offering reverence to your feast. You are the lamp whose light never dwindles. We magnify and worship Christ the Lord.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3Kathisma2|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3Kathisma2|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3Kathisma2|text', 'text' : 'O blessed Titus extolled of all, you ran your course with the great Paul as a star with the sun. You truly brought light to the world and dispelled darkness from everywhere. You shone on the Island of Crete. When you set there, you left all your toils and teachings as divine and unsetting rays through your death. Thus we piously honor you who has illumined us for the gifts you have given to everyone. With one voice we exclaim to you: "Intercede with Christ our God that forgiveness of sins may be granted to those who desire to keep your holy memorial."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3KathismaT|mode', 'text' : 'Mode pl. 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3KathismaT|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode3KathismaT|text', 'text' : 'O pure Maiden, rejoice. You are the fiery throne of the Creator and God of all, the chair of the King, a couch covered in purple, a bridal chamber of royal gold, a robe of true purple and lightning-like chariot, an honored and precious temple, and a lampstand of numerous lights. Rejoice, O Theotokos, mighty city of twelve walls. You are a gate covered in gold, a nuptial chamber of noble form, a beautiful table of the purest gold, a radiant dwelling divinely adorned, and a most glorious bride clothed with sun-beams. Rejoice, only salvation of my soul, O graced of God.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C11|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C11|melody', 'text' : 'N/M (When the Prophet Habakkuk.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C11|text', 'text' : 'The prophecy has been fulfilled. The divinely speaking disciple has shone like a light for the restoration of the nations, illuminating the entire world.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C12|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C12|melody', 'text' : 'N/M (When the Prophet Habakkuk.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C12|text', 'text' : 'O Apostle, illumined with the radiance of the Sovereign Divinity, you appeared as a second light according to divine participation, visibly serving Him Who appeared in the fullness of the flesh for us.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C13|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C13|melody', 'text' : 'N/M (When the Prophet Habakkuk.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C13|text', 'text' : 'O Bartholomew, you traveled the sea in a stone casket and made your wondrous course from East to West so that the sea may be sanctified by your journey.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C1T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C1T|melody', 'text' : 'N/M (When the Prophet Habakkuk.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C1T|text', 'text' : 'O Virgin, you unfathomably conceived Him who is beyond understanding in the excess of the wealth of His compassion. Make us who have become impoverished through sin to be wealthy with divine gifts.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C21|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C21|melody', 'text' : 'N/M (He who sits in holy glory.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C21|text', 'text' : 'O all-wise and all-celebrated Titus, you filled the impoverished minds with a wealth of truth by drawing from endless treasuries. You brought deadened hearts to life and drove away the darkness of ignorance.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C22|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C22|melody', 'text' : 'N/M (He who sits in holy glory.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C22|text', 'text' : 'O Titus, the net of Paul catches you by grace's providence. You will eagerly use the hook of your word to draw many nations to genuine religion from the depth of delusion.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C23|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C23|melody', 'text' : 'N/M (He who sits in holy glory.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C23|text', 'text' : 'O God-proclaimer, you cast the grievous wolves out of the midst, while like a lamb you followed the holy and glorious Paul. You made those born on earth to be temples of God by destroying the temples of idols to the ground.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C2T|ode', 'text' : 'Ode iv.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C2T|melody', 'text' : 'N/M (He who sits in holy glory.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode4C2T|text', 'text' : 'The holy Theotokos, the unstained tabernacle and doorway of the Light, the table and vessel of pure gold, the mountain uncut and overshadowed, is called blessed, because the Creator was contained in her.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C11|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C11|melody', 'text' : 'N/M (Amazed was the universe.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C11|text', 'text' : 'O blessed Apostle Bartholomew, you acquired beautiful feet by preaching. You announced the glad tidings of good things to everyone. You preached peace and removed the ancient hostility towards the holy teachings of the Savior.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C12|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C12|melody', 'text' : 'N/M (Amazed was the universe.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C12|text', 'text' : 'O Bartholomew your word was healing for those who received the fatal poison of the snake. As the Prophet says, the land of the unrighteous was overturned by the lever of your all-wise teachings.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C13|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C13|melody', 'text' : 'N/M (Amazed was the universe.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C13|text', 'text' : 'O God-inspired Bartholomew, long dead, yet pouring out abundant life, you traveled through the sea in the company of holy martyrs. You anchored at the Island of Lipara after crossing endless waters.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C1T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C1T|melody', 'text' : 'N/M (Amazed was the universe.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C1T|text', 'text' : 'I glorify you with the Angel's greeting as literally the all-pure Mother of God, as I exclaim to you: "Rejoice, O blessed Virgin graced of God, dread report and tidings, and the unique abode of the Lord of creation."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C21|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C21|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C21|text', 'text' : 'O blessed Titus, as a skilled physician and a minister of grace, you healed the wound of unrighteousness that spread through the souls of the nations with the wonderful salt of your holy words.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C22|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C22|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C22|text', 'text' : 'O all-wise and all-venerable herald of God, you ran with Paul to all places under heaven preaching the good news of holy knowledge as you graciously submitted to his instructions.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C23|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C23|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C23|text', 'text' : 'O divinely-speaking Titus, you taught that the Logos is equal in works and of one throne with the Father. By your wisdom you convinced the weak-minded to cast away all the delusion of idols.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C2T|ode', 'text' : 'Ode v.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C2T|melody', 'text' : 'N/M ()'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode5C2T|text', 'text' : 'With a pure mind let us venerate her who is pure, the beauty of Jacob. Proven fair by godly works, let us piously praise her as the Mother of our God.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C11|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C11|melody', 'text' : 'N/M (O godly-minded believers.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C11|text', 'text' : 'O Apostle, you became a beam of the Sun Who shone on the earth by means of the body. With your light-bearing instructions, you drove away the polytheistic night of falsehood.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C12|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C12|melody', 'text' : 'N/M (O godly-minded believers.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C12|text', 'text' : 'O Apostle Bartholomew, preacher to the nations, you made the salvation of God plain to entire races, teaching that God manifested in the flesh because of His great goodness.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C13|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C13|melody', 'text' : 'N/M (O godly-minded believers.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C13|text', 'text' : 'O blessed Apostle, you had the sea for your highway. You took your path through the waters. As David foretold, your footsteps in the Spirit were not known therein.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C1T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C1T|melody', 'text' : 'N/M (O godly-minded believers.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C1T|text', 'text' : 'O Virgin Mother, Maiden most graced of God, you became a temple of glory, a doorway of the Light, a mountain overshadowed, and the marvelous sign that the Prophets sang of.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C21|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C21|melody', 'text' : 'N/M (The Church cries out.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C21|text', 'text' : 'O blessed Titus, Paul, who is the never-setting sun of the entire earth, sends you as a shining ray to illumine hearts that sleep in ignorant darkness.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C22|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C22|melody', 'text' : 'N/M (The Church cries out.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C22|text', 'text' : 'O blessed one, you overflowed with life-streaming waters, and you washed away the torrents of ignorance with the rivers of your inspired teachings. You watered the nations' gatherings.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C2T|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C2T|melody', 'text' : 'N/M (The Church cries out.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6C2T|text', 'text' : 'O all-praised Lady, generations of generations venerate you. You gave birth beyond all words to the supremely praised Word of God, Who is glorified by the ranks of mortals and Angels.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6H|ode', 'text' : 'Ode vi.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode6H|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Kontakion1|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Kontakion1|melody', 'text' : 'N/M (You appeared.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Kontakion2|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Kontakion2|melody', 'text' : 'N/M (In seeking the heights.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Kontakion2|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Oikos2|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C11|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C11|melody', 'text' : 'N/M (Godly-minded three.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C11|text', 'text' : 'O all-lauded Bartholomew, mankind, which had lost its savor through iniquity, was healed with the savory salt of your words. You convinced everyone to sing: "O supremely praised Lord and God of our Fathers, blessed are You."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C12|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C12|melody', 'text' : 'N/M (Godly-minded three.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C12|text', 'text' : 'O blessed Bartholomew, with a most lofty voice you noetically announce the glory of God as a most lofty heaven, for you are an inspired Apostle. To Him we exclaim: "O Lord and God of our Fathers, blessed are You."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C13|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C13|melody', 'text' : 'N/M (Godly-minded three.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C13|text', 'text' : 'O blessed one, You dressed in a garment which is woven from divine grace. You convinced those who had been stripped naked by the evil of the snake to sing: "O supremely praised Lord and God of our Fathers, blessed are You."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C1T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C1T|melody', 'text' : 'N/M (Godly-minded three.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C1T|text', 'text' : 'O pure Theotokos, you have been given to us as a protection, an encompassing wall, and a help. We your servants continue to faithfully exclaim to you: "Rejoice, O blessed bridge leading those of earth to God."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C21|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C21|melody', 'text' : 'N/M (You saved Your Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C21|text', 'text' : 'Titus rescued mortals from the insanity of polytheism by instructing them to praise one Divinity and to worship one Lordship, and they devoutly exclaimed: "O God of our Fathers, blessed are You."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C22|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C22|melody', 'text' : 'N/M (You saved Your Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C22|text', 'text' : 'O disciple and chosen instructor of unutterable mysteries, when those who were dead in soul and who worshiped soulless matter were taught by you, they understood that God is the Giver of Life and that He was put to death for us.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C23|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C23|melody', 'text' : 'N/M (You saved Your Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C23|text', 'text' : 'O glorious Titus, you shone forth as a servant of truth and a destroyer of falsehood. As the disciple of Paul, you suffered persecutions and trials, while singing with him: "O God of our Fathers, blessed are You."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C2T|ode', 'text' : 'Ode vii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C2T|melody', 'text' : 'N/M (You saved Your Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode7C2T|text', 'text' : 'O unwedded Virgin, you are arrayed in many colors of virtue. You stand at the right hand of the King of all, Who was incarnate of your blood. You eagerly implore Him that we be saved from every necessity.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C11|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C11|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C11|text', 'text' : 'O Saint, you have issued forth like a river of Eden, watering everything under heaven with your instructions and drying up the waters of falsehood by grace, for you are awash in divine floods and exclaim: "Praise you the Savior, and supremely exalt Him unto all the ages."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C12|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C12|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C12|text', 'text' : 'O glorious Bartholomew, the Logos shot you into the world as a saving arrow and deeply wounded the hostile regiment, for He initiated you as a divine theologian into unutterable things. You have saved those who faithfully sing and supremely exalt Him unto the ages.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C13|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C13|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C13|text', 'text' : 'O worthy of wonder, you manifested as a mountain dripping down divine sweetness. After death you had the sea as your highway, across which you were carried by the divine powers, for honorable prizewinners escorted you over its waters without sinking.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C1T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C1T|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C1T|text', 'text' : 'You both give birth and remain ever-virgin by escaping the laws of nature. For you have conceived the Logos, Who has become man in the abundance of His kindness, to Whom all of us exclaim: "You works, praise you the Lord, and supremely exalt Him unto all the ages."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C21|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C21|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C21|text', 'text' : 'O Apostle Titus, the strange fire of delusion was extinguished by the drops of your sweat. Maladies were expelled and demons were cast out at your prayer to God. Thus we praise you as a holy servant of Christ the King of all.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C22|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C22|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C22|text', 'text' : 'O all-wise Titus, you made everyone aware of the saving Logos, Who has saved us from unreason, for you were totally dedicated to God and adorned with divine graces. With true faith we bless and supremely exalt Him to the ages.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C23|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C23|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C23|text', 'text' : 'O admirable Titus, you became a translucent vessel of light. You illuminate the entire earth with divine rays and darken the opposition of sinful enemies. You exclaimed: "Praise you the Lord, and supremely exalt Him unto all the ages."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C2T|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C2T|melody', 'text' : 'N/M (Guiltless were those Servants.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8C2T|text', 'text' : 'O Virgin, the sword that previously was turning about now turns away from me, for you have given birth to the Logos, Who was clothed in the flesh and recognized in two natures, before Whom the ranks of Angels quake, to Whom mortals give glory unto the ages.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8H|ode', 'text' : 'Ode viii.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode8H|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C11|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C11|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C11|melody', 'text' : 'N/M (All you born on earth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C11|text', 'text' : 'O Saint, the chorus of apostles keeps a feast for your memorial today, and the martyrs are joyful with the spirits of all the righteous. We the faithful venerate you with hymns and exclaim: "Deliver us from every affliction, O disciple of Christ."'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C12|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C12|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C12|melody', 'text' : 'N/M (All you born on earth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C12|text', 'text' : 'O glorious Bartholomew, you were conformed to the sufferings of your Teacher and have achieved the blessed end through the Cross. You eternally stand before Him with the Angels as a partaker of His splendor and divine glory, for you were made worthy of unfathomable light.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C13|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C13|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C13|melody', 'text' : 'N/M (All you born on earth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C13|text', 'text' : 'O wise Bartholomew, eye-witness of Christ, your wonderful memorial has shone upon us as bright as the midday sun. Thus we beg you to remember all of us and rescue us by your prayers from every adversity.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C1T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C1T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C1T|melody', 'text' : 'N/M (All you born on earth.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C1T|text', 'text' : 'O pure Mother of God, our unfailing protection, mortify our carnal mind. Halt the sudden storm of our passions and calm the waves. O immaculate Lady, make the hearts of those who honor you in faith to be secure in a fortress of righteous thoughts.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C21|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C21|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C21|melody', 'text' : 'N/M (Because of the malady.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C21|text', 'text' : 'O Apostle Titus, Paul draws you to himself as a companion, so that he may preach the holy Gospel to the nations with you, for he is amazed at your complete love and trust in the Redeemer. Thus we honor you with him.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C22|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C22|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C22|melody', 'text' : 'N/M (Because of the malady.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C22|text', 'text' : 'O godly-minded Titus, worthy of wonder, as the great defender of Crete, her inspired first bishop and heavenly luminary that shines in clarity, you cast out diseases from the faithful and expel demons by divine grace.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C23|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C23|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C23|melody', 'text' : 'N/M (Because of the malady.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C23|text', 'text' : 'O all-blessed Titus, worthy of wonder, your memorial, brightly adorned with the fire of the Spirit, has shone on us like the sun. It expels the clouds of the passions. Protect those who faithfully keep it.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C2T|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C2T|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C2T|melody', 'text' : 'N/M (Because of the malady.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9C2T|text', 'text' : 'O pure and all-blameless Lady, break the chains of my failings by your mediation. Dissolve the darkness of my soul. Quell the tossing of my passions. Strike those to ruin who war against me for no reason. O Ever-virgin Lady, save me.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9H|ode', 'text' : 'Ode ix.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9H|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9H|melody', 'text' : 'Heirmos.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Ode9H|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Exaposteilarion1|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Exaposteilarion1|melody', 'text' : 'N/M (On the mountain.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Exaposteilarion1|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Exaposteilarion2|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Exaposteilarion2|melody', 'text' : 'N/M (On the mountain.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Exaposteilarion2|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|ExapTheotokion|mode', 'text' : 'Mode 2.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|ExapTheotokion|melody', 'text' : 'N/M (On the mountain.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|ExapTheotokion|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds1|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds1|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds1|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds2|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds2|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds2|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds3|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds3|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds3|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds4|mode', 'text' : 'Mode 4.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds4|melody', 'text' : 'N/M (You have given.)'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|Lauds4|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|LaudsGlory|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|LaudsGlory|melody', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|LaudsGlory|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|LaudsTheotokion|mode', 'text' : 'Mode pl. 1.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|LaudsTheotokion|melody', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|LaudsTheotokion|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meMA|MM|Lauds1234as5678|text', 'text' : 'For media only.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meLI|Kontakion1|mode', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meLI|Kontakion1|melody', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meLI|Kontakion1|text', 'text' : ''}
+{'id_' : 'me|m08|d25_en_US_unknown|meLI|MM|CommunionHymn|text', 'text' : 'For media only.'}
+{'id_' : 'me|m08|d25_en_US_unknown|meMegalynarion|text', 'text' : ''}
