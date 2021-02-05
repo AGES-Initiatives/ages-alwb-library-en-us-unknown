@@ -61,11 +61,9 @@ trAK.Oikos013.text = ""
 trAK.Oikos014.text = ""
 trAK.Oikos015.text = ""
 trAK.Oikos016.text = ""
-trAK.Oikos017.incipit = trAK.Refrain1.incipit
 trAK.Oikos017.text = trAK.Refrain1.text
 
 trAK.Oikos020.text = ""
-trAK.Oikos021.incipit = trAK.Refrain2.incipit
 trAK.Oikos021.text = trAK.Refrain2.text
 
 trAK.Oikos030.text = ""
@@ -75,11 +73,9 @@ trAK.Oikos033.text = ""
 trAK.Oikos034.text = ""
 trAK.Oikos035.text = ""
 trAK.Oikos036.text = ""
-trAK.Oikos037.incipit = trAK.Refrain1.incipit
 trAK.Oikos037.text = trAK.Refrain1.text
 
 trAK.Oikos040.text = ""
-trAK.Oikos041.incipit = trAK.Refrain2.incipit
 trAK.Oikos041.text = trAK.Refrain2.text
 
 trAK.Oikos050.text = ""
@@ -89,11 +85,9 @@ trAK.Oikos053.text = ""
 trAK.Oikos054.text = ""
 trAK.Oikos055.text = ""
 trAK.Oikos056.text = ""
-trAK.Oikos057.incipit = trAK.Refrain1.incipit
 trAK.Oikos057.text = trAK.Refrain1.text
 
 trAK.Oikos060.text = ""
-trAK.Oikos061.incipit = trAK.Refrain2.incipit
 trAK.Oikos061.text = trAK.Refrain2.text
 
 trAK.R001 = ""
@@ -105,11 +99,9 @@ trAK.Oikos073.text = ""
 trAK.Oikos074.text = ""
 trAK.Oikos075.text = ""
 trAK.Oikos076.text = ""
-trAK.Oikos077.incipit = trAK.Refrain1.incipit
 trAK.Oikos077.text = trAK.Refrain1.text
 
 trAK.Oikos080.text = ""
-trAK.Oikos081.incipit = trAK.Refrain2.incipit
 trAK.Oikos081.text = trAK.Refrain2.text
 
 trAK.Oikos090.text = ""
@@ -119,11 +111,9 @@ trAK.Oikos093.text = ""
 trAK.Oikos094.text = ""
 trAK.Oikos095.text = ""
 trAK.Oikos096.text = ""
-trAK.Oikos097.incipit = trAK.Refrain1.incipit
 trAK.Oikos097.text = trAK.Refrain1.text
 
 trAK.Oikos100.text = ""
-trAK.Oikos101.incipit = trAK.Refrain2.incipit
 trAK.Oikos101.text = trAK.Refrain2.text
 
 trAK.Oikos110.text = ""
@@ -133,11 +123,9 @@ trAK.Oikos113.text = ""
 trAK.Oikos114.text = ""
 trAK.Oikos115.text = ""
 trAK.Oikos116.text = ""
-trAK.Oikos117.incipit = trAK.Refrain1.incipit
 trAK.Oikos117.text = trAK.Refrain1.text
 
 trAK.Oikos120.text = ""
-trAK.Oikos121.incipit = trAK.Refrain2.incipit
 trAK.Oikos121.text = trAK.Refrain2.text
 
 trMA.C1.title = ""
@@ -225,11 +213,9 @@ trAK.Oikos133.text = ""
 trAK.Oikos134.text = ""
 trAK.Oikos135.text = ""
 trAK.Oikos136.text = ""
-trAK.Oikos137.incipit = trAK.Refrain1.incipit
 trAK.Oikos137.text = trAK.Refrain1.text
 
 trAK.Oikos140.text = ""
-trAK.Oikos141.incipit = trAK.Refrain2.incipit
 trAK.Oikos141.text = trAK.Refrain2.text
 
 trAK.Oikos150.text = ""
@@ -239,11 +225,9 @@ trAK.Oikos153.text = ""
 trAK.Oikos154.text = ""
 trAK.Oikos155.text = ""
 trAK.Oikos156.text = ""
-trAK.Oikos157.incipit = trAK.Refrain1.incipit
 trAK.Oikos157.text = trAK.Refrain1.text
 
 trAK.Oikos160.text = ""
-trAK.Oikos161.incipit = trAK.Refrain2.incipit
 trAK.Oikos161.text = trAK.Refrain2.text
 
 trAK.Oikos170.text = ""
@@ -253,11 +237,9 @@ trAK.Oikos173.text = ""
 trAK.Oikos174.text = ""
 trAK.Oikos175.text = ""
 trAK.Oikos176.text = ""
-trAK.Oikos177.incipit = trAK.Refrain1.incipit
 trAK.Oikos177.text = trAK.Refrain1.text
 
 trAK.Oikos180.text = ""
-trAK.Oikos181.incipit = trAK.Refrain2.incipit
 trAK.Oikos181.text = trAK.Refrain2.text
 
 trMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode1
@@ -466,11 +448,9 @@ trAK.Oikos193.text = ""
 trAK.Oikos194.text = ""
 trAK.Oikos195.text = ""
 trAK.Oikos196.text = ""
-trAK.Oikos197.incipit = trAK.Refrain1.incipit
 trAK.Oikos197.text = trAK.Refrain1.text
 
 trAK.Oikos200.text = ""
-trAK.Oikos201.incipit = trAK.Refrain2.incipit
 trAK.Oikos201.text = trAK.Refrain2.text
 
 trAK.Oikos210.text = ""
@@ -480,11 +460,9 @@ trAK.Oikos213.text = ""
 trAK.Oikos214.text = ""
 trAK.Oikos215.text = ""
 trAK.Oikos216.text = ""
-trAK.Oikos217.incipit = trAK.Refrain1.incipit
 trAK.Oikos217.text = trAK.Refrain1.text
 
 trAK.Oikos220.text = ""
-trAK.Oikos221.incipit = trAK.Refrain2.incipit
 trAK.Oikos221.text = trAK.Refrain2.text
 
 trAK.Oikos230.text = ""
@@ -494,12 +472,10 @@ trAK.Oikos233.text = ""
 trAK.Oikos234.text = ""
 trAK.Oikos235.text = ""
 trAK.Oikos236.text = ""
-trAK.Oikos237.incipit = trAK.Refrain1.incipit
 trAK.Oikos237.text = trAK.Refrain1.text
 
 trAK.Oikos240a.text = ""
 trAK.Oikos240b.text = ""
-trAK.Oikos241.incipit = trAK.Refrain2.incipit
 trAK.Oikos241.text = trAK.Refrain2.text
 
 trMA.Kontakion1.mode = misc_en_US_unknown.Mode8

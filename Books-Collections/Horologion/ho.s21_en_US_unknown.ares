@@ -170,10 +170,14 @@ R02 = ""
 hoPrayer.Key000.title = "On the Following Day"
 R03 = "The morning on which you will receive Holy Communion, read the following as your Morning Prayer."
 hoPrayer.Key001.title = "Then the following Troparia:"
+hoPrayer.Key001.incipit = "Overlook my iniquities" //oc.m2.d2_en_US_unknown.ocMA.Aposticha2.text
 hoPrayer.Key001.text = "Overlook my iniquities, O Lord Who was born of a Virgin, and purify my heart, and make it a temple for Your immaculate Body and Blood.  Do not cast me away from Your presence as one despised, O You Who has immeasurably great mercy." //oc.m2.d2_en_US_unknown.ocMA.Aposticha2.text
+hoPrayer.Key002.incipit = "How can I, the unworthy one"
 hoPrayer.Key002.text = "How can I, the unworthy one, shamelessly dare to partake of Your Holy Gifts?  For should I dare to approach You with those who are worthy, my vesture betrays me, for it is not fitting for the Supper, and I shall bring condemnation upon my sin-laden soul.  O Lord, cleanse the defilement of my soul, and save me, since You love mankind."
+hoPrayer.Key003.incipit = "Great are the multitudes" //oc.m6.d3_en_US_unknown.ocMA.Kathisma33.text
 hoPrayer.Key003.text = "Great are the multitudes of my offenses, O Theotokos; I have fled to you, O pure one, and implore salvation.  Visit my ailing soul, and intercede with your Son and our God that He may grant me forgiveness for the grievous deeds which I have committed, O only-blessed one." //oc.m6.d3_en_US_unknown.ocMA.Kathisma33.text
 hoPrayer.Key004.title = ""
+hoPrayer.Key004.incipit = "" //tr.d068_en_US_unknown.trHW.Troparion.incipit
 hoPrayer.Key004.text = "" //tr.d068_en_US_unknown.trHW.Troparion.text
 
 hoPrayer.Key005.title = "Didactic Verses on "

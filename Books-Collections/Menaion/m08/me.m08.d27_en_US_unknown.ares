@@ -355,14 +355,10 @@ alt1.meSV.Aposticha1.melody = he.a.m2_en_US_unknown.OikosTouEfratha.incipit
 alt1.meSV.Aposticha1.incipit = ""
 alt1.meSV.Aposticha1.text = ""
 
-alt1.meSV.ApostichaVerse2.text = ""
-
 alt1.meSV.Aposticha2.mode = misc_en_US_unknown.Mode2
 alt1.meSV.Aposticha2.melody = he.a.m2_en_US_unknown.OikosTouEfratha.incipit
 alt1.meSV.Aposticha2.incipit = ""
 alt1.meSV.Aposticha2.text = ""
-
-alt1.meSV.ApostichaVerse3.text = ""
 
 alt1.meSV.Aposticha3.mode = misc_en_US_unknown.Mode2
 alt1.meSV.Aposticha3.melody = he.a.m2_en_US_unknown.OikosTouEfratha.incipit
@@ -454,14 +450,10 @@ alt1.meVE.Aposticha1.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.incipit
 alt1.meVE.Aposticha1.incipit = "We the faithful know you"
 alt1.meVE.Aposticha1.text = "We the faithful know you as a steadfast pillar of piety * and a conquering warrior, * O honoured Phanurius, * newly manifested * in the holy Church, which you light as a shining star, * while making bright the four quarters of the earth; * for Christ, the Lord, Who sits in the highest, plainly has made you known * to the faithful, though you before * had been hid in obscurity. "
 
-alt1.meVE.ApostichaVerse2.text = ""
-
 alt1.meVE.Aposticha2.mode = misc_en_US_unknown.Mode4
 alt1.meVE.Aposticha2.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.incipit
 alt1.meVE.Aposticha2.incipit = "You have found your longing,"
 alt1.meVE.Aposticha2.text = "You have found your longing, you have reached that thing which above all else * is the greatest of things desired; * and you have been given light, * which you shed freely * on all them that praise you; and you reveal what is hid * as it were present, O great Phanurius. * Because of this, we stand about your holy icon with reverence, * seeing in it the mysteries * and dread wonders performed through you."
-
-alt1.meVE.ApostichaVerse3.text = ""
 
 alt1.meVE.Aposticha3.mode = misc_en_US_unknown.Mode4
 alt1.meVE.Aposticha3.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.incipit
