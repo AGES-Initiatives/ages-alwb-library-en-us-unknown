@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m06.d21_en_US_unknown
 
-meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "" //full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" //for use in petitions and dismissal
+meDA.insert2 = "" //for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -15,7 +16,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
-meDismissal = ""
+meDA.dismissal = ""
 
 meVE.Stichera01.mode = misc_en_US_unknown.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
