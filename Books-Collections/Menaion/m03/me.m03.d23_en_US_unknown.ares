@@ -19,33 +19,33 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_unknown.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.Stichera01.incipit = ""
+meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_unknown.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.Stichera02.incipit = ""
+meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_unknown.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.Stichera03.incipit = ""
+meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.SticTheotokion.incipit = ""
+meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m03.d20_en_US_unknown.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.SticStavrotheotokion.incipit = ""
+meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //me.m02.d16_en_US_unknown.meVE.SticStavrotheotokion.text
 
 meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_unknown.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.TachyProkatalave.notmetered
-meVE.Apolytikion1.incipit = ""
+meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic = ""
@@ -64,25 +64,25 @@ meMA.C1.verse = //prayers_en_US_unknown.verse_SaintsM.text
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
-meMA.Ode1C11.incipit = "O righteous Nikon, you overcame"
-meMA.Ode1C11.text = "O righteous Nikon, you overcame the deviser of evils in ascetical wrestlings. You were crowned with beauty as a victorious athlete. Now you stand in the presence of God and pray for us who honor you, "
+meMA.Ode1C11.incipit = "O righteous Nikon, you overcame…"
+meMA.Ode1C11.text = "O righteous Nikon, you overcame the deviser of evils in ascetical wrestlings. You were crowned with beauty as a victorious athlete. Now you stand in the presence of God and pray for us who honor you,"
 
 meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
-meMA.Ode1C12.incipit = "O blessed one, you were"
+meMA.Ode1C12.incipit = "O blessed one, you were…"
 meMA.Ode1C12.text = "O blessed one, you were made strong with the might of Him that has given strength to our infirmity. You first triumphed in wars. Then, when you became a victor, you hastened to the Baptism of Christ."
 
 meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
-meMA.Ode1C13.incipit = "O wise Nikon, the most"
+meMA.Ode1C13.incipit = "O wise Nikon, the most…"
 meMA.Ode1C13.text = "O wise Nikon, the most blessed company of your disciples was adorned with martyrdom. They were made to shine beforehand in asceticism. In twofold wrestlings they wove twofold crowns."
 
 meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.notmetered
-meMA.Ode1C1T.incipit = "O Lord, the portal of"
+meMA.Ode1C1T.incipit = "O Lord, the portal of…"
 meMA.Ode1C1T.text = "O Lord, the portal of Your condescension towards us gave birth beyond nature to You, the God-man, twofold in nature. You are mystically called Orient, Sun and Light."
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
@@ -94,40 +94,40 @@ meMA.Ode3C1H.text = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.text
 meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode3C11.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
-meMA.Ode3C11.incipit = "O Martyr of Christ, you"
+meMA.Ode3C11.incipit = "O Martyr of Christ, you…"
 meMA.Ode3C11.text = "O Martyr of Christ, you girded yourself for spiritual warfare. You armed a divine host for the struggles of contest."
 
 meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
-meMA.Ode3C12.incipit = "O most glorious Nikon, you"
+meMA.Ode3C12.incipit = "O most glorious Nikon, you…"
 meMA.Ode3C12.text = "O most glorious Nikon, you previously crucified the flesh in asceticism. You were diligent to turn back the demons' troops in defeat with the scourges of martyric contests."
 
 meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
-meMA.Ode3C13.incipit = "O Nikon, you departed from"
+meMA.Ode3C13.incipit = "O Nikon, you departed from…"
 meMA.Ode3C13.text = "O Nikon, you departed from the East like a star, and you reached the West. You set in your dying and arose to Christ."
 
 meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.notmetered
-meMA.Ode3C1T.incipit = "O Master, a company of"
+meMA.Ode3C1T.incipit = "O Master, a company of…"
 meMA.Ode3C1T.text = "O Master, a company of Martyrs portrayed in themselves Your slaughter. They recognized You as the One who sprang forth from a Maiden who did not know wedlock."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode3
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
-meMA.Ode3Kathisma1.incipit = "O righteous Nikon, a great"
+meMA.Ode3Kathisma1.incipit = "O righteous Nikon, a great…"
 meMA.Ode3Kathisma1.text = "O righteous Nikon, a great light shone forth within your pure heart through the godly words of your mother. You were enlightened by Baptism sacredly. You were enrolled with the company of the monks. You became a light and guide for your followers, for whom you intercede with Christ that His great mercy may be granted unto us."
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
-meMA.Ode3KathismaT.incipit = "O all-pure and only Virgin"
+meMA.Ode3KathismaT.incipit = "O all-pure and only Virgin…"
 meMA.Ode3KathismaT.text = "O all-pure and only Virgin Mother, as the divine and sacred dwelling of the Logos, you surpass the Angels in purity. But as for me, who surpass all in sinfulness and by my sins of the flesh am defiled and stained, wash me clean with the divine waters of your mighty prayers. O modest maid, grant great mercy unto me." //oc.m3.d2_en_US_unknown.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
-meMA.Ode3KathismaSt.incipit = "The most pure and spotless"
+meMA.Ode3KathismaSt.incipit = "The most pure and spotless…"
 meMA.Ode3KathismaSt.text = "The most pure and spotless Ewe lamb of the Logos, the all-undefiled and Virgin Mother, saw Him hanging suspended upon the Cross Who had once blossomed forth from her without travail. She cried in mourning, lamenting maternally: Woe is me, my Child! How do You suffer this Passion now, to free all the race of man from shameful passions?" //me.m01.d29_en_US_unknown.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
@@ -139,25 +139,25 @@ meMA.Ode4C1H.text = he.h.m4_en_US_unknown.EparthentaSeIdousa.text
 meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode4C11.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
-meMA.Ode4C11.incipit = "O praiseworthy Martyr Nikon, you"
+meMA.Ode4C11.incipit = "O praiseworthy Martyr Nikon, you…"
 meMA.Ode4C11.text = "O praiseworthy Martyr Nikon, you delighted in the divine emissions of light. You passed unharmed through the floods of torments. You have worthily received the crown of victory."
 
 meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
-meMA.Ode4C12.incipit = "You were distinguished in illustrious"
+meMA.Ode4C12.incipit = "You were distinguished in illustrious…"
 meMA.Ode4C12.text = "You were distinguished in illustrious acts of courage. You first contended as an ascetic. You mortified the passions of the body. Then by contest, you turned back the hordes of the demons."
 
 meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
-meMA.Ode4C13.incipit = "O godly-minded Martyrs, you ranged"
+meMA.Ode4C13.incipit = "O godly-minded Martyrs, you ranged…"
 meMA.Ode4C13.text = "O godly-minded Martyrs, you ranged yourselves against the enemy with the weapon of true religion. By dying you received undying glory, while chanting: Glory to Your power, O Lord."
 
 meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.notmetered
-meMA.Ode4C1T.incipit = "O Virgin Mother, the Creator"
+meMA.Ode4C1T.incipit = "O Virgin Mother, the Creator…"
 meMA.Ode4C1T.text = "O Virgin Mother, the Creator loved you. You are higher than all creation. He showed you forth as His Mother, whom the companies of the athletes fittingly entreat."
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
@@ -169,25 +169,25 @@ meMA.Ode5C1H.text = he.h.m4_en_US_unknown.SyKyrieMouFos.text
 meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode5C11.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
-meMA.Ode5C11.incipit = "O Nikon, obedient to your"
+meMA.Ode5C11.incipit = "O Nikon, obedient to your…"
 meMA.Ode5C11.text = "O Nikon, obedient to your mother's divine admonitions, you had the power of the Cross in battles. You were initiated into more excellent things."
 
 meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode5C12.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
-meMA.Ode5C12.incipit = "O godly-minded and all-venerable Father,"
+meMA.Ode5C12.incipit = "O godly-minded and all-venerable Father…"
 meMA.Ode5C12.text = "O godly-minded and all-venerable Father, your life was ablaze with the light of virtues. It has your contest as a most majestic adornment."
 
 meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
-meMA.Ode5C13.incipit = "Obedient to the laws of"
+meMA.Ode5C13.incipit = "Obedient to the laws of…"
 meMA.Ode5C13.text = "Obedient to the laws of the Sovereign Godhead, the Martyrs triumphed. They put the lawless to flight with the help of a divine alliance."
 
 meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.notmetered
-meMA.Ode5C1T.incipit = "O all-blameless Virgin, you gave"
+meMA.Ode5C1T.incipit = "O all-blameless Virgin, you gave…"
 meMA.Ode5C1T.text = "O all-blameless Virgin, you gave birth for our sakes unto the timeless Light, Who is the Father's Effulgence. He became subject to time in the riches of His goodness."
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
@@ -199,25 +199,25 @@ meMA.Ode6C1H.text = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.text
 meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode6C11.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
-meMA.Ode6C11.incipit = "O godly-minded Nikon, like a"
+meMA.Ode6C11.incipit = "O godly-minded Nikon, like a…"
 meMA.Ode6C11.text = "O godly-minded Nikon, like a very bright sun you set out from the East. You led the choir of your disciples like stars. You enlightened the West with your rays."
 
 meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode6C12.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
-meMA.Ode6C12.incipit = "O Martyr, you washed away"
+meMA.Ode6C12.incipit = "O Martyr, you washed away…"
 meMA.Ode6C12.text = "O Martyr, you washed away seas of polytheism with the drops of your blood. In the ocean of your struggles, you drowned the terrible and utterly evil author of wickedness."
 
 meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode6C13.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
-meMA.Ode6C13.incipit = "O God-inspired victorious Athletes, you"
+meMA.Ode6C13.incipit = "O God-inspired victorious Athletes, you…"
 meMA.Ode6C13.text = "O God-inspired victorious Athletes, you bloomed as lilies in the meadow of the virtues. Like sweet-smelling roses, you make our hearts fragrant with the beauty of your martyrdom."
 
 meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.notmetered
-meMA.Ode6C1T.incipit = "O Lady, knowing you to"
+meMA.Ode6C1T.incipit = "O Lady, knowing you to…"
 meMA.Ode6C1T.text = "O Lady, knowing you to be a temple and living palace of God, the chorus of victorious martyrs entreats you. You alone have taken away reproach from women."
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
@@ -229,31 +229,31 @@ meMA.Ode7C1H.text = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.text
 meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
-meMA.Ode7C11.incipit = "O godly-minded Nikon, you were"
+meMA.Ode7C11.incipit = "O godly-minded Nikon, you were…"
 meMA.Ode7C11.text = "O godly-minded Nikon, you were tried more than gold with tortures. You were manifested as a tower of virtue. You fended off the forays of the demons. You cried out: Blessed are You in the temple of Your glory, O Lord."
 
 meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
-meMA.Ode7C12.incipit = "O Martyr, after your end,"
+meMA.Ode7C12.incipit = "O Martyr, after your end…"
 meMA.Ode7C12.text = "O Martyr, after your end, your body, which had been secretly cast away, sent forth divine beams of healings. It drove away the harm of the demon, which made you known under constraint by the Divine Spirit and Creator."
 
 meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
-meMA.Ode7C13.incipit = "O glorious and all-blessed Nikon,"
+meMA.Ode7C13.incipit = "O glorious and all-blessed Nikon…"
 meMA.Ode7C13.text = "O glorious and all-blessed Nikon, you were entirely sweetened with divine inclinations. You surrendered your body to tortures with fortitude. You longed to stand crowned before the Almighty in the Heavens."
 
 meMA.Ode7C14.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C14.mode = misc_en_US_unknown.Mode4
 meMA.Ode7C14.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
-meMA.Ode7C14.incipit = "O wise Father, you were"
+meMA.Ode7C14.incipit = "O wise Father, you were…"
 meMA.Ode7C14.text = "O wise Father, you were a shepherd of rational sheep. You kept the fold safe from the harm of noetic wolves. With your flock you have made your dwelling in the heavenly mansion. You stand in the presence of the Master of all."
 
 meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.notmetered
-meMA.Ode7C1T.incipit = "O Maiden, without altering your"
+meMA.Ode7C1T.incipit = "O Maiden, without altering your…"
 meMA.Ode7C1T.text = "O Maiden, without altering your virginity at all, the Logos of the Father dwelt in you. He drew to Himself a celebrated choir of Martyrs who proclaimed you to be the pure Mother of God."
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
@@ -265,25 +265,25 @@ meMA.Ode8C1H.text = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.text
 meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
-meMA.Ode8C11.incipit = "O righteous Nikon, you vigilantly"
+meMA.Ode8C11.incipit = "O righteous Nikon, you vigilantly…"
 meMA.Ode8C11.text = "O righteous Nikon, you vigilantly bore the torch of your heart. You were fueled with streams of tears and the blood of contest. You abide now in the bridal chamber not built by hands, as you cry: O all you works of the Lord, bless the Lord."
 
 meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
-meMA.Ode8C12.incipit = "O righteous Nikon, you were"
+meMA.Ode8C12.incipit = "O righteous Nikon, you were…"
 meMA.Ode8C12.text = "O righteous Nikon, you were shown to be an adornment of ascetics and of athletes. You were approved among both. Over the only enemy you raised trophies that astonish the mind, while shouting: O all you works, praise the Lord."
 
 meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
-meMA.Ode8C13.incipit = "O righteous Father, you watered"
+meMA.Ode8C13.incipit = "O righteous Father, you watered…"
 meMA.Ode8C13.text = "O righteous Father, you watered souls with your blood. You roused them to divine zeal. With the marks of the sword, you wounded the array of the demons. You confirmed in yourself the truth of your name and cried out: O all you works of the Lord, bless the Lord."
 
 meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.notmetered
-meMA.Ode8C1T.incipit = "O immaculate and all-hymned Virgin,"
+meMA.Ode8C1T.incipit = "O immaculate and all-hymned Virgin…"
 meMA.Ode8C1T.text = "O immaculate and all-hymned Virgin, break into pieces the heavy yoke of my falls into sin. At your conceiving you reversed the fall of Adam. Guide me with your light to cry with a pure mind: O all you works of the Lord, bless the Lord."
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
@@ -295,36 +295,36 @@ meMA.Ode9C1H.text = he.h.m4_en_US_unknown.LithosAcheirotmitos.text
 meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
-meMA.Ode9C11.incipit = "O Nikon, the Awarder of"
+meMA.Ode9C11.incipit = "O Nikon, the Awarder of…"
 meMA.Ode9C11.text = "O Nikon, the Awarder of crowns beheld you in garlands with the beauty of your wounds and mantled with the purple of your martyric blood. He brought you to dwell with Him in divine gladness."
 
 meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
-meMA.Ode9C12.incipit = "O Nikon, how beautiful was"
+meMA.Ode9C12.incipit = "O Nikon, how beautiful was…"
 meMA.Ode9C12.text = "O Nikon, how beautiful was the longing you had for the Lord. How fervent was your zeal, blazing with divine fire. How wondrous was your contest, which united you to those of Heaven!"
 
 meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C13.mode = misc_en_US_unknown.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
-meMA.Ode9C13.incipit = "The hosts of athletes possess"
+meMA.Ode9C13.incipit = "The hosts of athletes possess…"
 meMA.Ode9C13.text = "The hosts of athletes possess you as a great sun in the height of the Church. As stars flooded with divine light, they make the whole world bright with beams of dazzling splendor."
 
 meMA.Ode9C14.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C14.mode = misc_en_US_unknown.Mode4
 meMA.Ode9C14.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
-meMA.Ode9C14.incipit = "O Martyr, you have been"
+meMA.Ode9C14.incipit = "O Martyr, you have been…"
 meMA.Ode9C14.text = "O Martyr, you have been taken up to the undefiled mansions. You present a choir of two hundred athletes before the Lord who awards the crowns. With them, remember those who keep your sacred memorial today."
 
 meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.notmetered
-meMA.Ode9C1T.incipit = "O all-pure Virgin Mother, you"
+meMA.Ode9C1T.incipit = "O all-pure Virgin Mother, you…"
 meMA.Ode9C1T.text = "O all-pure Virgin Mother, you became the dwelling of the Light. He was born of you for our sake. Continually ask Him to enlighten us who praise you with hymns and declare you to be the Mother of God."
 
 meLI.Kontakion1.mode = ""
 meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = ""
+meLI.Kontakion1.incipit = "…"
 meLI.Kontakion1.text = ""
 
 meMegalynarion.text = ""

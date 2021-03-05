@@ -131,7 +131,7 @@ EteraStichiraAnatolika = "Additional Stichera by Anatolios."
 
 EteraTisTheotokou = "Additional for the Theotokos."
 
-Etera = "Additional "
+Etera = "Additional"
 
 Eteron = "Another."
 
@@ -648,6 +648,8 @@ TisTheotokou = "For the Theotokos."
 ToAfto = "Repeat."
 
 ToAnastasimon = "Resurrectional."
+
+ToATheotokion = ""
 
 ToATheotokionTouIchou = "The First Theotokion of the Mode."
 

@@ -4,80 +4,96 @@ he.title = ""
 
 ApostoloiEkPeraton.mode = misc_en_US_unknown.Mode3
 ApostoloiEkPeraton.notmetered = "N/M (Apostles assembled.)"
-ApostoloiEkPeraton.incipit = "Apostles, you have assembled."
+ApostoloiEkPeraton.name = "Apostles, you have assembled."
+ApostoloiEkPeraton.incipit = "Apostles, you have assembled…"
 ApostoloiEkPeraton.text = ""
 
 EnPnevmatiToIero.mode = misc_en_US_unknown.Mode3
 EnPnevmatiToIero.notmetered = "N/M (The Elder.)"
-EnPnevmatiToIero.incipit = "The Elder in the Temple."
+EnPnevmatiToIero.name = "The Elder in the Temple."
+EnPnevmatiToIero.incipit = "The Elder in the Temple…"
 EnPnevmatiToIero.text = ""
 
 EpefaniOSotir.mode = misc_en_US_unknown.Mode3
 EpefaniOSotir.notmetered = "N/M (Our Savior, grace and truth.)"
-EpefaniOSotir.incipit = "Our Savior, grace and truth."
+EpefaniOSotir.name = "Our Savior, grace and truth."
+EpefaniOSotir.incipit = "Our Savior, grace and truth…"
 EpefaniOSotir.text = ""
 
 EpeskepsatoImas.mode = misc_en_US_unknown.Mode3
 EpeskepsatoImas.notmetered = "N/M (Our Savior from on high.)"
-EpeskepsatoImas.incipit = "Our Savior from on high."
+EpeskepsatoImas.name = "Our Savior from on high."
+EpeskepsatoImas.incipit = "Our Savior from on high…"
 EpeskepsatoImas.text = ""
 
 FosAnalloioton.mode = misc_en_US_unknown.Mode3
 FosAnalloioton.notmetered = "N/M (O Logos, light unaltered.)"
-FosAnalloioton.incipit = "O Logos, light unaltered."
+FosAnalloioton.name = "O Logos, light unaltered."
+FosAnalloioton.incipit = "O Logos, light unaltered…"
 FosAnalloioton.text = ""
 
 IParthenosSimeron.mode = misc_en_US_unknown.Mode3
 IParthenosSimeron.notmetered = "N/M (On this day.)"
-IParthenosSimeron.incipit = "On this day."
+IParthenosSimeron.name = "On this day."
+IParthenosSimeron.incipit = "On this day…"
 IParthenosSimeron.text = ""
 
 MegaliTonMartyronSou.mode = misc_en_US_unknown.Mode3
 MegaliTonMartyronSou.notmetered = "N/M (The power of Your martyr Saints.)"
-MegaliTonMartyronSou.incipit = "The power of Your martyr Saints."
+MegaliTonMartyronSou.name = "The power of Your martyr Saints."
+MegaliTonMartyronSou.incipit = "The power of Your martyr Saints…"
 MegaliTonMartyronSou.text = ""
 
 MegaliTouStavrouSou.mode = misc_en_US_unknown.Mode3
 MegaliTouStavrouSou.notmetered = "N/M (The power of Your holy Cross.)"
-MegaliTouStavrouSou.incipit = "The power of Your holy Cross."
+MegaliTouStavrouSou.name = "The power of Your holy Cross."
+MegaliTouStavrouSou.incipit = "The power of Your holy Cross…"
 MegaliTouStavrouSou.text = ""
 
 OOuranonToisAstrois.mode = misc_en_US_unknown.Mode3
 OOuranonToisAstrois.notmetered = "N/M (Having embellished.)"
-OOuranonToisAstrois.incipit = "Having embellished heaven."
+OOuranonToisAstrois.name = "Having embellished heaven."
+OOuranonToisAstrois.incipit = "Having embellished heaven…"
 OOuranonToisAstrois.text = ""
 
 SosonMeKyrie.mode = misc_en_US_unknown.Mode3
 SosonMeKyrie.notmetered = "N/M (Save me, O Lord.)"
-SosonMeKyrie.incipit = "Save me, O Lord."
+SosonMeKyrie.name = "Save me, O Lord."
+SosonMeKyrie.incipit = "Save me, O Lord…"
 SosonMeKyrie.text = ""
 
 StavrofanosMoysis.mode = misc_en_US_unknown.Mode3
 StavrofanosMoysis.notmetered = "N/M (When Moses stood.)"
-StavrofanosMoysis.incipit = "When Moses stood."
+StavrofanosMoysis.name = "When Moses stood."
+StavrofanosMoysis.incipit = "When Moses stood…"
 StavrofanosMoysis.text = ""
 
 TheiasPisteos.mode = misc_en_US_unknown.Mode3
 TheiasPisteos.notmetered = "N/M (Your confession.)"
-TheiasPisteos.incipit = "Your confession."
+TheiasPisteos.name = "Your confession."
+TheiasPisteos.incipit = "Your confession…"
 TheiasPisteos.text = ""
 
 TinOraiotita.mode = misc_en_US_unknown.Mode3
 TinOraiotita.notmetered = "N/M (Seeing how beautiful.)"
-TinOraiotita.incipit = "Seeing how beautiful."
+TinOraiotita.name = "Seeing how beautiful."
+TinOraiotita.incipit = "Seeing how beautiful…"
 TinOraiotita.text = ""
 
 ToTypoTouStavrou.mode = misc_en_US_unknown.Mode3
 ToTypoTouStavrou.notmetered = "N/M ()"
-ToTypoTouStavrou.incipit = ""
+ToTypoTouStavrou.name = ""
+ToTypoTouStavrou.incipit = "…"
 ToTypoTouStavrou.text = ""
 
 TonListinAfthimeron.mode = misc_en_US_unknown.Mode3
 TonListinAfthimeron.notmetered = "N/M (On the very same day.)"
-TonListinAfthimeron.incipit = "On the very same day."
+TonListinAfthimeron.name = "On the very same day."
+TonListinAfthimeron.incipit = "On the very same day…"
 TonListinAfthimeron.text = ""
 
 TonNymfonaSouVlepo.mode = misc_en_US_unknown.Mode3
 TonNymfonaSouVlepo.notmetered = "N/M (O my Savior, now I see.)"
-TonNymfonaSouVlepo.incipit = "O my Savior, now I see."
+TonNymfonaSouVlepo.name = "O my Savior, now I see."
+TonNymfonaSouVlepo.incipit = "O my Savior, now I see…"
 TonNymfonaSouVlepo.text = ""

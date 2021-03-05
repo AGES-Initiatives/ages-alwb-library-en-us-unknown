@@ -4,50 +4,60 @@ he.title = ""
 
 AiAngelikai.mode = misc_en_US_unknown.Mode6
 AiAngelikai.notmetered = "N/M (O angelic powers.)"
-AiAngelikai.incipit = "O angelic powers."
+AiAngelikai.name = "O angelic powers."
+AiAngelikai.incipit = "O angelic powers…"
 AiAngelikai.text = ""
 
 AngelikaiDynameis.mode = misc_en_US_unknown.Mode6
 AngelikaiDynameis.notmetered = "N/M (When the angelic powers.)"
-AngelikaiDynameis.incipit = "When the angelic powers."
+AngelikaiDynameis.name = "When the angelic powers."
+AngelikaiDynameis.incipit = "When the angelic powers…"
 AngelikaiDynameis.text = ""
 
 EkGastrosEtechthis.mode = misc_en_US_unknown.Mode6
 EkGastrosEtechthis.notmetered = "N/M (From the womb.)"
-EkGastrosEtechthis.incipit = "From the womb."
+EkGastrosEtechthis.name = "From the womb."
+EkGastrosEtechthis.incipit = "From the womb…"
 EkGastrosEtechthis.text = ""
 
 ElpisTouKosmouAgathi.mode = misc_en_US_unknown.Mode6
 ElpisTouKosmouAgathi.notmetered = "N/M (You are the good hope.)"
-ElpisTouKosmouAgathi.incipit = "You are the good hope."
+ElpisTouKosmouAgathi.name = "You are the good hope."
+ElpisTouKosmouAgathi.incipit = "You are the good hope…"
 ElpisTouKosmouAgathi.text = ""
 
 IApegnosmeni.mode = misc_en_US_unknown.Mode6
 IApegnosmeni.notmetered = "N/M (That woman, who was spurned.)"
-IApegnosmeni.incipit = "That woman, who was spurned."
+IApegnosmeni.name = "That woman, who was spurned."
+IApegnosmeni.incipit = "That woman, who was spurned…"
 IApegnosmeni.text = ""
 
 KyrieEleisonImas.mode = misc_en_US_unknown.Mode6
 KyrieEleisonImas.notmetered = "N/M ()"
-KyrieEleisonImas.incipit = ""
+KyrieEleisonImas.name = "N/M ()"
+KyrieEleisonImas.incipit = "…"
 KyrieEleisonImas.text = ""
 
 OlinApothemenoi.mode = misc_en_US_unknown.Mode6
 OlinApothemenoi.notmetered = "N/M (When the saints.)"
-OlinApothemenoi.incipit = "When the saints deposited."
+OlinApothemenoi.name = "When the saints deposited."
+OlinApothemenoi.incipit = "When the saints deposited…"
 OlinApothemenoi.text = ""
 
 TinEnPresveiais.mode = misc_en_US_unknown.Mode6
 TinEnPresveiais.notmetered = "N/M (The Theotokos, unsleeping.)"
-TinEnPresveiais.incipit = "The Theotokos, unsleeping."
+TinEnPresveiais.name = "The Theotokos, unsleeping."
+TinEnPresveiais.incipit = "The Theotokos, unsleeping…"
 TinEnPresveiais.text = ""
 
 TinYperImon.mode = misc_en_US_unknown.Mode6
 TinYperImon.notmetered = "N/M (When You had fulfilled.)"
-TinYperImon.incipit = "When You had fulfilled."
+TinYperImon.name = "When You had fulfilled."
+TinYperImon.incipit = "When You had fulfilled…"
 TinYperImon.text = ""
 
 TriimerosAnestis.mode = misc_en_US_unknown.Mode6
 TriimerosAnestis.notmetered = "N/M (O Christ, as it is written.)"
-TriimerosAnestis.incipit = "O Christ, as it is written."
+TriimerosAnestis.name = "O Christ, as it is written."
+TriimerosAnestis.incipit = "O Christ, as it is written…"
 TriimerosAnestis.text = ""

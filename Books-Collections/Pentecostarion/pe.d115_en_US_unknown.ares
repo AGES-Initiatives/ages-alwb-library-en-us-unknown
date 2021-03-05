@@ -30,7 +30,7 @@ peVE.Stichera03.text = pe.d112_en_US_unknown.peVE.Stichera03.text
 
 peVE.SticGlory.mode = //pe.d110_en_US_unknown.peVE.Lity4.mode
 peVE.SticGlory.melody = //pe.d110_en_US_unknown.peVE.Lity4.melody
-peVE.SticGlory.incipit = ""
+peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = //pe.d110_en_US_unknown.peVE.Lity4.text
 
 peVE.Aposticha1.mode = pe.d112_en_US_unknown.peVE.Aposticha1.mode
@@ -50,17 +50,17 @@ peVE.Aposticha3.text = pe.d112_en_US_unknown.peVE.Aposticha3.text
 
 peVE.AposGlory.mode = //pe.d110_en_US_unknown.peVE.Lity5.mode
 peVE.AposGlory.melody = //pe.d110_en_US_unknown.peVE.Lity5.melody
-peVE.AposGlory.incipit = ""
+peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = //pe.d110_en_US_unknown.peVE.Lity5.text
 
 peMA.Kathisma11.mode = misc_en_US_unknown.Mode2
-peMA.Kathisma11.melody = he.a.m2_en_US_unknown.TaAnoZiton.incipit
-peMA.Kathisma11.incipit = "From Heaven to earth *"
+peMA.Kathisma11.melody = he.a.m2_en_US_unknown.TaAnoZiton.name
+peMA.Kathisma11.incipit = "From Heaven to earth *…"
 peMA.Kathisma11.text = "From Heaven to earth * You have descended unto us. * In turn You have gone * from earth up to the heights again. * When You did ascend to Your Father, Your disciples looked on with awe. * And with them we now celebrate * and praise Your Ascension, O our Saviour Christ."
 
 peMA.Kathisma21.mode = //pe.d110_en_US_unknown.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = //pe.d110_en_US_unknown.peMA.Kathisma21.melody
-peMA.Kathisma21.incipit = ""
+peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = //pe.d110_en_US_unknown.peMA.Kathisma21.text
 
 peMA.Aposticha1.mode = pe.d112_en_US_unknown.peMA.Aposticha1.mode
@@ -80,5 +80,5 @@ peMA.Aposticha3.text = pe.d112_en_US_unknown.peMA.Aposticha3.text
 
 peMA.AposGlory.mode = //pe.d110_en_US_unknown.peVE.Lity6.mode
 peMA.AposGlory.melody = //pe.d110_en_US_unknown.peVE.Lity6.melody
-peMA.AposGlory.incipit = ""
+peMA.AposGlory.incipit = "…"
 peMA.AposGlory.text = //pe.d110_en_US_unknown.peVE.Lity6.text

@@ -4,20 +4,24 @@ he.title = ""
 
 ChairoisAskitikon.mode = misc_en_US_unknown.Mode5
 ChairoisAskitikon.notmetered = "N/M (Rejoice.)"
-ChairoisAskitikon.incipit = "Rejoice."
+ChairoisAskitikon.name = "Rejoice."
+ChairoisAskitikon.incipit = "Rejoice…"
 ChairoisAskitikon.text = ""
 
 LampeiSimeron.mode = misc_en_US_unknown.Mode5
 LampeiSimeron.notmetered = "N/M ()"
-LampeiSimeron.incipit = ""
+LampeiSimeron.name = ""
+LampeiSimeron.incipit = "…"
 LampeiSimeron.text = ""
 
 OsiePater.mode = misc_en_US_unknown.Mode5
 OsiePater.notmetered = "N/M (God-bearing Father.)"
-OsiePater.incipit = "God-bearing Father."
+OsiePater.name = "God-bearing Father."
+OsiePater.incipit = "God-bearing Father…"
 OsiePater.text = ""
 
 TonSynanarchonLogon.mode = misc_en_US_unknown.Mode5
 TonSynanarchonLogon.notmetered = "N/M (Let us worship the Word.)"
-TonSynanarchonLogon.incipit = "Let us worship the Word."
+TonSynanarchonLogon.name = "Let us worship the Word."
+TonSynanarchonLogon.incipit = "Let us worship the Word…"
 TonSynanarchonLogon.text = ""

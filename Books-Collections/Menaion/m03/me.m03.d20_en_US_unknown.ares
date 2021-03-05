@@ -19,33 +19,33 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_unknown.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.Stichera01.incipit = ""
+meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_unknown.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.Stichera02.incipit = ""
+meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_unknown.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.Stichera03.incipit = ""
+meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.SticTheotokion.incipit = ""
+meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.SticStavrotheotokion.incipit = ""
+meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_unknown.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
-meVE.Apolytikion1.incipit = ""
+meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 //Canon translated by Austin Martin
@@ -65,25 +65,25 @@ meMA.C1.verse = //prayers_en_US_unknown.verse_SaintsM.text
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_unknown.AsmaAnapempsomen.notmetered
-meMA.Ode1C11.incipit = "O Christ, I desire to"
+meMA.Ode1C11.incipit = "O Christ, I desire to…"
 meMA.Ode1C11.text = "O Christ, I desire to extol in hymns that God-inspired multitude of Your sacred Martyrs. Grant me the light of knowledge from Heaven by their entreaties so that I may sing a divinely resounding song."
 
 meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_US_unknown.AsmaAnapempsomen.notmetered
-meMA.Ode1C12.incipit = "O God-bearing Martyrs, you governed"
+meMA.Ode1C12.incipit = "O God-bearing Martyrs, you governed…"
 meMA.Ode1C12.text = "O God-bearing Martyrs, you governed your members and senses with the law of the Spirit. You became sanctified temples of God. O wise Fathers, Christ dwelt in you."
 
 meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_unknown.AsmaAnapempsomen.notmetered
-meMA.Ode1C13.incipit = "O Saints, you forsook corruptible"
+meMA.Ode1C13.incipit = "O Saints, you forsook corruptible…"
 meMA.Ode1C13.text = "O Saints, you forsook corruptible bliss on earth. You disdained as a dream the delightful things of life. You chose the Kingdom of Christ, which cannot be shaken. You now revel in joy there."
 
 meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_unknown.AsmaAnapempsomen.notmetered
-meMA.Ode1C1T.incipit = "O Theotokos, you were shown"
+meMA.Ode1C1T.incipit = "O Theotokos, you were shown…"
 meMA.Ode1C1T.text = "O Theotokos, you were shown to be the mystical ladder seen by Jacob, the elect of God. He who is without flesh ineffably came forth from you. He changelessly became flesh from you in a manner past all telling."
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
@@ -95,40 +95,40 @@ meMA.Ode3C1H.text = he.h.m8_en_US_unknown.OuraniasApsidos.text
 meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_US_unknown.OuraniasApsidos.notmetered
-meMA.Ode3C11.incipit = "O Saints, you completely consecrated"
+meMA.Ode3C11.incipit = "O Saints, you completely consecrated…"
 meMA.Ode3C11.text = "O Saints, you completely consecrated the whole of your spotless lives to the All-seeing God. You offered yourselves as divine whole-burnt offerings and received a perfect crown."
 
 meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_unknown.OuraniasApsidos.notmetered
-meMA.Ode3C12.incipit = "You were longing. for separation"
+meMA.Ode3C12.incipit = "You were longing. for separation…"
 meMA.Ode3C12.text = "You were longing. for separation from tumult as genuine disciples of the God-bearing Sabbas. You walked the afflicted way without turning back. You attained to life that has no end."
 
 meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_unknown.OuraniasApsidos.notmetered
-meMA.Ode3C13.incipit = "O righteous ones, you cultivated"
+meMA.Ode3C13.incipit = "O righteous ones, you cultivated…"
 meMA.Ode3C13.text = "O righteous ones, you cultivated the seed of the Word sown in you. You watered it abundantly with the streams of your tears. You bare fruit and offered to God the ear of wheat that brought forth a hundredfold."
 
 meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_unknown.OuraniasApsidos.notmetered
-meMA.Ode3C1T.incipit = "O Lord, You dwelt bodily"
+meMA.Ode3C1T.incipit = "O Lord, You dwelt bodily…"
 meMA.Ode3C1T.text = "O Lord, You dwelt bodily in the Virgin. You were seen by men as it was meet for You to be seen. O only Friend of man, You have shown her to be the true Theotokos and the help of the faithful."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_unknown.ToProstachthen.notmetered
-meMA.Ode3Kathisma1.incipit = "O you godly ascetics, you"
+meMA.Ode3Kathisma1.incipit = "O you godly ascetics, you…"
 meMA.Ode3Kathisma1.text = "O you godly ascetics, you slew the fiery movements and uprisings of the passions by your abstinence and fasting. You followed the footsteps of God, Who alone devised all things that were made. You offered yourselves as sacred, acceptable sacrifices. You were beaten and were put to death, cut asunder with violence, at the hands of the barbarians."
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_unknown.ToProstachthen.notmetered
-meMA.Ode3KathismaT.incipit = ""
+meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = //me.m11.d08_en_US_unknown.meMA.Kathisma3T.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_unknown.ToProstachthen.notmetered
-meMA.Ode3KathismaSt.incipit = "O Virgin, by the blessed"
+meMA.Ode3KathismaSt.incipit = "O Virgin, by the blessed…"
 meMA.Ode3KathismaSt.text = "O Virgin, by the blessed Cross of your Son and God, we are protected at all times. We boldly drive off the assaults of the demons and their machinations. All we the generations with fervent love extol you, the Mother of God, in very truth, as is due. O spotless Maiden, we call you blessed, as you foretold. Therefore grant forgiveness of sins to us by your prayers."
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
@@ -140,43 +140,43 @@ meMA.Ode4C1H.text = he.h.m8_en_US_unknown.EpevisEfIppous.text
 meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.EpevisEfIppous.notmetered
-meMA.Ode4C11.incipit = "The enemy beheld the invincible"
+meMA.Ode4C11.incipit = "The enemy beheld the invincible…"
 meMA.Ode4C11.text = "The enemy beheld the invincible Martyrs enduring patiently in a waterless desert They were excelling in manifold virtues. The enemy was evilly inflamed, being filled with envy. He turned upon their arrays."
 
 meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_unknown.EpevisEfIppous.notmetered
-meMA.Ode4C12.incipit = "The wily dragon rooted error"
+meMA.Ode4C12.incipit = "The wily dragon rooted error…"
 meMA.Ode4C12.text = "The wily dragon rooted error in his own disciples. He aroused the tribes of the barbarians to mutual slaughter. He strove through them to drive the righteous from the wilderness."
 
 meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_US_unknown.EpevisEfIppous.notmetered
-meMA.Ode4C13.incipit = "The adversary of the just"
+meMA.Ode4C13.incipit = "The adversary of the just…"
 meMA.Ode4C13.text = "The adversary of the just wildly encompassed the environs, desiring, but unable, to put to flight the invincible ones. He marched against them visibly, though he was conquered invisibly."
 
 meMA.Ode4C14.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C14.melody = he.h.m8_en_US_unknown.EpevisEfIppous.notmetered
-meMA.Ode4C14.incipit = "The author of evil attacked"
+meMA.Ode4C14.incipit = "The author of evil attacked…"
 meMA.Ode4C14.text = "The author of evil attacked with his spearmen, for he filled with poison and madness. He assailed the blessed men like a beast and with incurable wounds spilled pools of blood."
 
 meMA.Ode4C15.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C15.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C15.melody = he.h.m8_en_US_unknown.EpevisEfIppous.notmetered
-meMA.Ode4C15.incipit = "Those that fixed their hopes"
+meMA.Ode4C15.incipit = "Those that fixed their hopes…"
 meMA.Ode4C15.text = "Those that fixed their hopes on earth demanded the treasures of fleeting matter, even perishable gold. But the courageous set their hopes in the Heavens. They cried out: Glory to Your power, O Lord."
 
 meMA.Ode4C16.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C16.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C16.melody = he.h.m8_en_US_unknown.EpevisEfIppous.notmetered
-meMA.Ode4C16.incipit = "Like wild beasts, they tortured"
+meMA.Ode4C16.incipit = "Like wild beasts, they tortured…"
 meMA.Ode4C16.text = "Like wild beasts, they tortured the righteous with clubs and swords and stones without mercy. They commanded that they betray their own leaders to them. But they all refused, made strong by the law of love."
 
 meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_US_unknown.EpevisEfIppous.notmetered
-meMA.Ode4C1T.incipit = "You are the adornment of"
+meMA.Ode4C1T.incipit = "You are the adornment of…"
 meMA.Ode4C1T.text = "You are the adornment of the Apostles and the stronghold of the holy Martyrs, O Virgin and Mother. You are the boast of the righteous and the preservation of those who faithfully sing: Glory to Your power, O Lord."
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
@@ -188,25 +188,25 @@ meMA.Ode5C1H.text = he.h.m8_en_US_unknown.InaTiMeAposo.text
 meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C11.incipit = "O Savior, initiated and instructed"
+meMA.Ode5C11.incipit = "O Savior, initiated and instructed…"
 meMA.Ode5C11.text = "O Savior, initiated and instructed by You in the ordinance of perfect love, the righteous laid down their lives for their friends. They imitated Your voluntary sacrifice on behalf of man."
 
 meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C12.incipit = "O Christ, Your command proved"
+meMA.Ode5C12.incipit = "O Christ, Your command proved…"
 meMA.Ode5C12.text = "O Christ, Your command proved stronger than death. It surpassed the nature born of the will of the flesh by far. The godly-minded chose to die gloriously for their friends by submitting to Your law."
 
 meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C13.incipit = "O righteous Fathers, you were"
+meMA.Ode5C13.incipit = "O righteous Fathers, you were…"
 meMA.Ode5C13.text = "O righteous Fathers, you were sprinkled in soul with the spiritual hyssop by means of Baptism. You were again sprinkled with your own blood. You were tried like gold in a prison of fire. You were offered unto Christ as a sweet-smelling sacrifice."
 
 meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C1T.incipit = "O all-pure one, because you"
+meMA.Ode5C1T.incipit = "O all-pure one, because you…"
 meMA.Ode5C1T.text = "O all-pure one, because you have maternal boldness with your Son, we pray that you do not overlook your care for us as your kinsmen. You alone do we Christians offer as a gracious conciliation unto the Master."
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
@@ -218,31 +218,31 @@ meMA.Ode6C1H.text = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.text
 meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.notmetered
-meMA.Ode6C11.incipit = "The servants of Christ did"
+meMA.Ode6C11.incipit = "The servants of Christ did…"
 meMA.Ode6C11.text = "The servants of Christ did not cower before the tyrants' threats. They had already made their life a continual meditation on death."
 
 meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.notmetered
-meMA.Ode6C12.incipit = "The impious desired to become"
+meMA.Ode6C12.incipit = "The impious desired to become…"
 meMA.Ode6C12.text = "The impious desired to become rich. They mercilessly tormented those non-possessors who had cast aside corruptible things and laid hold on the incorruptible."
 
 meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.notmetered
-meMA.Ode6C13.incipit = "The athletes of Christ were"
+meMA.Ode6C13.incipit = "The athletes of Christ were…"
 meMA.Ode6C13.text = "The athletes of Christ were clothed with invincible strength. They defeated the wanton pride of the noetic adversary and of the barbarians."
 
 meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.notmetered
-meMA.Ode6C1T.incipit = "O all-blameless Virgin, the reigning"
+meMA.Ode6C1T.incipit = "O all-blameless Virgin, the reigning…"
 meMA.Ode6C1T.text = "O all-blameless Virgin, the reigning Lord descended upon you as upon a swift cloud, so that He might destroy the hand-wrought idols of Egypt."
 
 meMA.Kontakion1.poet = poets_en_US_unknown.Gerasimou
 meMA.Kontakion1.mode = misc_en_US_unknown.Mode2
 meMA.Kontakion1.melody = he.a.m6_en_US_unknown.TinEnPresveiais.notmetered
-meMA.Kontakion1.incipit = ""
+meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
@@ -254,37 +254,37 @@ meMA.Ode7C1H.text = he.h.m8_en_US_unknown.OiEkTisIoudaias.text
 meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.OiEkTisIoudaias.notmetered
-meMA.Ode7C11.incipit = "Both warlike bodies of adversaries,"
+meMA.Ode7C11.incipit = "Both warlike bodies of adversaries…"
 meMA.Ode7C11.text = "Both warlike bodies of adversaries, the visible and the invisible, were dumbstruck. They beheld the Martyrs in their tortures singing the hymn: Blessed is the God of our Fathers."
 
 meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_unknown.OiEkTisIoudaias.notmetered
-meMA.Ode7C12.incipit = "O Christ our Redeemer, God"
+meMA.Ode7C12.incipit = "O Christ our Redeemer, God…"
 meMA.Ode7C12.text = "O Christ our Redeemer, God of our Fathers, those who were espoused to You were wounded with the love of You, Who are in truth the only Beloved. Those who fled to You for refuge counted kin and fatherland and wealth as nought."
 
 meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_unknown.OiEkTisIoudaias.notmetered
-meMA.Ode7C13.incipit = "O Christ, the barbarians' thirst"
+meMA.Ode7C13.incipit = "O Christ, the barbarians' thirst…"
 meMA.Ode7C13.text = "O Christ, the barbarians' thirst for blood could not drive away Your lovers of divine worship in the wilderness. They did not fear them that destroy the body, since they held fast to Your commandments as an unshakeable foundation."
 
 meMA.Ode7C14.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C14.melody = he.h.m8_en_US_unknown.OiEkTisIoudaias.notmetered
-meMA.Ode7C14.incipit = "O Christ, they transferred all"
+meMA.Ode7C14.incipit = "O Christ, they transferred all…"
 meMA.Ode7C14.text = "O Christ, they transferred all their desire from the world unto You. Armed with anger against sin alone, Your servants became well pleasing unto You, O Lord, by employing this all-wise purpose."
 
 meMA.Ode7C15.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C15.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C15.melody = he.h.m8_en_US_unknown.OiEkTisIoudaias.notmetered
-meMA.Ode7C15.incipit = "O Martyrs, you had received"
+meMA.Ode7C15.incipit = "O Martyrs, you had received…"
 meMA.Ode7C15.text = "O Martyrs, you had received from God the divinely inscribed law upon the tablets of your hearts. You proclaimed one God in Trinity, crying out to Him: Blessed is the God of our Fathers."
 
 meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_US_unknown.OiEkTisIoudaias.notmetered
-meMA.Ode7C1T.incipit = "O you who walk in"
+meMA.Ode7C1T.incipit = "O you who walk in…"
 meMA.Ode7C1T.text = "O you who walk in the light of the Lord, come, let us praise the divine gate of the King of kings, the immaculate Mary. She is truly the Mother of God and the hope of our souls."
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
@@ -296,31 +296,31 @@ meMA.Ode8C1H.text = he.h.m4_en_US_unknown.AseveisOukOpsontai.text
 meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.AseveisOukOpsontai.notmetered
-meMA.Ode8C11.incipit = "As they rivalled the heavenly"
+meMA.Ode8C11.incipit = "As they rivalled the heavenly…"
 meMA.Ode8C11.text = "As they rivalled the heavenly orders, the peers of the Angels chanted in night-long vigils: O all you works, bless Christ unto the ages."
 
 meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C12.melody = he.h.m4_en_US_unknown.AseveisOukOpsontai.notmetered
-meMA.Ode8C12.incipit = "O Master, you took up"
+meMA.Ode8C12.incipit = "O Master, you took up…"
 meMA.Ode8C12.text = "O Master, you took up the Cross. The Martyrs followed after You with their whole soul, chanting: O all you works, bless Christ unto the ages."
 
 meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C13.melody = he.h.m4_en_US_unknown.AseveisOukOpsontai.notmetered
-meMA.Ode8C13.incipit = "The all-blessed Fathers were crushed"
+meMA.Ode8C13.incipit = "The all-blessed Fathers were crushed…"
 meMA.Ode8C13.text = "The all-blessed Fathers were crushed with rods and enduring showers of stones. They clung to virtue, crying out: O you works, praise Christ unto the ages."
 
 meMA.Ode8C14.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C14.melody = he.h.m4_en_US_unknown.AseveisOukOpsontai.notmetered
-meMA.Ode8C14.incipit = "The blessed men were cleansed"
+meMA.Ode8C14.incipit = "The blessed men were cleansed…"
 meMA.Ode8C14.text = "The blessed men were cleansed in body and soul and spirit by every means. They sang unto Christ: O all you works, bless Him unto all the ages."
 
 meMA.Ode8C15.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C15.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C15.melody = he.h.m4_en_US_unknown.AseveisOukOpsontai.notmetered
-meMA.Ode8C15.incipit = "Let those who, as worshipping"
+meMA.Ode8C15.incipit = "Let those who, as worshipping…"
 meMA.Ode8C15.text = "Let those who, as worshipping a quaternity, blasphemously declare that You Who are indivisible do exist in two hypostases be put to shame. But as for us, we worship You as One of the Divine Trinity."
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
@@ -332,31 +332,31 @@ meMA.Ode9C1H.text = he.h.m8_en_US_unknown.ExestiEpiTouto.text
 meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C11.incipit = "The athletes trained themselves in"
+meMA.Ode9C11.incipit = "The athletes trained themselves in…"
 meMA.Ode9C11.text = "The athletes trained themselves in diverse struggles and had overcome the devices of the ruler of the world. The athletes put the madness of the barbarians to shame with courage and godliness. They patiently endured their assaults. Therefore they have also received twofold crowns from the just Judge of the contest."
 
 meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C12.incipit = "O blessed Fathers, you passed"
+meMA.Ode9C12.incipit = "O blessed Fathers, you passed…"
 meMA.Ode9C12.text = "O blessed Fathers, you passed your lives in asceticism in dens and caves. You were shut up in a lightless cavern with a narrow opening. You were reddened with your blood and choked in burning heat with the smoky fumes of the smouldering fire. You proved to be victors who carried off the trophy."
 
 meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C13.incipit = "We praise the conflicts wherein"
+meMA.Ode9C13.incipit = "We praise the conflicts wherein…"
 meMA.Ode9C13.text = "We praise the conflicts wherein you wondrously strove against sin and vigorously withstood as glorious soldiers of Christ. For you magnificently overcame. Now you stand with the orders of the Saints. Remember us before the All-highest."
 
 meMA.Ode9C14.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C14.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C14.incipit = "You are filled with the"
+meMA.Ode9C14.incipit = "You are filled with the…"
 meMA.Ode9C14.text = "You are filled with the triply-shining brightness in the Heavens together with Sabbas your father and instructor as his genuine sons. Intercede for us, your fellow disciples and the singers of your praise, so that peace may be granted to all the churches and salvation to our souls."
 
 meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C1T.incipit = "O Artificer, You who were"
+meMA.Ode9C1T.incipit = "O Artificer, You who were…"
 meMA.Ode9C1T.text = "O Artificer, You who were born of a Virgin, cast down the haughty brow and arrogance of our enemies and the counsels of those of evil belief. Being God, Make steadfast and unshakeable the assembly of the faithful. Exalt our horn and make us strong in faith, so that we all may magnify You."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

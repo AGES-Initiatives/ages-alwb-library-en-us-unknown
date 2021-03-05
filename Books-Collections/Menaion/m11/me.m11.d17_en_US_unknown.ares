@@ -19,52 +19,52 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_unknown.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_unknown.TiYmasKalesomen.notmetered
-meVE.Stichera01.incipit = ""
+meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_unknown.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_unknown.TiYmasKalesomen.notmetered
-meVE.Stichera02.incipit = ""
+meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_unknown.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_unknown.TiYmasKalesomen.notmetered
-meVE.Stichera03.incipit = ""
+meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_unknown.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = ""
+meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_US_unknown.OlinApothemenoi.notmetered
-meVE.SticTheotokion.incipit = ""
+meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m01.d16_en_US_unknown.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_unknown.OlinApothemenoi.notmetered
-meVE.SticStavrotheotokion.incipit = ""
+meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
 meVE.AposGlory.mode = misc_en_US_unknown.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = ""
+meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_unknown.Mode6
 meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = ""
+meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_unknown.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_unknown.TriimerosAnestis.notmetered
-meVE.AposStavrotheotokion.incipit = ""
+meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = //oc.m6.d4_en_US_unknown.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_unknown.Mode8
 meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.incipit = ""
+meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = poets_en_US_unknown.Theofanous
@@ -78,61 +78,61 @@ meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_unknown.ArmatilatinFarao.notmetered
-meMA.Ode1C11.incipit = "O blessed Father Gregory, work"
+meMA.Ode1C11.incipit = "O blessed Father Gregory, work…"
 meMA.Ode1C11.text = "O blessed Father Gregory, work your holy wonders in me with clarity, deliver me from the pit of my failings, and illuminate me with your brightness, so that I may be worthy to sing your praise."
 
 meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_US_unknown.ArmatilatinFarao.notmetered
-meMA.Ode1C12.incipit = "O blessed Gregory, you chose"
+meMA.Ode1C12.incipit = "O blessed Gregory, you chose…"
 meMA.Ode1C12.text = "O blessed Gregory, you chose the nobility of the soul instead of the pleasures of the flesh, for you were alert, intelligent, and wise. You conscientiously collected the wise teachings by which the soul is nourished so that it may draw near to God."
 
 meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_unknown.ArmatilatinFarao.notmetered
-meMA.Ode1C13.incipit = "O Father Gregory, when the"
+meMA.Ode1C13.incipit = "O Father Gregory, when the…"
 meMA.Ode1C13.text = "O Father Gregory, when the crafty serpent saw you possessing chastity as your sister and co-worker in goodness, he stirred up slanderers against you. But you put them to shame when you healed the possessed prostitute with patience."
 
 meMA.Ode1C14.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C14.melody = he.h.m8_en_US_unknown.ArmatilatinFarao.notmetered
-meMA.Ode1C14.incipit = "O righteous Gregory, you spent"
+meMA.Ode1C14.incipit = "O righteous Gregory, you spent…"
 meMA.Ode1C14.text = "O righteous Gregory, you spent your life in a strange country. Your virtue showed to everyone that you were an upright and pious lover of God. You received from God the gift of miracle-working. Thus you have been proven as a sun which lights up the world."
 
 meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_unknown.ArmatilatinFarao.notmetered
-meMA.Ode1C1T.incipit = "O pure Virgin, you sprang"
+meMA.Ode1C1T.incipit = "O pure Virgin, you sprang…"
 meMA.Ode1C1T.text = "O pure Virgin, you sprang from the royal root, and you unfathomably gave birth to Christ the King, the Logos of God. He took on flesh from your pure blood, and therefore he is twofold in nature and singular in personhood."
 
 meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_US_unknown.OStereosasKatArchas.notmetered
-meMA.Ode3C11.incipit = "O Gregory, you purified your"
-meMA.Ode3C11.text = "O Gregory, you purified your mind of the arrogant waves of passions, and you were filled with holy vision. You became a majestic dwelling place for wisdom. You were made wealthy with the gift of prophecy. "
+meMA.Ode3C11.incipit = "O Gregory, you purified your…"
+meMA.Ode3C11.text = "O Gregory, you purified your mind of the arrogant waves of passions, and you were filled with holy vision. You became a majestic dwelling place for wisdom. You were made wealthy with the gift of prophecy."
 
 meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_unknown.OStereosasKatArchas.notmetered
-meMA.Ode3C12.incipit = "O all-blessed and godly-minded Gregory,"
+meMA.Ode3C12.incipit = "O all-blessed and godly-minded Gregory…"
 meMA.Ode3C12.text = "O all-blessed and godly-minded Gregory, you occupied yourself with the Scriptures inspired by God. You wisely chose a life of all kinds of discipline. You molded the image of virtue in yourself."
 
 meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_unknown.OStereosasKatArchas.notmetered
-meMA.Ode3C13.incipit = "The one who revealed holy"
+meMA.Ode3C13.incipit = "The one who revealed holy…"
 meMA.Ode3C13.text = "The one who revealed holy things has illuminated us so that we may worship the Trinity, Who is one in essence, one in nature, uncreated, and co-eternal. For Gregory was brought into the mystery of theology by holy revelation."
 
 meMA.Ode3C14.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C14.melody = he.h.m8_en_US_unknown.OStereosasKatArchas.notmetered
-meMA.Ode3C14.incipit = "O divinely-speaking Gregory, you were"
+meMA.Ode3C14.incipit = "O divinely-speaking Gregory, you were…"
 meMA.Ode3C14.text = "O divinely-speaking Gregory, you were guided by God. You desired to seek after Him. Your teachers of the radiance of the Trinity were the pure Theotokos Mary and the Son of Thunder."
 
 meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_unknown.OStereosasKatArchas.notmetered
-meMA.Ode3C1T.incipit = "O pure Maiden blessed by"
+meMA.Ode3C1T.incipit = "O pure Maiden blessed by…"
 meMA.Ode3C1T.text = "O pure Maiden blessed by God, all of us know that you are the rod that budded with Christ the Flower of incorruption. You are the golden censer, for you hold in your arms the burning coal of the Divine Essence."
 
 meMA.Ode3H.ode = misc_en_US_unknown.Ode3
@@ -143,101 +143,101 @@ meMA.Ode3H.text = he.h.m8_en_US_unknown.OStereosasKatArchas.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode3
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
-meMA.Ode3Kathisma1.incipit = "O Gregory, you were a"
+meMA.Ode3Kathisma1.incipit = "O Gregory, you were a…"
 meMA.Ode3Kathisma1.text = "O Gregory, you were a second Moses in your works, for Moses received the sacred tablets when on the mountain of revelation so that he could give the righteous laws of the Trinity to the nations. Thus all of us faithful honor your memorial and ask for great mercy by your intercessions."
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
-meMA.Ode3KathismaT.incipit = "O all-pure and only Virgin"
+meMA.Ode3KathismaT.incipit = "O all-pure and only Virgin…"
 meMA.Ode3KathismaT.text = "O all-pure and only Virgin Mother, you are more pure than the Angels, for you were the sacred dwelling of the Logos. But I am more sinful than all, and I have been defiled by my sins of the flesh. O modest Maiden, wash me with the holy cleansing waters of your prayers and grant me great mercy." //oc.m3.d2_en_US_unknown.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
-meMA.Ode3KathismaSt.incipit = ""
+meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = //me.m01.d29_en_US_unknown.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = misc_en_US_unknown.Ode8
 meMA.Ode4C11.mode = misc_en_US_unknown.Mode4
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.SyMouIschys.notmetered
-meMA.Ode4C11.incipit = "O godly-minded Father Gregory, you"
+meMA.Ode4C11.incipit = "O godly-minded Father Gregory, you…"
 meMA.Ode4C11.text = "O godly-minded Father Gregory, you imitated the good earth by receiving the seed of the Logos and producing a hundredfold crop, as the Gospel says. Even now through your teachings, you offer up those who sing in faith: \"Glory to Your power, O Friend of man.\""
 
 meMA.Ode4C12.ode = misc_en_US_unknown.Ode8
 meMA.Ode4C12.mode = misc_en_US_unknown.Mode4
 meMA.Ode4C12.melody = he.h.m8_en_US_unknown.SyMouIschys.notmetered
-meMA.Ode4C12.incipit = "O Father, your life flashed"
+meMA.Ode4C12.incipit = "O Father, your life flashed…"
 meMA.Ode4C12.text = "O Father, your life flashed like lightning when you cast away demonic foolishness. Their darkness was not able to yield under the light of your virtue. Thus the warden of the temple was enlightened when like a rolling stone he abandoned soul-destroying delusion."
 
 meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_US_unknown.SyMouIschys.notmetered
-meMA.Ode4C13.incipit = "O godly-minded Father Gregory, you"
+meMA.Ode4C13.incipit = "O godly-minded Father Gregory, you…"
 meMA.Ode4C13.text = "O godly-minded Father Gregory, you were considered worthy to behold the darkness of the most sacred light. You were entrusted with the divinely inscribed law like Moses. You were instructed in the fullness of theology. You were proven as a lawgiver to the Church of Christ."
 
 meMA.Ode4C14.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C14.melody = he.h.m8_en_US_unknown.SyMouIschys.notmetered
-meMA.Ode4C14.incipit = "O Father Gregory, you rejected"
+meMA.Ode4C14.incipit = "O Father Gregory, you rejected…"
 meMA.Ode4C14.text = "O Father Gregory, you rejected the disputes of rhetoricians, for you had been enlightened with the word of grace. You truly overflowed in apostolic power against the demons, and the prince of darkness flees from your bright radiance."
 
 meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_US_unknown.SyMouIschys.notmetered
-meMA.Ode4C1T.incipit = "O all-blameless Lady, you were"
+meMA.Ode4C1T.incipit = "O all-blameless Lady, you were…"
 meMA.Ode4C1T.text = "O all-blameless Lady, you were prefigured long ago by the ark that held the divinely inscribed Law. You unfathomably conceived the life-originating Logos in your womb. The Logos abundantly nourishes the souls of those who exclaim: \"Glory to Your power, O Friend of man.\""
 
 meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C11.incipit = "O Hierarch of divine speech,"
+meMA.Ode5C11.incipit = "O Hierarch of divine speech…"
 meMA.Ode5C11.text = "O Hierarch of divine speech, you made barren hearts fertile with the plow of your words by planting them with holy seeds. You offered the salvation of the faithful to the Redeemer as a bountiful crop."
 
 meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C12.incipit = "O Gregory of righteous preaching,"
+meMA.Ode5C12.incipit = "O Gregory of righteous preaching…"
 meMA.Ode5C12.text = "O Gregory of righteous preaching, the servant of God Phaidimios piously and courageously ordained you as a priest for the God Who looks upon everyone, for Phaidimios had become aflame with zeal and confident in your righteousness."
 
 meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C13.incipit = "O all-wise Gregory, you rose"
+meMA.Ode5C13.incipit = "O all-wise Gregory, you rose…"
 meMA.Ode5C13.text = "O all-wise Gregory, you rose to the summit through sacred visions like Samuel. You extinguished the destructive fire of the idols with the streams of your teachings. You confirmed the faithful with your instructions. You were as a tree to those who sought you."
 
 meMA.Ode5C14.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C14.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C14.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C14.incipit = "O godly-minded HIerarch, rescue me"
+meMA.Ode5C14.incipit = "O godly-minded HIerarch, rescue me…"
 meMA.Ode5C14.text = "O godly-minded HIerarch, rescue me from my sorrowful sins by your prayers, and shred the manuscript on which my sins are written. O Father, you are a priest and have been granted by God the authority to remit sins."
 
 meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_US_unknown.InaTiMeAposo.notmetered
-meMA.Ode5C1T.incipit = "O Virgin, you were made"
+meMA.Ode5C1T.incipit = "O Virgin, you were made…"
 meMA.Ode5C1T.text = "O Virgin, you were made beautiful with the immaculate fairness of your virginity. You covered over the distasteful shame of the first Eve when you gave birth to Christ, Who grants a mantle of immortality to those who venerate you."
 
 meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.IlasthitiMoiSotir.notmetered
-meMA.Ode6C11.incipit = "O godly-minded HIerarch, rescue me"
+meMA.Ode6C11.incipit = "O godly-minded HIerarch, rescue me…"
 meMA.Ode6C11.text = "O godly-minded HIerarch, rescue me from my sorrowful sins by your prayers, and shred the manuscript on which my sins are written. O Father, you are a priest and have been granted by God the authority to remit sins."
 
 meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_US_unknown.IlasthitiMoiSotir.notmetered
-meMA.Ode6C12.incipit = "O godly-minded HIerarch, rescue me"
+meMA.Ode6C12.incipit = "O godly-minded HIerarch, rescue me…"
 meMA.Ode6C12.text = "O godly-minded HIerarch, rescue me from my sorrowful sins by your prayers, and shred the manuscript on which my sins are written. O Father, you are a priest and have been granted by God the authority to remit sins."
 
 meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_US_unknown.IlasthitiMoiSotir.notmetered
-meMA.Ode6C13.incipit = "O godly-minded Gregory, the depraved"
+meMA.Ode6C13.incipit = "O godly-minded Gregory, the depraved…"
 meMA.Ode6C13.text = "O godly-minded Gregory, the depraved and evil Jew who tried to insult you was executed, for God glorified you as the true worker of His commands."
 
 meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_unknown.IlasthitiMoiSotir.notmetered
-meMA.Ode6C1T.incipit = "O all-blameless Virgin, the efficacious"
+meMA.Ode6C1T.incipit = "O all-blameless Virgin, the efficacious…"
 meMA.Ode6C1T.text = "O all-blameless Virgin, the efficacious Spirit came upon you, and the Logos of God lived in you. Although He became incarnate, the Logos unfathomably remained unchanged."
 
 meMA.Ode6H.ode = misc_en_US_unknown.Ode6
@@ -248,7 +248,7 @@ meMA.Ode6H.text = he.h.m8_en_US_unknown.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = misc_en_US_unknown.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_unknown.TaAnoZiton.notmetered
-meMA.Kontakion1.incipit = ""
+meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -256,49 +256,49 @@ meMA.Oikos1.text = ""
 meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.TheouSynkatavasin.notmetered
-meMA.Ode7C11.incipit = "O Gregory, you were proven"
+meMA.Ode7C11.incipit = "O Gregory, you were proven…"
 meMA.Ode7C11.text = "O Gregory, you were proven to be the glory of the Fathers, the majesty of the preachers, the lantern of the Church, and the unconquerable pillar of true religion, as you exclaimed: \"Blessed is the God of our Fathers.\""
 
 meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_unknown.TheouSynkatavasin.notmetered
-meMA.Ode7C12.incipit = "O godly-minded Gregory, you shone"
+meMA.Ode7C12.incipit = "O godly-minded Gregory, you shone…"
 meMA.Ode7C12.text = "O godly-minded Gregory, you shone like lightning by your miracles. You guided the nations by your light. Thus we take joy in your words as we come together to call you blessed, and we sing: \"Blessed is the God of our Fathers.\""
 
 meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_unknown.TheouSynkatavasin.notmetered
-meMA.Ode7C13.incipit = "O all-wise Father, like a"
+meMA.Ode7C13.incipit = "O all-wise Father, like a…"
 meMA.Ode7C13.text = "O all-wise Father, like a fountain you poured out healings to all those who were ill. The grace of miracle-working was plentifully poured onto your lips. Thus we exclaim: \"Blessed is the God of our Fathers.\""
 
 meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_US_unknown.TheouSynkatavasin.notmetered
-meMA.Ode7C1T.incipit = "O all-pure Virgin, now everything"
+meMA.Ode7C1T.incipit = "O all-pure Virgin, now everything…"
 meMA.Ode7C1T.text = "O all-pure Virgin, now everything is full of divine light through you. You have manifested as the gate by which God had his discourse with the world, illuminating those who faithfully exclaim: \"Blessed is the God of our Fathers.\""
 
 meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_US_unknown.EptaplasiosKaminon.notmetered
-meMA.Ode8C11.incipit = "O Gregory, you have made"
+meMA.Ode8C11.incipit = "O Gregory, you have made…"
 meMA.Ode8C11.text = "O Gregory, you have made us wealthy with the enlightenment of the consubstantial and Holy Trinity. Thus we now observe your festival and ask to be illumined with the grace of wonder-working, as we exclaim: \"Bless the Master, O you priests. Supremely exalt Him, O you people, unto all the ages.\""
 
 meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_US_unknown.EptaplasiosKaminon.notmetered
-meMA.Ode8C12.incipit = "O all-blessed Saint, you reflect"
+meMA.Ode8C12.incipit = "O all-blessed Saint, you reflect…"
 meMA.Ode8C12.text = "O all-blessed Saint, you reflect the shining rays of the Sovereign Godhead like a mirror that has just recently appeared. You light up the world by reflecting light to Orthodox Christians who melodiously exclaim: \"You Servants, bless Christ. O you priests, sing His praises. Exalt Him, O you people, unto all the ages.\""
 
 meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_US_unknown.EptaplasiosKaminon.notmetered
-meMA.Ode8C13.incipit = "O all-wise Gregory, you were"
+meMA.Ode8C13.incipit = "O all-wise Gregory, you were…"
 meMA.Ode8C13.text = "O all-wise Gregory, you were sheltered by God and were maintained as a foundation of righteousness for the God-fearing. While standing on a mountain like the other law-giver Moses, you taught the faithful to exclaim: \"Bless the Creator and Redeemer, O you priests. Supremely exalt Him, O you people, unto all the ages.\""
 
 meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_US_unknown.EptaplasiosKaminon.notmetered
-meMA.Ode8C1T.incipit = "O most pure Maiden, you"
+meMA.Ode8C1T.incipit = "O most pure Maiden, you…"
 meMA.Ode8C1T.text = "O most pure Maiden, you shone with the beauty of virginity. You became the dwelling of the never-setting Light. You have illumined all who confess you as the true Theotokos with their whole soul, as they exclaim: \"You Servants, bless Christ. O you priests, sing His praises. Exalt Him, O you people, unto all the ages.\""
 
 meMA.Ode8H.ode = misc_en_US_unknown.Ode8
@@ -310,25 +310,25 @@ meMA.Ode8H.text = he.h.m8_en_US_unknown.EptaplasiosKaminon.text
 meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C11.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C11.incipit = "O righteous Father and miracle-working"
+meMA.Ode9C11.incipit = "O righteous Father and miracle-working…"
 meMA.Ode9C11.text = "O righteous Father and miracle-working Hierarch, you radiated with the light of a righteous life and now stand before the great Light. You have been given the crown of victory with divine powers of miracle-working. O godly-minded Gregory, lantern of the Church and adornment of Orthodox Christians."
 
 meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C12.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C12.incipit = "O Wonderworker, pray that the"
+meMA.Ode9C12.incipit = "O Wonderworker, pray that the…"
 meMA.Ode9C12.text = "O Wonderworker, pray that the chosen, sacred, and royal priesthood be guided rightly. O Gregory of a godly mind, make supplication that those who now faithfully observe your memorial may be granted the Heavenly Kingdom."
 
 meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C13.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C13.incipit = "O Wonderworker blessed in every"
+meMA.Ode9C13.incipit = "O Wonderworker blessed in every…"
 meMA.Ode9C13.text = "O Wonderworker blessed in every way, you overcame demonic assaults. You become a sacred priest without guile, and you were clothed in the robe of righteousness. Now you boldly stand before the throne of the King of all."
 
 meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1T.mode = misc_en_US_unknown.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.notmetered
-meMA.Ode9C1T.incipit = "O Virgin, you became the"
+meMA.Ode9C1T.incipit = "O Virgin, you became the…"
 meMA.Ode9C1T.text = "O Virgin, you became the Mother of God. Beyond nature you gave birth in a body to the good Logos that the Father in His goodness poured out from His heart before all time. And now we see that He is above all bodies, even though He has a body Himself."
 
 meMA.Ode9H.ode = misc_en_US_unknown.Ode9
@@ -339,57 +339,57 @@ meMA.Ode9H.text = he.h.m8_en_US_unknown.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_unknown.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_unknown.TonMathitonOrontonSe.notmetered
-meMA.Exaposteilarion1.incipit = ""
+meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_unknown.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_US_unknown.TonMathitonOrontonSe.notmetered
-meMA.ExapTheotokion.incipit = ""
+meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = misc_en_US_unknown.Mode5
 meMA.Lauds1.melody = he.a.m5_en_US_unknown.ChairoisAskitikon.notmetered
-meMA.Lauds1.incipit = ""
+meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = misc_en_US_unknown.Mode5
 meMA.Lauds2.melody = he.a.m5_en_US_unknown.ChairoisAskitikon.notmetered
-meMA.Lauds2.incipit = ""
+meMA.Lauds2.incipit = "…"
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = misc_en_US_unknown.Mode5
 meMA.Lauds3.melody = he.a.m5_en_US_unknown.ChairoisAskitikon.notmetered
-meMA.Lauds3.incipit = ""
+meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_US_unknown.Mode8
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = ""
+meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsTheotokion.mode = misc_en_US_unknown.Mode8
 meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.incipit = ""
+meMA.LaudsTheotokion.incipit = "…"
 meMA.LaudsTheotokion.text = //oc.m8.d3_en_US_unknown.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_unknown.Mode8
 meMA.LaudsStavrotheotokion.melody = ""
-meMA.LaudsStavrotheotokion.incipit = ""
+meMA.LaudsStavrotheotokion.incipit = "…"
 meMA.LaudsStavrotheotokion.text = ""
 
 meMA.AposGlory.mode = misc_en_US_unknown.Mode4
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = ""
+meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = misc_en_US_unknown.Mode4
 meMA.AposTheotokion.melody = ""
-meMA.AposTheotokion.incipit = ""
+meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = //oc.m4.d2_en_US_unknown.ocMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_US_unknown.Mode4
 meMA.AposStavrotheotokion.melody = he.a.m4_en_US_unknown.EdokasSimeiosin.notmetered
-meMA.AposStavrotheotokion.incipit = ""
+meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_unknown.media.key
