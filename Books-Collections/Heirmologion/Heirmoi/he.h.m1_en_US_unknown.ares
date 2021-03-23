@@ -513,9 +513,9 @@ SeTinOratheisan.mode = misc_en_US_unknown.Mode1
 SeTinOratheisan.ode = misc_en_US_unknown.Ode9
 SeTinOratheisan.text = ""
 
-SouITropaiouchos.notmetered = "N/M (As befits Divinity.)"
-SouITropaiouchos.name = "As befits Divinity."
-SouITropaiouchos.incipit = "As befits Divinity…"
+SouITropaiouchos.notmetered = "N/M (Glorified in strength.)"
+SouITropaiouchos.name = "Glorified in strength."
+SouITropaiouchos.incipit = "Glorified in strength…"
 SouITropaiouchos.mode = misc_en_US_unknown.Mode1
 SouITropaiouchos.ode = misc_en_US_unknown.Ode1
 SouITropaiouchos.text = ""
