@@ -135,9 +135,9 @@ EleftheraMenIKtisis4.text = ""
 
 EleftheraMenIKtisis5.text = ""
 
-ElilythasEkParthenou.notmetered = "N/M (You came from a Virgin.)"
-ElilythasEkParthenou.name = "You came from a Virgin."
-ElilythasEkParthenou.incipit = "You came from a Virgin…"
+ElilythasEkParthenou.notmetered = "N/M (You came, O Lord.)"
+ElilythasEkParthenou.name = "You came, O Lord."
+ElilythasEkParthenou.incipit = "You came, O Lord…"
 ElilythasEkParthenou.mode = misc_en_US_unknown.Mode2
 ElilythasEkParthenou.ode = misc_en_US_unknown.Ode4
 ElilythasEkParthenou.text = ""
@@ -170,16 +170,16 @@ EnTiKamino.mode = misc_en_US_unknown.Mode2
 EnTiKamino.ode = misc_en_US_unknown.Ode8
 EnTiKamino.text = ""
 
-EnVythoKatestrose.notmetered = "N/M (In the deep.)"
-EnVythoKatestrose.name = "In the deep."
-EnVythoKatestrose.incipit = "In the deep…"
+EnVythoKatestrose.notmetered = "N/M (Long ago the overwhelming Force.)"
+EnVythoKatestrose.name = "Long ago the overwhelming Force."
+EnVythoKatestrose.incipit = "Long ago the overwhelming Force…"
 EnVythoKatestrose.mode = misc_en_US_unknown.Mode2
 EnVythoKatestrose.ode = misc_en_US_unknown.Ode1
 EnVythoKatestrose.text = ""
 
-ExinthisenIErimos.notmetered = "N/M (The wilderness.)"
-ExinthisenIErimos.name = "The wilderness."
-ExinthisenIErimos.incipit = "The wilderness…"
+ExinthisenIErimos.notmetered = "N/M (The gentile church.)"
+ExinthisenIErimos.name = "The gentile church."
+ExinthisenIErimos.incipit = "The gentile church…"
 ExinthisenIErimos.mode = misc_en_US_unknown.Mode2
 ExinthisenIErimos.ode = misc_en_US_unknown.Ode3
 ExinthisenIErimos.text = ""
