@@ -14,9 +14,9 @@ AkikoeKyrieFonisSou.mode = misc_en_US_unknown.Mode2
 AkikoeKyrieFonisSou.ode = misc_en_US_unknown.Ode4
 AkikoeKyrieFonisSou.text = ""
 
-AnarchouGennitoros.notmetered = "N/M (To us has appeared.)"
-AnarchouGennitoros.name = "To us has appeared."
-AnarchouGennitoros.incipit = "To us has appeared…"
+AnarchouGennitoros.notmetered = "N/M (To us was revealed.)"
+AnarchouGennitoros.name = "To us was revealed."
+AnarchouGennitoros.incipit = "To us was revealed…"
 AnarchouGennitoros.mode = misc_en_US_unknown.Mode2
 AnarchouGennitoros.ode = misc_en_US_unknown.Ode9
 AnarchouGennitoros.text = ""
