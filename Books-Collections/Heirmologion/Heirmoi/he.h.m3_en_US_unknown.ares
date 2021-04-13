@@ -21,15 +21,15 @@ AsomenToKyrio.mode = misc_en_US_unknown.Mode3
 AsomenToKyrio.ode = misc_en_US_unknown.Ode1
 AsomenToKyrio.text = ""
 
-AstektoPyri.notmetered = "N/M (The Youths, being piety's defenders.)"
-AstektoPyri.name = "The Youths, being piety's defenders."
-AstektoPyri.incipit = "The Youths, being piety's defenders…"
+AstektoPyri.notmetered = "N/M (The flame of unbearable fire.)"
+AstektoPyri.name = "The flame of unbearable fire."
+AstektoPyri.incipit = "The flame of unbearable fire…"
 AstektoPyri.mode = misc_en_US_unknown.Mode3
 AstektoPyri.ode = misc_en_US_unknown.Ode8
 AstektoPyri.text = ""
 
 AvyssosEschati.notmetered = "N/M ()"
-AvyssosEschati.name = ""
+AvyssosEschati.name = "Sinfulness encircles me."
 AvyssosEschati.incipit = "…"
 AvyssosEschati.mode = misc_en_US_unknown.Mode3
 AvyssosEschati.ode = misc_en_US_unknown.Ode6
@@ -92,7 +92,7 @@ EstereothiIKardiaMou.ode = misc_en_US_unknown.Ode3
 EstereothiIKardiaMou.text = ""
 
 EthouProsImas.notmetered = "N/M ()"
-EthouProsImas.name = ""
+EthouProsImas.name = "Lord, You have established."
 EthouProsImas.incipit = "…"
 EthouProsImas.mode = misc_en_US_unknown.Mode3
 EthouProsImas.ode = misc_en_US_unknown.Ode4
@@ -211,14 +211,14 @@ OsOmvrosEpAgrostin.ode = misc_en_US_unknown.Ode2
 OsOmvrosEpAgrostin.text = ""
 
 OsPalaiTousEfseveis.notmetered = "N/M ()"
-OsPalaiTousEfseveis.name = ""
+OsPalaiTousEfseveis.name = "Of old You refreshed."
 OsPalaiTousEfseveis.incipit = "…"
 OsPalaiTousEfseveis.mode = misc_en_US_unknown.Mode3
 OsPalaiTousEfseveis.ode = misc_en_US_unknown.Ode7
 OsPalaiTousEfseveis.text = ""
 
 ProsSeOrthrizo.notmetered = "N/M ()"
-ProsSeOrthrizo.name = ""
+ProsSeOrthrizo.name = "I rise early in the morning"
 ProsSeOrthrizo.incipit = "…"
 ProsSeOrthrizo.mode = misc_en_US_unknown.Mode3
 ProsSeOrthrizo.ode = misc_en_US_unknown.Ode5

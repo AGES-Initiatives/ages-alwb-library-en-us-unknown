@@ -728,9 +728,9 @@ TaSympantaDespota.mode = misc_en_US_unknown.Mode4
 TaSympantaDespota.ode = misc_en_US_unknown.Ode8
 TaSympantaDespota.text = ""
 
-ThalassisToErythraion.notmetered = "N/M (The people of Israel.)"
-ThalassisToErythraion.name = "The people of Israel."
-ThalassisToErythraion.incipit = "The people of Israel…"
+ThalassisToErythraion.notmetered = "N/M (The Red Sea was crossed.)"
+ThalassisToErythraion.name = "The Red Sea was crossed."
+ThalassisToErythraion.incipit = "The Red Sea was crossed…"
 ThalassisToErythraion.mode = misc_en_US_unknown.Mode4
 ThalassisToErythraion.ode = misc_en_US_unknown.Ode1
 ThalassisToErythraion.text = ""
@@ -754,9 +754,9 @@ TheosKyriosKaiEpefanenImin.mode = misc_en_US_unknown.Mode4
 TheosKyriosKaiEpefanenImin.ode = misc_en_US_unknown.Ode9
 TheosKyriosKaiEpefanenImin.text = ""
 
-ThysoSoiMetaFonis.notmetered = "N/M (The Church cries out.)"
-ThysoSoiMetaFonis.name = "The Church cries out to You."
-ThysoSoiMetaFonis.incipit = "The Church cries out to You…"
+ThysoSoiMetaFonis.notmetered = "N/M (I will sacrifice to You.)"
+ThysoSoiMetaFonis.name = "I will sacrifice to You."
+ThysoSoiMetaFonis.incipit = "I will sacrifice to You…"
 ThysoSoiMetaFonis.mode = misc_en_US_unknown.Mode4
 ThysoSoiMetaFonis.ode = misc_en_US_unknown.Ode6
 ThysoSoiMetaFonis.text = ""

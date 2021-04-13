@@ -90,6 +90,7 @@ EkstithiFrittonOurane.incipit = "Heaven, be astonished…"
 EkstithiFrittonOurane.mode = misc_en_US_unknown.Mode6
 EkstithiFrittonOurane.ode = misc_en_US_unknown.Ode8
 EkstithiFrittonOurane.text = ""
+
 EkstithiFrittonOurane_Epiphany.notmetered = "N/M ()"
 EkstithiFrittonOurane_Epiphany.name = ""
 EkstithiFrittonOurane_Epiphany.incipit = "…"
@@ -145,6 +146,7 @@ KymatiThalassis.incipit = "He, who with a sea-wave…"
 KymatiThalassis.mode = misc_en_US_unknown.Mode6
 KymatiThalassis.ode = misc_en_US_unknown.Ode1
 KymatiThalassis.text = ""
+
 KymatiThalassis_Epiphany.notmetered = "N/M ()"
 KymatiThalassis_Epiphany.name = ""
 KymatiThalassis_Epiphany.incipit = "…"
@@ -158,12 +160,14 @@ KyriosOnPanton.incipit = "Lord of all and Creator…"
 KyriosOnPanton.mode = misc_en_US_unknown.Mode6
 KyriosOnPanton.ode = misc_en_US_unknown.Ode3
 KyriosOnPanton.text = ""
+
 KyriosOnPanton_Epiphany.notmetered = "N/M ()"
 KyriosOnPanton_Epiphany.name = ""
 KyriosOnPanton_Epiphany.incipit = "…"
 KyriosOnPanton_Epiphany.mode = misc_en_US_unknown.Mode6
 KyriosOnPanton_Epiphany.ode = misc_en_US_unknown.Ode3
 KyriosOnPanton_Epiphany.text = ""
+
 MiEpodyrestheMatin.notmetered = "N/M ()"
 MiEpodyrestheMatin.name = ""
 MiEpodyrestheMatin.incipit = "…"
@@ -247,6 +251,7 @@ ProkatidonOProfitis.incipit = "When Habakkuk the Prophet…"
 ProkatidonOProfitis.mode = misc_en_US_unknown.Mode6
 ProkatidonOProfitis.ode = misc_en_US_unknown.Ode4
 ProkatidonOProfitis.text = ""
+
 ProkatidonOProfitis_Epiphany.notmetered = "N/M ()"
 ProkatidonOProfitis_Epiphany.name = ""
 ProkatidonOProfitis_Epiphany.incipit = "…"
@@ -281,6 +286,7 @@ SeTonEpiYdaton.incipit = "When creation beheld You…"
 SeTonEpiYdaton.mode = misc_en_US_unknown.Mode6
 SeTonEpiYdaton.ode = misc_en_US_unknown.Ode3
 SeTonEpiYdaton.text = ""
+
 SeTonEpiYdaton_Epiphany.notmetered = "N/M ()"
 SeTonEpiYdaton_Epiphany.name = ""
 SeTonEpiYdaton_Epiphany.incipit = "…"
@@ -315,6 +321,7 @@ SyneschethiAllOuKateschethi.incipit = "Prophet Jonah was in…"
 SyneschethiAllOuKateschethi.mode = misc_en_US_unknown.Mode6
 SyneschethiAllOuKateschethi.ode = misc_en_US_unknown.Ode6
 SyneschethiAllOuKateschethi.text = ""
+
 SyneschethiAllOuKateschethi_Epiphany.notmetered = "N/M (.)"
 SyneschethiAllOuKateschethi_Epiphany.name = ""
 SyneschethiAllOuKateschethi_Epiphany.incipit = "…"
@@ -328,6 +335,7 @@ TheofaneiasSouChriste.incipit = "Prophet Isaiah once beheld…"
 TheofaneiasSouChriste.mode = misc_en_US_unknown.Mode6
 TheofaneiasSouChriste.ode = misc_en_US_unknown.Ode5
 TheofaneiasSouChriste.text = ""
+
 TheofaneiasSouChriste_Epiphany.notmetered = "N/M ()"
 TheofaneiasSouChriste_Epiphany.name = ""
 TheofaneiasSouChriste_Epiphany.incipit = "…"
@@ -362,6 +370,7 @@ TinProsToBaptismaSou.incipit = "…"
 TinProsToBaptismaSou.mode = misc_en_US_unknown.Mode6
 TinProsToBaptismaSou.ode = misc_en_US_unknown.Ode4
 TinProsToBaptismaSou.text = ""
+
 TinTimioteran.notmetered = "N/M (Greater in honor.)"
 TinTimioteran.name = "Greater in honor."
 TinTimioteran.incipit = "Greater in honor…"
@@ -389,6 +398,7 @@ ToSyndesmoTisAgapis.incipit = "Once the Apostles…"
 ToSyndesmoTisAgapis.mode = misc_en_US_unknown.Mode6
 ToSyndesmoTisAgapis.ode = misc_en_US_unknown.Ode5
 ToSyndesmoTisAgapis.text = ""
+
 ToSyndesmoTisDeilias.notmetered = "N/M ()"
 ToSyndesmoTisDeilias.name = ""
 ToSyndesmoTisDeilias.incipit = "…"
@@ -437,3 +447,4 @@ XeniasDespotikis_Epiphany.incipit = "…"
 XeniasDespotikis_Epiphany.mode = misc_en_US_unknown.Mode6
 XeniasDespotikis_Epiphany.ode = misc_en_US_unknown.Ode9
 XeniasDespotikis_Epiphany.text = ""
+
