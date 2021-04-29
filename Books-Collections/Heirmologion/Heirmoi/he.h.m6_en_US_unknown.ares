@@ -56,9 +56,9 @@ ChristosMouDynamis.mode = misc_en_US_unknown.Mode6
 ChristosMouDynamis.ode = misc_en_US_unknown.Ode4
 ChristosMouDynamis.text = ""
 
-DrosovolonMenTinKaminon.notmetered = "N/M (Once the Angel.)"
-DrosovolonMenTinKaminon.name = "Once the Angel."
-DrosovolonMenTinKaminon.incipit = "Once the Angel…"
+DrosovolonMenTinKaminon.notmetered = "N/M (In the furnace the Lord's Angel.)"
+DrosovolonMenTinKaminon.name = "In the furnace the Lord's Angel."
+DrosovolonMenTinKaminon.incipit = "In the furnace the Lord's Angel…"
 DrosovolonMenTinKaminon.mode = misc_en_US_unknown.Mode6
 DrosovolonMenTinKaminon.ode = misc_en_US_unknown.Ode7
 DrosovolonMenTinKaminon.text = ""
@@ -420,9 +420,9 @@ TonPaidonTinOdin.mode = misc_en_US_unknown.Mode6
 TonPaidonTinOdin.ode = misc_en_US_unknown.Ode8
 TonPaidonTinOdin.text = ""
 
-TouViouTinThalassan.notmetered = "N/M (Perceiving the open sea.)"
-TouViouTinThalassan.name = "Perceiving the open sea."
-TouViouTinThalassan.incipit = "Perceiving the open sea…"
+TouViouTinThalassan.notmetered = "N/M (I see when my life becomes rough.)"
+TouViouTinThalassan.name = "I see when my life becomes rough."
+TouViouTinThalassan.incipit = "I see when my life becomes rough…"
 TouViouTinThalassan.mode = misc_en_US_unknown.Mode6
 TouViouTinThalassan.ode = misc_en_US_unknown.Ode6
 TouViouTinThalassan.text = ""
