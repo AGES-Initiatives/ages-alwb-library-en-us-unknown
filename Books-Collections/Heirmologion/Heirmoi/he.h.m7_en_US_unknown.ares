@@ -112,9 +112,9 @@ NaftionToSalo.mode = misc_en_US_unknown.Mode7
 NaftionToSalo.ode = misc_en_US_unknown.Ode6
 NaftionToSalo.text = ""
 
-NefseiSouProsGeodi.notmetered = "N/M (Formerly freely flowing.)"
-NefseiSouProsGeodi.name = "Formerly freely flowing."
-NefseiSouProsGeodi.incipit = "Formerly freely flowing…"
+NefseiSouProsGeodi.notmetered = "N/M (Lord, at Your divine signal.)"
+NefseiSouProsGeodi.name = "Lord, at Your divine signal."
+NefseiSouProsGeodi.incipit = "Lord, at Your divine signal…"
 NefseiSouProsGeodi.mode = misc_en_US_unknown.Mode7
 NefseiSouProsGeodi.ode = misc_en_US_unknown.Ode1
 NefseiSouProsGeodi.text = ""

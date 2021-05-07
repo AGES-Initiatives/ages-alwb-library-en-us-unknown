@@ -63,9 +63,9 @@ DrosovolonMenTinKaminon.mode = misc_en_US_unknown.Mode6
 DrosovolonMenTinKaminon.ode = misc_en_US_unknown.Ode7
 DrosovolonMenTinKaminon.text = ""
 
-EkFlogosToisOsiois.notmetered = "N/M (You made dew gush.)"
-EkFlogosToisOsiois.name = "You made dew gush."
-EkFlogosToisOsiois.incipit = "You made dew gush…"
+EkFlogosToisOsiois.notmetered = "N/M (From the flame.)"
+EkFlogosToisOsiois.name = "From the flame."
+EkFlogosToisOsiois.incipit = "From the flame…"
 EkFlogosToisOsiois.mode = misc_en_US_unknown.Mode6
 EkFlogosToisOsiois.ode = misc_en_US_unknown.Ode8
 EkFlogosToisOsiois.text = ""
@@ -343,9 +343,9 @@ TheofaneiasSouChriste_Epiphany.mode = misc_en_US_unknown.Mode6
 TheofaneiasSouChriste_Epiphany.ode = misc_en_US_unknown.Ode5
 TheofaneiasSouChriste_Epiphany.text = ""
 
-TheonAnthropois.notmetered = "N/M (For man to see God.)"
-TheonAnthropois.name = "For man to see God."
-TheonAnthropois.incipit = "For man to see God…"
+TheonAnthropois.notmetered = "N/M (It is impossible.)"
+TheonAnthropois.name = "It is impossible."
+TheonAnthropois.incipit = "It is impossible…"
 TheonAnthropois.mode = misc_en_US_unknown.Mode6
 TheonAnthropois.ode = misc_en_US_unknown.Ode9
 TheonAnthropois.text = ""
