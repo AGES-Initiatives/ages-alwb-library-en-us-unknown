@@ -105,9 +105,9 @@ MitirTheouKaiParthenos.mode = misc_en_US_unknown.Mode7
 MitirTheouKaiParthenos.ode = misc_en_US_unknown.Ode9
 MitirTheouKaiParthenos.text = ""
 
-NaftionToSalo.notmetered = "N/M (Nauseous from the tempest.)"
-NaftionToSalo.name = "Nauseous from the tempest."
-NaftionToSalo.incipit = "Nauseous from the tempest…"
+NaftionToSalo.notmetered = "N/M (I was feeling nauseous.)"
+NaftionToSalo.name = "I was feeling nauseous."
+NaftionToSalo.incipit = "I was feeling nauseous…"
 NaftionToSalo.mode = misc_en_US_unknown.Mode7
 NaftionToSalo.ode = misc_en_US_unknown.Ode6
 NaftionToSalo.text = ""
@@ -119,7 +119,7 @@ NefseiSouProsGeodi.mode = misc_en_US_unknown.Mode7
 NefseiSouProsGeodi.ode = misc_en_US_unknown.Ode1
 NefseiSouProsGeodi.text = ""
 
-NyxAfengis.notmetered = "N/M ()"
+NyxAfengis.notmetered = "N/M (For unbelievers, delight.)"
 NyxAfengis.name = ""
 NyxAfengis.incipit = "…"
 NyxAfengis.mode = misc_en_US_unknown.Mode7
@@ -133,9 +133,9 @@ OIonasEkKoilias.mode = misc_en_US_unknown.Mode7
 OIonasEkKoilias.ode = misc_en_US_unknown.Ode6
 OIonasEkKoilias.text = ""
 
-OKatArchasTousOuranous.notmetered = "N/M (In the beginning.)"
-OKatArchasTousOuranous.name = "In the beginning."
-OKatArchasTousOuranous.incipit = "In the beginning…"
+OKatArchasTousOuranous.notmetered = "N/M (First You established.)"
+OKatArchasTousOuranous.name = "First You established."
+OKatArchasTousOuranous.incipit = "First You established…"
 OKatArchasTousOuranous.mode = misc_en_US_unknown.Mode7
 OKatArchasTousOuranous.ode = misc_en_US_unknown.Ode3
 OKatArchasTousOuranous.text = ""
@@ -147,7 +147,7 @@ OOuranousToLogo.mode = misc_en_US_unknown.Mode7
 OOuranousToLogo.ode = misc_en_US_unknown.Ode1
 OOuranousToLogo.text = ""
 
-OPatrikousKolpous.notmetered = "N/M ()"
+OPatrikousKolpous.notmetered = "N/M (O Christ our God, You did not depart.)"
 OPatrikousKolpous.name = ""
 OPatrikousKolpous.incipit = "…"
 OPatrikousKolpous.mode = misc_en_US_unknown.Mode7
