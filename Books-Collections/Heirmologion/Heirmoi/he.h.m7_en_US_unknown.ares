@@ -1,8 +1,8 @@
 A_Resource_Whose_Name = he.h.m7_en_US_unknown
 
-AflektosPyri.notmetered = "N/M (Sinai's bush revealed.)"
-AflektosPyri.name = "Sinai's bush revealed."
-AflektosPyri.incipit = "Sinai's bush revealed…"
+AflektosPyri.notmetered = "N/M (Unconsumed by fire.)"
+AflektosPyri.name = "Unconsumed by fire."
+AflektosPyri.incipit = "Unconsumed by fire…"
 AflektosPyri.mode = misc_en_US_unknown.Mode7
 AflektosPyri.ode = misc_en_US_unknown.Ode8
 AflektosPyri.text = ""
@@ -70,7 +70,7 @@ KaminonKaiomenin.mode = misc_en_US_unknown.Mode7
 KaminonKaiomenin.ode = misc_en_US_unknown.Ode7
 KaminonKaiomenin.text = ""
 
-KaminonPaides.notmetered = "N/M ()"
+KaminonPaides.notmetered = "N/M (The fiery furnace.)"
 KaminonPaides.name = ""
 KaminonPaides.incipit = "…"
 KaminonPaides.mode = misc_en_US_unknown.Mode7
@@ -91,9 +91,9 @@ KyrieOTheosMou.mode = misc_en_US_unknown.Mode7
 KyrieOTheosMou.ode = misc_en_US_unknown.Ode5
 KyrieOTheosMou.text = ""
 
-MiTisFthoras.notmetered = "N/M (Without sustaining corruption.)"
-MiTisFthoras.name = "Without sustaining corruption."
-MiTisFthoras.incipit = "Without sustaining corruption…"
+MiTisFthoras.notmetered = "N/M (When you conceived.)"
+MiTisFthoras.name = "When you conceived."
+MiTisFthoras.incipit = "When you conceived…"
 MiTisFthoras.mode = misc_en_US_unknown.Mode7
 MiTisFthoras.ode = misc_en_US_unknown.Ode9
 MiTisFthoras.text = ""

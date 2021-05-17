@@ -224,9 +224,9 @@ IlasthitiMoiSotir.mode = misc_en_US_unknown.Mode8
 IlasthitiMoiSotir.ode = misc_en_US_unknown.Ode6
 IlasthitiMoiSotir.text = ""
 
-InaTiMeAposo.notmetered = "N/M (Why, O Lord.)"
-InaTiMeAposo.name = "Why, O Lord, have You cast me."
-InaTiMeAposo.incipit = "Why, O Lord, have You cast me…"
+InaTiMeAposo.notmetered = "N/M (Why reject me.)"
+InaTiMeAposo.name = "Why reject me, Your servant."
+InaTiMeAposo.incipit = "Why reject me, Your servant…"
 InaTiMeAposo.mode = misc_en_US_unknown.Mode8
 InaTiMeAposo.ode = misc_en_US_unknown.Ode5
 InaTiMeAposo.text = ""
