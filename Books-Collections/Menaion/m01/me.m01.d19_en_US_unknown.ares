@@ -147,8 +147,8 @@ meMA.Ode3Kathisma1.text = "O wise Father, you were tested in ascetic discipline 
 
 meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaT.incipit = "O blessed Mary, guide us…"
-meMA.Ode3KathismaT.text = "O blessed Mary, guide us in the way of repentance, since we continually turn aside to the byways of evil, and thus enrage the Lord. O unwed Virgin, you are the  refuge of humans in despair, O dwelling place of God."
+meMA.Ode3KathismaT.incipit = //oc.m1.d1_en_US_unknown.ocMO.Kathisma12.incipit
+meMA.Ode3KathismaT.text = //oc.m1.d1_en_US_unknown.ocMO.Kathisma12.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
