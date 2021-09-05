@@ -109,7 +109,7 @@ meMA.Ode3C1T.text = "O Virgin, the bush upon Sinai prefigured the uniqueness of 
 
 meMA.Ode3H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3H.mode = misc_en_US_unknown.Mode2
-meMA.Ode3H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3H.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.melody
 meMA.Ode3H.incipit = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.text
 
@@ -208,7 +208,7 @@ meMA.Ode6C1T.text = "Now is the woman's nature joyful. Now has sorrow ended, and
 
 meMA.Ode6H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6H.mode = misc_en_US_unknown.Mode2
-meMA.Ode6H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6H.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.text
 
@@ -273,7 +273,7 @@ meMA.Ode8C1T.text = "O pure Virgin, Mother of God, no man has ever perished who 
 
 meMA.Ode8H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8H.mode = misc_en_US_unknown.Mode2
-meMA.Ode8H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8H.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.melody
 meMA.Ode8H.incipit = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.incipit
 meMA.Ode8H.text = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.text
 
@@ -309,7 +309,7 @@ meMA.Ode9C1T.text = "O pure one, supremely glorious Mary, since you preserved yo
 
 meMA.Ode9H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9H.mode = misc_en_US_unknown.Mode2
-meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9H.melody = he.h.m2_en_US_unknown.ITonProIliouFostira.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_unknown.ITonProIliouFostira.incipit
 meMA.Ode9H.text = he.h.m2_en_US_unknown.ITonProIliouFostira.text
 

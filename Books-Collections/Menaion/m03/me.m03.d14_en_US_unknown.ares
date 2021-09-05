@@ -52,7 +52,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode1C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode1C1H.melody = he.h.m2_en_US_unknown.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_unknown.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_unknown.DefteLaoi.text
 
@@ -87,7 +87,7 @@ meMA.Ode1C1T.text = "O immaculate Theotokos, we overflow with undefilement becau
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode3C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3C1H.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.text
 
@@ -132,7 +132,7 @@ meMA.Ode3KathismaSt.text = "O Lord my Savior, when You were crucified to the Cro
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode4C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode4C1H.melody = he.h.m2_en_US_unknown.YmnoSeAkoi.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_unknown.YmnoSeAkoi.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_unknown.YmnoSeAkoi.text
 
@@ -162,7 +162,7 @@ meMA.Ode4C1T.text = "O pure one, the Word came down into your honorable womb to 
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode5C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode5C1H.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_unknown.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_unknown.OTouFotosChorigos.text
 
@@ -192,7 +192,7 @@ meMA.Ode5C1T.text = "O pure Lady, the One who abides in Heaven took His abode in
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode6C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6C1H.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.text
 
@@ -228,7 +228,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode7C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode7C1H.melody = he.h.m2_en_US_unknown.RitoresAnedeichthisanPaides.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_unknown.RitoresAnedeichthisanPaides.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_unknown.RitoresAnedeichthisanPaides.text
 
@@ -258,7 +258,7 @@ meMA.Ode7C1T.text = "O Virgin, holy Mother of God, work a cure for the passions 
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode8C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8C1H.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.text
 
@@ -288,7 +288,7 @@ meMA.Ode8C1T.text = "O immaculate Virgin, observe that a Child has been born fro
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1H.mode = misc_en_US_unknown.Mode2
-meMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9C1H.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.text
 

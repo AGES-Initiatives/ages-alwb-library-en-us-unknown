@@ -109,7 +109,7 @@ meMA.Ode3C1T.text = "O pure Virgin, He Who is above everyone is the Friend of ma
 
 meMA.Ode3H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3H.mode = misc_en_US_unknown.Mode5
-meMA.Ode3H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3H.melody = he.h.m5_en_US_unknown.OPixasEpOudenos.melody
 meMA.Ode3H.incipit = he.h.m5_en_US_unknown.OPixasEpOudenos.incipit
 meMA.Ode3H.text = he.h.m5_en_US_unknown.OPixasEpOudenos.text
 
@@ -196,7 +196,7 @@ meMA.Ode6C1T.text = "O blessed and all-blameless Maiden, the noetic powers and a
 
 meMA.Ode6H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6H.mode = misc_en_US_unknown.Mode5
-meMA.Ode6H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6H.melody = he.h.m5_en_US_unknown.MainomeninKlydoni.melody
 meMA.Ode6H.incipit = he.h.m5_en_US_unknown.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_en_US_unknown.MainomeninKlydoni.text
 
@@ -244,7 +244,7 @@ meMA.Ode8C1T.text = "O pure Virgin, make the constitution of my soul to be firm,
 
 meMA.Ode8H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8H.mode = misc_en_US_unknown.Mode5
-meMA.Ode8H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8H.melody = he.h.m5_en_US_unknown.SoiToPantourgo.melody
 meMA.Ode8H.incipit = he.h.m5_en_US_unknown.SoiToPantourgo.incipit
 meMA.Ode8H.text = he.h.m5_en_US_unknown.SoiToPantourgo.text
 
@@ -268,7 +268,7 @@ meMA.Ode9C1T.text = "O all-holy Virgin Mother, because you have given birth to G
 
 meMA.Ode9H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9H.mode = misc_en_US_unknown.Mode5
-meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9H.melody = he.h.m5_en_US_unknown.IsaiaChoreve.melody
 meMA.Ode9H.incipit = he.h.m5_en_US_unknown.IsaiaChoreve.incipit
 meMA.Ode9H.text = he.h.m5_en_US_unknown.IsaiaChoreve.text
 

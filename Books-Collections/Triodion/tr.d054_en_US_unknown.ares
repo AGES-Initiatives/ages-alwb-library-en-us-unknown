@@ -867,7 +867,7 @@ trMA.C1.poet = poets_en_US_unknown.Iosif
 
 trMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 trMA.Ode4C1H.mode = misc_en_US_unknown.Mode8
-trMA.Ode4C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode4C1H.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_US_unknown.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_US_unknown.EisakikoaKyrie.text
 
@@ -899,7 +899,7 @@ trMA.C2.poet = poets_en_US_unknown.Theodorou
 
 trMA.Ode4C2H.ode = misc_en_US_unknown.Ode4
 trMA.Ode4C2H.mode = misc_en_US_unknown.Mode8
-trMA.Ode4C2H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode4C2H.melody = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.melody
 trMA.Ode4C2H.incipit = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C2H.text = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.text
 
@@ -1682,7 +1682,7 @@ trGC.Ode7C2T.text = "We praise you, we bless you, we venerate you, O Mother of G
 
 trMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 trMA.Ode8C1H.mode = misc_en_US_unknown.Mode8
-trMA.Ode8C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode8C1H.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_US_unknown.TonAnarchonVasilea.incipit
 trMA.Ode8C1H.text = he.h.m8_en_US_unknown.TonAnarchonVasilea.text
 
@@ -1908,7 +1908,7 @@ trGC.Ode8C2H.text = "Him Whom the heavenly hosts glorify and before Whom Cherubi
 
 trMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 trMA.Ode9C1H.mode = misc_en_US_unknown.Mode8
-trMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode9C1H.melody = he.h.m8_en_US_unknown.KyriosTheotokon.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_US_unknown.KyriosTheotokon.incipit
 trMA.Ode9C1H.text = he.h.m8_en_US_unknown.KyriosTheotokon.text
 
@@ -1938,7 +1938,7 @@ trMA.Ode9C1T.text = ""
 
 trMA.Ode9C2H.ode = misc_en_US_unknown.Ode9
 trMA.Ode9C2H.mode = misc_en_US_unknown.Mode8
-trMA.Ode9C2H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode9C2H.melody = he.h.m8_en_US_unknown.SeTinOuranou.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_US_unknown.SeTinOuranou.incipit
 trMA.Ode9C2H.text = he.h.m8_en_US_unknown.SeTinOuranou.text
 

@@ -54,7 +54,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode1C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode1C1H.melody = he.h.m5_en_US_unknown.ToSotiriTheo.melody
 meMA.Ode1C1H.incipit = he.h.m5_en_US_unknown.ToSotiriTheo.incipit
 meMA.Ode1C1H.text = he.h.m5_en_US_unknown.ToSotiriTheo.text
 
@@ -93,7 +93,7 @@ meMA.Ode1C1T.text = "O pure Mother of God, always ask the God that was incarnate
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode3C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3C1H.melody = he.h.m5_en_US_unknown.DynameiTouStavrouSou.melody
 meMA.Ode3C1H.incipit = he.h.m5_en_US_unknown.DynameiTouStavrouSou.incipit
 meMA.Ode3C1H.text = he.h.m5_en_US_unknown.DynameiTouStavrouSou.text
 
@@ -144,7 +144,7 @@ meMA.Ode3KathismaSt.text = "O immaculate and blameless Virgin, O Panagia, in all
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode4C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode4C1H.melody = he.h.m5_en_US_unknown.AkikoaKyrieTinEkTouTafou.melody
 meMA.Ode4C1H.incipit = he.h.m5_en_US_unknown.AkikoaKyrieTinEkTouTafou.incipit
 meMA.Ode4C1H.text = he.h.m5_en_US_unknown.AkikoaKyrieTinEkTouTafou.text
 
@@ -180,7 +180,7 @@ meMA.Ode4C1T.text = "We who are faithful glorify you as truly the Mother of God,
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode5C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode5C1H.melody = he.h.m5_en_US_unknown.OrthrizontesVoomenSoi.melody
 meMA.Ode5C1H.incipit = he.h.m5_en_US_unknown.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m5_en_US_unknown.OrthrizontesVoomenSoi.text
 
@@ -210,7 +210,7 @@ meMA.Ode5C1T.text = "We laud you as a virgin after childbirth, O Mother of God; 
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode6C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6C1H.melody = he.h.m5_en_US_unknown.EkykloseMeAvyssos.melody
 meMA.Ode6C1H.incipit = he.h.m5_en_US_unknown.EkykloseMeAvyssos.incipit
 meMA.Ode6C1H.text = he.h.m5_en_US_unknown.EkykloseMeAvyssos.text
 
@@ -246,7 +246,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode7C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode7C1H.melody = he.h.m5_en_US_unknown.OEnKaminoPyros.melody
 meMA.Ode7C1H.incipit = he.h.m5_en_US_unknown.OEnKaminoPyros.incipit
 meMA.Ode7C1H.text = he.h.m5_en_US_unknown.OEnKaminoPyros.text
 
@@ -282,7 +282,7 @@ meMA.Ode7C1T.text = "You that was Virgin-born, who made her the Mother of God, b
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode8C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8C1H.melody = he.h.m5_en_US_unknown.TonEkPatrosProAionon.melody
 meMA.Ode8C1H.incipit = he.h.m5_en_US_unknown.TonEkPatrosProAionon.incipit
 meMA.Ode8C1H.text = he.h.m5_en_US_unknown.TonEkPatrosProAionon.text
 
@@ -318,7 +318,7 @@ meMA.Ode8C1T.text = "You have been manifested as higher than the Cherubim, O Mar
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1H.mode = misc_en_US_unknown.Mode5
-meMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9C1H.melody = he.h.m5_en_US_unknown.SeTinYperNoun.melody
 meMA.Ode9C1H.incipit = he.h.m5_en_US_unknown.SeTinYperNoun.incipit
 meMA.Ode9C1H.text = he.h.m5_en_US_unknown.SeTinYperNoun.text
 

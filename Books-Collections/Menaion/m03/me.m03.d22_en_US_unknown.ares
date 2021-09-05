@@ -52,7 +52,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode1C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode1C1H.melody = he.h.m6_en_US_unknown.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_unknown.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_unknown.OsEnIpeiroPezefsas.text
 
@@ -93,7 +93,7 @@ meMA.Ode1C1T.text = "O pure Virgin, the Only-begotten, who has His being with th
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode3C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3C1H.melody = he.h.m6_en_US_unknown.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_unknown.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_unknown.OukEstinAgios.text
 
@@ -144,7 +144,7 @@ meMA.Ode3KathismaSt.text = "O Mother of Christ our God, blameless and pure Virgi
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode4C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode4C1H.melody = he.h.m6_en_US_unknown.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_unknown.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_unknown.ChristosMouDynamis.text
 
@@ -180,7 +180,7 @@ meMA.Ode4C1T.text = "O Lady, I praise you, who are greatly praised. O Virgin, I 
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode5C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode5C1H.melody = he.h.m6_en_US_unknown.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_unknown.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_unknown.ToTheioFengeiSou.text
 
@@ -216,7 +216,7 @@ meMA.Ode5C1T.text = "Let us honor in song the only Theotokos. She is higher than
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode6C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6C1H.melody = he.h.m6_en_US_unknown.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_unknown.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_unknown.TouViouTinThalassan.text
 
@@ -246,7 +246,7 @@ meMA.Ode6C1T.text = "O all-hymned Virgin, I extol you, whom the hosts of heavenl
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode7C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode7C1H.melody = he.h.m6_en_US_unknown.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_unknown.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_unknown.DrosovolonMenTinKaminon.text
 
@@ -282,7 +282,7 @@ meMA.Ode7C1T.text = "O Virgin, you perceived that your virginity had remained in
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode8C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8C1H.melody = he.h.m6_en_US_unknown.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_unknown.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_unknown.EkFlogosToisOsiois.text
 
@@ -318,7 +318,7 @@ meMA.Ode8C1T.text = "O all-holy Virgin most graced of God, the race of man has b
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1H.mode = misc_en_US_unknown.Mode6
-meMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9C1H.melody = he.h.m6_en_US_unknown.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_unknown.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_unknown.TheonAnthropois.text
 

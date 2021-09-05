@@ -196,7 +196,7 @@ meMA.Ode3C2T.text = "O only all-blessed Lady, God was united to mortals in His c
 
 meMA.Ode3H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3H.mode = misc_en_US_unknown.Mode4
-meMA.Ode3H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3H.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.text
 
@@ -379,7 +379,7 @@ meMA.Ode6C2T.text = "O all-holy Maiden, the Logos brought salvation when He empt
 
 meMA.Ode6H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6H.mode = misc_en_US_unknown.Mode4
-meMA.Ode6H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6H.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.text
 
@@ -494,7 +494,7 @@ meMA.Ode8C2T.text = "O all-pure Lady, the ark of the Law, and the vessel that he
 
 meMA.Ode8H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8H.mode = misc_en_US_unknown.Mode4
-meMA.Ode8H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8H.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.text
 
@@ -554,7 +554,7 @@ meMA.Ode9C2T.text = "O pure Virgin, enlighten my soul, which has become dark thr
 
 meMA.Ode9H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9H.mode = misc_en_US_unknown.Mode4
-meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9H.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_unknown.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_unknown.LithosAcheirotmitos.text
 

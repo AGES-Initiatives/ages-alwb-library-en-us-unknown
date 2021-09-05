@@ -4,7 +4,7 @@ ocMA.C1.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW1C1H.ode = misc_en_US_unknown.Ode1
-ocMA.OdeW1C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW1C1H.melody = he.h.m3_en_US_unknown.ChersonAvyssotokon.melody
 ocMA.OdeW1C1H.incipit = he.h.m3_en_US_unknown.ChersonAvyssotokon.incipit
 ocMA.OdeW1C1H.text = he.h.m3_en_US_unknown.ChersonAvyssotokon.text
 
@@ -58,7 +58,7 @@ ocMA.OdeW1C23.text = ""
 
 ocMA.OdeW3C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW3C1H.ode = misc_en_US_unknown.Ode3
-ocMA.OdeW3C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW3C1H.melody = he.h.m3_en_US_unknown.ToStereoma.melody
 ocMA.OdeW3C1H.incipit = he.h.m3_en_US_unknown.ToStereoma.incipit
 ocMA.OdeW3C1H.text = he.h.m3_en_US_unknown.ToStereoma.text
 
@@ -112,7 +112,7 @@ ocMA.OdeW3C23.text = ""
 
 ocMA.OdeW4C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW4C1H.ode = misc_en_US_unknown.Ode4
-ocMA.OdeW4C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW4C1H.melody = he.h.m3_en_US_unknown.EkalypsenOuranous.melody
 ocMA.OdeW4C1H.incipit = he.h.m3_en_US_unknown.EkalypsenOuranous.incipit
 ocMA.OdeW4C1H.text = he.h.m3_en_US_unknown.EkalypsenOuranous.text
 
@@ -166,7 +166,7 @@ ocMA.OdeW4C23.text = ""
 
 ocMA.OdeW5C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW5C1H.ode = misc_en_US_unknown.Ode5
-ocMA.OdeW5C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW5C1H.melody = he.h.m3_en_US_unknown.OsEidenIsaias.melody
 ocMA.OdeW5C1H.incipit = he.h.m3_en_US_unknown.OsEidenIsaias.incipit
 ocMA.OdeW5C1H.text = he.h.m3_en_US_unknown.OsEidenIsaias.text
 
@@ -220,7 +220,7 @@ ocMA.OdeW5C23.text = ""
 
 ocMA.OdeW6C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW6C1H.ode = misc_en_US_unknown.Ode6
-ocMA.OdeW6C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW6C1H.melody = he.h.m3_en_US_unknown.EvoiseSoi.melody
 ocMA.OdeW6C1H.incipit = he.h.m3_en_US_unknown.EvoiseSoi.incipit
 ocMA.OdeW6C1H.text = he.h.m3_en_US_unknown.EvoiseSoi.text
 
@@ -274,7 +274,7 @@ ocMA.OdeW6C23.text = ""
 
 ocMA.OdeW7C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW7C1H.ode = misc_en_US_unknown.Ode7
-ocMA.OdeW7C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW7C1H.melody = he.h.m3_en_US_unknown.SeTonEnPyri.melody
 ocMA.OdeW7C1H.incipit = he.h.m3_en_US_unknown.SeTonEnPyri.incipit
 ocMA.OdeW7C1H.text = he.h.m3_en_US_unknown.SeTonEnPyri.text
 
@@ -322,7 +322,7 @@ ocMA.OdeW7C23.text = ""
 
 ocMA.OdeW8C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW8C1H.ode = misc_en_US_unknown.Ode8
-ocMA.OdeW8C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW8C1H.melody = he.h.m3_en_US_unknown.AstektoPyri.melody
 ocMA.OdeW8C1H.incipit = he.h.m3_en_US_unknown.AstektoPyri.incipit
 ocMA.OdeW8C1H.text = he.h.m3_en_US_unknown.AstektoPyri.text
 
@@ -376,7 +376,7 @@ ocMA.OdeW8C23.text = ""
 
 ocMA.OdeW9C1H.mode = misc_en_US_unknown.Mode3
 ocMA.OdeW9C1H.ode = misc_en_US_unknown.Ode9
-ocMA.OdeW9C1H.melody = misc_en_US_unknown.Heirmos
+ocMA.OdeW9C1H.melody = he.h.m3_en_US_unknown.EnNomoSkia.melody
 ocMA.OdeW9C1H.incipit = he.h.m3_en_US_unknown.EnNomoSkia.incipit
 ocMA.OdeW9C1H.text = he.h.m3_en_US_unknown.EnNomoSkia.text
 

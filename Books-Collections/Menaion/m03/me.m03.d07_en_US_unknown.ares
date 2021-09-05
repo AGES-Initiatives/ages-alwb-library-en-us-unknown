@@ -60,7 +60,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode1C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m4_en_US_unknown.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_unknown.ThalassisToErythraion.text
 
@@ -93,7 +93,7 @@ meMA.Ode1C1T.text = "O pure and spotless Virgin, through your childbirth which i
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode3C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_unknown.EffrainetaiEpiSoi.text
 
@@ -138,7 +138,7 @@ meMA.Ode3KathismaSt.text = //oc.m3.d6_en_US_unknown.octrMA.Kathisma1T.text
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode4C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m4_en_US_unknown.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_unknown.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_unknown.EparthentaSeIdousa.text
 
@@ -174,7 +174,7 @@ meMA.Ode4C1T.text = "O Virgin, you made the men who had been killed to come back
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode5C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m4_en_US_unknown.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_unknown.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_unknown.SyKyrieMouFos.text
 
@@ -204,7 +204,7 @@ meMA.Ode5C1T.text = "O immaculate one, the people who understand that the Master
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode6C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_unknown.ThysoSoiMetaFonis.text
 
@@ -240,7 +240,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode7C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_unknown.EnTiKaminoAvramiaioi.text
 
@@ -270,7 +270,7 @@ meMA.Ode7C1T.text = "O Maiden, the Word of God desired to reform all of mankind.
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode8C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_unknown.CheirasEkpetasasDaniil.text
 
@@ -306,7 +306,7 @@ meMA.Ode8C1T.text = "O pure Virgin, the One who is above all in His Essence was 
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1H.mode = misc_en_US_unknown.Mode4
-meMA.Ode9C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m4_en_US_unknown.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_unknown.LithosAcheirotmitos.text
 

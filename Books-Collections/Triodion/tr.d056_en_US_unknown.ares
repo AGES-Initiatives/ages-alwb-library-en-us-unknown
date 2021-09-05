@@ -134,7 +134,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 trMA.Ode1C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode1C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode1C1H.melody = he.h.m4_en_US_unknown.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_US_unknown.AnoixoToStomaMou.text
 
@@ -172,7 +172,7 @@ trMA.Ode1K.text = he.h.m4_en_US_unknown.AnoixoToStomaMou.text
 
 trMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 trMA.Ode3C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode3C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode3C1H.melody = he.h.m4_en_US_unknown.TousSousYmnologous.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_US_unknown.TousSousYmnologous.incipit
 trMA.Ode3C1H.text = he.h.m4_en_US_unknown.TousSousYmnologous.text
 
@@ -254,7 +254,7 @@ trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 trMA.Ode4C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode4C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode4C1H.melody = he.h.m4_en_US_unknown.OKathimenosEnDoxi.melody
 trMA.Ode4C1H.incipit = he.h.m4_en_US_unknown.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.text = he.h.m4_en_US_unknown.OKathimenosEnDoxi.text
 
@@ -296,7 +296,7 @@ trMA.Ode4K.text = he.h.m4_en_US_unknown.OKathimenosEnDoxi.text
 
 trMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 trMA.Ode5C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode5C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode5C1H.melody = he.h.m4_en_US_unknown.ExestiTaSympanta.melody
 trMA.Ode5C1H.incipit = he.h.m4_en_US_unknown.ExestiTaSympanta.incipit
 trMA.Ode5C1H.text = he.h.m4_en_US_unknown.ExestiTaSympanta.text
 
@@ -338,7 +338,7 @@ trMA.Ode5K.text = he.h.m4_en_US_unknown.ExestiTaSympanta.text
 
 trMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 trMA.Ode6C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode6C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode6C1H.melody = he.h.m4_en_US_unknown.TinTheianTaftin.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_US_unknown.TinTheianTaftin.incipit
 trMA.Ode6C1H.text = he.h.m4_en_US_unknown.TinTheianTaftin.text
 
@@ -437,7 +437,7 @@ trMA.Ode6C3A2.text = "O Christ, the Lord of death and life, give rest with Your 
 
 trMA.Ode6C3H.ode = misc_en_US_unknown.Ode6
 trMA.Ode6C3H.mode = misc_en_US_unknown.Mode5
-trMA.Ode6C3H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode6C3H.melody = he.h.m5_en_US_unknown.TouKitousTonProfitin.melody
 trMA.Ode6C3H.incipit = he.h.m5_en_US_unknown.TouKitousTonProfitin.incipit
 trMA.Ode6C3H.text = he.h.m5_en_US_unknown.TouKitousTonProfitin.text
 
@@ -510,7 +510,7 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 trMA.Ode7C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode7C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode7C1H.melody = he.h.m4_en_US_unknown.OukElatrefsan.melody
 trMA.Ode7C1H.incipit = he.h.m4_en_US_unknown.OukElatrefsan.incipit
 trMA.Ode7C1H.text = he.h.m4_en_US_unknown.OukElatrefsan.text
 
@@ -606,13 +606,13 @@ trMA.Ode7C3A2.text = "Blessed are You, O God, who translated from death to life 
 
 trMA.Ode7C3H.ode = misc_en_US_unknown.Ode7
 trMA.Ode7C3H.mode = misc_en_US_unknown.Mode5
-trMA.Ode7C3H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode7C3H.melody = he.h.m5_en_US_unknown.EvlogitosEiOTheos.melody
 trMA.Ode7C3H.incipit = he.h.m5_en_US_unknown.EvlogitosEiOTheos.incipit
 trMA.Ode7C3H.text = he.h.m5_en_US_unknown.EvlogitosEiOTheos.text
 
 trMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 trMA.Ode8C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode8C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode8C1H.melody = he.h.m4_en_US_unknown.PaidasEvageis.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.PaidasEvageis.incipit
 trMA.Ode8C1H.text = he.h.m4_en_US_unknown.PaidasEvageis.text
 
@@ -708,13 +708,13 @@ trMA.Ode8C3A2.text = "Grant a place with Abraham, O Lord, to Your servants who h
 
 trMA.Ode8C3H.ode = misc_en_US_unknown.Ode8
 trMA.Ode8C3H.mode = misc_en_US_unknown.Mode5
-trMA.Ode8C3H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode8C3H.melody = he.h.m5_en_US_unknown.TonPoiitinTisKtiseos.melody
 trMA.Ode8C3H.incipit = he.h.m5_en_US_unknown.TonPoiitinTisKtiseos.incipit
 trMA.Ode8C3H.text = he.h.m5_en_US_unknown.TonPoiitinTisKtiseos.text
 
 trMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 trMA.Ode9C1H.mode = misc_en_US_unknown.Mode4
-trMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode9C1H.melody = he.h.m4_en_US_unknown.ApasGigenis_Akathist.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.ApasGigenis_Akathist.incipit
 trMA.Ode9C1H.text = he.h.m4_en_US_unknown.ApasGigenis_Akathist.text
 
@@ -810,7 +810,7 @@ trMA.Ode9C3A2.text = "When You will raise for judgment all whom You fashioned, h
 
 trMA.Ode9C3H.ode = misc_en_US_unknown.Ode9
 trMA.Ode9C3H.mode = misc_en_US_unknown.Mode5
-trMA.Ode9C3H.melody = misc_en_US_unknown.Heirmos
+trMA.Ode9C3H.melody = he.h.m5_en_US_unknown.IsaiaChoreve.melody
 trMA.Ode9C3H.incipit = he.h.m5_en_US_unknown.IsaiaChoreve.incipit
 trMA.Ode9C3H.text = he.h.m5_en_US_unknown.IsaiaChoreve.text
 

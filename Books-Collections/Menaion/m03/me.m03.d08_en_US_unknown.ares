@@ -53,7 +53,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode1C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m8_en_US_unknown.AsomenToKyrio.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_unknown.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_unknown.AsomenToKyrio.text
 
@@ -86,7 +86,7 @@ meMA.Ode1C1T.text = "O immaculate Bride of God, the One who found delight in bei
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode3C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m8_en_US_unknown.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_unknown.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_unknown.SyEiToStereoma.text
 
@@ -131,7 +131,7 @@ meMA.Ode3KathismaSt.text = "The Ewe-lamb observed the Redeemer, Shepherd, and La
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode4C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_unknown.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_unknown.EisakikoaKyrie.text
 
@@ -161,7 +161,7 @@ meMA.Ode4C1T.text = "O Virgin without blame, your childbirth redeemed us from th
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode5C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m8_en_US_unknown.OrthrizontesVoomenSoi.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_unknown.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_unknown.OrthrizontesVoomenSoi.text
 
@@ -191,7 +191,7 @@ meMA.Ode5C1T.text = "O immaculate Theotokos, those who decline to recognize you 
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode6C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m8_en_US_unknown.ChitonaMoiParaschou.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_unknown.ChitonaMoiParaschou.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_unknown.ChitonaMoiParaschou.text
 
@@ -227,7 +227,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode7C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m8_en_US_unknown.PaidesEvraion.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_unknown.PaidesEvraion.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_unknown.PaidesEvraion.text
 
@@ -257,7 +257,7 @@ meMA.Ode7C1T.text = "O Mother of God, now I run to you and your refuge and divin
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode8C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m8_en_US_unknown.EptaplasiosKaminon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_unknown.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_unknown.EptaplasiosKaminon.text
 
@@ -287,7 +287,7 @@ meMA.Ode8C1T.text = "O immaculate Theotokos, wipe out the lacerations of my soul
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode9C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m8_en_US_unknown.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_unknown.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_unknown.KyriosTheotokon.text
 

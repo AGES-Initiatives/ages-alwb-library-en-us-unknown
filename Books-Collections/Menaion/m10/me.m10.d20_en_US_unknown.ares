@@ -132,7 +132,7 @@ meMA.Ode3C1T.text = "O Lady, the Lord willed to take on flesh from your all-imma
 
 meMA.Ode3H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3H.mode = misc_en_US_unknown.Mode2
-meMA.Ode3H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3H.melody = he.h.m2_en_US_unknown.ExinthisenIErimos.melody
 meMA.Ode3H.incipit = he.h.m2_en_US_unknown.ExinthisenIErimos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.ExinthisenIErimos.text
 
@@ -225,7 +225,7 @@ meMA.Ode6C1T.text = "O Virgin Theotokos, deliver your servants who are tossed ab
 
 meMA.Ode6H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6H.mode = misc_en_US_unknown.Mode2
-meMA.Ode6H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode6H.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.text
 
@@ -292,7 +292,7 @@ meMA.Ode8C1T.text = "O all-pure and immaculate Virgin, after we had fallen by th
 
 meMA.Ode8H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8H.mode = misc_en_US_unknown.Mode2
-meMA.Ode8H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8H.melody = he.h.m2_en_US_unknown.KaminosPote.melody
 meMA.Ode8H.incipit = he.h.m2_en_US_unknown.KaminosPote.incipit
 meMA.Ode8H.text = he.h.m2_en_US_unknown.KaminosPote.text
 
@@ -328,7 +328,7 @@ meMA.Ode9C1T.text = "O Lord, shine upon me with the light of Your countenance, f
 
 meMA.Ode9H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9H.mode = misc_en_US_unknown.Mode2
-meMA.Ode9H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9H.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_unknown.AnarchouGennitoros.incipit
 meMA.Ode9H.text = he.h.m2_en_US_unknown.AnarchouGennitoros.text
 

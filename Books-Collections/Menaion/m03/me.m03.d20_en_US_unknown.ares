@@ -55,7 +55,7 @@ meMA.C1.poet = poets_en_US_unknown.StefanouTouSavaitou
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode1C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m8_en_US_unknown.AsmaAnapempsomen.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_unknown.AsmaAnapempsomen.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_unknown.AsmaAnapempsomen.text
 
@@ -88,7 +88,7 @@ meMA.Ode1C1T.text = "O Theotokos, you were shown to be the mystical ladder seen 
 
 meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
 meMA.Ode3C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode3C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode3C1H.melody = he.h.m8_en_US_unknown.OuraniasApsidos.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_unknown.OuraniasApsidos.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_unknown.OuraniasApsidos.text
 
@@ -133,7 +133,7 @@ meMA.Ode3KathismaSt.text = "O Virgin, by the blessed Cross of your Son and God, 
 
 meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
 meMA.Ode4C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode4C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m8_en_US_unknown.EpevisEfIppous.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_unknown.EpevisEfIppous.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_unknown.EpevisEfIppous.text
 
@@ -181,7 +181,7 @@ meMA.Ode4C1T.text = "You are the adornment of the Apostles and the stronghold of
 
 meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
 meMA.Ode5C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode5C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode5C1H.melody = he.h.m8_en_US_unknown.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_unknown.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_unknown.InaTiMeAposo.text
 
@@ -211,7 +211,7 @@ meMA.Ode5C1T.text = "O all-pure one, because you have maternal boldness with you
 
 meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
 meMA.Ode6C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode6C1H.melody = misc_en_US_unknown.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_unknown.ProsTonDynamenonSozein.text
 
@@ -247,7 +247,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
 meMA.Ode7C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode7C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode7C1H.melody = he.h.m8_en_US_unknown.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_unknown.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_unknown.OiEkTisIoudaias.text
 
@@ -289,7 +289,7 @@ meMA.Ode7C1T.text = "O you who walk in the light of the Lord, come, let us prais
 
 meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
 meMA.Ode8C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode8C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode8C1H.melody = he.h.m4_en_US_unknown.AseveisOukOpsontai.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.AseveisOukOpsontai.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_unknown.AseveisOukOpsontai.text
 
@@ -325,7 +325,7 @@ meMA.Ode8C15.text = "Let those who, as worshipping a quaternity, blasphemously d
 
 meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
 meMA.Ode9C1H.mode = misc_en_US_unknown.Mode8
-meMA.Ode9C1H.melody = misc_en_US_unknown.Heirmos
+meMA.Ode9C1H.melody = he.h.m8_en_US_unknown.ExestiEpiTouto.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_unknown.ExestiEpiTouto.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_unknown.ExestiEpiTouto.text
 
