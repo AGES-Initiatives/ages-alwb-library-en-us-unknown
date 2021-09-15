@@ -576,8 +576,8 @@ ToTinAvaton.mode = misc_en_US_unknown.Mode2
 ToTinAvaton.ode = misc_en_US_unknown.Ode1
 ToTinAvaton.text = ""
 
-TonArritoSofia.notmetered = "N/M ()"
-TonArritoSofia.name = ""
+TonArritoSofia.notmetered = "N/M (With ineffable wisdom.)"
+TonArritoSofia.name = "With ineffable wisdom."
 TonArritoSofia.incipit = "…"
 TonArritoSofia.melody = misc_en_US_unknown.Heirmos
 TonArritoSofia.mode = misc_en_US_unknown.Mode2
