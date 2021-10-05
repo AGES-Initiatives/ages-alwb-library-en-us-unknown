@@ -304,8 +304,8 @@ ProsSeOrthrizo.mode = misc_en_US_unknown.Mode6
 ProsSeOrthrizo.ode = misc_en_US_unknown.Ode5
 ProsSeOrthrizo.text = ""
 
-ProsSeOrthrizo_Epiphany.notmetered = "N/M ()"
-ProsSeOrthrizo_Epiphany.name = ""
+ProsSeOrthrizo_Epiphany.notmetered = "N/M (Early in the morning.)"
+ProsSeOrthrizo_Epiphany.name = "Early in the morning."
 ProsSeOrthrizo_Epiphany.incipit = "…"
 ProsSeOrthrizo_Epiphany.melody = misc_en_US_unknown.Heirmos
 ProsSeOrthrizo_Epiphany.mode = misc_en_US_unknown.Mode6
