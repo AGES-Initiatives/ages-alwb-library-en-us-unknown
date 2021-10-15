@@ -622,8 +622,8 @@ StereosonKyrie.mode = misc_en_US_unknown.Mode1
 StereosonKyrie.ode = misc_en_US_unknown.Ode3
 StereosonKyrie.text = ""
 
-StereosonMeChriste.notmetered = "N/M ()"
-StereosonMeChriste.name = ""
+StereosonMeChriste.notmetered = "N/M (Establish me firmly.)"
+StereosonMeChriste.name = "Establish me firmly."
 StereosonMeChriste.incipit = "…"
 StereosonMeChriste.melody = misc_en_US_unknown.Heirmos
 StereosonMeChriste.mode = misc_en_US_unknown.Mode1
