@@ -40,8 +40,8 @@ AperripsasMe.mode = misc_en_US_unknown.Mode1
 AperripsasMe.ode = misc_en_US_unknown.Ode6
 AperripsasMe.text = ""
 
-AsomenPantesLaoi.notmetered = "N/M ()"
-AsomenPantesLaoi.name = ""
+AsomenPantesLaoi.notmetered = "N/M (All people, sing to the Lord.)"
+AsomenPantesLaoi.name = "All people, sing to the Lord."
 AsomenPantesLaoi.incipit = "…"
 AsomenPantesLaoi.melody = misc_en_US_unknown.Heirmos
 AsomenPantesLaoi.mode = misc_en_US_unknown.Mode1
@@ -124,6 +124,14 @@ EkNyktosOrthrizontes.melody = misc_en_US_unknown.Heirmos
 EkNyktosOrthrizontes.mode = misc_en_US_unknown.Mode1
 EkNyktosOrthrizontes.ode = misc_en_US_unknown.Ode5
 EkNyktosOrthrizontes.text = ""
+
+EkNyktosOrthrizontesYmnoumenSe.notmetered = "N/M (Rising from the night, we sing.)"
+EkNyktosOrthrizontesYmnoumenSe.name = "Rising from the night, we sing."
+EkNyktosOrthrizontesYmnoumenSe.incipit = "Rising from the night, we sing…"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_en_US_unknown.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_en_US_unknown.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_en_US_unknown.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = ""
 
 EkyklosenImas.notmetered = "N/M ()"
 EkyklosenImas.name = ""
@@ -311,8 +319,8 @@ LithonOnApedokimasan.mode = misc_en_US_unknown.Mode1
 LithonOnApedokimasan.ode = misc_en_US_unknown.Ode3
 LithonOnApedokimasan.text = ""
 
-MegaToMystirion.notmetered = "N/M ()"
-MegaToMystirion.name = ""
+MegaToMystirion.notmetered = "N/M (God-inspired Habakkuk.)"
+MegaToMystirion.name = "God-inspired Habakkuk."
 MegaToMystirion.incipit = "…"
 MegaToMystirion.melody = misc_en_US_unknown.Heirmos
 MegaToMystirion.mode = misc_en_US_unknown.Mode1
@@ -566,7 +574,7 @@ SeNoitin.mode = misc_en_US_unknown.Mode1
 SeNoitin.ode = misc_en_US_unknown.Ode7
 SeNoitin.text = ""
 
-SeTinFaeinin.notmetered = "N/M (Mother of our God, we see you.)"
+SeTinFaeinin.notmetered = "N/M (Mother of our God, we praise you.)"
 SeTinFaeinin.name = "You, the brightly shining."
 SeTinFaeinin.incipit = "You, the brightly shining…"
 SeTinFaeinin.melody = misc_en_US_unknown.Heirmos
@@ -622,8 +630,8 @@ StereosonKyrie.mode = misc_en_US_unknown.Mode1
 StereosonKyrie.ode = misc_en_US_unknown.Ode3
 StereosonKyrie.text = ""
 
-StereosonMeChriste.notmetered = "N/M (Establish me firmly.)"
-StereosonMeChriste.name = "Establish me firmly."
+StereosonMeChriste.notmetered = "N/M (Establish me on the rock.)"
+StereosonMeChriste.name = "Establish me on the rock."
 StereosonMeChriste.incipit = "…"
 StereosonMeChriste.melody = misc_en_US_unknown.Heirmos
 StereosonMeChriste.mode = misc_en_US_unknown.Mode1
