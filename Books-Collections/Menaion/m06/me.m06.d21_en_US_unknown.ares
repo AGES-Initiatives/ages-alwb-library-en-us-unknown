@@ -35,8 +35,8 @@ meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
+meVE.SticTheotokion.incipit = //me.m06.d09_en_US_unknown.meVE.SticTheotokion.incipit
+meVE.SticTheotokion.text = //me.m06.d09_en_US_unknown.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
