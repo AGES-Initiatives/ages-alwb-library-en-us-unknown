@@ -136,9 +136,9 @@ OAnavallomenos.mode = misc_en_US_unknown.Mode5
 OAnavallomenos.ode = misc_en_US_unknown.Ode5
 OAnavallomenos.text = ""
 
-OEnKaminoPyros.notmetered = "N/M (You who preserved.)"
-OEnKaminoPyros.name = "You who preserved."
-OEnKaminoPyros.incipit = "You who preserved…"
+OEnKaminoPyros.notmetered = "N/M (Inside the furnace.)"
+OEnKaminoPyros.name = "Inside the furnace."
+OEnKaminoPyros.incipit = "Inside the furnace…"
 OEnKaminoPyros.melody = misc_en_US_unknown.Heirmos
 OEnKaminoPyros.mode = misc_en_US_unknown.Mode5
 OEnKaminoPyros.ode = misc_en_US_unknown.Ode7
