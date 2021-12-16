@@ -78,6 +78,8 @@ Or = "or:"
 
 OrAccordingToCommonPractice = "Or, according to common practice:"
 
+OrAccordingToOlderPractice = ""
+
 Read = "(read)"
 
 RelaxedFish = "Fasting is relaxed for the brethren; we may eat fish."
