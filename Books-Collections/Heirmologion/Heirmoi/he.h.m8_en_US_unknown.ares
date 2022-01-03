@@ -144,7 +144,7 @@ EnPedioDeeira.mode = misc_en_US_unknown.Mode8
 EnPedioDeeira.ode = misc_en_US_unknown.Ode7
 EnPedioDeeira.text = ""
 
-EpevisEfIppous.notmetered = "N/M ()"
+EpevisEfIppous.notmetered = "N/M (O Lord, You rode.)"
 EpevisEfIppous.name = ""
 EpevisEfIppous.incipit = "…"
 EpevisEfIppous.melody = misc_en_US_unknown.Heirmos
@@ -456,7 +456,7 @@ OiTisChaldaiasKaminou.mode = misc_en_US_unknown.Mode8
 OiTisChaldaiasKaminou.ode = misc_en_US_unknown.Ode7
 OiTisChaldaiasKaminou.text = ""
 
-OrousParilthes.notmetered = "N/M ()"
+OrousParilthes.notmetered = "N/M (When you conceived.)"
 OrousParilthes.name = ""
 OrousParilthes.incipit = "…"
 OrousParilthes.melody = misc_en_US_unknown.Heirmos
@@ -696,7 +696,7 @@ TonChaldaionIKaminos.mode = misc_en_US_unknown.Mode8
 TonChaldaionIKaminos.ode = misc_en_US_unknown.Ode7
 TonChaldaionIKaminos.text = ""
 
-TonEkNyktosAgnosias.notmetered = "N/M ()"
+TonEkNyktosAgnosias.notmetered = "N/M (From the night of ignorance.)"
 TonEkNyktosAgnosias.name = ""
 TonEkNyktosAgnosias.incipit = "…"
 TonEkNyktosAgnosias.melody = misc_en_US_unknown.Heirmos
@@ -720,7 +720,7 @@ TonEnOreiAgio.mode = misc_en_US_unknown.Mode8
 TonEnOreiAgio.ode = misc_en_US_unknown.Ode8
 TonEnOreiAgio.text = ""
 
-TonFovonSouKyrie.notmetered = "N/M ()"
+TonFovonSouKyrie.notmetered = "N/M (Plant the fear of You.)"
 TonFovonSouKyrie.name = ""
 TonFovonSouKyrie.incipit = "…"
 TonFovonSouKyrie.melody = misc_en_US_unknown.Heirmos
