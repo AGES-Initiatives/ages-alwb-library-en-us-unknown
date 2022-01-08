@@ -224,9 +224,9 @@ PanymniteTonOuranonYpsilotera.mode = misc_en_US_unknown.Mode7
 PanymniteTonOuranonYpsilotera.ode = misc_en_US_unknown.Ode9
 PanymniteTonOuranonYpsilotera.text = ""
 
-PontoEkalypse.notmetered = "N/M (He who crushes wars.)"
-PontoEkalypse.name = "He who crushes wars."
-PontoEkalypse.incipit = "He who crushes wars…"
+PontoEkalypse.notmetered = "N/M (The Lord is a warrior.)"
+PontoEkalypse.name = "The Lord is a warrior."
+PontoEkalypse.incipit = "The Lord is a warrior…"
 PontoEkalypse.melody = misc_en_US_unknown.Heirmos
 PontoEkalypse.mode = misc_en_US_unknown.Mode7
 PontoEkalypse.ode = misc_en_US_unknown.Ode1
@@ -264,9 +264,9 @@ TinEnsarkonParousianSou.mode = misc_en_US_unknown.Mode7
 TinEnsarkonParousianSou.ode = misc_en_US_unknown.Ode4
 TinEnsarkonParousianSou.text = ""
 
-TinExYpsousDynamin.notmetered = "N/M (O my Christ, You said.)"
-TinExYpsousDynamin.name = "O my Christ, You said."
-TinExYpsousDynamin.incipit = "O my Christ, You said…"
+TinExYpsousDynamin.notmetered = "N/M (Do not leave Jerusalem.)"
+TinExYpsousDynamin.name = "Do not leave Jerusalem."
+TinExYpsousDynamin.incipit = "Do not leave Jerusalem…"
 TinExYpsousDynamin.melody = misc_en_US_unknown.Heirmos
 TinExYpsousDynamin.mode = misc_en_US_unknown.Mode7
 TinExYpsousDynamin.ode = misc_en_US_unknown.Ode3
