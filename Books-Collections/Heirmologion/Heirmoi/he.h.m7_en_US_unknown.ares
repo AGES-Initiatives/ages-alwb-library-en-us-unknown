@@ -192,9 +192,9 @@ OTonPateron.mode = misc_en_US_unknown.Mode7
 OTonPateron.ode = misc_en_US_unknown.Ode7
 OTonPateron.text = ""
 
-OiEnKaminoTouPyros.notmetered = "N/M (When the devout young men.)"
-OiEnKaminoTouPyros.name = "When the devout young men."
-OiEnKaminoTouPyros.incipit = "When the devout young men…"
+OiEnKaminoTouPyros.notmetered = "N/M (Those godly Servants.)"
+OiEnKaminoTouPyros.name = "Those godly Servants."
+OiEnKaminoTouPyros.incipit = "Those godly Servants…"
 OiEnKaminoTouPyros.melody = misc_en_US_unknown.Heirmos
 OiEnKaminoTouPyros.mode = misc_en_US_unknown.Mode7
 OiEnKaminoTouPyros.ode = misc_en_US_unknown.Ode7
