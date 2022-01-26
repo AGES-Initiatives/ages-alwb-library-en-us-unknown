@@ -141,9 +141,9 @@ AvramiaioiPote.mode = misc_en_US_unknown.Mode4
 AvramiaioiPote.ode = misc_en_US_unknown.Ode7
 AvramiaioiPote.text = ""
 
-ChairoisAnassa.notmetered = "N/M (Theotokos, Queen of all.)"
-ChairoisAnassa.name = "Theotokos, Queen of all."
-ChairoisAnassa.incipit = "Theotokos, Queen of all…"
+ChairoisAnassa.notmetered = "N/M (Theotokos, rejoice! Queen of all.)"
+ChairoisAnassa.name = "Theotokos, rejoice! Queen of all."
+ChairoisAnassa.incipit = "Theotokos, rejoice! Queen of all…"
 ChairoisAnassa.melody = misc_en_US_unknown.Heirmos
 ChairoisAnassa.mode = misc_en_US_unknown.Mode4
 ChairoisAnassa.ode = misc_en_US_unknown.Ode9
