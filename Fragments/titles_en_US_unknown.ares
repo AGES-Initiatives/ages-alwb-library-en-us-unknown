@@ -603,6 +603,8 @@ Synaxarion = "Synaxarion."
 
 TaAnagnosmata = "THE READINGS"
 
+TaAnagnosmataTisLeitrougias = ""
+
 TaAnagnosmataTisSeiras = ""
 
 TaAnagnosmataTouChthesinouEsperinou = ""
@@ -640,6 +642,8 @@ TisOktoichou = "From the Octoechos."
 TisOsias = "For the Devout Woman."
 
 TisOsiomartyros = ""
+
+TisParthenomartyros = ""
 
 TisSamaritidos = "For the Samaritan Woman."
 
