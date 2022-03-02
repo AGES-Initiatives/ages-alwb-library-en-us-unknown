@@ -504,6 +504,9 @@ OukEstinAgios.mode = misc_en_US_unknown.Mode8
 OukEstinAgios.ode = misc_en_US_unknown.Ode3
 OukEstinAgios.text = ""
 
+OukEstinAgiosOsOTheos.name = ""
+
+
 OuraniasApsidos.notmetered = "N/M (O divine Master Builder.)"
 OuraniasApsidos.name = "O divine Master Builder."
 OuraniasApsidos.incipit = "O divine Master Builder…"
