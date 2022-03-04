@@ -304,8 +304,8 @@ MegalynomenSeTinPanamomon.mode = misc_en_US_unknown.Mode8
 MegalynomenSeTinPanamomon.ode = misc_en_US_unknown.Ode9
 MegalynomenSeTinPanamomon.text = ""
 
-MousikonOrganon.notmetered = "N/M ()"
-MousikonOrganon.name = ""
+MousikonOrganon.notmetered = "N/M (At the sound.)"
+MousikonOrganon.name = "At the sound."
 MousikonOrganon.incipit = "…"
 MousikonOrganon.melody = misc_en_US_unknown.Heirmos
 MousikonOrganon.mode = misc_en_US_unknown.Mode8
