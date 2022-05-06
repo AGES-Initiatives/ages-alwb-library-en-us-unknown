@@ -400,8 +400,8 @@ TheonAnthropois.mode = misc_en_US_unknown.Mode6
 TheonAnthropois.ode = misc_en_US_unknown.Ode9
 TheonAnthropois.text = ""
 
-TheonPateraDimiourgon.notmetered = "N/M ()"
-TheonPateraDimiourgon.name = ""
+TheonPateraDimiourgon.notmetered = "N/M (The three young men.)"
+TheonPateraDimiourgon.name = "The three young men."
 TheonPateraDimiourgon.incipit = "…"
 TheonPateraDimiourgon.melody = misc_en_US_unknown.Heirmos
 TheonPateraDimiourgon.mode = misc_en_US_unknown.Mode6
