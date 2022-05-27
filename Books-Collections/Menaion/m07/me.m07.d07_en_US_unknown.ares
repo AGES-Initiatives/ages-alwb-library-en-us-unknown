@@ -135,6 +135,10 @@ meMA.Kathisma2T.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
 meMA.Kathisma2T.incipit = "…"
 meMA.Kathisma2T.text = //oc.m1.d1_en_US_unknown.ocMA.Kathisma13.text
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_US_unknown.KanonTouAgiou
