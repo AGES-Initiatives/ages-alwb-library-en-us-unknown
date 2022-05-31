@@ -69,20 +69,17 @@ meVE.Apolytikion2.melody = he.a.m1_en_US_unknown.TouLithouSfragisthentos.notmete
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Apostles."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
 meMA.C1.title = titles_en_US_unknown.KanonTonApostolon
 meMA.C1.verse = //prayers_en_US_unknown.verse_Apostles.text
+
+meMA.C2.acrostic.title = "Canon for the Martyr."
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+meMA.C2.title = titles_en_US_unknown.KanonTouMartyros
+meMA.C2.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 //canon translated by Austin Martin, 2019
 
@@ -109,9 +106,6 @@ meMA.Ode1C1T.mode = misc_en_US_unknown.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_unknown.SouITropaiouchos.notmetered
 meMA.Ode1C1T.incipit = "O Virgin, you have reformed…"
 meMA.Ode1C1T.text = "O Virgin, you have reformed the race of man by your childbirth. You conceived the Logos of the Father. He took on mortal flesh and showed us the way to immortality."
-
-meMA.C2.title = titles_en_US_unknown.KanonTouMartyros
-meMA.C2.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C21.mode = misc_en_US_unknown.Mode2
