@@ -107,19 +107,17 @@ meMA.Kathisma32.melody = he.a.m3_en_US_unknown.TinOraiotita.notmetered
 meMA.Kathisma32.incipit = "…"
 meMA.Kathisma32.text = //me.m12.d20_en_US_unknown.meMA.Ode3Kathisma3.text
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-meMA.C2.acrostic.title = ""
+meMA.C1.title = //titles_en_US_unknown.KanonATouAgiou
+meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Another Canon for the Saint."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = titles_en_US_unknown.KanonATouAgiou
-meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
+meMA.C2.title = //titles_en_US_unknown.KanonBTouAgiou
+meMA.C2.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode1
@@ -144,9 +142,6 @@ meMA.Ode1C1T.mode = misc_en_US_unknown.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_unknown.OdinEpinikion.notmetered
 meMA.Ode1C1T.incipit = "O Lady graced of God…"
 meMA.Ode1C1T.text = "O Lady graced of God, you bear the Creator as a fiery throne. You contain the King Who became like us, for you are a living bride-chamber and a joyful palace."
-
-meMA.C2.title = titles_en_US_unknown.KanonBTouAgiou
-meMA.C2.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C21.mode = misc_en_US_unknown.Mode6
