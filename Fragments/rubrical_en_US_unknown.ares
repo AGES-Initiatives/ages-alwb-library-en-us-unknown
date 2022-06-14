@@ -16,6 +16,8 @@ BeginMatins = "And then Matins begins."
 
 BeginVespers = "And Vespers commences immediately with, \"Come, let us worship…\""
 
+BlessingWithTheCross = ""
+
 ChoirLeftBegins = ""
 
 ChoirRightBegins = ""
@@ -83,6 +85,8 @@ OrAccordingToOlderPractice = ""
 Read = "(read)"
 
 RelaxedFish = "Fasting is relaxed for the brethren; we may eat fish."
+
+SlowlyFromWithinTheAltar = ""
 
 Sung = "(sung)"
 

@@ -218,28 +218,25 @@ meMA.PostGospelIdiomelon.melody = misc_en_US_unknown.Idiomelon
 meMA.PostGospelIdiomelon.incipit = "…"
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1.poet = poets_en_US_unknown.IoannouTouDamaskinou
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_unknown.IoannouTouDamaskinou
+meMA.C1.title = titles_en_US_unknown.KanonATouProdromou
+meMA.C1.verse = //prayers_en_US_unknown.verse_Baptist.text
 
-meMA.C2.poet = poets_en_US_unknown.Georgiou
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.poet = poets_en_US_unknown.Georgiou
+meMA.C2.title = titles_en_US_unknown.KanonBTouProdromou
+meMA.C2.verse = //prayers_en_US_unknown.verse_Baptist.text
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_unknown.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_unknown.TristatasKrataious.text
-
-meMA.C1.title = titles_en_US_unknown.KanonATouProdromou
-meMA.C1.verse = //prayers_en_US_unknown.verse_Baptist.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode4
@@ -264,9 +261,6 @@ meMA.Ode1C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_unknown.TristatasKrataious.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = titles_en_US_unknown.KanonBTouProdromou
-meMA.C2.verse = //prayers_en_US_unknown.verse_Baptist.text
 
 meMA.Ode1C21.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C21.mode = misc_en_US_unknown.Mode4

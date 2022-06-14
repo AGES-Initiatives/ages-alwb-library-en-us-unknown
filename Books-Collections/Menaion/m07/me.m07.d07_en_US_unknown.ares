@@ -135,14 +135,14 @@ meMA.Kathisma2T.melody = he.a.m1_en_US_unknown.TonTafonSouSotir.notmetered
 meMA.Kathisma2T.incipit = "…"
 meMA.Kathisma2T.text = //oc.m1.d1_en_US_unknown.ocMA.Kathisma13.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
 meMA.C1.title = titles_en_US_unknown.KanonTouAgiou
 meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
+
+meMA.C2.acrostic.title = "Canon for St. Kyriake."
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+meMA.C2.title = titles_en_US_unknown.KanonTisAgias
+meMA.C2.verse = //prayers_en_US_unknown.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode2
@@ -168,8 +168,6 @@ meMA.Ode1C1T.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = titles_en_US_unknown.KanonTisAgias
-meMA.C2.verse = //prayers_en_US_unknown.verse_SaintW.text
 //canon translated by Austin Martin, 2019
 meMA.Ode1C21.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C21.mode = misc_en_US_unknown.Mode2

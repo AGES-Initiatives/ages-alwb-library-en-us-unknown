@@ -50,21 +50,18 @@ meVE.Apolytikion1.text = ""
 
 //Canon translated by Austin Martin
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
 meMA.C1.poet = poets_en_US_unknown.StefanouTouSavaitou
+meMA.C1.title = titles_en_US_unknown.KanonTonAgion
+meMA.C1.verse = //prayers_en_US_unknown.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode8
 meMA.Ode1C1H.melody = he.h.m8_en_US_unknown.AsmaAnapempsomen.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_unknown.AsmaAnapempsomen.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_unknown.AsmaAnapempsomen.text
-
-meMA.C1.title = titles_en_US_unknown.KanonTonAgion
-meMA.C1.verse = //prayers_en_US_unknown.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode8
