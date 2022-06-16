@@ -82,17 +82,16 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_US_unknown.Theofanous
+meMA.C1.title = ""
+meMA.C1.verse = //prayers_en_US_unknown.verse_Apostles.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = ""
-meMA.C1.verse = //prayers_en_US_unknown.verse_Apostles.text
+meMA.C2.poet = poets_en_US_unknown.Theofanous
+meMA.C2.title = ""
+meMA.C2.verse = //prayers_en_US_unknown.verse_Apostles.text
 
 //canons translated by Austin Martin, 2019
 
@@ -119,9 +118,6 @@ meMA.Ode1C1T.mode = misc_en_US_unknown.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_unknown.AnoixoToStomaMou.notmetered
 meMA.Ode1C1T.incipit = "O divinely blessed Bartholomew, He…"
 meMA.Ode1C1T.text = "O divinely blessed Bartholomew, He Who is full is emptied out. He Who was before the ages has a beginning, for he was born of the Maiden Mother of God. You preached Him to be in two essences but one hypostasis."
-
-meMA.C2.title = ""
-meMA.C2.verse = //prayers_en_US_unknown.verse_Apostles.text
 
 meMA.Ode1C21.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C21.mode = misc_en_US_unknown.Mode4
