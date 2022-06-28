@@ -40,8 +40,8 @@ AseveiasOrgana.mode = misc_en_US_unknown.Mode8
 AseveiasOrgana.ode = misc_en_US_unknown.Ode8
 AseveiasOrgana.text = ""
 
-AsmaAnapempsomen.notmetered = "N/M ()"
-AsmaAnapempsomen.name = ""
+AsmaAnapempsomen.notmetered = "N/M (All you people.)"
+AsmaAnapempsomen.name = "All you people."
 AsmaAnapempsomen.incipit = "…"
 AsmaAnapempsomen.melody = misc_en_US_unknown.Heirmos
 AsmaAnapempsomen.mode = misc_en_US_unknown.Mode8
@@ -144,13 +144,13 @@ EnPedioDeeira.mode = misc_en_US_unknown.Mode8
 EnPedioDeeira.ode = misc_en_US_unknown.Ode7
 EnPedioDeeira.text = ""
 
-EpevisEfIppous.notmetered = "N/M (O Lord, You rode.)"
+EpevisEfIppous.notmetered = "N/M (You mounted Your horses.)"
 EpevisEfIppous.name = ""
 EpevisEfIppous.incipit = "…"
 EpevisEfIppous.melody = misc_en_US_unknown.Heirmos
 EpevisEfIppous.mode = misc_en_US_unknown.Mode8
 EpevisEfIppous.ode = misc_en_US_unknown.Ode4
-EpevisEfIppous.text = "O Lord, you have mounted on Your Apostles as on horses. You have taken their reins in Your hands. Your horsemanship is become salvation for them that sing with faith: Glory to Your power, O Lord."
+EpevisEfIppous.text = ""
 
 EptaplasiosKaminon.notmetered = "N/M (The tyrant king.)"
 EptaplasiosKaminon.name = "The tyrant king."
@@ -723,8 +723,8 @@ TonEnOreiAgio.mode = misc_en_US_unknown.Mode8
 TonEnOreiAgio.ode = misc_en_US_unknown.Ode8
 TonEnOreiAgio.text = ""
 
-TonFovonSouKyrie.notmetered = "N/M (Plant the fear of You.)"
-TonFovonSouKyrie.name = ""
+TonFovonSouKyrie.notmetered = "N/M (O Lord, we Your servants.)"
+TonFovonSouKyrie.name = "O Lord, we Your servants."
 TonFovonSouKyrie.incipit = "…"
 TonFovonSouKyrie.melody = misc_en_US_unknown.Heirmos
 TonFovonSouKyrie.mode = misc_en_US_unknown.Mode8
