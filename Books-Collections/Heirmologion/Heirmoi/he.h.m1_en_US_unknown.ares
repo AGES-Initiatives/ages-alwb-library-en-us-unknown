@@ -699,8 +699,8 @@ TinFotoforonNefelin.mode = misc_en_US_unknown.Mode1
 TinFotoforonNefelin.ode = misc_en_US_unknown.Ode9
 TinFotoforonNefelin.text = ""
 
-TinSinEirinin.notmetered = "N/M ()"
-TinSinEirinin.name = ""
+TinSinEirinin.notmetered = "N/M (O Son and Word.)"
+TinSinEirinin.name = "O Son and Word."
 TinSinEirinin.incipit = "…"
 TinSinEirinin.melody = misc_en_US_unknown.Heirmos
 TinSinEirinin.mode = misc_en_US_unknown.Mode1
@@ -816,8 +816,8 @@ TonTyponTouTheiouStavrou.mode = misc_en_US_unknown.Mode1
 TonTyponTouTheiouStavrou.ode = misc_en_US_unknown.Ode6
 TonTyponTouTheiouStavrou.text = ""
 
-TousEnKaminoPaidas.notmetered = "N/M ()"
-TousEnKaminoPaidas.name = ""
+TousEnKaminoPaidas.notmetered = "N/M (O Lord and Savior.)"
+TousEnKaminoPaidas.name = "O Lord and Savior."
 TousEnKaminoPaidas.incipit = "…"
 TousEnKaminoPaidas.melody = misc_en_US_unknown.Heirmos
 TousEnKaminoPaidas.mode = misc_en_US_unknown.Mode1

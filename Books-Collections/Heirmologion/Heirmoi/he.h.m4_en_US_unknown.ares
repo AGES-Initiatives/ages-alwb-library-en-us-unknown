@@ -428,8 +428,8 @@ IlasmosIminChriste3.text = ""
 IlasmosIminChriste4.text = ""
 IlasmosIminChriste5.text = ""
 
-IlthonEisTaVathi.notmetered = "N/M ()"
-IlthonEisTaVathi.name = ""
+IlthonEisTaVathi.notmetered = "N/M (The storm of my many sins.)"
+IlthonEisTaVathi.name = "The storm of my many sins."
 IlthonEisTaVathi.incipit = "…"
 IlthonEisTaVathi.melody = misc_en_US_unknown.Heirmos
 IlthonEisTaVathi.mode = misc_en_US_unknown.Mode4
