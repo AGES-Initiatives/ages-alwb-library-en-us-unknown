@@ -457,7 +457,7 @@ OiTisChaldaiasKaminou.ode = misc_en_US_unknown.Ode7
 OiTisChaldaiasKaminou.text = ""
 
 OrousParilthes.notmetered = "N/M (When you conceived.)"
-OrousParilthes.name = ""
+OrousParilthes.name = "When you conceived."
 OrousParilthes.incipit = "…"
 OrousParilthes.melody = misc_en_US_unknown.Heirmos
 OrousParilthes.mode = misc_en_US_unknown.Mode8
