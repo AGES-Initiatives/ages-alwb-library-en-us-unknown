@@ -375,7 +375,6 @@ meMA.Ode9C1T.melody = he.h.m6_en_US_unknown.TheonAnthropois.notmetered
 meMA.Ode9C1T.incipit = "O most grace-bestowed one of…"
 meMA.Ode9C1T.text = "O most grace-bestowed one of God, you carrier of the Light, illumine my heart with your radiant brightness, dispersing the clouds of laxity and dispelling the murkiness of iniquity, O you who gave birth to God who is without sin."
 
-//added the following:
 meMA.Exaposteilarion1.mode = misc_en_US_unknown.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_US_unknown.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "…"
