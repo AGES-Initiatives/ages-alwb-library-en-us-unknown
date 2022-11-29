@@ -1445,7 +1445,7 @@ trMA.Oikos1.text = "Seeing Christ's house of healing opened, and health flowing 
 
 trSY.commemoration.text = "On this day, Thursday of the fifth week of Lent, according to ancient tradition, we chant the service of the Great and compunctious Canon."
 trSY.commemoration.onotherday.text = "On this day, we chant the service of the Great and compunctious Canon."
-trSY.commemoration.couplet1.title = titles_en_US_unknown.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_unknown.ti.Verses
 trSY.commemoration.couplet1.verse1 = "Jesus, give the habit of compunction"
 trSY.commemoration.couplet1.verse2 = "to us who now sing the Great Canon."
 trSY.commemoration.narration.p01 = ""

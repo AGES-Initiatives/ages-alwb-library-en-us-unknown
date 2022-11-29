@@ -112,13 +112,13 @@ meMA.Kathisma32.text = //me.m12.d20_en_US_unknown.meMA.Ode3Kathisma3.text
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_unknown.KanonATouAgiou
+meMA.C1.title = //titles_en_US_unknown.ti.Canon1SaintM
 meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 meMA.C2.acrostic.title = "Another Canon for the Saint."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = //titles_en_US_unknown.KanonBTouAgiou
+meMA.C2.title = //titles_en_US_unknown.ti.Canon2SaintM
 meMA.C2.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1

@@ -227,14 +227,14 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_unknown.IoannouTouDamaskinou
-meMA.C1.title = titles_en_US_unknown.KanonATouProdromou
+meMA.C1.title = titles_en_US_unknown.ti.Canon1Forerunner
 meMA.C1.verse = //prayers_en_US_unknown.verse_Baptist.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_US_unknown.Georgiou
-meMA.C2.title = titles_en_US_unknown.KanonBTouProdromou
+meMA.C2.title = titles_en_US_unknown.ti.Canon2Forerunner
 meMA.C2.verse = //prayers_en_US_unknown.verse_Baptist.text
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1

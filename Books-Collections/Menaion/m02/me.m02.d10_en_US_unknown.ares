@@ -228,7 +228,7 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = "…"
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1.title = titles_en_US_unknown.KanonATouAgiou
+meMA.C1.title = titles_en_US_unknown.ti.Canon1SaintM
 meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
@@ -255,7 +255,7 @@ meMA.Ode1C1T.melody = he.h.m6_en_US_unknown.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
-meMA.C2.title = titles_en_US_unknown.KanonBTouAgiou
+meMA.C2.title = titles_en_US_unknown.ti.Canon2SaintM
 meMA.C2.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_unknown.Ode1

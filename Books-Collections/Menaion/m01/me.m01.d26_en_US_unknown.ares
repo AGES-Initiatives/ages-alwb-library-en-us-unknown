@@ -52,7 +52,7 @@ meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = poets_en_US_unknown.Theofanous
-meMA.C1.title = titles_en_US_unknown.KanonTonAgion
+meMA.C1.title = titles_en_US_unknown.ti.CanonSaints
 meMA.C1.verse = //prayers_en_US_unknown.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1

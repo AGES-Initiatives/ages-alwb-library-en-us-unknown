@@ -120,7 +120,7 @@ meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.acrostic.notice2 = ""
 meMA.C1.poet = poets_en_US_unknown.IoannouMonachou
-meMA.C1.title = titles_en_US_unknown.KanonTisAgias
+meMA.C1.title = titles_en_US_unknown.ti.CanonSaintW
 meMA.C1.verse = //prayers_en_US_unknown.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1

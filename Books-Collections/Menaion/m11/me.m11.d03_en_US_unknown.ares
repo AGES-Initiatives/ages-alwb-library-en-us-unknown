@@ -110,13 +110,13 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = "Canon for the Martyrs."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = titles_en_US_unknown.KanonTonAgion
+meMA.C1.title = titles_en_US_unknown.ti.CanonSaints
 meMA.C1.verse = //prayers_en_US_unknown.verse_SaintsM.text
 
 meMA.C2.acrostic.title = "Canon for St. George."
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_US_unknown.KanonTouAgiou
+meMA.C2.title = titles_en_US_unknown.ti.CanonSaintM
 meMA.C2.verse = //prayers_en_US_unknown.verse_SaintM.text
 
 //canons translated by Austin Martin, 2019
