@@ -54,6 +54,8 @@ HolidayFish = "Holiday. Fish allowed."
 
 HolidayWineOil = "Holiday. Wine and oil allowed."
 
+IfExistsIfNot = ""
+
 IfLityNotDoneAtVespers = ""
 
 InALowVoice = "(in a low voice)"
