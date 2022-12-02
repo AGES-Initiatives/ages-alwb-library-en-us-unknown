@@ -25,12 +25,12 @@ trVE.AposMartyric.text = "" //oc.m8.d5_en_US_unknown.ocVE.Aposticha3.text
 
 trVE.Stichera01.poet = ""
 trVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode8
-trVE.Stichera01.melody = he.a.m8_en_US_unknown.KyrieEiKaiKritirio.notmetered
+trVE.Stichera01.melody = he.a.m8_en_US_unknown.heAU.KyrieEiKaiKritirio.notmetered
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode8
-trVE.Stichera02.melody = he.a.m8_en_US_unknown.KyrieEiKaiKritirio.notmetered
+trVE.Stichera02.melody = he.a.m8_en_US_unknown.heAU.KyrieEiKaiKritirio.notmetered
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = ""
 
@@ -180,145 +180,145 @@ trGC.Verse4 = "Most holy Theotokos, save us." //prayers_en_US_unknown.pr.verse_T
 
 trGC.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C1H.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
-trGC.Ode1C1H.incipit = he.h.m6_en_US_unknown.VoithosKaiSkepastis.incipit
-trGC.Ode1C1H.text = he.h.m6_en_US_unknown.VoithosKaiSkepastis.text
+trGC.Ode1C1H.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
+trGC.Ode1C1H.incipit = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.incipit
+trGC.Ode1C1H.text = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.text
 
 trGC.Ode1C101.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C101.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C101.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C101.incipit = "Where shall I begin to…"
 trGC.Ode1C101.text = "Where shall I begin to weep for the actions of my wretched life? What first-fruit shall I offer, O Christ, in this my lamentation? But in Your compassion grant me forgiveness of sins."
 
 trGC.Ode1C102.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C102.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C102.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C102.incipit = "Come, wretched soul, with your…"
 trGC.Ode1C102.text = "Come, wretched soul, with your flesh to the Creator of all. Make confession to Him, and abstain henceforth from your past brutishness; and offer to God tears of repentance."
 
 trGC.Ode1C103.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C103.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C103.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C103.incipit = "I have rivaled in transgression…"
 trGC.Ode1C103.text = "I have rivaled in transgression Adam the first-formed man, and I have found myself stripped naked of God, of the eternal Kingdom and its joy, because of my sins."
 
 trGC.Ode1C104.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C104.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C104.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C104.incipit = "Woe to you, miserable soul!…"
 trGC.Ode1C104.text = "Woe to you, miserable soul! How like you are to the first Eve! For you looked in wickedness and were grievously wounded; you have touched the tree and rashly tasted the deceptive food."
 
 trGC.Ode1C105.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C105.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C105.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C105.incipit = "Instead of the visible Eve…"
 trGC.Ode1C105.text = "Instead of the visible Eve, I have the Eve of the mind: the passionate thought in my flesh, showing me what seems sweet; yet whenever I taste from it, I find it bitter."
 
 trGC.Ode1C106.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C106.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C106.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C106.incipit = "Adam was justly banished from…"
 trGC.Ode1C106.text = "Adam was justly banished from Eden because he disobeyed one commandment of Yours, O Savior. What then shall I suffer, for I am always rejecting Your words of life?"
 
 trGC.Ode1C107.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C107.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C107.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C107.incipit = "By my own free choice…"
 trGC.Ode1C107.text = "By my own free choice have I incurred the guilt of Cain's murder. I have killed my conscience, bringing the flesh to life and making war upon the soul by my wicked actions."
 
 trGC.Ode1C108.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C108.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C108.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C108.incipit = "O Jesus, I have not…"
 trGC.Ode1C108.text = "O Jesus, I have not been like Abel in his righteousness. Never have I offered You acceptable gifts or godly actions, a pure sacrifice or an unblemished life."
 
 trGC.Ode1C109.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C109.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C109.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C109.incipit = "Like Cain, O miserable soul…"
 trGC.Ode1C109.text = "Like Cain, O miserable soul, we too have offered, to the Creator of all, defiled actions and a polluted sacrifice and a worthless life: and so we also are condemned."
 
 trGC.Ode1C110.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C110.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C110.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C110.incipit = "As the potter molds the…"
 trGC.Ode1C110.text = "As the potter molds the clay, You fashioned me, giving me flesh and bones, breath and life. But accept me in repentance, O my Maker and Deliverer and Judge."
 
 trGC.Ode1C111.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C111.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C111.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C111.incipit = "I confess to You, O…"
 trGC.Ode1C111.text = "I confess to You, O Savior, the sins I have committed, the wounds of my soul and body, which murderous thoughts, like thieves, have inflicted inwardly upon me."
 
 trGC.Ode1C112.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C112.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C112.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C112.incipit = "Though I have sinned, O…"
 trGC.Ode1C112.text = "Though I have sinned, O Savior, yet I know that You are full of loving-kindness. You chastise with mercy and are fervent in compassion. You see me weeping and You run to meet me, like the Father calling back the Prodigal Son."
 
 trGC.Ode1C113.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C113.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C113.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C113.incipit = "I lie as an outcast…"
 trGC.Ode1C113.text = "I lie as an outcast before Your gate, O Savior. In my old age cast me not down empty into hell; but, before the end comes, in Your love grant me remission of sins."
 
 trGC.Ode1C114.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C114.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C114.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C114.incipit = "I am the man who…"
 trGC.Ode1C114.text = "I am the man who fell among thieves, even my own thoughts; they have covered all my body with wounds, and I lie beaten and bruised. But come to me, O Christ my Savior, and heal me."
 
 trGC.Ode1C115.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C115.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C115.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C115.incipit = "The Priest saw me first…"
 trGC.Ode1C115.text = "The Priest saw me first, but passed by on the other side; the Levite looked on me in my distress but despised my nakedness. O Jesus, sprung from Mary, come to me and take pity on me."
 
 trGC.Ode1C116.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C116.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C116.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C116.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C116.incipit = "O Lamb of God, that…"
 trGC.Ode1C116.text = "O Lamb of God, that takes away the sins of all, take from me the heavy yoke of sin, and in Your compassion give me tears of compunction."
 
 trGC.Ode1C117.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C117.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C117.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C117.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C117.incipit = "It is time for repentance:…"
 trGC.Ode1C117.text = "It is time for repentance: to You I come, my Creator. Take from me the heavy yoke of sin, and in Your compassion give me tears of compunction."
 
 trGC.Ode1C118.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C118.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C118.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C118.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C118.incipit = "Reject me not, O Savior…"
 trGC.Ode1C118.text = "Reject me not, O Savior; cast me not away from Your presence. Take from me the heavy yoke of sin and in Your compassion grant me remission of sins."
 
 trGC.Ode1C119.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C119.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C119.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C119.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C119.incipit = "All my offenses, voluntary and…"
 trGC.Ode1C119.text = "All my offenses, voluntary and involuntary, manifest and hidden, known and unknown, forgive, O Savior, for You are God; be merciful and save me."
 
 trGC.Ode1C120.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C120.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C120.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C120.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C120.incipit = "From my youth, O Savior…"
 trGC.Ode1C120.text = "From my youth, O Savior, I have rejected Your commandments. Ruled by the passions, I have passed my whole life in heedlessness and sloth. Therefore I cry to You, O Savior, even now at the end: Save me."
 
 trGC.Ode1C121.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C121.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C121.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C121.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C121.incipit = "As the Prodigal, O Savior…"
 trGC.Ode1C121.text = "As the Prodigal, O Savior, I have wasted the substance of my soul in riotous living, and I am barren of the virtues of holiness. In my hunger I cry: O giver of mercy, come quickly out to meet me and take pity on me."
 
 trGC.Ode1C122.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C122.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C122.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C122.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C122.incipit = "I fall down, Jesus, at…"
 trGC.Ode1C122.text = "I fall down, Jesus, at Your feet: I have sinned against You, be merciful to me. Take from me the heavy yoke of sin, and in Your compassion, O God, accept me in repentance."
 
 trGC.Ode1C123.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C123.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C123.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C123.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C123.incipit = "Enter not into judgment with…"
 trGC.Ode1C123.text = "Enter not into judgment with me, bringing before me the things I should have done, examining my words and correcting my impulses. But in Your mercy overlook my sins and save me, O Lord almighty."
 
@@ -328,314 +328,314 @@ trGC.C2.acrostic.text = ""
 
 trGC.Ode1C201.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C201.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C201.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C201.incipit = "Grant me the light of…"
 trGC.Ode1C201.text = "Grant me the light of grace, from God's providence on high, so that I may flee from the darkness of the passions and sing fervently the joyful tale of your life, O Mary."
 
 trGC.Ode1C202.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C202.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C202.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C202.incipit = "Bowing before the divine laws…"
 trGC.Ode1C202.text = "Bowing before the divine laws of Christ, you drew near to Him, forsaking the unbridled longings of sensual pleasure; and in the fear of God you gained all the virtues as if they were one."
 
 trGC.Ode1C203.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C203.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C203.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C203.incipit = "Through your intercessions, O Andrew…"
 trGC.Ode1C203.text = "Through your intercessions, O Andrew, deliver us from shameful passions. We pray you, make us now partakers of Christ's Kingdom; for with faith and love we sing your praises."
 
 trGC.Ode1C2Tr.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C2Tr.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C2Tr.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C2Tr.incipit = "Trinity beyond all being, worshipped…"
 trGC.Ode1C2Tr.text = "Trinity beyond all being, worshipped in Unity, take from me the heavy yoke of sin, and in Your compassion grant me tears of compunction."
 
 trGC.Ode1C2T.ode = miscellanea_en_US_unknown.misc.Ode1
 trGC.Ode1C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode1C2T.melody = he.h.m6_en_US_unknown.VoithosKaiSkepastis.notmetered
+trGC.Ode1C2T.melody = he.h.m6_en_US_unknown.heHE.VoithosKaiSkepastis.notmetered
 trGC.Ode1C2T.incipit = "O Theotokos, the hope and…"
 trGC.Ode1C2T.text = "O Theotokos, the hope and protection of those who sing your praises, take from me the heavy yoke of sin. O pure Lady, accept me in repentance."
 
 //Ode 2
 trGC.Ode2C1H.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C1H.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C1H.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C1H.incipit = "Attend, O Heaven, and I…"
 trGC.Ode2C1H.text = "Attend, O Heaven, and I shall speak and sing in praise of Christ Who took flesh from a Virgin and came to dwell among us."
 
 trGC.Ode2C101.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C101.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C101.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C101.incipit = "Attend, O Heaven, and I…"
 trGC.Ode2C101.text = "Attend, O Heaven, and I shall speak; give ear, O earth, to the voice of one who repents before God and sings His praise."
 
 trGC.Ode2C102.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C102.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C102.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C102.incipit = "Look upon me, God my…"
 trGC.Ode2C102.text = "Look upon me, God my Savior, with Your merciful eye, and accept my fervent confession."
 
 trGC.Ode2C103.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C103.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C103.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C103.incipit = "More than all men I…"
 trGC.Ode2C103.text = "More than all men I have sinned; I alone have sinned against You. But as God take pity on Your creation, O Savior."
 
 trGC.Ode2C104.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C104.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C104.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C104.incipit = "I am surrounded by the…"
 trGC.Ode2C104.text = "I am surrounded by the storm of sin, O compassionate Lord. But stretch out Your hand to me, as once You did to Peter."
 
 trGC.Ode2C105.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C105.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C105.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C105.incipit = "I offer to You, O…"
 trGC.Ode2C105.text = "I offer to You, O merciful Lord, the tears of the Harlot. Take pity on me, O Savior, in Your compassion."
 
 trGC.Ode2C106.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C106.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C106.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C106.incipit = "With the lusts of passion…"
 trGC.Ode2C106.text = "With the lusts of passion I have darkened the beauty of my soul, and turned my whole mind entirely into earth."
 
 trGC.Ode2C107.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C107.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C107.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C107.incipit = "I have torn the first…"
 trGC.Ode2C107.text = "I have torn the first garment that the Creator wove for me in the beginning, and now I lie naked."
 
 trGC.Ode2C108.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C108.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C108.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C108.incipit = "I have clothed myself in…"
 trGC.Ode2C108.text = "I have clothed myself in the torn coat that the serpent wove for me by his counsel, and I am ashamed."
 
 trGC.Ode2C109.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C109.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C109.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C109.incipit = "I looked upon the beauty…"
 trGC.Ode2C109.text = "I looked upon the beauty of the tree and my mind was deceived, and now I lie naked and ashamed."
 
 trGC.Ode2C110.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C110.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C110.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C110.incipit = "All the ruling passions have…"
 trGC.Ode2C110.text = "All the ruling passions have ploughed upon my back, making long furrows of wickedness."
 
 trGC.Ode2C111.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C111.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C111.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C111.incipit = "I have lost the beauty…"
 trGC.Ode2C111.text = "I have lost the beauty and glory with which I was first created; and now I lie naked and ashamed."
 
 trGC.Ode2C112.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C112.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C112.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C112.incipit = "Sin has stripped me of…"
 trGC.Ode2C112.text = "Sin has stripped me of the robe that God once wove for me, and it has sewed for me garments of skin."
 
 trGC.Ode2C113.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C113.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C113.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C113.incipit = "I am clothed with the…"
 trGC.Ode2C113.text = "I am clothed with the raiment of shame as with fig leaves, in condemnation of my self-willed passions."
 
 trGC.Ode2C114.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C114.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C114.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C114.incipit = "I am clad in a…"
 trGC.Ode2C114.text = "I am clad in a garment that is defiled and shamefully bloodstained by a life of passion and self-indulgence."
 
 trGC.Ode2C115.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C115.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C115.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C115.incipit = "I have stained the garment…"
 trGC.Ode2C115.text = "I have stained the garment of my flesh, O Savior, and defiled that which was made in Your image and likeness."
 
 trGC.Ode2C116.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C116.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C116.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C116.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C116.incipit = "I have fallen beneath the…"
 trGC.Ode2C116.text = "I have fallen beneath the painful burden of the passions and the corruption of material things; and I am hard pressed by the enemy."
 
 trGC.Ode2C117.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C117.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C117.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C117.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C117.incipit = "Instead of freedom from possessions…"
 trGC.Ode2C117.text = "Instead of freedom from possessions, O Savior, I pursued a life in love with material things, and now I wear a heavy yoke."
 
 trGC.Ode2C118.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C118.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C118.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C118.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C118.incipit = "I adorned the idol of…"
 trGC.Ode2C118.text = "I adorned the idol of my flesh with a many-colored coat of shameful thoughts, and I am condemned."
 
 trGC.Ode2C119.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C119.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C119.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C119.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C119.incipit = "I cared only for the…"
 trGC.Ode2C119.text = "I cared only for the outward adornment, and neglected that which is within -- the tabernacle fashioned by God."
 
 trGC.Ode2C120.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C120.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C120.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C120.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C120.incipit = "With my lustful desires I…"
 trGC.Ode2C120.text = "With my lustful desires I formed within myself the deformity of the passions and disfigured the beauty of my mind."
 
 trGC.Ode2C121.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C121.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C121.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C121.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C121.incipit = "I discolored with the passions…"
 trGC.Ode2C121.text = "I discolored with the passions the first beauty of the image, O Savior. But seek me, as once You sought the lost coin, and find me."
 
 trGC.Ode2C122.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C122.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C122.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C122.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C122.incipit = "Like the Harlot I cry…"
 trGC.Ode2C122.text = "Like the Harlot I cry to You: I have sinned, I alone have sinned against You. Accept my tears also as sweet ointment, O Savior."
 
 trGC.Ode2C123.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C123.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C123.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C123.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C123.incipit = "Like David, I fell into…"
 trGC.Ode2C123.text = "Like David, I fell into lust and I am covered with filth; but wash me clean, O Savior, by my tears."
 
 trGC.Ode2C124.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C124.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C124.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C124.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C124.incipit = "Like the Publican I cry…"
 trGC.Ode2C124.text = "Like the Publican I cry to You: Be merciful, O Savior, be merciful to me. For no child of Adam has ever sinned against You as I have sinned."
 
 trGC.Ode2C125.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C125.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C125.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C125.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C125.incipit = "I have no tears, no…"
 trGC.Ode2C125.text = "I have no tears, no repentance, no compunction; but as God, O Savior, bestow them on me."
 
 trGC.Ode2C126.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C126.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C126.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C126.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C126.incipit = "Lord, Lord, at the Last…"
 trGC.Ode2C126.text = "Lord, Lord, at the Last Day shut not Your door against me; but open it to me, for I repent before You."
 
 trGC.Ode2C127.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C127.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C127.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C127.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C127.incipit = "O Lover of mankind, who…"
 trGC.Ode2C127.text = "O Lover of mankind, who desires that all men shall be saved, in Your goodness call me back and accept me in repentance."
 
 trGC.Ode2C128.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C128.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C128.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C128.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C128.incipit = "Give ear to the groaning…"
 trGC.Ode2C128.text = "Give ear to the groaning of my soul, and accept the tears that fall from my eyes; O Lord, save me."
 
 trGC.Ode2C1Tr.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C1Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C1Tr.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C1Tr.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C1Tr.incipit = "I sing Your praises, One…"
 trGC.Ode2C1Tr.text = "I sing Your praises, One in Three Persons, God of all, Father, Son and Holy Spirit."
 
 trGC.Ode2C1T.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C1T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C1T.melody = he.h.m6_en_US_unknown.ProsecheOurane.notmetered
+trGC.Ode2C1T.melody = he.h.m6_en_US_unknown.heHE.ProsecheOurane.notmetered
 trGC.Ode2C1T.incipit = "O Theotokos undefiled, Virgin alone…"
 trGC.Ode2C1T.text = "O Theotokos undefiled, Virgin alone worthy of all praise, intercede fervently for our salvation."
 
 trGC.Ode2C2H.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C2H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C2H.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C2H.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C2H.incipit = "See now, see that I…"
 trGC.Ode2C2H.text = "See now, see that I am God, who rained down manna in the days of old, and made springs of water flow from the rock, for my people in the wilderness, by My right hand and by My power alone."
 
 trGC.Ode2C201.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C201.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C201.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C201.incipit = "\"See now, see that I…"
 trGC.Ode2C201.text = "\"See now, see that I am God.\" Give ear, my soul, to the Lord as He cries to you; forsake your former sin, and fear Him as your Judge and God."
 
 trGC.Ode2C202.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C202.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C202.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C202.incipit = "To whom shall I liken…"
 trGC.Ode2C202.text = "To whom shall I liken you, O soul of many sins? Alas! To Cain and to Lamech. For you stoned your body to death with your evil deeds, and killed your mind with your disordered longings."
 
 trGC.Ode2C203.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C203.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C203.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C203.incipit = "Call to mind, my soul…"
 trGC.Ode2C203.text = "Call to mind, my soul, all who lived before the Law. You have not been like Seth, or followed Enos or Enoch, who was translated to Heaven, or Noah; but you are destitute, without a share in the life of the righteous."
 
 trGC.Ode2C204.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C204.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C204.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C204.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C204.incipit = "You alone, O my soul…"
 trGC.Ode2C204.text = "You alone, O my soul, opened the windows of the wrath of your God, and you flooded, as the earth, all your flesh and deeds and life; and you remained outside the Ark of salvation."
 
 trGC.Ode2C205.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C205.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C205.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C205.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C205.incipit = "\"I have slain a man…"
 trGC.Ode2C205.text = "\"I have slain a man to my grief and wounding,\" said Lamech, \"and a young man to my hurt\"; and he cried aloud lamenting. Do you not tremble then, my soul, for you have defiled your flesh and polluted your mind?"
 
 trGC.Ode2C206.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C206.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C206.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C206.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C206.incipit = "Ah, how I have emulated…"
 trGC.Ode2C206.text = "Ah, how I have emulated Lamech, the murderer of old, slaying my soul as if it were a man, and my mind as if it were a young man. With sensual longings I have killed my body, as Cain the murderer killed his brother."
 
 trGC.Ode2C207.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C207.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C207.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C207.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C207.incipit = "Skillfully you planned to build…"
 trGC.Ode2C207.text = "Skillfully you planned to build a tower, O my soul, and to establish a stronghold for your lusts; but the Creator confounded your designs and dashed your devices to the ground."
 
 trGC.Ode2C208.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C208.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C208.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C208.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C208.incipit = "I am wounded and smitten:…"
 trGC.Ode2C208.text = "I am wounded and smitten: see the enemy's arrows which have pierced my soul and body. See the wounds, the open sores and the injuries, that cry out to God against the blows inflicted by my freely chosen passions."
 
 trGC.Ode2C209.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C209.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C209.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C209.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C209.incipit = "Roused to anger by their…"
 trGC.Ode2C209.text = "Roused to anger by their transgressions, the Lord once rained down fire from Heaven and burnt up the men of Sodom. And you, my soul, have kindled the fire of Gehenna, and there to your bitter sorrow you shall burn."
 
 trGC.Ode2C210.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C210.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C210.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C210.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C210.incipit = "Know and see that I…"
 trGC.Ode2C210.text = "Know and see that I am God, searching out men's hearts and punishing their thoughts, reproving their actions and burning up their sins; and in My judgment I protect the orphan, the humble and the poor."
 
 trGC.Ode2C211.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C211.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C211.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C211.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C211.incipit = "Sunk in the abyss of…"
 trGC.Ode2C211.text = "Sunk in the abyss of wickedness, O Mary, you lifted up your hands to the merciful God. And, as to Peter, in His loving-kindness He stretched out His hand to you in help, seeking in every way your conversion."
 
 trGC.Ode2C212.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C212.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C212.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C212.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C212.incipit = "With all eagerness and love…"
 trGC.Ode2C212.text = "With all eagerness and love you ran to Christ, turning from your former path of sin, finding your food in the trackless wilderness, and fulfilling in purity the commandments of God."
 
 trGC.Ode2C213.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C213.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C213.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C213.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C213.incipit = "Let us see, O my…"
 trGC.Ode2C213.text = "Let us see, O my soul, let us see the love of our God and Master for mankind; and before the end comes, with tears let us fall down before Him, crying: \"At the prayers of Andrew, O Savior, have mercy upon us.\""
 
 trGC.Ode2C2Tr.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C2Tr.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C2Tr.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C2Tr.incipit = "O Trinity uncreated and without…"
 trGC.Ode2C2Tr.text = "O Trinity uncreated and without beginning, O undivided Unity: accept me in repentance and save me, a sinner. I am Your creation, reject me not; but spare me and deliver me from the fire of condemnation."
 
 trGC.Ode2C2T.ode = miscellanea_en_US_unknown.misc.Ode2
 trGC.Ode2C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode2C2T.melody = he.h.m6_en_US_unknown.IdeteIdete.notmetered
+trGC.Ode2C2T.melody = he.h.m6_en_US_unknown.heHE.IdeteIdete.notmetered
 trGC.Ode2C2T.incipit = "Most pure Lady, Mother of…"
 trGC.Ode2C2T.text = "Most pure Lady, Mother of God, hope of those who run to you and the haven of the storm-tossed: pray to the merciful God, your Creator and your Son, that He may grant His mercy even to me."
 
@@ -643,205 +643,205 @@ trGC.Ode2C2T.text = "Most pure Lady, Mother of God, hope of those who run to you
 
 trGC.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C1H.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C1H.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C1H.incipit = "Upon the unshaken rock of…"
 trGC.Ode3C1H.text = "Upon the unshaken rock of Your commandments, O Christ, make firm Your Church."
 
 trGC.Ode3C101.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C101.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C101.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C101.incipit = "O my soul, the Lord…"
 trGC.Ode3C101.text = "O my soul, the Lord once rained down fire from Heaven and consumed the land of Sodom."
 
 trGC.Ode3C102.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C102.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C102.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C102.incipit = "O my soul, flee like…"
 trGC.Ode3C102.text = "O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late."
 
 trGC.Ode3C103.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C103.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C103.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C103.incipit = "Flee from the flames, O…"
 trGC.Ode3C103.text = "Flee from the flames, O my soul, flee from the burning heat of Sodom, flee from destruction by the fire of God."
 
 trGC.Ode3C104.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C104.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C104.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C104.incipit = "I confess to You, O…"
 trGC.Ode3C104.text = "I confess to You, O Savior: I have sinned, I have sinned against You. But in Your compassion absolve and forgive me."
 
 trGC.Ode3C105.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C105.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C105.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C105.incipit = "I alone have sinned against…"
 trGC.Ode3C105.text = "I alone have sinned against You, I have sinned more than all men; reject me not, O Christ my Savior."
 
 trGC.Ode3C106.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C106.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C106.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C106.incipit = "You are the Good Shepherd:…"
 trGC.Ode3C106.text = "You are the Good Shepherd: seek me, the lamb that has strayed, and do not forget me."
 
 trGC.Ode3C107.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C107.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C107.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C107.incipit = "You are my beloved Jesus…"
 trGC.Ode3C107.text = "You are my beloved Jesus, You are my Creator; in You shall I be justified, O Savior."
 
 trGC.Ode3C1Tr.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C1Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C1Tr.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C1Tr.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C1Tr.incipit = "O God, Trinity in Unity…"
 trGC.Ode3C1Tr.text = "O God, Trinity in Unity, save us from error and temptation and distress."
 
 trGC.Ode3C1T.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C1T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C1T.melody = he.h.m6_en_US_unknown.EpiTinAsaleftonChriste.notmetered
+trGC.Ode3C1T.melody = he.h.m6_en_US_unknown.heHE.EpiTinAsaleftonChriste.notmetered
 trGC.Ode3C1T.incipit = "Rejoice, Womb that held God!…"
 trGC.Ode3C1T.text = "Rejoice, Womb that held God! Rejoice, throne of the Lord! Rejoice, Mother of our Life!"
 
 trGC.Ode3C2H.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C2H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C2H.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
-trGC.Ode3C2H.incipit = he.h.m6_en_US_unknown.StereosonKyrie.incipit
-trGC.Ode3C2H.text = he.h.m6_en_US_unknown.StereosonKyrie.text
+trGC.Ode3C2H.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
+trGC.Ode3C2H.incipit = he.h.m6_en_US_unknown.heHE.StereosonKyrie.incipit
+trGC.Ode3C2H.text = he.h.m6_en_US_unknown.heHE.StereosonKyrie.text
 
 trGC.Ode3C201.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C201.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C201.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C201.incipit = "For me You are the…"
 trGC.Ode3C201.text = "For me You are the Fountain of life and the Destroyer of death; and from my heart I cry to You before the end: I have sinned, be merciful to me and save me."
 
 trGC.Ode3C202.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C202.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C202.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C202.incipit = "O Savior, I followed the…"
 trGC.Ode3C202.text = "O Savior, I followed the example of those who lived in wantonness in the days of Noah; and like them I am condemned to drown in the Flood."
 
 trGC.Ode3C203.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C203.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C203.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C203.incipit = "I have sinned, O Lord…"
 trGC.Ode3C203.text = "I have sinned, O Lord, I have sinned against You; be merciful to me. For there is no sinner whom I have not surpassed in my offenses."
 
 trGC.Ode3C204.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C204.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C204.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C204.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C204.incipit = "O my soul, you followed…"
 trGC.Ode3C204.text = "O my soul, you followed Ham, who mocked his father. You did not cover your neighbor's shame, walking backwards with averted face."
 
 trGC.Ode3C205.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C205.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C205.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C205.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C205.incipit = "O wretched soul, you have…"
 trGC.Ode3C205.text = "O wretched soul, you have not inherited the blessing of Shem, nor have you received, like Japhet, a spacious domain in the land of forgiveness."
 
 trGC.Ode3C206.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C206.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C206.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C206.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C206.incipit = "O my soul, depart from…"
 trGC.Ode3C206.text = "O my soul, depart from sin, from the land of Haran, and come to the land that Abraham inherited, which flows with incorruption and eternal life."
 
 trGC.Ode3C207.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C207.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C207.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C207.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C207.incipit = "You have heard, my soul…"
 trGC.Ode3C207.text = "You have heard, my soul, how Abraham in days of old left the land of his fathers and became a wanderer: follow him in his choice."
 
 trGC.Ode3C208.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C208.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C208.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C208.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C208.incipit = "At the oak of Mamre…"
 trGC.Ode3C208.text = "At the oak of Mamre, the Patriarch gave hospitality to the Angels, and in his old age he inherited the reward of the promise."
 
 trGC.Ode3C209.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C209.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C209.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C209.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C209.incipit = "You know, O my miserable…"
 trGC.Ode3C209.text = "You know, O my miserable soul, how Isaac was offered mystically as a new and unwonted sacrifice to the Lord: follow him in his choice."
 
 trGC.Ode3C210.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C210.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C210.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C210.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C210.incipit = "O my soul, be watchful…"
 trGC.Ode3C210.text = "O my soul, be watchful. You have heard how Ishmael was driven out as the child of a bondwoman. Take heed, lest the same thing happen to you because of your lust."
 
 trGC.Ode3C211.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C211.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C211.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C211.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C211.incipit = "O my soul, you have…"
 trGC.Ode3C211.text = "O my soul, you have become like Hagar the Egyptian: your free choice has been enslaved, and you have borne as your child a new Ishmael, stubborn willfulness."
 
 trGC.Ode3C212.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C212.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C212.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C212.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C212.incipit = "You know, my soul, the…"
 trGC.Ode3C212.text = "You know, my soul, the ladder that was shown to Jacob, reaching up from earth to Heaven. Why have you not provided a firm foundation for it through your godly actions?"
 
 trGC.Ode3C213.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C213.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C213.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C213.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C213.incipit = "Follow the example of Melchizedek…"
 trGC.Ode3C213.text = "Follow the example of Melchizedek, the priest of God, the king set apart, who was an image of the life of Christ among men in the world."
 
 trGC.Ode3C214.ode = miscellanea_en_US_unknown.misc.Ode3 //not in cog here but in first week
 trGC.Ode3C214.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C214.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C214.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C214.incipit = "Turn back, wretched soul, and…"
 trGC.Ode3C214.text = "Turn back, wretched soul, and lament, before the marketplace of life comes to an end, before the Lord shuts the door of the bridal chamber."
 
 trGC.Ode3C215.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C215.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C215.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C215.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C215.incipit = "Do not look back, my…"
 trGC.Ode3C215.text = "Do not look back, my soul, and so be turned into a pillar of salt. Fear the example of the people of Sodom, and take refuge in Zoar."
 
 trGC.Ode3C216.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C216.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C216.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C216.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C216.incipit = "Flee, my soul, like Lot…"
 trGC.Ode3C216.text = "Flee, my soul, like Lot from the burning of sin; flee from Sodom and Gomorrah; flee from the flame of every brutish desire."
 
 trGC.Ode3C217.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C217.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C217.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C217.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C217.incipit = "Have mercy, O Lord, have…"
 trGC.Ode3C217.text = "Have mercy, O Lord, have mercy on me, I cry to You, when You come with Your angels to give to every man due return for his deeds."
 
 trGC.Ode3C218.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C218.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C218.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C218.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C218.incipit = "Reject not, O Master, the…"
 trGC.Ode3C218.text = "Reject not, O Master, the prayer of those who sing Your praises, but in Your loving-kindness be merciful and grant forgiveness to them that ask with faith."
 
 trGC.Ode3C219.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C219.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C219.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C219.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C219.incipit = "I am held fast, O…"
 trGC.Ode3C219.text = "I am held fast, O Mother, by the tempest and billows of sin. Keep me safe and lead me to the haven of divine repentance."
 
 trGC.Ode3C220.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C220.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C220.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C220.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C220.incipit = "O holy Mary, offer your…"
 trGC.Ode3C220.text = "O holy Mary, offer your prayer of supplication to the compassionate Theotokos, and through your intercessions open to me the door that leads to God."
 
 trGC.Ode3C221.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C221.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C221.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C221.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C221.incipit = "Through your prayers grant even…"
 trGC.Ode3C221.text = "Through your prayers grant even to me forgiveness of trespasses, O Andrew, Bishop of Crete, best of guides, leading us to the mysteries of repentance."
 
 trGC.Ode3C2Tr.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C2Tr.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C2Tr.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C2Tr.incipit = "O simple Unity praised in…"
 trGC.Ode3C2Tr.text = "O simple Unity praised in Trinity of Persons, uncreated Nature without beginning, save us who in faith worship Your power."
 
 trGC.Ode3C2T.ode = miscellanea_en_US_unknown.misc.Ode3
 trGC.Ode3C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode3C2T.melody = he.h.m6_en_US_unknown.StereosonKyrie.notmetered
+trGC.Ode3C2T.melody = he.h.m6_en_US_unknown.heHE.StereosonKyrie.notmetered
 trGC.Ode3C2T.incipit = "O Mother of God, without…"
 trGC.Ode3C2T.text = "O Mother of God, without knowing man you gave birth within time to the Son, who was begotten outside time from the Father; and, strange wonder! you nurse Him while still remaining Virgin."
 
@@ -849,18 +849,18 @@ trGC.Ode3C2T.text = "O Mother of God, without knowing man you gave birth within 
 
 trMA.Ode3Kathisma1.poet = poets_en_US_unknown.po.Iosif
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode3Kathisma1.melody = he.a.m8_en_US_unknown.AnestisEkNekron.notmetered
+trMA.Ode3Kathisma1.melody = he.a.m8_en_US_unknown.heAU.AnestisEkNekron.notmetered
 trMA.Ode3Kathisma1.incipit = "…"
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.poet = poets_en_US_unknown.po.Theodorou
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode3Kathisma2.melody = he.a.m8_en_US_unknown.ToProstachthen.notmetered
+trMA.Ode3Kathisma2.melody = he.a.m8_en_US_unknown.heAU.ToProstachthen.notmetered
 trMA.Ode3Kathisma2.incipit = "…"
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode3Kathisma3.melody = he.a.m8_en_US_unknown.ToProstachthen.notmetered
+trMA.Ode3Kathisma3.melody = he.a.m8_en_US_unknown.heAU.ToProstachthen.notmetered
 trMA.Ode3Kathisma3.incipit = "…"
 trMA.Ode3Kathisma3.text = ""
 
@@ -874,67 +874,67 @@ trMA.C2.title = "Another three-ode Canon."
 
 trMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C1H.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.melody
-trMA.Ode4C1H.incipit = he.h.m8_en_US_unknown.EisakikoaKyrie.incipit
-trMA.Ode4C1H.text = he.h.m8_en_US_unknown.EisakikoaKyrie.text
+trMA.Ode4C1H.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.melody
+trMA.Ode4C1H.incipit = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.incipit
+trMA.Ode4C1H.text = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C11.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.notmetered
+trMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
 trMA.Ode4C11.incipit = "…"
 trMA.Ode4C11.text = ""
 
 trMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C12.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.notmetered
+trMA.Ode4C12.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
 trMA.Ode4C12.incipit = "…"
 trMA.Ode4C12.text = ""
 
 trMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C13.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.notmetered
+trMA.Ode4C13.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
 trMA.Ode4C13.incipit = "…"
 trMA.Ode4C13.text = ""
 
 trMA.Ode4C1T.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C1T.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C1T.melody = he.h.m8_en_US_unknown.EisakikoaKyrie.notmetered
+trMA.Ode4C1T.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
 trMA.Ode4C1T.incipit = "…"
 trMA.Ode4C1T.text = ""
 
 trMA.Ode4C2H.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C2H.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C2H.melody = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.melody
-trMA.Ode4C2H.incipit = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.incipit
-trMA.Ode4C2H.text = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.text
+trMA.Ode4C2H.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.melody
+trMA.Ode4C2H.incipit = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.incipit
+trMA.Ode4C2H.text = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.text
 
 trMA.Ode4C21.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C21.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C21.melody = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.notmetered
+trMA.Ode4C21.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.notmetered
 trMA.Ode4C21.incipit = "…"
 trMA.Ode4C21.text = ""
 
 trMA.Ode4C22.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C22.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C22.melody = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.notmetered
+trMA.Ode4C22.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.notmetered
 trMA.Ode4C22.incipit = "…"
 trMA.Ode4C22.text = ""
 
 trMA.Ode4C23.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C23.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C23.melody = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.notmetered
+trMA.Ode4C23.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.notmetered
 trMA.Ode4C23.incipit = "…"
 trMA.Ode4C23.text = ""
 
 trMA.Ode4C2Tr.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C2Tr.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C2Tr.melody = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.notmetered
+trMA.Ode4C2Tr.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.notmetered
 trMA.Ode4C2Tr.incipit = "…"
 trMA.Ode4C2Tr.text = ""
 
 trMA.Ode4C2T.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C2T.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode4C2T.melody = he.h.m8_en_US_unknown.EisakikoaKyrieTinAkoinSou.notmetered
+trMA.Ode4C2T.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrieTinAkoinSou.notmetered
 trMA.Ode4C2T.incipit = "…"
 trMA.Ode4C2T.text = ""
 
@@ -942,199 +942,199 @@ trMA.Ode4C2T.text = ""
 
 trGC.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C1H.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
-trGC.Ode4C1H.incipit = he.h.m6_en_US_unknown.AkikoenOProfitis.incipit
-trGC.Ode4C1H.text = he.h.m6_en_US_unknown.AkikoenOProfitis.text
+trGC.Ode4C1H.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
+trGC.Ode4C1H.incipit = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.incipit
+trGC.Ode4C1H.text = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.text
 
 trGC.Ode4C101.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C101.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C101.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C101.incipit = "O righteous Judge, despise not…"
 trGC.Ode4C101.text = "O righteous Judge, despise not Your works; forsake not Your creation. I have sinned as a man, I alone, more than any other man, O You Who love mankind. But as Lord of all You have the power to pardon sins."
 
 trGC.Ode4C102.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C102.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C102.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C102.incipit = "The end draws near, my…"
 trGC.Ode4C102.text = "The end draws near, my soul, the end draws near; yet you do not care or make ready. The time grows short, rise up: the Judge is at the door. The days of our life pass swiftly, as a dream, as a flower. Why do we trouble ourselves in vain?"
 
 trGC.Ode4C103.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C103.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C103.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C103.incipit = "Awake, my soul, consider the…"
 trGC.Ode4C103.text = "Awake, my soul, consider the actions which you have done; set them before your eyes, and let the drops of your tears fall. With boldness tell Christ of your deeds and thoughts, and so be justified."
 
 trGC.Ode4C104.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C104.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C104.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C104.incipit = "No sin has there been…"
 trGC.Ode4C104.text = "No sin has there been in life, no evil deed, no wickedness, that I have not committed, O Savior. I have sinned as no one ever before, in mind, word and intent, in disposition, thought and act."
 
 trGC.Ode4C105.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C105.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C105.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C105.incipit = "For this I am condemned…"
 trGC.Ode4C105.text = "For this I am condemned in my misery, for this I am convicted by the verdict of my own conscience, which is more compelling than all else in the world. O my Judge and Redeemer, Who know my heart, spare and deliver and save me in my wretchedness."
 
 trGC.Ode4C106.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C106.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C106.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C106.incipit = "The ladder which the great…"
 trGC.Ode4C106.text = "The ladder which the great Patriarch Jacob saw of old is an example, O my soul, of approach through action and of ascent in knowledge. If then you wish to live rightly in action and knowledge and contemplation, be you made new."
 
 trGC.Ode4C107.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C107.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C107.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C107.incipit = "In privation Jacob the Patriarch…"
 trGC.Ode4C107.text = "In privation Jacob the Patriarch endured the burning heat by day and the frost by night, making daily gains of sheep and cattle, shepherding, wrestling, and serving, to win his two wives."
 
 trGC.Ode4C108.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C108.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C108.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C108.incipit = "By the two wives, understand…"
 trGC.Ode4C108.text = "By the two wives, understand action and knowledge in contemplation. Leah is action, for she had many children; and Rachel is knowledge, for she endured great toil. For without toil, O my soul, neither action nor contemplation will succeed."
 
 trGC.Ode4C109.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C109.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C109.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C109.incipit = "Be watchful, O my soul…"
 trGC.Ode4C109.text = "Be watchful, O my soul, be full of courage like Jacob the great Patriarch, that you may acquire action with knowledge, and be named Israel, \"the mind that sees God\"; so shall you reach by contemplation the innermost darkness and gain great merchandise."
 
 trGC.Ode4C110.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C110.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C110.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C110.incipit = "The great Patriarch had the…"
 trGC.Ode4C110.text = "The great Patriarch had the twelve Patriarchs as children, and so he mystically established for you, my soul, a ladder of ascent through action, in his wisdom setting his children as steps, by which you can mount upwards."
 
 trGC.Ode4C111.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C111.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C111.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C111.incipit = "You have rivaled Esau the…"
 trGC.Ode4C111.text = "You have rivaled Esau the hated, O my soul, and given the birthright of your first beauty to the supplanter; you have lost your father's blessing and in your wretchedness been twice supplanted, in action and in knowledge. Therefore repent now."
 
 trGC.Ode4C112.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C112.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C112.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C112.incipit = "Esau was called Edom because…"
 trGC.Ode4C112.text = "Esau was called Edom because of his raging love for women; burning always with unrestrained desires and stained with sensual pleasure, he was named \"Edom\", which means the red heat of a soul that loves sin."
 
 trGC.Ode4C113.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C113.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C113.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C113.incipit = "You have heard, O my…"
 trGC.Ode4C113.text = "You have heard, O my soul, of Job justified on a dung-hill, but you have not imitated his fortitude. In all your experiences and trials and temptations, you have not kept firmly to your purpose but have proved inconstant."
 
 trGC.Ode4C114.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C114.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C114.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C114.incipit = "Once he sat upon a…"
 trGC.Ode4C114.text = "Once he sat upon a throne, but now he sits upon a dung-hill, naked and covered with sores. Once he was blessed with many children and admired by all, but suddenly he is childless and homeless. Yet he counted the dung-hill as a palace and his sores as pearls."
 
 trGC.Ode4C115.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C115.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C115.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C115.incipit = "A man of great wealth…"
 trGC.Ode4C115.text = "A man of great wealth and righteous, abounding in riches and cattle, clothed in royal dignity, in crown and purple robe, Job became suddenly a beggar, stripped of wealth, glory and kingship."
 
 trGC.Ode4C116.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C116.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C116.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C116.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C116.incipit = "If he who was righteous…"
 trGC.Ode4C116.text = "If he who was righteous and blameless above all men did not escape the snares and pits of the deceiver, what will you do, wretched and sin-loving soul, when some sudden misfortune befalls you?"
 
 trGC.Ode4C117.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C117.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C117.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C117.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C117.incipit = "I have defiled my body…"
 trGC.Ode4C117.text = "I have defiled my body, I have stained my spirit, and I am all covered with wounds: but as physician, Christ, heal both body and spirit for me through repentance. Wash, purify, and cleanse me, O my Savior, and make me whiter than snow."
 
 trGC.Ode4C118.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C118.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C118.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C118.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C118.incipit = "Your Body and Your Blood…"
 trGC.Ode4C118.text = "Your Body and Your Blood, O Word, You offered at Your Crucifixion for the sake of all: Your Body to refashion me, Your Blood to wash me clean; and You gave up Your spirit, O Christ, to bring me to Your Father."
 
 trGC.Ode4C119.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C119.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C119.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C119.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C119.incipit = "O Creator, You worked salvation…"
 trGC.Ode4C119.text = "O Creator, You worked salvation in the midst of the earth, that we might be saved. You were crucified of Your own will upon the Tree; and Eden, closed until then, was opened. Things above and things below, the creation and all the peoples have been saved and worship You."
 
 trGC.Ode4C120.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C120.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C120.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C120.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C120.incipit = "May the Blood from Your…"
 trGC.Ode4C120.text = "May the Blood from Your side be to me a cleansing fount, and may the Water that flows with it be a drink of forgiveness. May I be purified by both, O Word, anointed and refreshed, having as ointment and drink Your words of life."
 
 trGC.Ode4C121.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C121.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C121.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C121.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C121.incipit = "I am deprived of the…"
 trGC.Ode4C121.text = "I am deprived of the bridal chamber, of the wedding and the supper; for lack of oil my lamp has gone out; while I slept the door was closed; the supper has been eaten; I am bound hand and foot, and cast out."
 
 trGC.Ode4C122.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C122.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C122.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C122.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C122.incipit = "As a chalice, O my…"
 trGC.Ode4C122.text = "As a chalice, O my Savior, the Church has been granted Your life-giving side, from which there flows down to us a twofold stream of forgiveness and knowledge, representing the two Covenants, the Old and the New."
 
 trGC.Ode4C123.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C123.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C123.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C123.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C123.incipit = "The time of my life…"
 trGC.Ode4C123.text = "The time of my life is short, filled with trouble and evil. But accept me in repentance and call me back to knowledge. Let me not become the possession and food of the enemy; but, O Savior, take pity on me."
 
 trGC.Ode4C124.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C124.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C124.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C124.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C124.incipit = "Now I speak boastfully, with…"
 trGC.Ode4C124.text = "Now I speak boastfully, with boldness of heart; yet all to no purpose and in vain. O righteous Judge, Who alone are compassionate, do not condemn me with the Pharisee; but grant me the abasement of the Publican and number me with him."
 
 trGC.Ode4C125.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C125.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C125.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C125.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C125.incipit = "I know, O compassionate Lord…"
 trGC.Ode4C125.text = "I know, O compassionate Lord, that I have sinned and violated the vessel of my flesh. But accept me in repentance and call me back to knowledge. Let me not become the possession and food of the enemy; but, O Savior, take pity on me."
 
 trGC.Ode4C126.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C126.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C126.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C126.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C126.incipit = "I have become my own…"
 trGC.Ode4C126.text = "I have become my own idol, utterly defiling my soul with the passions. But accept me in repentance and call me back to knowledge. Let me not become the possession and food of the enemy; but, O Savior, take pity on me."
 
 trGC.Ode4C127.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C127.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C127.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C127.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C127.incipit = "I have not hearkened to…"
 trGC.Ode4C127.text = "I have not hearkened to Your voice, I have not heeded Your Scripture, O Giver of the Law. But accept me in repentance and call me back to knowledge. Let me not become the possession and food of the enemy; but, O Savior, take pity on me."
 
 trGC.Ode4C201.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C201.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C201.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C201.incipit = "You lived a bodiless life…"
 trGC.Ode4C201.text = "You lived a bodiless life in the body, O holy Mary, and you received great grace from God. Protect us who honor you with faith and, we entreat you, deliver us by your prayers from every trial."
 
 trGC.Ode4C202.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C202.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C202.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C202.incipit = "You were brought down into…"
 trGC.Ode4C202.text = "You were brought down into an abyss of great iniquity, yet not held fast within it: but with better intent you mounted through action to the height of virtue, past all expectation: and the angels, O Mary, were amazed at you."
 
 trGC.Ode4C203.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C203.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C203.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C203.incipit = "O Andrew, renowned among the…"
 trGC.Ode4C203.text = "O Andrew, renowned among the fathers, glory of Crete, as you stand before the Trinity supreme in Godhead, in your prayers do not forget to ask that we may be delivered from torment; for we call upon you with love as our advocate in Heaven."
 
 trGC.Ode4C2Tr.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C2Tr.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C2Tr.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C2Tr.incipit = "Undivided in Essence, unconfused in…"
 trGC.Ode4C2Tr.text = "Undivided in Essence, unconfused in Persons, I confess You as God: Triune Deity, one in kingship and throne; and to You I raise the great thrice-holy hymn that is sung on high."
 
 trGC.Ode4C2T.ode = miscellanea_en_US_unknown.misc.Ode4
 trGC.Ode4C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode4C2T.melody = he.h.m6_en_US_unknown.AkikoenOProfitis.notmetered
+trGC.Ode4C2T.melody = he.h.m6_en_US_unknown.heHE.AkikoenOProfitis.notmetered
 trGC.Ode4C2T.incipit = "You give birth and are…"
 trGC.Ode4C2T.text = "You give birth and are a virgin, and in both you remain by nature inviolate. He Who is born makes new the laws of nature, and the womb brings forth without travail. When God so wills, the natural order is overcome; for He does whatever He wishes."
 
@@ -1142,163 +1142,163 @@ trGC.Ode4C2T.text = "You give birth and are a virgin, and in both you remain by 
 
 trGC.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C1H.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
-trGC.Ode5C1H.incipit = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.incipit
-trGC.Ode5C1H.text = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.text
+trGC.Ode5C1H.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C1H.incipit = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.incipit
+trGC.Ode5C1H.text = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.text
 
 trGC.Ode5C101.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C101.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C101.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C101.incipit = "In night have I passed…"
 trGC.Ode5C101.text = "In night have I passed all my life: for the night of sin has covered me with darkness and thick mist. But make me, O Savior, a son of the day."
 
 trGC.Ode5C102.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C102.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C102.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C102.incipit = "In my misery I followed…"
 trGC.Ode5C102.text = "In my misery I followed Reuben's example, and devised a wicked and unlawful plan against the most-high God, defiling my bed as he defiled his father's."
 
 trGC.Ode5C103.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C103.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C103.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C103.incipit = "I confess to You, O…"
 trGC.Ode5C103.text = "I confess to You, O Christ my King: I have sinned; I have sinned like the brethren of Joseph, who once sold the fruit of purity and chastity."
 
 trGC.Ode5C104.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C104.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C104.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C104.incipit = "As a figure of the…"
 trGC.Ode5C104.text = "As a figure of the Lord, O my soul, the righteous and gentle Joseph was sold into bondage by his brethren; but you sold yourself entirely to your sins."
 
 trGC.Ode5C105.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C105.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C105.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C105.incipit = "O miserable and wicked soul…"
 trGC.Ode5C105.text = "O miserable and wicked soul, imitate the righteous and pure mind of Joseph; and do not live in wantonness, sinfully indulging your disordered desires."
 
 trGC.Ode5C106.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C106.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C106.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C106.incipit = "Once Joseph was cast into…"
 trGC.Ode5C106.text = "Once Joseph was cast into a pit, O Lord and Master, as a figure of Your Burial and Resurrection. But what offering such as this shall I ever make to You?"
 
 trGC.Ode5C107.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C107.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C107.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C107.incipit = "You have heard, my soul…"
 trGC.Ode5C107.text = "You have heard, my soul, of the basket of Moses: how he was borne on the waves of the river as if in a shrine; and so he avoided the bitter execution of Pharaoh's decree."
 
 trGC.Ode5C108.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C108.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C108.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C108.incipit = "You have heard, wretched soul…"
 trGC.Ode5C108.text = "You have heard, wretched soul, of the midwives who once killed in its infancy the manly action of self-control: like great Moses, then, be suckled on wisdom."
 
 trGC.Ode5C109.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C109.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C109.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C109.incipit = "O miserable soul, you have…"
 trGC.Ode5C109.text = "O miserable soul, you have not struck and killed the Egyptian mind, as did Moses the great. Tell me, then, how will you go to dwell through repentance in the wilderness empty of passions?"
 
 trGC.Ode5C110.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C110.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C110.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C110.incipit = "Moses the great went to…"
 trGC.Ode5C110.text = "Moses the great went to dwell in the desert. Come, seek to follow his way of life, my soul, that in contemplation you may attain the vision of God in the bush."
 
 trGC.Ode5C111.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C111.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C111.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C111.incipit = "Picture to yourself, my soul…"
 trGC.Ode5C111.text = "Picture to yourself, my soul, the rod of Moses striking the sea and making hard the deep by the sign of the Holy Cross. Through the Cross you also can do great things."
 
 trGC.Ode5C112.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C112.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C112.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C112.incipit = "Aaron offered to God fire…"
 trGC.Ode5C112.text = "Aaron offered to God fire that was blameless and undefiled, but Hophni and Phinehas brought to Him, as you have done, my soul, strange fire and a polluted life."
 
 trGC.Ode5C113.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C113.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C113.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C113.incipit = "In my soul and body…"
 trGC.Ode5C113.text = "In my soul and body, O Lord, I have become like Jannes and Jambres, the magicians of cruel Pharaoh; my will is heavy and my mind is drowned beneath the waters. But come to my aid."
 
 trGC.Ode5C114.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C114.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C114.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C114.incipit = "Woe is me! I have…"
 trGC.Ode5C114.text = "Woe is me! I have defiled my mind with filth. But I pray to You, O Master: wash me clean in the waters of my tears, and make the garment of my flesh white as snow."
 
 trGC.Ode5C115.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C115.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C115.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C115.incipit = "When I examine my actions…"
 trGC.Ode5C115.text = "When I examine my actions, O Savior, I see that I have gone beyond all men in sin; for I knew and understood what I did; I was not sinning in ignorance."
 
 trGC.Ode5C116.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C116.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C116.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C116.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C116.incipit = "Spare, O spare the work…"
 trGC.Ode5C116.text = "Spare, O spare the work of Your hands, O Lord. I have sinned, forgive me: for You alone are pure by nature, and none except You is free from defilement."
 
 trGC.Ode5C117.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C117.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C117.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C117.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C117.incipit = "You who are God, O…"
 trGC.Ode5C117.text = "You who are God, O Savior, were for my sake fashioned as I am. You performed miracles, healing lepers, giving strength to the paralyzed, stopping the issue of blood when the woman touched the hem of Your garment."
 
 trGC.Ode5C118.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C118.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C118.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C118.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C118.incipit = "O wretched soul, do as…"
 trGC.Ode5C118.text = "O wretched soul, do as the woman with an issue of blood: run quickly, grasp the hem of the garment of Christ, so shall you be healed of your afflictions and hear Him say: Your faith has saved you."
 
 trGC.Ode5C119.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C119.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C119.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C119.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C119.incipit = "O my soul, do as…"
 trGC.Ode5C119.text = "O my soul, do as the woman who was bowed down to the ground. Fall at the feet of Jesus, that He may make you straight again; and you shall walk upright upon the paths of the Lord."
 
 trGC.Ode5C120.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C120.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C120.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C120.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C120.incipit = "You are a deep well…"
 trGC.Ode5C120.text = "You are a deep well, O Master: make springs gush forth for me from Your pure veins, that like the woman of Samaria I may drink and thirst no more; for from You flow the streams of life."
 
 trGC.Ode5C121.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C121.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C121.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C121.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C121.incipit = "O Master and Lord, may…"
 trGC.Ode5C121.text = "O Master and Lord, may my tears be to me as Siloam: that I also may wash clean the eyes of my heart, and with my mind behold You, the pre-eternal Light."
 
 trGC.Ode5C201.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C201.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C201.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C201.incipit = "O blessed saint, with a…"
 trGC.Ode5C201.text = "O blessed saint, with a love beyond compare you longed to venerate the wood of the Cross, and your desire was granted. Make me also worthy to attain the glory on high."
 
 trGC.Ode5C202.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C202.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C202.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C202.incipit = "Crossing the stream of the…"
 trGC.Ode5C202.text = "Crossing the stream of the Jordan, you found peace, escaping from the deadening pleasures of the flesh. Deliver us also from them, holy Mary, by your intercessions."
 
 trGC.Ode5C203.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C203.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C203.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C203.incipit = "Best of pastors, chosen above…"
 trGC.Ode5C203.text = "Best of pastors, chosen above all others, O wise Andrew, with great love and fear I beseech you: through your intercessions may I receive salvation and eternal life."
 
 trGC.Ode5C2Tr.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C2Tr.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C2Tr.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C2Tr.incipit = "We glorify You, O Trinity…"
 trGC.Ode5C2Tr.text = "We glorify You, O Trinity, the one God. Holy, holy, holy, are You: Father, Son, and Spirit, simple Essence and Unity, worshipped forever."
 
 trGC.Ode5C2T.ode = miscellanea_en_US_unknown.misc.Ode5
 trGC.Ode5C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode5C2T.melody = he.h.m6_en_US_unknown.EkNyktosOrthrizonta.notmetered
+trGC.Ode5C2T.melody = he.h.m6_en_US_unknown.heHE.EkNyktosOrthrizonta.notmetered
 trGC.Ode5C2T.incipit = "O Virgin inviolate and Mother…"
 trGC.Ode5C2T.text = "O Virgin inviolate and Mother who has not known man, from you has God, the Creator of the ages, taken human flesh, uniting to Himself the nature of men."
 
@@ -1306,135 +1306,135 @@ trGC.Ode5C2T.text = "O Virgin inviolate and Mother who has not known man, from y
 
 trGC.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C1H.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
-trGC.Ode6C1H.incipit = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.incipit
-trGC.Ode6C1H.text = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.text
+trGC.Ode6C1H.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C1H.incipit = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.incipit
+trGC.Ode6C1H.text = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.text
 
 trGC.Ode6C101.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C101.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C101.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C101.incipit = "I offer to You in…"
 trGC.Ode6C101.text = "I offer to You in purity, O Savior, the tears of my eyes and groanings from the depths of my heart, crying: \"I have sinned against You, O God; be merciful to me.\""
 
 trGC.Ode6C102.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C102.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C102.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C102.incipit = "Like Dathan and Abiram, O…"
 trGC.Ode6C102.text = "Like Dathan and Abiram, O my soul, you have become a stranger to your Lord; but from the lowest depth of hell cry out, \"Spare me,\" that the earth may not open and swallow you up."
 
 trGC.Ode6C103.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C103.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C103.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C103.incipit = "Raging as a maddened heifer…"
 trGC.Ode6C103.text = "Raging as a maddened heifer, O my soul, you have become like Ephraim. So rescue your life, like a hart from the nets, gaining wings through action and the mind's contemplation."
 
 trGC.Ode6C104.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C104.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C104.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C104.incipit = "O my soul, the hand…"
 trGC.Ode6C104.text = "O my soul, the hand of Moses shall be our assurance, proving how God can cleanse a life full of leprosy and make it white as snow. So do not despair of yourself, though you are leprous."
 
 trGC.Ode6C105.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C105.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C105.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C105.incipit = "The waves of my sins…"
 trGC.Ode6C105.text = "The waves of my sins, O Savior, have returned and suddenly engulfed me, as the waters of the Red Sea engulfed the Egyptians of old and their charioteers."
 
 trGC.Ode6C106.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C106.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C106.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C106.incipit = "Like Israel before you, you…"
 trGC.Ode6C106.text = "Like Israel before you, you made a foolish choice, my soul; instead of the divine manna you senselessly preferred the pleasure-loving gluttony of the passions."
 
 trGC.Ode6C107.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C107.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C107.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C107.incipit = "O my soul, you preferred…"
 trGC.Ode6C107.text = "O my soul, you preferred the swine's meat, the flesh-pots and the food of Egypt, to the food of Heaven, as the ungrateful people did of old in the wilderness."
 
 trGC.Ode6C108.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C108.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C108.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C108.incipit = "O my soul, you valued…"
 trGC.Ode6C108.text = "O my soul, you valued the wells of Canaanite thoughts more than the veined Rock, Jesus, the Fountain of Wisdom from which flow the rivers of divine knowledge."
 
 trGC.Ode6C109.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C109.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C109.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C109.incipit = "When Your servant Moses struck…"
 trGC.Ode6C109.text = "When Your servant Moses struck the rock with his rod, he prefigured Your life-giving side, O Savior, from which we all draw the water of life."
 
 trGC.Ode6C110.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C110.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C110.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C110.incipit = "Like Joshua, the son of…"
 trGC.Ode6C110.text = "Like Joshua, the son of Nun, search and spy out the land of your inheritance, O my soul, and take up your dwelling within it, through obedience to the Law."
 
 trGC.Ode6C111.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C111.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C111.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C111.incipit = "Rise up and make war…"
 trGC.Ode6C111.text = "Rise up and make war upon the passions of the flesh, as Joshua against Amalek, ever gaining the victory over the Gibeonites, your deceitful thoughts."
 
 trGC.Ode6C112.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C112.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C112.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C112.incipit = "O my soul, pass through…"
 trGC.Ode6C112.text = "O my soul, pass through the flowing waters of time like the Ark of old, and take possession of the land of promise: for God commands you."
 
 trGC.Ode6C113.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C113.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C113.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C113.incipit = "As You saved Peter when…"
 trGC.Ode6C113.text = "As You saved Peter when he cried out, \"Save me,\" come quickly, O Savior, before it is too late, and save me from the beast. Stretch out Your hand and lead me up from the deep of sin."
 
 trGC.Ode6C114.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C114.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C114.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C114.incipit = "I know You as a…"
 trGC.Ode6C114.text = "I know You as a calm haven, O Lord, Lord Christ: come quickly, before it is too late, and deliver me from the lowest depths of sin and despair."
 
 trGC.Ode6C115.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C115.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C115.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C115.incipit = "O Savior, I am the…"
 trGC.Ode6C115.text = "O Savior, I am the coin marked with the King's likeness, which You lost of old. But, O Word, light Your lamp, Your Forerunner, and seek and find again Your image."
 
 trGC.Ode6C201.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C201.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C201.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C201.incipit = "Your soul on fire, O…"
 trGC.Ode6C201.text = "Your soul on fire, O Mary, you ever shed streams of tears, to quench the burning of the passions. Grant the grace of these your tears to me also, your servant."
 
 trGC.Ode6C202.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C202.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C202.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C202.incipit = "Through the perfection of your…"
 trGC.Ode6C202.text = "Through the perfection of your earthly life, O Mother, you gained a heavenly freedom from the sinfulness of passion. In your intercessions pray that this same freedom may be given to those who sing your praises."
 
 trGC.Ode6C203.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C203.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C203.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C203.incipit = "Pastor and bishop of Crete…"
 trGC.Ode6C203.text = "Pastor and bishop of Crete, intercessor for the inhabited earth, to you I run, O Andrew, and I cry: Deliver me, father, from the depths of sin."
 
 trGC.Ode6C2Tr.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C2Tr.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C2Tr.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C2Tr.incipit = "\"I am the Trinity, simple…"
 trGC.Ode6C2Tr.text = "\"I am the Trinity, simple and undivided, yet divided in Persons, and I am the Unity by Nature one,\" says the Father and the Son and the divine Spirit."
 
 trGC.Ode6C2T.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C2T.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C2T.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
 trGC.Ode6C2T.incipit = "Your womb bore God for…"
 trGC.Ode6C2T.text = "Your womb bore God for us, fashioned in our shape. O Theotokos, pray to Him as the Creator of all, that we may be justified through your intercessions."
 
 trGC.Ode6C2H.ode = miscellanea_en_US_unknown.misc.Ode6
 trGC.Ode6C2H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode6C2H.melody = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.notmetered
-trGC.Ode6C2H.incipit = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.incipit
-trGC.Ode6C2H.text = he.h.m6_en_US_unknown.EvoisaEnOliKardiaMou.text
+trGC.Ode6C2H.melody = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.notmetered
+trGC.Ode6C2H.incipit = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.incipit
+trGC.Ode6C2H.text = he.h.m6_en_US_unknown.heHE.EvoisaEnOliKardiaMou.text
 
 trMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode6
 trMA.Kontakion1.melody = ""
@@ -1530,157 +1530,157 @@ trGC.BeatitudesT.text = ""
 
 trGC.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C1H.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
-trGC.Ode7C1H.incipit = he.h.m6_en_US_unknown.ImartomenInomisamen.incipit
-trGC.Ode7C1H.text = he.h.m6_en_US_unknown.ImartomenInomisamen.text
+trGC.Ode7C1H.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
+trGC.Ode7C1H.incipit = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.incipit
+trGC.Ode7C1H.text = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.text
 
 trGC.Ode7C101.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C101.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C101.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C101.incipit = "I have sinned, I have…"
 trGC.Ode7C101.text = "I have sinned, I have offended, and I have set aside Your commandments, for in sins have I progressed, and to my sores I have added wounds. But in Your compassion have mercy upon me, O God of our fathers."
 
 trGC.Ode7C102.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C102.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C102.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C102.incipit = "The secrets of my heart…"
 trGC.Ode7C102.text = "The secrets of my heart have I confessed to You, my Judge. See my abasement, see my affliction, and attend to my judgment now; and in Your compassion have mercy upon me, O God of our fathers."
 
 trGC.Ode7C103.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C103.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C103.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C103.incipit = "When Saul once lost his…"
 trGC.Ode7C103.text = "When Saul once lost his father's asses, in searching for them he found himself proclaimed as king. But watch, my soul, lest unknown to yourself you prefer your animal appetites to the Kingdom of Christ."
 
 trGC.Ode7C104.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C104.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C104.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C104.incipit = "David, the forefather of God…"
 trGC.Ode7C104.text = "David, the forefather of God, once sinned doubly, pierced with the arrow of adultery and the spear of murder. But you, my soul, are more gravely sick than he, for worse than any acts are the impulses of your will."
 
 trGC.Ode7C105.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C105.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C105.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C105.incipit = "David once joined sin to…"
 trGC.Ode7C105.text = "David once joined sin to sin, adding murder to fornication; yet then he showed at once a twofold repentance. But you, my soul, have done worse things than he, yet you have not repented before God."
 
 trGC.Ode7C106.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C106.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C106.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C106.incipit = "David once composed a hymn…"
 trGC.Ode7C106.text = "David once composed a hymn, depicting the action he had done; and he condemned it, crying: \"Have mercy on me, for against You only have I sinned, O God of all. Cleanse me.\""
 
 trGC.Ode7C107.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C107.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C107.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C107.incipit = "When the Ark was being…"
 trGC.Ode7C107.text = "When the Ark was being carried in a cart and the ox stumbled, Uzzah did no more than touch it, but the wrath of God smote him. O my soul, flee from his presumption and respect with reverence the things of God."
 
 trGC.Ode7C108.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C108.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C108.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C108.incipit = "You have heard of Absalom…"
 trGC.Ode7C108.text = "You have heard of Absalom, and how he rebelled against nature; you know of the unholy deeds by which he defiled his father David's bed. Yet you have followed him in his passionate and sensual desires."
 
 trGC.Ode7C109.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C109.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C109.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C109.incipit = "O my soul, you have…"
 trGC.Ode7C109.text = "O my soul, you have subjected Your free dignity to your body; for you found in the enemy another Ahitophel, and agreed to all his counsels. But Christ Himself has brought them to nothing and saved you from them all."
 
 trGC.Ode7C110.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C110.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C110.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C110.incipit = "Solomon, the wonderful, who was…"
 trGC.Ode7C110.text = "Solomon, the wonderful, who was full of the grace of wisdom, once did evil in the sight of Heaven and turned away from God. You have become like him, O my soul, by your accursed life."
 
 trGC.Ode7C111.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C111.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C111.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C111.incipit = "Carried away by sensual passions…"
 trGC.Ode7C111.text = "Carried away by sensual passions, he defiled himself. Alas! The lover of wisdom became a lover of harlots and a stranger to God. And you, my soul, in mind have imitated him through your shameful desires."
 
 trGC.Ode7C112.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C112.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C112.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C112.incipit = "O my soul, you have…"
 trGC.Ode7C112.text = "O my soul, you have rivaled Rehoboam, who paid no attention to his father's counselors, and Jeroboam, that evil servant and renegade of old. But flee from their example and cry to God: I have sinned, take pity on me."
 
 trGC.Ode7C113.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C113.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C113.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C113.incipit = "Alas, my soul! You have…"
 trGC.Ode7C113.text = "Alas, my soul! You have rivaled Ahab in guilt. You have become a dwelling-place of carnal defilements and a shameful vessel of the passions. But groan from the depths of your heart, and confess your sins to God."
 
 trGC.Ode7C114.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C114.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C114.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C114.incipit = "Elijah once destroyed with fire…"
 trGC.Ode7C114.text = "Elijah once destroyed with fire a hundred of Jezebel's servants, and he slew the prophets of shame, as a rebuke to Ahab. But flee from the example of both of them, my soul, and be strong."
 
 trGC.Ode7C115.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C115.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C115.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C115.incipit = "Heaven is closed to you…"
 trGC.Ode7C115.text = "Heaven is closed to you, my soul, and a famine from God has seized you: for you have been disobedient, as Ahab was to the words of Elijah the Tishbite. But imitate the widow of Zarephath, and feed the Prophet's soul."
 
 trGC.Ode7C116.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C116.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C116.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C116.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C116.incipit = "By deliberate choice, my soul…"
 trGC.Ode7C116.text = "By deliberate choice, my soul, you incurred the guilt of Manasseh, setting up the passions as idols and multiplying abominations. But with fervent heart emulate his repentance and acquire compunction."
 
 trGC.Ode7C117.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C117.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C117.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C117.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C117.incipit = "I fall before You, and…"
 trGC.Ode7C117.text = "I fall before You, and as tears I offer You my words. I have sinned as the Harlot never sinned, and I have transgressed as no other man on earth. But take pity on Your creature, O Master, and call me back."
 
 trGC.Ode7C118.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C118.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C118.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C118.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C118.incipit = "I have discolored Your image…"
 trGC.Ode7C118.text = "I have discolored Your image and broken Your commandments. All my beauty is destroyed and my lamp is quenched by the passions, O Savior. \"But take pity on me,\" as David sings, and \"restore to me Your joy.\""
 
 trGC.Ode7C119.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C119.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C119.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C119.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C119.incipit = "Turn back, repent, uncover all…"
 trGC.Ode7C119.text = "Turn back, repent, uncover all that you have hidden. Say to God, to whom all things are known: You alone know my secret, O Savior; \"have mercy on me,\" as David sings, \"according to Your mercy.\""
 
 trGC.Ode7C120.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C120.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C120.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C120.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C120.incipit = "My days have vanished as…"
 trGC.Ode7C120.text = "My days have vanished as a dream of one awaking; and so, like Hezekiah, I weep on my bed, that years may be added to my life. But what Isaiah will come to me, O my soul, except the God of all?"
 
 trGC.Ode7C201.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C201.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C201.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C201.incipit = "Raising your cry to the…"
 trGC.Ode7C201.text = "Raising your cry to the pure Mother of God, you drove back the fury of the passions that violently assailed you, and put to shame the enemy who sought to make you stumble. But give your help in trouble now to me also, your servant."
 
 trGC.Ode7C202.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C202.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C202.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C202.incipit = "He Whom you loved, O…"
 trGC.Ode7C202.text = "He Whom you loved, O mother, whom you desired, in Whose footsteps you followed; He it was Who found you and gave you repentance, for He is compassionate God. Pray, O Mary, to Him without ceasing, that we may be delivered from passions and distress."
 
 trGC.Ode7C203.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C203.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C203.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C203.incipit = "Set me firmly on the…"
 trGC.Ode7C203.text = "Set me firmly on the rock of faith, O father, though your intercessions; fence me round with fear of God, O Andrew; grant repentance to me now, I beseech you, and deliver me from the snare of the enemies that seek my life."
 
 trGC.Ode7C2Tr.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C2Tr.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C2Tr.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C2Tr.incipit = "O simple and undivided Trinity…"
 trGC.Ode7C2Tr.text = "O simple and undivided Trinity, O holy and consubstantial Unity: You are praised as Light and Lights, one Holy and three Holies. Sing, O my soul, and glorify Life and Lives, the God of all."
 
 trGC.Ode7C2T.ode = miscellanea_en_US_unknown.misc.Ode7
 trGC.Ode7C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode7C2T.melody = he.h.m6_en_US_unknown.ImartomenInomisamen.notmetered
+trGC.Ode7C2T.melody = he.h.m6_en_US_unknown.heHE.ImartomenInomisamen.notmetered
 trGC.Ode7C2T.incipit = "We praise you, we bless…"
 trGC.Ode7C2T.text = "We praise you, we bless you, we venerate you, O Mother of God: for you gave birth to One of the undivided Trinity, your Son and God, and you opened the heavenly places to us on earth."
 
@@ -1688,61 +1688,61 @@ trGC.Ode7C2T.text = "We praise you, we bless you, we venerate you, O Mother of G
 
 trMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C1H.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.melody
-trMA.Ode8C1H.incipit = he.h.m8_en_US_unknown.TonAnarchonVasilea.incipit
-trMA.Ode8C1H.text = he.h.m8_en_US_unknown.TonAnarchonVasilea.text
+trMA.Ode8C1H.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.melody
+trMA.Ode8C1H.incipit = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.incipit
+trMA.Ode8C1H.text = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C11.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C11.incipit = "…"
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C12.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C12.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C12.incipit = "…"
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C13.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C13.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C13.incipit = "…"
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C1T.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C1T.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C1T.incipit = "…"
 trMA.Ode8C1T.text = ""
 
 trMA.Ode8C21.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C21.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C21.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C21.incipit = "…"
 trMA.Ode8C21.text = ""
 
 trMA.Ode8C22.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C22.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C22.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C22.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C22.incipit = "…"
 trMA.Ode8C22.text = ""
 
 trMA.Ode8C23.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C23.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C23.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C23.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C23.incipit = "…"
 trMA.Ode8C23.text = ""
 
 trMA.Ode8C2Tr.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C2Tr.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C2Tr.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C2Tr.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C2Tr.incipit = "…"
 trMA.Ode8C2Tr.text = ""
 
 trMA.Ode8C2T.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C2T.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode8C2T.melody = he.h.m8_en_US_unknown.TonAnarchonVasilea.notmetered
+trMA.Ode8C2T.melody = he.h.m8_en_US_unknown.heHE.TonAnarchonVasilea.notmetered
 trMA.Ode8C2T.incipit = "…"
 trMA.Ode8C2T.text = ""
 
@@ -1750,163 +1750,163 @@ trMA.Ode8C2T.text = ""
 
 trGC.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C1H.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
-trGC.Ode8C1H.incipit = he.h.m6_en_US_unknown.OnStratiaiOuranon.incipit
-trGC.Ode8C1H.text = he.h.m6_en_US_unknown.OnStratiaiOuranon.text
+trGC.Ode8C1H.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
+trGC.Ode8C1H.incipit = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.incipit
+trGC.Ode8C1H.text = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.text
 
 trGC.Ode8C101.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C101.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C101.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C101.incipit = "I have sinned, O Savior…"
 trGC.Ode8C101.text = "I have sinned, O Savior, have mercy on me. Awaken my mind and turn me back; accept me in repentance and take pity on me as I cry: I have sinned against You, save me; I have done evil, have mercy on me."
 
 trGC.Ode8C102.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C102.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C102.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C102.incipit = "Riding in the chariot of…"
 trGC.Ode8C102.text = "Riding in the chariot of the virtues, Elijah was lifted up to Heaven, high above earthly things. Reflect, O my soul, on his ascent."
 
 trGC.Ode8C103.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C103.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C103.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C103.incipit = "With the mantle of Elijah…"
 trGC.Ode8C103.text = "With the mantle of Elijah, Elisha made the stream of Jordan stand still on either side: but in this grace, my soul, you have no share, because of your greed and uncontrolled desires."
 
 trGC.Ode8C104.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C104.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C104.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C104.incipit = "Elisha once took up the…"
 trGC.Ode8C104.text = "Elisha once took up the mantle of Elijah, and received a double portion of grace from the Lord: but in this grace, my soul, you have no share, because of your greed and uncontrolled desires."
 
 trGC.Ode8C105.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C105.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C105.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C105.incipit = "The Shunammite woman gladly entertained…"
 trGC.Ode8C105.text = "The Shunammite woman gladly entertained the righteous Prophet: but in your house, my soul, you have not welcomed stranger or traveler; and so you shall be cast out weeping from the bridal chamber."
 
 trGC.Ode8C106.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C106.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C106.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C106.incipit = "O wretched soul, you have…"
 trGC.Ode8C106.text = "O wretched soul, you have always imitated the unclean thoughts of Gehazi. Cast from you, at least in your old age, his love of money. Flee from the fire of hell, turning away from your wickedness."
 
 trGC.Ode8C107.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C107.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C107.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C107.incipit = "You have followed Uzziah, my…"
 trGC.Ode8C107.text = "You have followed Uzziah, my soul, and have his leprosy in double form: for your thoughts are wicked, and your acts unlawful. Leave what you have, and hasten to repentance."
 
 trGC.Ode8C108.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C108.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C108.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C108.incipit = "O my soul, you have…"
 trGC.Ode8C108.text = "O my soul, you have heard how the men of Nineveh repented before God in sackcloth and ashes. Yet you have not followed them, but are more wicked than all who sinned before the Law and after."
 
 trGC.Ode8C109.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C109.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C109.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C109.incipit = "You have heard, my soul…"
 trGC.Ode8C109.text = "You have heard, my soul, how Jeremiah in the muddy pit cried out with lamentations for the city of Zion and asked to be given tears. Follow his life of lamentation and be saved."
 
 trGC.Ode8C110.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C110.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C110.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C110.incipit = "Jonah fled to Tarshish, foreseeing…"
 trGC.Ode8C110.text = "Jonah fled to Tarshish, foreseeing the conversion of the men of Nineveh; for as a prophet he knew the loving-kindness of God, but he was jealous that his prophecy should not be proved false."
 
 trGC.Ode8C111.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C111.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C111.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C111.incipit = "My soul, you have heard…"
 trGC.Ode8C111.text = "My soul, you have heard how Daniel stopped the mouths of the wild beasts in the lions' den; and you know how the Young Men with Azariah quenched through their faith the flames of the fiery furnace."
 
 trGC.Ode8C112.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C112.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C112.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C112.incipit = "All the names of the…"
 trGC.Ode8C112.text = "All the names of the Old Testament have I set before you, my soul, as an example. Imitate the holy acts of the righteous and flee from the sins of the wicked."
 
 trGC.Ode8C113.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C113.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C113.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C113.incipit = "O righteous Judge and Savior…"
 trGC.Ode8C113.text = "O righteous Judge and Savior, have mercy on me and deliver me from the fire that threatens me and from the punishment that I deserve to suffer at the Judgment. Before the end comes, grant me remission through virtue and repentance."
 
 trGC.Ode8C114.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C114.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C114.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C114.incipit = "Like the Robber I cry…"
 trGC.Ode8C114.text = "Like the Robber I cry to You: \"Remember me\"; like Peter I weep bitterly; like the Publican I call out: \"Forgive me, Savior\"; like the Harlot I shed tears. Accept my lamentation, as once You accepted the entreaties of the woman of Canaan."
 
 trGC.Ode8C115.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C115.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C115.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C115.incipit = "O Savior, heal the putrefaction…"
 trGC.Ode8C115.text = "O Savior, heal the putrefaction of my humbled soul, for You are the one Physician; apply bandages and pour in oil and wine, works of repentance and compunction with tears."
 
 trGC.Ode8C116.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C116.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C116.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C116.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C116.incipit = "Like the woman of Canaan…"
 trGC.Ode8C116.text = "Like the woman of Canaan I cry to You, \"Have mercy on me, Son of David.\" Like the woman with an issue of blood, I touch the hem of Your garment. I weep as Martha and Mary wept for Lazarus."
 
 trGC.Ode8C117.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C117.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C117.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C117.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C117.incipit = "As precious ointment, O Savior…"
 trGC.Ode8C117.text = "As precious ointment, O Savior, I empty on Your head the alabaster box of my tears. Like the Harlot, I cry out to You, seeking Your mercy: I bring my prayer and ask to receive forgiveness."
 
 trGC.Ode8C118.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C118.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C118.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C118.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C118.incipit = "No one has sinned against…"
 trGC.Ode8C118.text = "No one has sinned against You as I have; yet accept even me, compassionate Savior, for I repent in fear and cry with longing: Against You alone have I sinned; I have transgressed, have mercy on me."
 
 trGC.Ode8C119.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C119.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C119.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C119.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C119.incipit = "Spare the work of Your…"
 trGC.Ode8C119.text = "Spare the work of Your own hands, O Savior, and as a shepherd seek the lost sheep that has gone astray. Snatch me from the wolf and make me a nursling in the pasture of Your own flock."
 
 trGC.Ode8C120.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C120.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C120.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C120.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C120.incipit = "When You sit on Your…"
 trGC.Ode8C120.text = "When You sit on Your throne, O merciful Judge, and reveal Your dread glory, O Christ, what fear there will be then! When the furnace burns with fire, and all shrink back in terror before Your judgment-seat."
 
 trGC.Ode8C201.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C201.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C201.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C201.incipit = "The Mother of the Light…"
 trGC.Ode8C201.text = "The Mother of the Light that never sets illumined you and freed you from the darkness of the passions. O Mary, who received the grace of the Spirit, give light to those who praise you with faith."
 
 trGC.Ode8C202.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C202.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C202.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C202.incipit = "The holy Zosimas was struck…"
 trGC.Ode8C202.text = "The holy Zosimas was struck with amazement, O Mother, beholding in you a wonder truly strange and new. For he saw an angel in the body and was filled with astonishment, praising Christ unto all ages."
 
 trGC.Ode8C203.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C203.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C203.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C203.incipit = "Since you have boldness before…"
 trGC.Ode8C203.text = "Since you have boldness before the Lord, O Andrew, honored and renowned of Crete, I beseech you, intercede that I may find deliverance from the bonds of iniquity through your prayers, O teacher, glory of holy monks."
 
 trGC.Ode8C2Tr.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C2Tr.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C2Tr.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C2Tr.incipit = "Father without beginning, coeternal Son…"
 trGC.Ode8C2Tr.text = "Father without beginning, coeternal Son, and loving Comforter, the Spirit of righteousness; Begetter of the Word of God, Word of the eternal Father, Spirit living and creative: O Trinity in Unity, have mercy on me."
 
 trGC.Ode8C2T.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C2T.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C2T.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C2T.incipit = "As from purple silk, O…"
 trGC.Ode8C2T.text = "As from purple silk, O undefiled Virgin, the spiritual robe of Emmanuel, His flesh, was woven in your womb. Therefore, we honor you as Theotokos in very truth."
 
 trGC.Ode8C2H.ode = miscellanea_en_US_unknown.misc.Ode8
 trGC.Ode8C2H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode8C2H.melody = he.h.m6_en_US_unknown.OnStratiaiOuranon.notmetered
+trGC.Ode8C2H.melody = he.h.m6_en_US_unknown.heHE.OnStratiaiOuranon.notmetered
 trGC.Ode8C2H.incipit = "Him Whom the heavenly hosts…"
 trGC.Ode8C2H.text = "Him Whom the heavenly hosts glorify and before Whom Cherubim and Seraphim tremble, let every breath and all creation praise, bless and exalt throughout all ages."
 
@@ -1914,67 +1914,67 @@ trGC.Ode8C2H.text = "Him Whom the heavenly hosts glorify and before Whom Cherubi
 
 trMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C1H.melody = he.h.m8_en_US_unknown.KyriosTheotokon.melody
-trMA.Ode9C1H.incipit = he.h.m8_en_US_unknown.KyriosTheotokon.incipit
-trMA.Ode9C1H.text = he.h.m8_en_US_unknown.KyriosTheotokon.text
+trMA.Ode9C1H.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.melody
+trMA.Ode9C1H.incipit = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.incipit
+trMA.Ode9C1H.text = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C11.melody = he.h.m8_en_US_unknown.KyriosTheotokon.notmetered
+trMA.Ode9C11.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.notmetered
 trMA.Ode9C11.incipit = "…"
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C12.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C12.melody = he.h.m8_en_US_unknown.KyriosTheotokon.notmetered
+trMA.Ode9C12.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.notmetered
 trMA.Ode9C12.incipit = "…"
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C13.melody = he.h.m8_en_US_unknown.KyriosTheotokon.notmetered
+trMA.Ode9C13.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.notmetered
 trMA.Ode9C13.incipit = "…"
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C1T.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C1T.melody = he.h.m8_en_US_unknown.KyriosTheotokon.notmetered
+trMA.Ode9C1T.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.notmetered
 trMA.Ode9C1T.incipit = "…"
 trMA.Ode9C1T.text = ""
 
 trMA.Ode9C2H.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C2H.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C2H.melody = he.h.m8_en_US_unknown.SeTinOuranou.melody
-trMA.Ode9C2H.incipit = he.h.m8_en_US_unknown.SeTinOuranou.incipit
-trMA.Ode9C2H.text = he.h.m8_en_US_unknown.SeTinOuranou.text
+trMA.Ode9C2H.melody = he.h.m8_en_US_unknown.heHE.SeTinOuranou.melody
+trMA.Ode9C2H.incipit = he.h.m8_en_US_unknown.heHE.SeTinOuranou.incipit
+trMA.Ode9C2H.text = he.h.m8_en_US_unknown.heHE.SeTinOuranou.text
 
 trMA.Ode9C21.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C21.melody = he.h.m8_en_US_unknown.SeTinOuranou.notmetered
+trMA.Ode9C21.melody = he.h.m8_en_US_unknown.heHE.SeTinOuranou.notmetered
 trMA.Ode9C21.incipit = "…"
 trMA.Ode9C21.text = ""
 
 trMA.Ode9C22.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C22.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C22.melody = he.h.m8_en_US_unknown.SeTinOuranou.notmetered
+trMA.Ode9C22.melody = he.h.m8_en_US_unknown.heHE.SeTinOuranou.notmetered
 trMA.Ode9C22.incipit = "…"
 trMA.Ode9C22.text = ""
 
 trMA.Ode9C23.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C23.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C23.melody = he.h.m8_en_US_unknown.SeTinOuranou.notmetered
+trMA.Ode9C23.melody = he.h.m8_en_US_unknown.heHE.SeTinOuranou.notmetered
 trMA.Ode9C23.incipit = "…"
 trMA.Ode9C23.text = ""
 
 trMA.Ode9C2Tr.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C2Tr.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C2Tr.melody = he.h.m8_en_US_unknown.SeTinOuranou.notmetered
+trMA.Ode9C2Tr.melody = he.h.m8_en_US_unknown.heHE.SeTinOuranou.notmetered
 trMA.Ode9C2Tr.incipit = "…"
 trMA.Ode9C2Tr.text = ""
 
 trMA.Ode9C2T.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C2T.mode = miscellanea_en_US_unknown.misc.Mode8
-trMA.Ode9C2T.melody = he.h.m8_en_US_unknown.SeTinOuranou.notmetered
+trMA.Ode9C2T.melody = he.h.m8_en_US_unknown.heHE.SeTinOuranou.notmetered
 trMA.Ode9C2T.incipit = "…"
 trMA.Ode9C2T.text = ""
 
@@ -1982,195 +1982,195 @@ trMA.Ode9C2T.text = ""
 
 trGC.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C1H.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
-trGC.Ode9C1H.incipit = he.h.m6_en_US_unknown.AsporouSyllipseos.incipit
-trGC.Ode9C1H.text = he.h.m6_en_US_unknown.AsporouSyllipseos.text
+trGC.Ode9C1H.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
+trGC.Ode9C1H.incipit = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.incipit
+trGC.Ode9C1H.text = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.text
 
 trGC.Ode9C101.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C101.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C101.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C101.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C101.incipit = "My mind is wounded, my…"
 trGC.Ode9C101.text = "My mind is wounded, my body has grown feeble, my spirit is sick, my speech has lost its power, my life is dead; the end is at the door. What shall you do, then, miserable soul, when the Judge comes to examine your deeds?"
 
 trGC.Ode9C102.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C102.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C102.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C102.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C102.incipit = "I have put before you…"
 trGC.Ode9C102.text = "I have put before you, my soul, Moses' account of the creation of the world, and after that all the recognized Scriptures that tell you the story of the righteous and the wicked. But you, my soul, have followed the second of these, not the first, and have sinned against God."
 
 trGC.Ode9C103.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C103.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C103.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C103.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C103.incipit = "The Law is powerless, the…"
 trGC.Ode9C103.text = "The Law is powerless, the Gospel is of no effect, and the whole of Scripture is ignored by you; the prophets and all the words of the righteous are useless. Your wounds, my soul, have been multiplied, and there is no physician to heal you."
 
 trGC.Ode9C104.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C104.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C104.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C104.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C104.incipit = "I bring you, O my…"
 trGC.Ode9C104.text = "I bring you, O my soul, examples from the New Testament, to lead you to compunction. Follow the example of the righteous, turn away from the sinful, and through prayers and fasting, through chastity and reverence, win back Christ's mercy."
 
 trGC.Ode9C105.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C105.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C105.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C105.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C105.incipit = "Christ became a child and…"
 trGC.Ode9C105.text = "Christ became a child and shared in my flesh; and willingly He performed all that belongs to my nature, only without sin. He set before you, my soul, an example and image of His condescension."
 
 trGC.Ode9C106.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C106.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C106.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C106.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C106.incipit = "Christ became man, calling to…"
 trGC.Ode9C106.text = "Christ became man, calling to repentance thieves and harlots. Repent, my soul: the door of the Kingdom is already open, and Pharisees and publicans and adulterers pass through it before you, changing their life."
 
 trGC.Ode9C107.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C107.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C107.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C107.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C107.incipit = "Christ saved the Wise Men…"
 trGC.Ode9C107.text = "Christ saved the Wise Men and called the Shepherds; He revealed as martyrs a multitude of young children; He glorified the Elder and the aged Widow. But you, my soul, have not followed their lives and actions. Woe to you when you are judged!"
 
 trGC.Ode9C108.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C108.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C108.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C108.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C108.incipit = "The Lord fasted forty days…"
 trGC.Ode9C108.text = "The Lord fasted forty days in the wilderness, and at the end of them He was hungry, thus showing that He is man. Do not be dismayed, my soul! If the enemy attacks you, through prayer and fasting drive him away."
 
 trGC.Ode9C109.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C109.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C109.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C109.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C109.incipit = "Christ was tempted; the devil…"
 trGC.Ode9C109.text = "Christ was tempted; the devil tempted Him, showing Him the stones that they might be made bread. He led Him up into a mountain, to see in an instant all the kingdoms of the world. O my soul, look with fear on what happened; watch and pray every hour to God."
 
 trGC.Ode9C110.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C110.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C110.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C110.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C110.incipit = "The Dove Who loved the…"
 trGC.Ode9C110.text = "The Dove Who loved the wilderness, the Lamp of Christ, the voice of one crying aloud, was heard preaching repentance; but Herod sinned with Herodias. O my soul, see that you are not trapped in the snares of the lawless, but embrace repentance."
 
 trGC.Ode9C111.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C111.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C111.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C111.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C111.incipit = "The Forerunner of Grace went…"
 trGC.Ode9C111.text = "The Forerunner of Grace went to dwell in the wilderness, and Judea and all Samaria ran to hear him; they confessed their sins and were baptized eagerly. But you, my soul, have not imitated them."
 
 trGC.Ode9C112.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C112.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C112.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C112.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C112.incipit = "Marriage is honorable, and the…"
 trGC.Ode9C112.text = "Marriage is honorable, and the marriage-bed undefiled. For on both Christ has given His blessing, eating in the flesh at the wedding in Cana, turning the water into wine and revealing His first miracle, to bring you, my soul, to a change of life."
 
 trGC.Ode9C113.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C113.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C113.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C113.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C113.incipit = "Christ gave strength to the…"
 trGC.Ode9C113.text = "Christ gave strength to the paralyzed man, and he took up his bed; He raised from the dead the young man, the son of the widow, and the centurion's servant; He appeared to the woman of Samaria and spoke to you, my soul, of worship in spirit."
 
 trGC.Ode9C114.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C114.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C114.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C114.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C114.incipit = "By the touch of the…"
 trGC.Ode9C114.text = "By the touch of the hem of His garment, the Lord healed the woman with an issue of blood; He cleansed lepers and gave sight to the blind and made the lame walk upright; He cured by His word the deaf and the dumb and the woman bowed to the ground, to bring you, wretched soul, to salvation."
 
 trGC.Ode9C115.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C115.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C115.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C115.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C115.incipit = "Healing sickness, Christ the Word…"
 trGC.Ode9C115.text = "Healing sickness, Christ the Word preached the good tidings to the poor. He cured the crippled, ate with publicans, and conversed with sinners. With the touch of His hand, He brought back the departed soul of Jairus' daughter."
 
 trGC.Ode9C116.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C116.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C116.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C116.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C116.incipit = "The Publican was saved and…"
 trGC.Ode9C116.text = "The Publican was saved and the Harlot turned to chastity, but the Pharisee with his boasting was condemned. For the first cried \"Be merciful,\" and the second, \"have mercy on me\"; but the third said, boasting, \"I thank You, O God,\" and other words of madness."
 
 trGC.Ode9C117.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C117.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C117.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C117.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C117.incipit = "Zacchaeus was a publican, yet…"
 trGC.Ode9C117.text = "Zacchaeus was a publican, yet he was saved; but Simon the Pharisee went astray, while the Harlot received remission and release from Him who has the power to forgive sins. Make haste, O my soul, to follow her example."
 
 trGC.Ode9C118.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C118.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C118.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C118.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C118.incipit = "O wretched soul, you have…"
 trGC.Ode9C118.text = "O wretched soul, you have not acted like the Harlot, who took the alabaster box of precious ointment, and anointed with tears and wiped with her hair the feet of the Lord. And He tore in pieces the record of her previous sins."
 
 trGC.Ode9C119.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C119.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C119.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C119.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C119.incipit = "You know, O my soul…"
 trGC.Ode9C119.text = "You know, O my soul, how the cities were cursed to which Christ preached the Gospel. Fear their example, lest you suffer the same punishment. For the Master likened them to Sodom and condemned them to hell."
 
 trGC.Ode9C120.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C120.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C120.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C120.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C120.incipit = "Be not overcome by despair…"
 trGC.Ode9C120.text = "Be not overcome by despair, my soul; for you have heard of the faith of the woman of Canaan, and how through it her daughter was healed by the word of God. Cry out from the depth of your heart, \"Save me also, Son of David,\" as she once cried to Christ."
 
 trGC.Ode9C121.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C121.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C121.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C121.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C121.incipit = "O Son of David, with…"
 trGC.Ode9C121.text = "O Son of David, with Your word You healed the possessed: take pity on me, save me and have mercy. Let me hear Your compassionate voice speak to me as to the Robber: \"Truly, I say to you, you shall be with Me in Paradise, when I come in My glory.\""
 
 trGC.Ode9C122.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C122.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C122.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C122.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C122.incipit = "A robber accused You, a…"
 trGC.Ode9C122.text = "A robber accused You, a robber confessed Your Godhead: for both were hanging beside You on the Cross. Open to me also, O Lord of many mercies, the door of Your glorious Kingdom, as once it was opened to Your robber who acknowledged You with faith as God."
 
 trGC.Ode9C123.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C123.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C123.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C123.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C123.incipit = "Creation was in anguish, seeing…"
 trGC.Ode9C123.text = "Creation was in anguish, seeing You crucified. Mountains and rocks were split from fear, the earth quaked, and hell was despoiled; the light grew dark in the daytime, beholding You, O Jesus, nailed in the flesh."
 
 trGC.Ode9C124.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C124.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C124.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C124.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C124.incipit = "Do not demand from me…"
 trGC.Ode9C124.text = "Do not demand from me worthy fruits of repentance, for my strength has failed within me. Give me an ever-contrite heart and poverty of spirit, that I may offer these to You as an acceptable sacrifice, O only Savior."
 
 trGC.Ode9C125.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C125.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C125.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C125.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C125.incipit = "O my Judge who know…"
 trGC.Ode9C125.text = "O my Judge who know me, when You come again with the angels to judge the whole world, look on me then with Your eye of mercy and spare me; take pity on me, Jesus, for I have sinned more than any other man."
 
 trGC.Ode9C201.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C201.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C201.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C201.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C201.incipit = "By your strange way of…"
 trGC.Ode9C201.text = "By your strange way of life you struck all with wonder, both the hosts of angels and the gatherings of mortal men; for you surpassed nature and lived as though no longer in the body. Like a bodiless angel you walked upon the Jordan with your feet, O Mary, and crossed over it."
 
 trGC.Ode9C202.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C202.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C202.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C202.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C202.incipit = "O holy Mother, call down…"
 trGC.Ode9C202.text = "O holy Mother, call down the gracious mercy of the Creator upon us who sing your praises, that we may be set free from the sufferings and afflictions that assail us; so without ceasing, delivered from temptations, we shall magnify the Lord who glorified you."
 
 trGC.Ode9C203.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C203.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C203.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C203.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C203.incipit = "Venerable Andrew, father thrice-blessed, pastor…"
 trGC.Ode9C203.text = "Venerable Andrew, father thrice-blessed, pastor of Crete, cease not to offer prayer for us who sing your praises; that we may be delivered from all danger and distress, from corruption and sin, who honor your memory with faith."
 
 trGC.Ode9C2Tr.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C2Tr.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C2Tr.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C2Tr.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C2Tr.incipit = "Trinity in one Essence, Unity…"
 trGC.Ode9C2Tr.text = "Trinity in one Essence, Unity in three Persons, we sing Your praises; we glorify the Father, we magnify the Son, we worship the Holy Spirit, truly one God by nature, Life and Lives, Kingdom without end."
 
 trGC.Ode9C2T.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C2T.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C2T.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
+trGC.Ode9C2T.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
 trGC.Ode9C2T.incipit = "Watch over Your city, all-pure…"
 trGC.Ode9C2T.text = "Watch over Your city, all-pure Mother of God. For by you she reigns in faith, by you she is made strong; by you she is victorious, putting to flight every temptation, despoiling the enemy and ruling her subjects."
 
 trGC.Ode9C2H.ode = miscellanea_en_US_unknown.misc.Ode9
 trGC.Ode9C2H.mode = miscellanea_en_US_unknown.misc.Mode6
-trGC.Ode9C2H.melody = he.h.m6_en_US_unknown.AsporouSyllipseos.notmetered
-trGC.Ode9C2H.incipit = he.h.m6_en_US_unknown.AsporouSyllipseos.incipit
-trGC.Ode9C2H.text = he.h.m6_en_US_unknown.AsporouSyllipseos.text
+trGC.Ode9C2H.melody = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.notmetered
+trGC.Ode9C2H.incipit = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.incipit
+trGC.Ode9C2H.text = he.h.m6_en_US_unknown.heHE.AsporouSyllipseos.text
 
 trMA.AposIdiomelon1.mode = miscellanea_en_US_unknown.misc.Mode8
 trMA.AposIdiomelon1.melody = ""

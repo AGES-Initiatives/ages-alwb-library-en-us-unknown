@@ -1,27 +1,27 @@
 A_Resource_Whose_Name = he.a.m5_en_US_unknown
 
-he.title = ""
+heAU.title = ""
 
-ChairoisAskitikon.mode = miscellanea_en_US_unknown.misc.Mode5
-ChairoisAskitikon.notmetered = "N/M (Rejoice.)"
-ChairoisAskitikon.name = "Rejoice."
-ChairoisAskitikon.incipit = "Rejoice…"
-ChairoisAskitikon.text = ""
+heAU.ChairoisAskitikon.mode = miscellanea_en_US_unknown.misc.Mode5
+heAU.ChairoisAskitikon.notmetered = "N/M (Rejoice.)"
+heAU.ChairoisAskitikon.name = "Rejoice."
+heAU.ChairoisAskitikon.incipit = "Rejoice…"
+heAU.ChairoisAskitikon.text = ""
 
-LampeiSimeron.mode = miscellanea_en_US_unknown.misc.Mode5
-LampeiSimeron.notmetered = "N/M ()"
-LampeiSimeron.name = ""
-LampeiSimeron.incipit = "…"
-LampeiSimeron.text = ""
+heAU.LampeiSimeron.mode = miscellanea_en_US_unknown.misc.Mode5
+heAU.LampeiSimeron.notmetered = "N/M ()"
+heAU.LampeiSimeron.name = ""
+heAU.LampeiSimeron.incipit = "…"
+heAU.LampeiSimeron.text = ""
 
-OsiePater.mode = miscellanea_en_US_unknown.misc.Mode5
-OsiePater.notmetered = "N/M (God-bearing Father.)"
-OsiePater.name = "God-bearing Father."
-OsiePater.incipit = "God-bearing Father…"
-OsiePater.text = ""
+heAU.OsiePater.mode = miscellanea_en_US_unknown.misc.Mode5
+heAU.OsiePater.notmetered = "N/M (God-bearing Father.)"
+heAU.OsiePater.name = "God-bearing Father."
+heAU.OsiePater.incipit = "God-bearing Father…"
+heAU.OsiePater.text = ""
 
-TonSynanarchonLogon.mode = miscellanea_en_US_unknown.misc.Mode5
-TonSynanarchonLogon.notmetered = "N/M (Let us worship the Word.)"
-TonSynanarchonLogon.name = "Let us worship the Word."
-TonSynanarchonLogon.incipit = "Let us worship the Word…"
-TonSynanarchonLogon.text = ""
+heAU.TonSynanarchonLogon.mode = miscellanea_en_US_unknown.misc.Mode5
+heAU.TonSynanarchonLogon.notmetered = "N/M (Let us worship the Word.)"
+heAU.TonSynanarchonLogon.name = "Let us worship the Word."
+heAU.TonSynanarchonLogon.incipit = "Let us worship the Word…"
+heAU.TonSynanarchonLogon.text = ""

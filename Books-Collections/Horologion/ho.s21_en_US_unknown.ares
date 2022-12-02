@@ -12,156 +12,156 @@ R01 = ""
 
 hoCA.Ode11.ode = miscellanea_en_US_unknown.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode11.melody = he.h.m2_en_US_unknown.DefteLaoi.name
+hoCA.Ode11.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.name
 hoCA.Ode11.incipit = "May Your holy Body be…"
 hoCA.Ode11.text = "May Your holy Body be for me the Bread of life everlasting, O compassionate Lord, and may Your precious Blood be a remedy for diverse maladies."
 
 hoCA.Ode12.ode = miscellanea_en_US_unknown.misc.Ode1
 hoCA.Ode12.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode12.melody = he.h.m2_en_US_unknown.DefteLaoi.name
+hoCA.Ode12.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.name
 hoCA.Ode12.incipit = "Defiled by unseemly deeds, wretched…"
 hoCA.Ode12.text = "Defiled by unseemly deeds, wretched as I am, I am unworthy, O Christ, to partake of Your immaculate Body and divine Blood; but make me worthy of Them."
 
 hoCA.Ode1T.ode = miscellanea_en_US_unknown.misc.Ode1
 hoCA.Ode1T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode1T.melody = he.h.m2_en_US_unknown.DefteLaoi.name
+hoCA.Ode1T.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.name
 hoCA.Ode1T.incipit = "O blessed Bride of God…"
 hoCA.Ode1T.text = "O blessed Bride of God, O good land which produced the Ear of wheat which knew no husbandry and which brings salvation to the world: grant that I who eat of it may be saved."
 
 hoCA.Ode31.ode = miscellanea_en_US_unknown.misc.Ode3
 hoCA.Ode31.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode31.melody = he.h.m2_en_US_unknown.EnPetraMeTisPisteos.name
+hoCA.Ode31.melody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.name
 hoCA.Ode31.incipit = "Grant me, O Christ, teardrops…"
 hoCA.Ode31.text = "Grant me, O Christ, teardrops to cleanse the defilement of my heart, that, purified and with good conscience, I may draw near with fear and faith, O Master, to the communion of Your divine Gifts."
 
 hoCA.Ode32.ode = miscellanea_en_US_unknown.misc.Ode3
 hoCA.Ode32.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode32.melody = he.h.m2_en_US_unknown.EnPetraMeTisPisteos.name
+hoCA.Ode32.melody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.name
 hoCA.Ode32.incipit = "May Your immaculate Body and…"
 hoCA.Ode32.text = "May Your immaculate Body and divine Blood be for the forgiveness of my offenses, for communion with the Holy Spirit, and for life everlasting, O Friend of man, and for estrangement from passions and sorrows."
 
 hoCA.Ode3T.ode = miscellanea_en_US_unknown.misc.Ode3
 hoCA.Ode3T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode3T.melody = he.h.m2_en_US_unknown.EnPetraMeTisPisteos.name
+hoCA.Ode3T.melody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.name
 hoCA.Ode3T.incipit = "O all-holy one, table of…"
 hoCA.Ode3T.text = "O all-holy one, table of the Bread of life Who for mercy's sake came down from on high and gave new life to the world, make even me, who am unworthy, worthy now with fear to taste of it and live."
 
 hoCA.Ode41.ode = miscellanea_en_US_unknown.misc.Ode4
 hoCA.Ode41.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode41.melody = he.h.m2_en_US_unknown.ElilythasEkParthenou.name
+hoCA.Ode41.melody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.name
 hoCA.Ode41.incipit = "O most merciful One, Who…"
 hoCA.Ode41.text = "O most merciful One, Who was incarnate for us, You willed to be slain as a sheep for the sins of mortals.  Therefore also, I implore You to blot out my offenses."
 
 hoCA.Ode42.ode = miscellanea_en_US_unknown.misc.Ode4
 hoCA.Ode42.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode42.melody = he.h.m2_en_US_unknown.ElilythasEkParthenou.name
+hoCA.Ode42.melody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.name
 hoCA.Ode42.incipit = "Heal the wounds of my…"
 hoCA.Ode42.text = "Heal the wounds of my soul, O Lord, and wholly sanctify me, the wretched one, and make me worthy, O Master, to partake of Your divine mystical Supper."
 
 hoCA.Ode4T.ode = miscellanea_en_US_unknown.misc.Ode4
 hoCA.Ode4T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode4T.melody = he.h.m2_en_US_unknown.ElilythasEkParthenou.name
+hoCA.Ode4T.melody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.name
 hoCA.Ode4T.incipit = "Make Him Who came forth…"
 hoCA.Ode4T.text = "Make Him Who came forth from your womb, O Lady, to be gracious also to me; and to keep me, your supplicant, blameless and free of stain, that, by receiving within me the noetic Pearl, I may be sanctified."
 
 hoCA.Ode51.ode = miscellanea_en_US_unknown.misc.Ode5
 hoCA.Ode51.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode51.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.name
+hoCA.Ode51.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.name
 hoCA.Ode51.incipit = "As You foretold, O Christ…"
 hoCA.Ode51.text = "As You foretold, O Christ, so let it be even now to me Your abject slave, and abide in me as You promised; for behold, I eat Your divine Body and drink Your Blood."
 
 hoCA.Ode52.ode = miscellanea_en_US_unknown.misc.Ode5
 hoCA.Ode52.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode52.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.name
+hoCA.Ode52.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.name
 hoCA.Ode52.incipit = "O Word of God, and…"
 hoCA.Ode52.text = "O Word of God, and God, may the live coal of Your Body be for the enlightenment of me who am darkened, and may Your Blood be for the cleansing of my defiled soul."
 
 hoCA.Ode5T.ode = miscellanea_en_US_unknown.misc.Ode5
 hoCA.Ode5T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode5T.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.name
+hoCA.Ode5T.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.name
 hoCA.Ode5T.incipit = "O Mary, Mother of God…"
 hoCA.Ode5T.text = "O Mary, Mother of God, august tabernacle of the sweet Fragrance: by your prayers, make me a chosen vessel, that I may partake of the holy Gifts of your Child."
 
 hoCA.Ode61.ode = miscellanea_en_US_unknown.misc.Ode6
 hoCA.Ode61.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode61.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.name
+hoCA.Ode61.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.name
 hoCA.Ode61.incipit = "O Savior, sanctify my mind…"
 hoCA.Ode61.text = "O Savior, sanctify my mind, soul, heart, and body; and grant that without condemnation, O Master, I may approach the dread Mysteries."
 
 hoCA.Ode62.ode = miscellanea_en_US_unknown.misc.Ode6
 hoCA.Ode62.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode62.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.name
+hoCA.Ode62.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.name
 hoCA.Ode62.incipit = "Grant me estrangement from passions…"
 hoCA.Ode62.text = "Grant me estrangement from passions, and the increase of Your grace, and assurance of life by my participation in Your holy Mysteries, O Christ."
 
 hoCA.Ode6T.ode = miscellanea_en_US_unknown.misc.Ode6
 hoCA.Ode6T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode6T.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.name
+hoCA.Ode6T.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.name
 hoCA.Ode6T.incipit = "O Holy Word of God…"
 hoCA.Ode6T.text = "O Holy Word of God, and God, as I now approach Your divine Mysteries, sanctify the whole of me, by the supplications of Your holy Mother."
 
 hoCA.Kontakion.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Kontakion.melody = he.a.m2_en_US_unknown.TaAnoZiton.name
+hoCA.Kontakion.melody = he.a.m2_en_US_unknown.heAU.TaAnoZiton.name
 hoCA.Kontakion.incipit = "Disdain me not to receive…"
 hoCA.Kontakion.text = "Disdain me not to receive now, O Christ, the bread which is Your Body, and Your divine Blood, and to partake, O Master, of Your immaculate and dread Mysteries; and may these not be to me, the wretched one, for judgment, but for eternal and immortal life."
 
 hoCA.Ode71.ode = miscellanea_en_US_unknown.misc.Ode7
 hoCA.Ode71.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode71.melody = he.h.m2_en_US_unknown.EikonosChrysis.name
+hoCA.Ode71.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.name
 hoCA.Ode71.incipit = "May the reception of Your…"
 hoCA.Ode71.text = "May the reception of Your immortal Mysteries, the Source of every good, O Christ, be now light, and life, and dispassion, and the cause of furtherance and proficiency in divine virtue, O only good One, that I may glorify You."
 
 hoCA.Ode72.ode = miscellanea_en_US_unknown.misc.Ode7
 hoCA.Ode72.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode72.melody = he.h.m2_en_US_unknown.EikonosChrysis.name
+hoCA.Ode72.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.name
 hoCA.Ode72.incipit = "That I may be redeemed…"
 hoCA.Ode72.text = "That I may be redeemed from passions, enemies, want, and every affliction, I now draw near with trembling, love, and reverence to Your immortal and divine Mysteries, O Friend of man, and chant unto You: Blessed are You, the God of our fathers."
 
 hoCA.Ode7T.ode = miscellanea_en_US_unknown.misc.Ode7
 hoCA.Ode7T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode7T.melody = he.h.m2_en_US_unknown.EikonosChrysis.name
+hoCA.Ode7T.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.name
 hoCA.Ode7T.incipit = "O you who are graced…"
 hoCA.Ode7T.text = "O you who are graced of God, and who gave birth incomprehensibly to Christ the Savior, I your slave, impure as I am, now beseech you, the pure one: from all defilement of flesh and spirit cleanse me who am now about to approach the immaculate Mysteries."
 
 hoCA.Ode81.ode = miscellanea_en_US_unknown.misc.Ode8
 hoCA.Ode81.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode81.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.name
+hoCA.Ode81.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.name
 hoCA.Ode81.incipit = "Grant me, who am despairing…"
 hoCA.Ode81.text = "Grant me, who am despairing, to be a communicant now of Your heavenly, dread, and holy Mysteries, O Christ, and of Your divine and mystical Supper, O God my Savior."
 
 hoCA.Ode82.ode = miscellanea_en_US_unknown.misc.Ode8
 hoCA.Ode82.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode82.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.name
+hoCA.Ode82.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.name
 hoCA.Ode82.incipit = "I flee for refuge under…"
 hoCA.Ode82.text = "I flee for refuge under Your compassion, O good One, and I cry to You with fear: abide in me, O Savior, and I in You, as You said; for behold, trusting in Your mercy, I eat Your Body and drink Your Blood."
 
 hoCA.Ode8T.ode = miscellanea_en_US_unknown.misc.Ode8
 hoCA.Ode8T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode8T.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.name
+hoCA.Ode8T.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.name
 hoCA.Ode8T.incipit = "I tremble as I receive…"
 hoCA.Ode8T.text = "I tremble as I receive the Fire, lest I be burned as wax and as grass.  O dread mystery.  O divine compassion.  How is it that I who am but clay partake of the divine Body and Blood and am made incorruptible?"
 
 hoCA.Ode91.ode = miscellanea_en_US_unknown.misc.Ode9
 hoCA.Ode91.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode91.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode91.melody = he.h.m2_en_US_unknown.heHE.AnarchouGennitoros.name
 hoCA.Ode91.incipit = "The Lord is good: O…"
 hoCA.Ode91.text = "The Lord is good: O taste and see.  For of old He became like us for our sake, and offered Himself once as an offering to His Father, and is ever slain, sanctifying those that partake of Him."
 
 hoCA.Ode92.ode = miscellanea_en_US_unknown.misc.Ode9
 hoCA.Ode92.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode92.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode92.melody = he.h.m2_en_US_unknown.heHE.AnarchouGennitoros.name
 hoCA.Ode92.incipit = "May I be sanctified in…"
 hoCA.Ode92.text = "May I be sanctified in body and soul, O Master; may I be enlightened; may I be saved; may I become Your dwelling-place by the communion of the sacred Mysteries, having You with the Father and the Spirit abiding in me, O most merciful Benefactor."
 
 hoCA.Ode93.ode = miscellanea_en_US_unknown.misc.Ode9
 hoCA.Ode93.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode93.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode93.melody = he.h.m2_en_US_unknown.heHE.AnarchouGennitoros.name
 hoCA.Ode93.incipit = "May Your most precious Body…"
 hoCA.Ode93.text = "May Your most precious Body and Blood be to me as fire and light, O my Savior, consuming the substance of sin and burning the thorns of my passions, and enlightening the whole of me to worship Your Divinity."
 
 hoCA.Ode9T.ode = miscellanea_en_US_unknown.misc.Ode9
 hoCA.Ode9T.mode = miscellanea_en_US_unknown.misc.Mode2
-hoCA.Ode9T.melody = he.h.m2_en_US_unknown.AnarchouGennitoros.name
+hoCA.Ode9T.melody = he.h.m2_en_US_unknown.heHE.AnarchouGennitoros.name
 hoCA.Ode9T.incipit = "God took flesh of your…"
 hoCA.Ode9T.text = "God took flesh of your pure blood, wherefore, every generation hymns you, O Lady, and the multitudes of the noetic beings glorify you; for through you we have clearly seen the Master of all, Who assumed the nature of man."
 

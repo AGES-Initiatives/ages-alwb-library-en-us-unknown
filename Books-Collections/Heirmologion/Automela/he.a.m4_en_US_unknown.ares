@@ -1,63 +1,63 @@
 A_Resource_Whose_Name = he.a.m4_en_US_unknown
 
-he.title = ""
+heAU.title = ""
 
-DiaXylouOAdam.mode = miscellanea_en_US_unknown.misc.Mode4
-DiaXylouOAdam.notmetered = "N/M (Adam fell by a tree.)"
-DiaXylouOAdam.name = "Adam fell by a tree."
-DiaXylouOAdam.incipit = "Adam fell by a tree…"
-DiaXylouOAdam.text = ""
+heAU.DiaXylouOAdam.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.DiaXylouOAdam.notmetered = "N/M (Adam fell by a tree.)"
+heAU.DiaXylouOAdam.name = "Adam fell by a tree."
+heAU.DiaXylouOAdam.incipit = "Adam fell by a tree…"
+heAU.DiaXylouOAdam.text = ""
 
-EdokasSimeiosin.mode = miscellanea_en_US_unknown.misc.Mode4
-EdokasSimeiosin.notmetered = "N/M (You have given.)"
-EdokasSimeiosin.name = "You have given."
-EdokasSimeiosin.incipit = "You have given…"
-EdokasSimeiosin.text = ""
+heAU.EdokasSimeiosin.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.EdokasSimeiosin.notmetered = "N/M (You have given.)"
+heAU.EdokasSimeiosin.name = "You have given."
+heAU.EdokasSimeiosin.incipit = "You have given…"
+heAU.EdokasSimeiosin.text = ""
 
-EpefanisSimeron.mode = miscellanea_en_US_unknown.misc.Mode4
-EpefanisSimeron.notmetered = "N/M (You appeared.)"
-EpefanisSimeron.name = "You appeared today."
-EpefanisSimeron.incipit = "You appeared today…"
-EpefanisSimeron.text = ""
+heAU.EpefanisSimeron.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.EpefanisSimeron.notmetered = "N/M (You appeared.)"
+heAU.EpefanisSimeron.name = "You appeared today."
+heAU.EpefanisSimeron.incipit = "You appeared today…"
+heAU.EpefanisSimeron.text = ""
 
-IthelonDakrysinExaleipsai.mode = miscellanea_en_US_unknown.misc.Mode4
-IthelonDakrysinExaleipsai.notmetered = "N/M (How I intended.)"
-IthelonDakrysinExaleipsai.name = "How I intended."
-IthelonDakrysinExaleipsai.incipit = "How I intended…"
-IthelonDakrysinExaleipsai.text = ""
+heAU.IthelonDakrysinExaleipsai.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.IthelonDakrysinExaleipsai.notmetered = "N/M (How I intended.)"
+heAU.IthelonDakrysinExaleipsai.name = "How I intended."
+heAU.IthelonDakrysinExaleipsai.incipit = "How I intended…"
+heAU.IthelonDakrysinExaleipsai.text = ""
 
-KateplagiIosif.mode = miscellanea_en_US_unknown.misc.Mode4
-KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
-KateplagiIosif.name = "Joseph marveled."
-KateplagiIosif.incipit = "Joseph marveled…"
-KateplagiIosif.text = ""
+heAU.KateplagiIosif.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
+heAU.KateplagiIosif.name = "Joseph marveled."
+heAU.KateplagiIosif.incipit = "Joseph marveled…"
+heAU.KateplagiIosif.text = ""
 
-KyrieAnelthonEnToStavro.mode = miscellanea_en_US_unknown.misc.Mode4
-KyrieAnelthonEnToStavro.notmetered = "N/M (Sovereign Lord.)"
-KyrieAnelthonEnToStavro.name = "Sovereign Lord."
-KyrieAnelthonEnToStavro.incipit = "Sovereign Lord…"
-KyrieAnelthonEnToStavro.text = ""
+heAU.KyrieAnelthonEnToStavro.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.KyrieAnelthonEnToStavro.notmetered = "N/M (Sovereign Lord.)"
+heAU.KyrieAnelthonEnToStavro.name = "Sovereign Lord."
+heAU.KyrieAnelthonEnToStavro.incipit = "Sovereign Lord…"
+heAU.KyrieAnelthonEnToStavro.text = ""
 
-OExYpsistouKlitheis.mode = miscellanea_en_US_unknown.misc.Mode4
-OExYpsistouKlitheis.notmetered = "N/M (When you were called.)"
-OExYpsistouKlitheis.name = "When you were called."
-OExYpsistouKlitheis.incipit = "When you were called…"
-OExYpsistouKlitheis.text = ""
+heAU.OExYpsistouKlitheis.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.OExYpsistouKlitheis.notmetered = "N/M (When you were called.)"
+heAU.OExYpsistouKlitheis.name = "When you were called."
+heAU.OExYpsistouKlitheis.incipit = "When you were called…"
+heAU.OExYpsistouKlitheis.text = ""
 
-OYpsotheisEnToStavro.mode = miscellanea_en_US_unknown.misc.Mode4
-OYpsotheisEnToStavro.notmetered = "N/M (You who were lifted.)"
-OYpsotheisEnToStavro.name = "You who were lifted."
-OYpsotheisEnToStavro.incipit = "You who were lifted…"
-OYpsotheisEnToStavro.text = ""
+heAU.OYpsotheisEnToStavro.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.OYpsotheisEnToStavro.notmetered = "N/M (You who were lifted.)"
+heAU.OYpsotheisEnToStavro.name = "You who were lifted."
+heAU.OYpsotheisEnToStavro.incipit = "You who were lifted…"
+heAU.OYpsotheisEnToStavro.text = ""
 
-OsGennaionEnMartysi.mode = miscellanea_en_US_unknown.misc.Mode4
-OsGennaionEnMartysi.notmetered = "N/M (To a brave one.)"
-OsGennaionEnMartysi.name = "To a brave one."
-OsGennaionEnMartysi.incipit = "To a brave one…"
-OsGennaionEnMartysi.text = ""
+heAU.OsGennaionEnMartysi.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.OsGennaionEnMartysi.notmetered = "N/M (To a brave one.)"
+heAU.OsGennaionEnMartysi.name = "To a brave one."
+heAU.OsGennaionEnMartysi.incipit = "To a brave one…"
+heAU.OsGennaionEnMartysi.text = ""
 
-TachyProkatalave.mode = miscellanea_en_US_unknown.misc.Mode4
-TachyProkatalave.notmetered = "N/M (Come quickly.)"
-TachyProkatalave.name = "Come quickly."
-TachyProkatalave.incipit = "Come quickly…"
-TachyProkatalave.text = ""
+heAU.TachyProkatalave.mode = miscellanea_en_US_unknown.misc.Mode4
+heAU.TachyProkatalave.notmetered = "N/M (Come quickly.)"
+heAU.TachyProkatalave.name = "Come quickly."
+heAU.TachyProkatalave.incipit = "Come quickly…"
+heAU.TachyProkatalave.text = ""

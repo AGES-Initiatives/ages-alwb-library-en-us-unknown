@@ -1,57 +1,57 @@
 A_Resource_Whose_Name = he.a.m1_en_US_unknown
 
-he.title = ""
+heAU.title = ""
 
-ChorosAngelikos.mode = miscellanea_en_US_unknown.misc.Mode1
-ChorosAngelikos.notmetered = "N/M (In heaven.)"
-ChorosAngelikos.name = "In heaven be amazed."
-ChorosAngelikos.incipit = "In heaven be amazed…"
-ChorosAngelikos.text = ""
+heAU.ChorosAngelikos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.ChorosAngelikos.notmetered = "N/M (In heaven.)"
+heAU.ChorosAngelikos.name = "In heaven be amazed."
+heAU.ChorosAngelikos.incipit = "In heaven be amazed…"
+heAU.ChorosAngelikos.text = ""
 
-NefelinSeFotos.mode = miscellanea_en_US_unknown.misc.Mode1
-NefelinSeFotos.notmetered = "N/M (Nefelin Se Fotos)"
-NefelinSeFotos.name = "Nefelin Se Fotos."
-NefelinSeFotos.incipit = "Nefelin Se Fotos…"
-NefelinSeFotos.text = ""
+heAU.NefelinSeFotos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.NefelinSeFotos.notmetered = "N/M (Nefelin Se Fotos)"
+heAU.NefelinSeFotos.name = "Nefelin Se Fotos."
+heAU.NefelinSeFotos.incipit = "Nefelin Se Fotos…"
+heAU.NefelinSeFotos.text = ""
 
-OTouParadoxouThavmatos.mode = miscellanea_en_US_unknown.misc.Mode1
-OTouParadoxouThavmatos.notmetered = "N/M (What a paradoxical.)"
-OTouParadoxouThavmatos.name = "What a paradoxical miracle."
-OTouParadoxouThavmatos.incipit = "What a paradoxical miracle…"
-OTouParadoxouThavmatos.text = ""
+heAU.OTouParadoxouThavmatos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.OTouParadoxouThavmatos.notmetered = "N/M (What a paradoxical.)"
+heAU.OTouParadoxouThavmatos.name = "What a paradoxical miracle."
+heAU.OTouParadoxouThavmatos.incipit = "What a paradoxical miracle…"
+heAU.OTouParadoxouThavmatos.text = ""
 
-OtanElthisOTheos.mode = miscellanea_en_US_unknown.misc.Mode1
-OtanElthisOTheos.notmetered = "N/M (When You come down.)"
-OtanElthisOTheos.name = "When You come down."
-OtanElthisOTheos.incipit = "When You come down…"
-OtanElthisOTheos.text = ""
+heAU.OtanElthisOTheos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.OtanElthisOTheos.notmetered = "N/M (When You come down.)"
+heAU.OtanElthisOTheos.name = "When You come down."
+heAU.OtanElthisOTheos.incipit = "When You come down…"
+heAU.OtanElthisOTheos.text = ""
 
-PaneffimoiMartyres.mode = miscellanea_en_US_unknown.misc.Mode1
-PaneffimoiMartyres.notmetered = "N/M (O Martyrs, extolled.)"
-PaneffimoiMartyres.name = "O Martyrs, extolled."
-PaneffimoiMartyres.incipit = "O Martyrs, extolled…"
-PaneffimoiMartyres.text = ""
+heAU.PaneffimoiMartyres.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.PaneffimoiMartyres.notmetered = "N/M (O Martyrs, extolled.)"
+heAU.PaneffimoiMartyres.name = "O Martyrs, extolled."
+heAU.PaneffimoiMartyres.incipit = "O Martyrs, extolled…"
+heAU.PaneffimoiMartyres.text = ""
 
-TisErimouPolitis.mode = miscellanea_en_US_unknown.misc.Mode1
-TisErimouPolitis.notmetered = "N/M (As a citizen.)"
-TisErimouPolitis.name = "As a citizen of the desert."
-TisErimouPolitis.incipit = "As a citizen of the desert…"
-TisErimouPolitis.text = ""
+heAU.TisErimouPolitis.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TisErimouPolitis.notmetered = "N/M (As a citizen.)"
+heAU.TisErimouPolitis.name = "As a citizen of the desert."
+heAU.TisErimouPolitis.incipit = "As a citizen of the desert…"
+heAU.TisErimouPolitis.text = ""
 
-TonOuranionTagmaton.mode = miscellanea_en_US_unknown.misc.Mode1
-TonOuranionTagmaton.notmetered = "N/M (For the celestial.)"
-TonOuranionTagmaton.name = "For the celestial orders."
-TonOuranionTagmaton.incipit = "For the celestial orders…"
-TonOuranionTagmaton.text = ""
+heAU.TonOuranionTagmaton.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TonOuranionTagmaton.notmetered = "N/M (For the celestial.)"
+heAU.TonOuranionTagmaton.name = "For the celestial orders."
+heAU.TonOuranionTagmaton.incipit = "For the celestial orders…"
+heAU.TonOuranionTagmaton.text = ""
 
-TonTafonSouSotir.mode = miscellanea_en_US_unknown.misc.Mode1
-TonTafonSouSotir.notmetered = "N/M (The soldiers.)"
-TonTafonSouSotir.name = "The soldiers keeping watch."
-TonTafonSouSotir.incipit = "The soldiers keeping watch…"
-TonTafonSouSotir.text = ""
+heAU.TonTafonSouSotir.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TonTafonSouSotir.notmetered = "N/M (The soldiers.)"
+heAU.TonTafonSouSotir.name = "The soldiers keeping watch."
+heAU.TonTafonSouSotir.incipit = "The soldiers keeping watch…"
+heAU.TonTafonSouSotir.text = ""
 
-TouLithouSfragisthentos.mode = miscellanea_en_US_unknown.misc.Mode1
-TouLithouSfragisthentos.notmetered = "N/M (The stone.)"
-TouLithouSfragisthentos.name = "The stone had been secured."
-TouLithouSfragisthentos.incipit = "The stone had been secured…"
-TouLithouSfragisthentos.text = ""
+heAU.TouLithouSfragisthentos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TouLithouSfragisthentos.notmetered = "N/M (The stone.)"
+heAU.TouLithouSfragisthentos.name = "The stone had been secured."
+heAU.TouLithouSfragisthentos.incipit = "The stone had been secured…"
+heAU.TouLithouSfragisthentos.text = ""
