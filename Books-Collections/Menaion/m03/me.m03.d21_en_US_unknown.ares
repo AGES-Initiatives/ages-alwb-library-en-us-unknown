@@ -52,7 +52,7 @@ meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = poets_en_US_unknown.Ignatiou
 meMA.C1.title = titles_en_US_unknown.ti.CanonSaintM
-meMA.C1.verse = //prayers_en_US_unknown.verse_SaintM.text
+meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C1H.mode = misc_en_US_unknown.Mode2

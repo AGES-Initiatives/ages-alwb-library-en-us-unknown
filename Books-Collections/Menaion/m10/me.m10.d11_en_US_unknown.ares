@@ -75,10 +75,10 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_US_unknown.ti.CanonApostle
-meMA.C1.verse = //prayers_en_US_unknown.verse_Apostle.text
+meMA.C1.verse = //prayers_en_US_unknown.pr.verse_Apostle.text
 
 meMA.C2.title = titles_en_US_unknown.ti.CanonDevoutM
-meMA.C2.verse = //prayers_en_US_unknown.verse_DevoutMan.text
+meMA.C2.verse = //prayers_en_US_unknown.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
 meMA.Ode1C11.mode = misc_en_US_unknown.Mode6

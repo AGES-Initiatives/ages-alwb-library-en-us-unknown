@@ -171,10 +171,10 @@ trGC.SticheraT.text = ""
 //Matins
 trGC.title = "The Great Canon"
 trGC.C1.poet = poets_en_US_unknown.AndreouKritis
-trGC.Verse1 = "Have mercy on me, O God. Have mercy on me." //prayers_en_US_unknown.EleisonMeOTheos.text
+trGC.Verse1 = "Have mercy on me, O God. Have mercy on me." //prayers_en_US_unknown.pr.verse_Mercy.text
 trGC.Verse2 = "Holy Mother Mary, pray to God for us."
 trGC.Verse3 = "Holy Father Andrew, pray to God for us."
-trGC.Verse4 = "Most holy Theotokos, save us." //prayers_en_US_unknown.verse_Theotokos.text
+trGC.Verse4 = "Most holy Theotokos, save us." //prayers_en_US_unknown.pr.verse_Theotokos.text
 
 //Ode 1
 
