@@ -20,33 +20,33 @@ meHO.note1 = ""
 meHO.note2 = ""
 meDA.dismissal = ""
 
-meVE.Stichera01.mode = misc_en_US_unknown.Mode4
+meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
-meVE.Stichera02.mode = misc_en_US_unknown.Mode4
+meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
-meVE.Stichera03.mode = misc_en_US_unknown.Mode4
+meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
-meVE.SticTheotokion.mode = misc_en_US_unknown.Mode4
+meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m06.d09_en_US_unknown.meVE.SticTheotokion.text
 
-meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode4
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //me.m02.d11_en_US_unknown.meVE.AposStavrotheotokion.text
 
-meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
-meVE.Apolytikion1.mode = misc_en_US_unknown.Mode3
+meVE.Apolytikion1.poet = poets_en_US_unknown.po.Gerasimou
+meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode3
 meVE.Apolytikion1.melody = he.a.m3_en_US_unknown.TheiasPisteos.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
@@ -57,252 +57,252 @@ meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_US_unknown.ti.CanonSaints
 meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintsM.text
 
-meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode1C11.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "O Saints blessed of God…"
 meMA.Ode1C11.text = "O Saints blessed of God, you crushed the might of the foe by the mighty grace of the Comforter. We pray you make us all also strong against the passions tyrannizing us."
 
-meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C12.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode1C12.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
 meMA.Ode1C12.incipit = "O wise Saints Cyrus and…"
 meMA.Ode1C12.text = "O wise Saints Cyrus and John, you destroyed the adversary in contest, and you received the grace to cure incurable ills. I pray you heal the illnesses of my heart."
 
-meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C13.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
 meMA.Ode1C13.incipit = "O Cyrus and John, by…"
 meMA.Ode1C13.text = "O Cyrus and John, by your prayers, from irrational passions deliver us who bless you on earth with a rational sacrifice of praise, as you are divine servants of the Logos, who was unoriginate before time began."
 
-meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode1C1T.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode1C1T.melody = he.h.m2_en_US_unknown.DefteLaoi.notmetered
 meMA.Ode1C1T.incipit = "O all-pure Virgin full of…"
 meMA.Ode1C1T.text = "O all-pure Virgin full of divine grace, all that is ours by nature is also yours. In your abundant goodness, preserve us all from every darkening, from every assault and peril."
 
-meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode3C11.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "O all-blessed medaled Martyrs, enlisted…"
 meMA.Ode3C11.text = "O all-blessed medaled Martyrs, enlisted lawfully under Christ, you put the lawless to sahme. I pray you deliver me from everlasting shame."
 
-meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C12.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode3C12.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C12.incipit = "Preserve my soul and heal…"
 meMA.Ode3C12.text = "Preserve my soul and heal my bodily sufferings, I pray you, O givers of good things and saviors of all who flee to you in faith."
 
-meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C13.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode3C13.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C13.incipit = "O Saints, enable me to…"
 meMA.Ode3C13.text = "O Saints, enable me to walk the ways that lead to life. By your prayers to God, deliver me from every attempt of my foes to lead me astray."
 
-meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode3C1T.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode3C1T.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C1T.incipit = "O all-hymned and all-holy Lady…"
 meMA.Ode3C1T.text = "O all-hymned and all-holy Lady, you gave birth to Him who takes away humanity's illnesses. Heal the wounds of my soul and the diseases of my body."
 
-meMA.Ode3H.ode = misc_en_US_unknown.Ode3
-meMA.Ode3H.mode = misc_en_US_unknown.Mode2
+meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode3H.melody = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.melody
 meMA.Ode3H.incipit = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.StereosonImasEnSoiKyrie.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode4
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
-meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode4
+meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
 meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = ""
 
-meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode4
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_unknown.OYpsotheisEnToStavro.notmetered
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
 
-meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode4C11.melody = he.h.m2_en_US_unknown.YmnoSeAkoi.notmetered
 meMA.Ode4C11.incipit = "O medaled Martyrs, you were…"
 meMA.Ode4C11.text = "O medaled Martyrs, you were illumined with the splendor of the spiritual Sun. You destroyed the prince of darkness. We pray you deliver us from injured by him, and enlighten the thoughts of us all."
 
-meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode4C12.melody = he.h.m2_en_US_unknown.YmnoSeAkoi.notmetered
 meMA.Ode4C12.incipit = "O medaled Martyrs, you were…"
 meMA.Ode4C12.text = "O medaled Martyrs, you were known to be swords that cut down the ungodly, and that shatter by grace the terrible swords of the foe. Preserve us unscathed from the darts of all our adversaries, by your prayers."
 
-meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode4C13.melody = he.h.m2_en_US_unknown.YmnoSeAkoi.notmetered
 meMA.Ode4C13.incipit = "O Saints, I am suffering…"
 meMA.Ode4C13.text = "O Saints, I am suffering from a multitude of painful calamities. I pray you, hear my prayers, and quickly heal me, through the abundance of your mercy."
 
-meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode4C1T.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode4C1T.melody = he.h.m2_en_US_unknown.YmnoSeAkoi.notmetered
 meMA.Ode4C1T.incipit = "O all-hymned Virgin, as the…"
 meMA.Ode4C1T.text = "O all-hymned Virgin, as the cause of good things, rain down your rich mercies on us who come to you in faith. End our sufferings and dispel the many passions of our souls."
 
-meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode5C11.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "O godly Martyrs of the…"
 meMA.Ode5C11.text = "O godly Martyrs of the Lord, as your bodies were mangled, you mangled the madness of the foe. Heal my soul, for it has been mangled by evil."
 
-meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C12.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode5C12.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
 meMA.Ode5C12.incipit = "O blessed and victorious athletes…"
 meMA.Ode5C12.text = "O blessed and victorious athletes, we implore you with faith to plead for the forgiveness of our many sins and for the complete healing of our illnesses."
 
-meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C13.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode5C13.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
 meMA.Ode5C13.incipit = "O Saints, I am oppressed…"
 meMA.Ode5C13.text = "O Saints, I am oppressed with the sickness of serious sins, and troubled by physical pain. I pray you rescue me, by interceding with Christ, the Giver of Good."
 
-meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode5C1T.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode5C1T.melody = he.h.m2_en_US_unknown.OTouFotosChorigos.notmetered
 meMA.Ode5C1T.incipit = "O Virgin, without labor only…"
 meMA.Ode5C1T.text = "O Virgin, without labor only you gave birth to God in the flesh. Calm the disturbances of my sorry soul, and still the sufferings of my flesh, I pray."
 
-meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode6C11.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "O Saints, you are indestructible…"
 meMA.Ode6C11.text = "O Saints, you are indestructible foundations of the Church. By your entreaties, hold up the house of my soul, for it is shaken by every device of the foe."
 
-meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C12.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode6C12.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C12.incipit = "O glorious Martyrs, you are…"
 meMA.Ode6C12.text = "O glorious Martyrs, you are divine healers of souls and bodies. Heal the illnesses of our souls and bodies."
 
-meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C13.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode6C13.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C13.incipit = "O holy Martyrs, I run…"
 meMA.Ode6C13.text = "O holy Martyrs, I run to your sacred shrine as to a haven, and I pray you: Deliver me from the swelling waves of illness and trouble."
 
-meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode6C1T.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode6C1T.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "O Lady, you are superior…"
 meMA.Ode6C1T.text = "O Lady, you are superior to the noetic hosts. By your intercessions, make me superior to all the wickedness of the deceiver, that I may ever gratefully glorify you."
 
-meMA.Ode6H.ode = misc_en_US_unknown.Ode6
-meMA.Ode6H.mode = misc_en_US_unknown.Mode2
+meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode6H.melody = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_unknown.EnAvyssoPtaismaton.text
 
-meMA.Kontakion1.mode = misc_en_US_unknown.Mode3
+meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode3
 meMA.Kontakion1.melody = he.a.m3_en_US_unknown.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C11.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "O Martyrs, with a perfect…"
 meMA.Ode7C11.text = "O Martyrs, with a perfect frame of mind you threw off the burden of fleeting things, and you stripped for the contest. You threw down the tyrant, you received from heaven the grace to work cures and healings, and you cried out: O God of our Fathers, blessed are You."
 
-meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C12.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
 meMA.Ode7C12.incipit = "O holy athletes, I am…"
 meMA.Ode7C12.text = "O holy athletes, I am burning with many diseases. I take refuge in your ardent protection, and I pray to you with anguish of heart: Grant speedy healing to me as I sing: O God of our Fathers, blessed are You."
 
-meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C13.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
 meMA.Ode7C13.incipit = "O paragon of athletes Cyrus…"
 meMA.Ode7C13.text = "O paragon of athletes Cyrus, and reknowned Martyr John, I am suffering from destructive bodily diseases, and my soul is oppressed by darkness due to negative memories, sins, and passions. I entreat you, come quickly to rescue me."
 
-meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C1T.melody = he.h.m2_en_US_unknown.EikonosChrysis.notmetered
 meMA.Ode7C1T.incipit = "O holy Virgin, rescue me…"
 meMA.Ode7C1T.text = "O holy Virgin, rescue me from crafty men and evil demons, from the exegnecies and misfortunes of life, and from every other adversity, and save me as I sing: O God of our Fathers, blessed are You."
 
-meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C11.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "O all-blessed Saints, we cry…"
 meMA.Ode8C11.text = "O all-blessed Saints, we cry to you in prayer: Grant us a strong dose of your intercessions, and drive far from us every disease and sickness of soul and body, so that we may honor you unto all the ages."
 
-meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C12.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C12.incipit = "O Cyrus and John, holy…"
 meMA.Ode8C12.text = "O Cyrus and John, holy wonder-workers and healers, heal our sicknesses, and direct the drives of our passions to godly paths, so that we may worthily extol you."
 
-meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C13.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C13.incipit = "O Martyrs, I have wasted…"
 meMA.Ode8C13.text = "O Martyrs, I have wasted my life in idleness. I am terrified by the dread judgment. Deliver me from that condemnation, for you are the ardent defenders of my soul, which is darkened with passions."
 
-meMA.Ode8C1Tr.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C1Tr.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C1Tr.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C1Tr.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C1Tr.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C1Tr.incipit = "…"
 meMA.Ode8C1Tr.text = ""
 
-meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C1T.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C1T.incipit = "O pure Virgin, our transcendent…"
 meMA.Ode8C1T.text = "O pure Virgin, our transcendent God was seen in the likeness of flesh from you. We, who pass our lives in wickedness and tremble before the everlasting torments, pray you: Unceasingly implore Him to have mercy on us."
 
-meMA.Ode8H.ode = misc_en_US_unknown.Ode8
-meMA.Ode8H.mode = misc_en_US_unknown.Mode2
+meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8H.melody = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.melody
 meMA.Ode8H.incipit = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.incipit
 meMA.Ode8H.text = he.h.m2_en_US_unknown.TonEnKaminoTouPyros.text
 
-meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C11.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C11.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "O glorious holy Martyrs, fair…"
 meMA.Ode9C11.text = "O glorious holy Martyrs, fair with divine beauty, you are now with the most sacred choirs of medaled athletes. Ever entreat Jesus, who is handsome in beauty, that He make our hearts beautiful."
 
-meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C12.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C12.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C12.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C12.incipit = "O athletes of the Lord…"
 meMA.Ode9C12.text = "O athletes of the Lord, as fragrant lilies of the noetic Paradise, you make every soul fragrant with sweet and sacred fragrances. I entreat you to dispel the stench of my passions and to grant me health and grace."
 
-meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C13.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C13.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C13.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C13.incipit = "O divine Martyrs, stop the…"
 meMA.Ode9C13.text = "O divine Martyrs, stop the rushing of my passions as you once did the ungodly flood of deception with the rivers of your blood. Pray for me that I may have an outpouring of spiritual tears, so that I may wash away the filth of my sins."
 
-meMA.Ode9C14.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C14.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C14.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C14.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C14.incipit = "…"
 meMA.Ode9C14.text = ""
 
-meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C1T.mode = misc_en_US_unknown.Mode2
+meMA.Ode9C1T.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C1T.incipit = "O pure Maiden, you held…"
 meMA.Ode9C1T.text = "O pure Maiden, you held the never-setting Sun of Righteousness in your arms, like a cloud radiant with light. I who am darkened by many evils cry to you: Guide me with your light, so that I may unceasingly honor you."
 
-meMA.Ode9H.ode = misc_en_US_unknown.Ode9
-meMA.Ode9H.mode = misc_en_US_unknown.Mode2
+meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9H.melody = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.incipit
 meMA.Ode9H.text = he.h.m2_en_US_unknown.TonEkTheouTheonLogon.text

@@ -2,49 +2,49 @@ A_Resource_Whose_Name = he.a.m7_en_US_unknown
 
 he.title = ""
 
-KatafronisantesPanton.mode = misc_en_US_unknown.Mode7
+KatafronisantesPanton.mode = miscellanea_en_US_unknown.misc.Mode7
 KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
 KatafronisantesPanton.name = "When you had wisely."
 KatafronisantesPanton.incipit = "When you had wisely…"
 KatafronisantesPanton.text = ""
 
-ODiEmeAnaschomenos.mode = misc_en_US_unknown.Mode7
+ODiEmeAnaschomenos.mode = miscellanea_en_US_unknown.misc.Mode7
 ODiEmeAnaschomenos.notmetered = "N/M ()"
 ODiEmeAnaschomenos.name = ""
 ODiEmeAnaschomenos.incipit = "…"
 ODiEmeAnaschomenos.text = ""
 
-OsEchousaToSympathes.mode = misc_en_US_unknown.Mode7
+OsEchousaToSympathes.mode = miscellanea_en_US_unknown.misc.Mode7
 OsEchousaToSympathes.notmetered = "N/M ()"
 OsEchousaToSympathes.name = ""
 OsEchousaToSympathes.incipit = "…"
 OsEchousaToSympathes.text = ""
 
-OuketiFloginiRomfaia.mode = misc_en_US_unknown.Mode7
+OuketiFloginiRomfaia.mode = miscellanea_en_US_unknown.misc.Mode7
 OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
 OuketiFloginiRomfaia.name = "The fiery sword."
 OuketiFloginiRomfaia.incipit = "The fiery sword…"
 OuketiFloginiRomfaia.text = ""
 
-OukEtiKolyometha.mode = misc_en_US_unknown.Mode7
+OukEtiKolyometha.mode = miscellanea_en_US_unknown.misc.Mode7
 OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
 OukEtiKolyometha.name = "No longer are we barred."
 OukEtiKolyometha.incipit = "No longer are we barred…"
 OukEtiKolyometha.text = ""
 
-PyrosFoteinoteron.mode = misc_en_US_unknown.Mode7
+PyrosFoteinoteron.mode = miscellanea_en_US_unknown.misc.Mode7
 PyrosFoteinoteron.notmetered = "N/M (More dazzling than flame.)"
 PyrosFoteinoteron.name = "More dazzling than flame."
 PyrosFoteinoteron.incipit = "…"
 PyrosFoteinoteron.text = ""
 
-SimeronGrigoreiOIoudas.mode = misc_en_US_unknown.Mode7
+SimeronGrigoreiOIoudas.mode = miscellanea_en_US_unknown.misc.Mode7
 SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
 SimeronGrigoreiOIoudas.name = "Judas today is vigilant."
 SimeronGrigoreiOIoudas.incipit = "Judas today is vigilant…"
 SimeronGrigoreiOIoudas.text = ""
 
-XylonZois.mode = misc_en_US_unknown.Mode7
+XylonZois.mode = miscellanea_en_US_unknown.misc.Mode7
 XylonZois.notmetered = "N/M (The tree of life.)"
 XylonZois.name = "The tree of life."
 XylonZois.incipit = "The tree of life…"

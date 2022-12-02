@@ -19,33 +19,33 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = misc_en_US_unknown.Mode8
+meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_unknown.OTouParadoxou.notmetered
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
-meVE.Stichera02.mode = misc_en_US_unknown.Mode8
+meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_unknown.OTouParadoxou.notmetered
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
-meVE.Stichera03.mode = misc_en_US_unknown.Mode8
+meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_unknown.OTouParadoxou.notmetered
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
-meVE.SticTheotokion.mode = misc_en_US_unknown.Mode8
+meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_unknown.OTouParadoxou.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
-meVE.SticStavrotheotokion.mode = misc_en_US_unknown.Mode8
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_unknown.OTouParadoxou.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
-meVE.Apolytikion1.poet = poets_en_US_unknown.Gerasimou
-meVE.Apolytikion1.mode = misc_en_US_unknown.Mode4
+meVE.Apolytikion1.poet = poets_en_US_unknown.po.Gerasimou
+meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.TachyProkatalave.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
@@ -58,173 +58,173 @@ meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_US_unknown.ti.CanonSaintM
 meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
-meMA.Ode1C1H.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_unknown.AsomaiSoiKyrie.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.AsomaiSoiKyrie.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_unknown.AsomaiSoiKyrie.text
 
-meMA.Ode1C11.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_unknown.AsomaiSoiKyrie.notmetered
 meMA.Ode1C11.incipit = "Because we have fasting as…"
 meMA.Ode1C11.text = "Because we have fasting as a strong weapon against every stronghold of the outsider, let us bravely trample down his schemes."
 
-meMA.Ode1C12.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C12.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_unknown.AsomaiSoiKyrie.notmetered
 meMA.Ode1C12.incipit = "Enlightened with the beauty of…"
 meMA.Ode1C12.text = "Enlightened with the beauty of the Spirit, O God-bearer, through virtue you set the noetic eyes of your soul upon the never-setting light."
 
-meMA.Ode1C13.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C13.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_unknown.AsomaiSoiKyrie.notmetered
 meMA.Ode1C13.incipit = "Throwing off the burden of…"
 meMA.Ode1C13.text = "Throwing off the burden of earthly possessions through self-denial, you ran the entire race of the ascetic life as though you were without body, O Father Gerasimos."
 
-meMA.Ode1C1T.ode = misc_en_US_unknown.Ode1
-meMA.Ode1C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode1C1T.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_unknown.AsomaiSoiKyrie.notmetered
 meMA.Ode1C1T.incipit = "Your perfect Child has led…"
 meMA.Ode1C1T.text = "Your perfect Child has led us to a heavenly life from the earth, O pure one, guiding us to the Heavens by the wings of fasting."
 
-meMA.Ode3C1H.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3C1H.melody = he.h.m4_en_US_unknown.EnKyrioTheoMou.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_unknown.EnKyrioTheoMou.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_unknown.EnKyrioTheoMou.text
 
-meMA.Ode3C11.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3C11.melody = he.h.m4_en_US_unknown.EnKyrioTheoMou.notmetered
 meMA.Ode3C11.incipit = "Killing the feral fauna of…"
 meMA.Ode3C11.text = "Killing the feral fauna of the passions with fasting, let us come closer to Christ through dispassion and purity."
 
-meMA.Ode3C12.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C12.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_unknown.EnKyrioTheoMou.notmetered
 meMA.Ode3C12.incipit = "Always looking towards the immaterial…"
 meMA.Ode3C12.text = "Always looking towards the immaterial longing for the Lord, O righteous Father, you scorned the material and temporal."
 
-meMA.Ode3C13.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C13.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3C13.melody = he.h.m4_en_US_unknown.EnKyrioTheoMou.notmetered
 meMA.Ode3C13.incipit = "With Christ always on your…"
 meMA.Ode3C13.text = "With Christ always on your tongue, O Father Gerasimos, you verified the veracity of your speech by miracles."
 
-meMA.Ode3C1T.ode = misc_en_US_unknown.Ode3
-meMA.Ode3C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode3C1T.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3C1T.melody = he.h.m4_en_US_unknown.EnKyrioTheoMou.notmetered
 meMA.Ode3C1T.incipit = "Enfirm the infirmity of our…"
 meMA.Ode3C1T.text = "Enfirm the infirmity of our nature with fasting and struggles, O Virgin One, and make it firm against the passions."
 
-meMA.Ode3Kathisma1.mode = misc_en_US_unknown.Mode1
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.TouLithouSfragisthentos.notmetered
 meMA.Ode3Kathisma1.incipit = "You fervently climbed the ladder…"
 meMA.Ode3Kathisma1.text = "You fervently climbed the ladder of godly morality and you reached the summit of divine noetic vision, receiving meditations unblemished and unmurky showing the divine mysteries of Christ. Thus we honor you with reverence, as we exclaim, God-bearer Gerasimos: Glory to Christ, who strengthened you. Glory to Him who gave you the crown. Glory to Him who heals everyone through you."
 
-meMA.Ode3KathismaT.mode = misc_en_US_unknown.Mode1
+meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.TouLithouSfragisthentos.notmetered
 meMA.Ode3KathismaT.incipit = "Reach out your divine hands…"
 meMA.Ode3KathismaT.text = "Reach out your divine hands that carried the Creator, who in His great benevolence took on flesh, O Virgin Theotokos; arduously ask Him to redeem us from all varieties of passions and temptations and all perils, we who faithfully chant your praise and cry out to you with yearning: *Glory to Him whose will was to dwell in you. Glory to Him that came forth from you. Glory to Him that has delivered us through your child-bearing."
 
-meMA.Ode3KathismaSt.mode = misc_en_US_unknown.Mode1
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.TouLithouSfragisthentos.notmetered
 meMA.Ode3KathismaSt.incipit = "When You, O Lord, were…"
 meMA.Ode3KathismaSt.text = "When You, O Lord, were nailed to the Cross by the sinners and stabbed in Your side with a lance by the soldiers, O my Savior, the immaculate Virgin grieved You sorrowfully, torn on the inside with painful maternal mourning; and because Your dread patience suffered so much, she exclaimed in her amazement: Glory unto Your gentle love for mankind. Glory to Your kindness. Glory to You that through Your death all of us mortals are delivered from death."
 
-meMA.Ode4C1H.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C1H.melody = he.h.m4_en_US_unknown.TisSisEpiGis.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_unknown.TisSisEpiGis.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_unknown.TisSisEpiGis.text
 
-meMA.Ode4C11.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C11.melody = he.h.m4_en_US_unknown.TisSisEpiGis.notmetered
 meMA.Ode4C11.incipit = "To prove Your love for…"
 meMA.Ode4C11.text = "To prove Your love for mortals, O Christ God, You have given the season of fasting, O Savior, during which You clean and sanctify the souls and bodies of Your servants."
 
-meMA.Ode4C12.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_unknown.TisSisEpiGis.notmetered
 meMA.Ode4C12.incipit = "After you climbed the entire…"
 meMA.Ode4C12.text = "After you climbed the entire ladder of the virtues, O wise Gerasimos, you were made worthy of mystical visions, and you received the grace to see things that had not yet come to pass."
 
-meMA.Ode4C13.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C13.melody = he.h.m4_en_US_unknown.TisSisEpiGis.notmetered
 meMA.Ode4C13.incipit = "Through the sweat of your…"
 meMA.Ode4C13.text = "Through the sweat of your righteous struggles, you watered the barren desert and made its fruit manifest, as it led men to Christ."
 
-meMA.Ode4C1T.ode = misc_en_US_unknown.Ode4
-meMA.Ode4C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode4C1T.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_US_unknown.TisSisEpiGis.notmetered
 meMA.Ode4C1T.incipit = "O immaculate Virgin, Because you…"
 meMA.Ode4C1T.text = "O immaculate Virgin, Because you have been granted to the faithful as a support by Christ who has made you glorious, strengthen us with power who sing your praise in this season of temperance."
 
-meMA.Ode5C1H.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode5C1H.melody = he.h.m4_en_US_unknown.OAnateilasToFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_unknown.OAnateilasToFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_unknown.OAnateilasToFos.text
 
-meMA.Ode5C11.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode5C11.melody = he.h.m4_en_US_unknown.OAnateilasToFos.notmetered
 meMA.Ode5C11.incipit = "O compassionate Jesus, take us…"
 meMA.Ode5C11.text = "O compassionate Jesus, take us away through fasting from servile attachment, and lead us to the summit of Your love."
 
-meMA.Ode5C12.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C12.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode5C12.melody = he.h.m4_en_US_unknown.OAnateilasToFos.notmetered
 meMA.Ode5C12.incipit = "O Gerasimos, through the war…"
 meMA.Ode5C12.text = "O Gerasimos, through the war of your prayers, you valiantly impaled and wounded the legions of demons, and you praised Christ, the Son of God."
 
-meMA.Ode5C13.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C13.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_unknown.OAnateilasToFos.notmetered
 meMA.Ode5C13.incipit = "O God-bearer, by staying away…"
 meMA.Ode5C13.text = "O God-bearer, by staying away from the murky haze of the passions, you noetically drew near to the light of self-control and purity."
 
-meMA.Ode5C1T.ode = misc_en_US_unknown.Ode5
-meMA.Ode5C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode5C1T.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode5C1T.melody = he.h.m4_en_US_unknown.OAnateilasToFos.notmetered
 meMA.Ode5C1T.incipit = "O Virgin one, wash us…"
 meMA.Ode5C1T.text = "O Virgin one, wash us clean of the filth of our minds through abstinence and make us pure, so that we may give glory to the Son of God."
 
-meMA.Ode6C1H.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode6C1H.melody = he.h.m4_en_US_unknown.OsIonanTonProfitin.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_unknown.OsIonanTonProfitin.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_unknown.OsIonanTonProfitin.text
 
-meMA.Ode6C11.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode6C11.melody = he.h.m4_en_US_unknown.OsIonanTonProfitin.notmetered
 meMA.Ode6C11.incipit = "O Savior, grant us to…"
 meMA.Ode6C11.text = "O Savior, grant us to be worthy who have been made radiant with the beauty of abstinence so that we may behold the divine glory and radiance of Your resurrection."
 
-meMA.Ode6C12.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C12.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode6C12.melody = he.h.m4_en_US_unknown.OsIonanTonProfitin.notmetered
 meMA.Ode6C12.incipit = "O Gerasimos, radiating like the…"
 meMA.Ode6C12.text = "O Gerasimos, radiating like the morning star into the darkness of life, you led men to the light of the life of the bodiless Angels."
 
-meMA.Ode6C13.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C13.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode6C13.melody = he.h.m4_en_US_unknown.OsIonanTonProfitin.notmetered
 meMA.Ode6C13.incipit = "O all-celebrated Father, you squashed…"
 meMA.Ode6C13.text = "O all-celebrated Father, you squashed the heads of the noetic predators by the rod of prayer, and you saved men from becoming their kill."
 
-meMA.Ode6C1T.ode = misc_en_US_unknown.Ode6
-meMA.Ode6C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode6C1T.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_unknown.OsIonanTonProfitin.notmetered
 meMA.Ode6C1T.incipit = "O Mother of God, through…"
 meMA.Ode6C1T.text = "O Mother of God, through you we have known the Master of all. We have been saved from the fallacy of the idols, and with desire we correctly glorify you as the Mother of God."
 
-meMA.Kontakion1.poet = poets_en_US_unknown.Gerasimou
-meMA.Kontakion1.mode = misc_en_US_unknown.Mode4
+meMA.Kontakion1.poet = poets_en_US_unknown.po.Gerasimou
+meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_unknown.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -238,98 +238,98 @@ meMA.Kontakion1.text = ""
 //meMA.Oikos17.text = ""
 //meMA.Oikos18.text = ""
 
-meMA.Ode7C1H.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C1H.melody = he.h.m4_en_US_unknown.OEnToOreiToMosei.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_unknown.OEnToOreiToMosei.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_unknown.OEnToOreiToMosei.text
 
-meMA.Ode7C11.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_unknown.OEnToOreiToMosei.notmetered
 meMA.Ode7C11.incipit = "Climbing the mountain of a…"
 meMA.Ode7C11.text = "Climbing the mountain of a God-inspired way of life by abstinence and self-control, we will noetically see the Lord, the Giver of Light, as in a mirror."
 
-meMA.Ode7C12.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_unknown.OEnToOreiToMosei.notmetered
 meMA.Ode7C12.incipit = "O God-bearer, dancing in the…"
 meMA.Ode7C12.text = "O God-bearer, dancing in the uncontaminated gardens of the virtues, you harvested the flowers of wonder-working, giving the excessive grace of it to everyone."
 
-meMA.Ode7C13.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_unknown.OEnToOreiToMosei.notmetered
 meMA.Ode7C13.incipit = "O God-bearer, because you had…"
 meMA.Ode7C13.text = "O God-bearer, because you had guarded the honor that is after the image of God, you were fearful to savage beasts, while constantly singing songs of thanksgiving to God."
 
-meMA.Ode7C1T.ode = misc_en_US_unknown.Ode7
-meMA.Ode7C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C1T.melody = he.h.m4_en_US_unknown.OEnToOreiToMosei.notmetered
 meMA.Ode7C1T.incipit = "O pure Theotokos, we who…"
 meMA.Ode7C1T.text = "O pure Theotokos, we who praise and hymn you, through fasting and struggles secure us with power and strength against spiritual adversaries."
 
-meMA.Ode8C1H.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C1H.melody = he.h.m4_en_US_unknown.TonVasileaChriston.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.TonVasileaChriston.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_unknown.TonVasileaChriston.text
 
-meMA.Ode8C11.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.TonVasileaChriston.notmetered
 meMA.Ode8C11.incipit = "O Lord and Master, Ruler…"
 meMA.Ode8C11.text = "O Lord and Master, Ruler of all, because You are righteous, ensure that we may rule over the passions and desires of the flesh through fasting and works, that we may bless You for all the ages."
 
-meMA.Ode8C12.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_unknown.TonVasileaChriston.notmetered
 meMA.Ode8C12.incipit = " O godly-minded Gerasimos, having…"
 meMA.Ode8C12.text = " O godly-minded Gerasimos, having received Christ the King into your heart as an infant, you were a wonderful abode of His gifts and divine enlightenment, giving glory to Him constantly."
 
-meMA.Ode8C13.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_unknown.TonVasileaChriston.notmetered
 meMA.Ode8C13.incipit = "O Father Gerasimos, you were…"
 meMA.Ode8C13.text = "O Father Gerasimos, you were not scorched in the flame of the passions, because you were thoroughly watered with the dew of the graces of Christ from Heaven, while passionately worshipping Him with love as the God of everything."
 
-meMA.Ode8C1T.ode = misc_en_US_unknown.Ode8
-meMA.Ode8C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_unknown.TonVasileaChriston.notmetered
 meMA.Ode8C1T.incipit = "O pure Lady, He that…"
 meMA.Ode8C1T.text = "O pure Lady, He that took on flesh of your all-holy blood, Himself cleanses us of impurities of the flesh through fasting and works, giving us might by your unceasing prayers, O Virgin Mother of God."
 
-meMA.Ode9C1H.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C1H.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C1H.melody = he.h.m4_en_US_unknown.TonAsporonTokonSou.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.TonAsporonTokonSou.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_unknown.TonAsporonTokonSou.text
 
-meMA.Ode9C11.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C11.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_US_unknown.TonAsporonTokonSou.notmetered
 meMA.Ode9C11.incipit = "The richness of the grace…"
 meMA.Ode9C11.text = "The richness of the grace of the Holy Spirit is offered to all who harvest it by the works of abstinence."
 
-meMA.Ode9C12.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C12.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C12.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_US_unknown.TonAsporonTokonSou.notmetered
 meMA.Ode9C12.incipit = "O righteous Father, you lived…"
 meMA.Ode9C12.text = "O righteous Father, you lived an immaterial life and conversation in a material body, giving glory to the Lord who gave you strength."
 
-meMA.Ode9C13.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C13.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C13.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_US_unknown.TonAsporonTokonSou.notmetered
 meMA.Ode9C13.incipit = "O Gerasimos, having all the…"
 meMA.Ode9C13.text = "O Gerasimos, having all the yearning of your soul only on those things that do not expire, you were considered worthy of your desire."
 
-meMA.Ode9C14.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C14.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C14.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C14.melody = he.h.m4_en_US_unknown.TonAsporonTokonSou.notmetered
 meMA.Ode9C14.incipit = "O righteous one, as you…"
 meMA.Ode9C14.text = "O righteous one, as you stand before Christ with the saints, pray to Him for those that keep your holy memory."
 
-meMA.Ode9C1T.ode = misc_en_US_unknown.Ode9
-meMA.Ode9C1T.mode = misc_en_US_unknown.Mode4
+meMA.Ode9C1T.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.TonAsporonTokonSou.notmetered
 meMA.Ode9C1T.incipit = "O Lady Mother of God…"
 meMA.Ode9C1T.text = "O Lady Mother of God, your grace radiates from on high, enlightening those who constantly magnify you."
