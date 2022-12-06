@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartys
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
-meVE.Apolytikion1.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
 //Canon translated by Austin Martin
 
@@ -242,11 +242,11 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_unknown.heHE.ProsTonDynamenonSozein.notmeter
 meMA.Ode6C1T.incipit = "O all-blameless Virgin, the reigning…"
 meMA.Ode6C1T.text = "O all-blameless Virgin, the reigning Lord descended upon you as upon a swift cloud, so that He might destroy the hand-wrought idols of Egypt."
 
-meMA.Kontakion1.poet = poets_en_US_unknown.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode2
-meMA.Kontakion1.melody = he.a.m6_en_US_unknown.heAU.TinEnPresveiais.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Kontakion1ger.melody = he.a.m6_en_US_unknown.heAU.TinEnPresveiais.notmetered
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -362,10 +362,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_unknown.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C1T.incipit = "O Artificer, You who were…"
 meMA.Ode9C1T.text = "O Artificer, You who were born of a Virgin, cast down the haughty brow and arrogance of our enemies and the counsels of those of evil belief. Being God, Make steadfast and unshakeable the assembly of the faithful. Exalt our horn and make us strong in faith, so that we all may magnify You."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 

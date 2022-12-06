@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = he.a.m8_en_US_unknown.heAU.OTouParadoxou.notm
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
-meVE.Apolytikion1.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
 //Canon translated by Austin Martin
 
@@ -223,20 +223,20 @@ meMA.Ode6C1T.melody = he.h.m4_en_US_unknown.heHE.OsIonanTonProfitin.notmetered
 meMA.Ode6C1T.incipit = "O Mother of God, through…"
 meMA.Ode6C1T.text = "O Mother of God, through you we have known the Master of all. We have been saved from the fallacy of the idols, and with desire we correctly glorify you as the Mother of God."
 
-meMA.Kontakion1.poet = poets_en_US_unknown.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Kontakion1ger.melody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.notmetered
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
-//meMA.Oikos1.text = ""
-//meMA.Oikos12.text = ""
-//meMA.Oikos13.text = ""
-//meMA.Oikos14.text = ""
-//meMA.Oikos15.text = ""
-//meMA.Oikos16.text = ""
-//meMA.Oikos17.text = ""
-//meMA.Oikos18.text = ""
+//meMA.Oikos1ger.text = ""
+//meMA.Oikos12ger.text = ""
+//meMA.Oikos13ger.text = ""
+//meMA.Oikos14ger.text = ""
+//meMA.Oikos15ger.text = ""
+//meMA.Oikos16ger.text = ""
+//meMA.Oikos17ger.text = ""
+//meMA.Oikos18ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -334,10 +334,10 @@ meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.heHE.TonAsporonTokonSou.notmetered
 meMA.Ode9C1T.incipit = "O Lady Mother of God…"
 meMA.Ode9C1T.text = "O Lady Mother of God, your grace radiates from on high, enlightening those who constantly magnify you."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 

@@ -43,11 +43,11 @@ meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
 meVE.SticStavrotheotokion.text = "" //oc.m2.d6_en_US_unknown.ocMA.AposTheotokion.text
 
-meVE.Apolytikion1.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.Apolytikion1.melody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode1
+meVE.Apolytikion1ger.melody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.notmetered
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
@@ -222,11 +222,11 @@ meMA.Ode6C1T.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "O all-hymned Virgin Mother of…"
 meMA.Ode6C1T.text = "O all-hymned Virgin Mother of God, the Sun of Righteousness who never sets came to dawn from your holy womb so that He may bring light to the faithful."
 
-meMA.Kontakion1.poet = poets_en_US_unknown.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode8
-meMA.Kontakion1.melody = he.a.m8_en_US_unknown.heAU.TiYpermacho.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Kontakion1ger.melody = he.a.m8_en_US_unknown.heAU.TiYpermacho.notmetered
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -318,10 +318,10 @@ meMA.Ode9C1T.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C1T.incipit = "O Virgin, all-hymned Lady, Birthgiver…"
 meMA.Ode9C1T.text = "O Virgin, all-hymned Lady, Birthgiver of the Light, force the clouds out from my soul. Enable me to mirror in clarity the salvific splendor of Him who beyond understanding radiated from your all-holy womb as a light for the nations."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 

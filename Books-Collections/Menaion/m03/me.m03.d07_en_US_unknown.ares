@@ -44,17 +44,17 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.no
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
-meVE.Apolytikion1.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
-meVE.Apolytikion2.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.Apolytikion2.melody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.notmetered
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_US_unknown.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_unknown.misc.Mode1
+meVE.Apolytikion2ger.melody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.notmetered
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 //Canon translated by Austin Martin
 
@@ -235,11 +235,11 @@ meMA.Ode6C1T.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "O Virgin without any guilt…"
 meMA.Ode6C1T.text = "O Virgin without any guilt, the Prophets foretold of you with their unclear messages, as did the Law which cast shadows of you. Your conception beyond of understanding delivered the world from destruction."
 
-meMA.Kontakion1.poet = poets_en_US_unknown.po.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode8
-meMA.Kontakion1.melody = he.a.m8_en_US_unknown.heAU.OsAparchas.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = poets_en_US_unknown.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Kontakion1ger.melody = he.a.m8_en_US_unknown.heAU.OsAparchas.notmetered
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -343,10 +343,10 @@ meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C1T.incipit = "The Maiden who was given…"
 meMA.Ode9C1T.text = "The Maiden who was given grace by God, as she cradled Christ in her arms, this Christ who Himself holds everything in His own hand, she exclaimed in wonder: How can I understand You to be both my Son and my Creator, You who are beyond understanding?"
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 
