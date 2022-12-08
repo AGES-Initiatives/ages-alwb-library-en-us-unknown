@@ -2,96 +2,112 @@ A_Resource_Whose_Name = he.a.m3_en_US_unknown
 
 heAU.title = ""
 
+heAU.ApostoloiEkPeraton.greekname = ""
 heAU.ApostoloiEkPeraton.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.ApostoloiEkPeraton.notmetered = "N/M (Apostles assembled.)"
 heAU.ApostoloiEkPeraton.name = "Apostles, you have assembled."
 heAU.ApostoloiEkPeraton.incipit = "Apostles, you have assembled…"
 heAU.ApostoloiEkPeraton.text = ""
 
+heAU.EnPnevmatiToIero.greekname = ""
 heAU.EnPnevmatiToIero.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.EnPnevmatiToIero.notmetered = "N/M (The Elder.)"
 heAU.EnPnevmatiToIero.name = "The Elder in the Temple."
 heAU.EnPnevmatiToIero.incipit = "The Elder in the Temple…"
 heAU.EnPnevmatiToIero.text = ""
 
+heAU.EpefaniOSotir.greekname = ""
 heAU.EpefaniOSotir.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.EpefaniOSotir.notmetered = "N/M (Our Savior, grace and truth.)"
 heAU.EpefaniOSotir.name = "Our Savior, grace and truth."
 heAU.EpefaniOSotir.incipit = "Our Savior, grace and truth…"
 heAU.EpefaniOSotir.text = ""
 
+heAU.EpeskepsatoImas.greekname = ""
 heAU.EpeskepsatoImas.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.EpeskepsatoImas.notmetered = "N/M (Our Savior from on high.)"
 heAU.EpeskepsatoImas.name = "Our Savior from on high."
 heAU.EpeskepsatoImas.incipit = "Our Savior from on high…"
 heAU.EpeskepsatoImas.text = ""
 
+heAU.FosAnalloioton.greekname = ""
 heAU.FosAnalloioton.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.FosAnalloioton.notmetered = "N/M (O Logos, light unaltered.)"
 heAU.FosAnalloioton.name = "O Logos, light unaltered."
 heAU.FosAnalloioton.incipit = "O Logos, light unaltered…"
 heAU.FosAnalloioton.text = ""
 
+heAU.IParthenosSimeron.greekname = ""
 heAU.IParthenosSimeron.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.IParthenosSimeron.notmetered = "N/M (On this day.)"
 heAU.IParthenosSimeron.name = "On this day."
 heAU.IParthenosSimeron.incipit = "On this day…"
 heAU.IParthenosSimeron.text = ""
 
+heAU.MegaliTonMartyronSou.greekname = ""
 heAU.MegaliTonMartyronSou.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.MegaliTonMartyronSou.notmetered = "N/M (The power of Your martyr Saints.)"
 heAU.MegaliTonMartyronSou.name = "The power of Your martyr Saints."
 heAU.MegaliTonMartyronSou.incipit = "The power of Your martyr Saints…"
 heAU.MegaliTonMartyronSou.text = ""
 
+heAU.MegaliTouStavrouSou.greekname = ""
 heAU.MegaliTouStavrouSou.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.MegaliTouStavrouSou.notmetered = "N/M (The power of Your holy Cross.)"
 heAU.MegaliTouStavrouSou.name = "The power of Your holy Cross."
 heAU.MegaliTouStavrouSou.incipit = "The power of Your holy Cross…"
 heAU.MegaliTouStavrouSou.text = ""
 
+heAU.OOuranonToisAstrois.greekname = ""
 heAU.OOuranonToisAstrois.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.OOuranonToisAstrois.notmetered = "N/M (Having embellished.)"
 heAU.OOuranonToisAstrois.name = "Having embellished heaven."
 heAU.OOuranonToisAstrois.incipit = "Having embellished heaven…"
 heAU.OOuranonToisAstrois.text = ""
 
+heAU.SosonMeKyrie.greekname = ""
 heAU.SosonMeKyrie.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.SosonMeKyrie.notmetered = "N/M (Save me, O Lord.)"
 heAU.SosonMeKyrie.name = "Save me, O Lord."
 heAU.SosonMeKyrie.incipit = "Save me, O Lord…"
 heAU.SosonMeKyrie.text = ""
 
+heAU.StavrofanosMoysis.greekname = ""
 heAU.StavrofanosMoysis.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.StavrofanosMoysis.notmetered = "N/M (When Moses stood.)"
 heAU.StavrofanosMoysis.name = "When Moses stood."
 heAU.StavrofanosMoysis.incipit = "When Moses stood…"
 heAU.StavrofanosMoysis.text = ""
 
+heAU.TheiasPisteos.greekname = ""
 heAU.TheiasPisteos.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.TheiasPisteos.notmetered = "N/M (Your confession.)"
 heAU.TheiasPisteos.name = "Your confession."
 heAU.TheiasPisteos.incipit = "Your confession…"
 heAU.TheiasPisteos.text = ""
 
+heAU.TinOraiotita.greekname = ""
 heAU.TinOraiotita.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.TinOraiotita.notmetered = "N/M (Seeing how beautiful.)"
 heAU.TinOraiotita.name = "Seeing how beautiful."
 heAU.TinOraiotita.incipit = "Seeing how beautiful…"
 heAU.TinOraiotita.text = ""
 
+heAU.ToTypoTouStavrou.greekname = ""
 heAU.ToTypoTouStavrou.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.ToTypoTouStavrou.notmetered = "N/M ()"
 heAU.ToTypoTouStavrou.name = ""
 heAU.ToTypoTouStavrou.incipit = "…"
 heAU.ToTypoTouStavrou.text = ""
 
+heAU.TonListinAfthimeron.greekname = ""
 heAU.TonListinAfthimeron.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.TonListinAfthimeron.notmetered = "N/M (On the very same day.)"
 heAU.TonListinAfthimeron.name = "On the very same day."
 heAU.TonListinAfthimeron.incipit = "On the very same day…"
 heAU.TonListinAfthimeron.text = ""
 
+heAU.TonNymfonaSouVlepo.greekname = ""
 heAU.TonNymfonaSouVlepo.mode = miscellanea_en_US_unknown.misc.Mode3
 heAU.TonNymfonaSouVlepo.notmetered = "N/M (O my Savior, now I see.)"
 heAU.TonNymfonaSouVlepo.name = "O my Savior, now I see."

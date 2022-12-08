@@ -2,60 +2,70 @@ A_Resource_Whose_Name = he.a.m6_en_US_unknown
 
 heAU.title = ""
 
+heAU.AiAngelikai.greekname = ""
 heAU.AiAngelikai.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.AiAngelikai.notmetered = "N/M (O angelic powers.)"
 heAU.AiAngelikai.name = "O angelic powers."
 heAU.AiAngelikai.incipit = "O angelic powers…"
 heAU.AiAngelikai.text = ""
 
+heAU.AngelikaiDynameis.greekname = ""
 heAU.AngelikaiDynameis.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.AngelikaiDynameis.notmetered = "N/M (When the angelic powers.)"
 heAU.AngelikaiDynameis.name = "When the angelic powers."
 heAU.AngelikaiDynameis.incipit = "When the angelic powers…"
 heAU.AngelikaiDynameis.text = ""
 
+heAU.EkGastrosEtechthis.greekname = ""
 heAU.EkGastrosEtechthis.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.EkGastrosEtechthis.notmetered = "N/M (From the womb.)"
 heAU.EkGastrosEtechthis.name = "From the womb."
 heAU.EkGastrosEtechthis.incipit = "From the womb…"
 heAU.EkGastrosEtechthis.text = ""
 
+heAU.ElpisTouKosmouAgathi.greekname = ""
 heAU.ElpisTouKosmouAgathi.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.ElpisTouKosmouAgathi.notmetered = "N/M (You are the good hope.)"
 heAU.ElpisTouKosmouAgathi.name = "You are the good hope."
 heAU.ElpisTouKosmouAgathi.incipit = "You are the good hope…"
 heAU.ElpisTouKosmouAgathi.text = ""
 
+heAU.IApegnosmeni.greekname = ""
 heAU.IApegnosmeni.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.IApegnosmeni.notmetered = "N/M (That woman, who was spurned.)"
 heAU.IApegnosmeni.name = "That woman, who was spurned."
 heAU.IApegnosmeni.incipit = "That woman, who was spurned…"
 heAU.IApegnosmeni.text = ""
 
+heAU.KyrieEleisonImas.greekname = ""
 heAU.KyrieEleisonImas.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.KyrieEleisonImas.notmetered = "N/M ()"
 heAU.KyrieEleisonImas.name = "N/M ()"
 heAU.KyrieEleisonImas.incipit = "…"
 heAU.KyrieEleisonImas.text = ""
 
+heAU.OlinApothemenoi.greekname = ""
 heAU.OlinApothemenoi.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.OlinApothemenoi.notmetered = "N/M (When the saints.)"
 heAU.OlinApothemenoi.name = "When the saints deposited."
 heAU.OlinApothemenoi.incipit = "When the saints deposited…"
 heAU.OlinApothemenoi.text = ""
 
+heAU.TinEnPresveiais.greekname = ""
 heAU.TinEnPresveiais.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.TinEnPresveiais.notmetered = "N/M (The Theotokos, unsleeping.)"
 heAU.TinEnPresveiais.name = "The Theotokos, unsleeping."
 heAU.TinEnPresveiais.incipit = "The Theotokos, unsleeping…"
 heAU.TinEnPresveiais.text = ""
 
+heAU.TinYperImon.greekname = ""
 heAU.TinYperImon.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.TinYperImon.notmetered = "N/M (When You had fulfilled.)"
 heAU.TinYperImon.name = "When You had fulfilled."
 heAU.TinYperImon.incipit = "When You had fulfilled…"
 heAU.TinYperImon.text = ""
 
+heAU.TriimerosAnestis.greekname = ""
 heAU.TriimerosAnestis.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.TriimerosAnestis.notmetered = "N/M (O Christ, as it is written.)"
 heAU.TriimerosAnestis.name = "O Christ, as it is written."

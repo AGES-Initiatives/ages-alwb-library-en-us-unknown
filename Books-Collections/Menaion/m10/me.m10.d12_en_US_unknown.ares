@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode1
+meVE.Stichera01.greekmelody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.greekname
 meVE.Stichera01.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
 meVE.Stichera01.incipit = "The three holy Martyrs…"
 meVE.Stichera01.text = "The three holy Martyrs were of one mind as they ever worshiped the thrice-holy Godhead. Strengthened by their faith, they bravely endured the threats made by the tyrants and the injuries of the torments. Probos, Tarachos, and Andronicus, the fellow athletes in martyrdom, received the crowns of victory."
