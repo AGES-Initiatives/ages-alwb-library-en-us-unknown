@@ -42,11 +42,13 @@ meVE.SticGlory.incipit = "When you became soldiers…"
 meVE.SticGlory.text = "When you became soldiers of Christ, you left behind the delights of the earth. You took up the Cross on your shoulders, and through many tortures you followed after Him. Since you did not deny Him before many kings and tyrants, you received the prizes of victory by the hands of the Angels. Then with heads crowned, with boldness of soul, and beaming with joy, you entered together into the great bridal hall. O Probos, the glory of the Martyrs, and Tarachos, the destroyer of demons, and Andronicos, the victory of the believers, since you have access to the Savior, intercede with Him on behalf of our souls."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //oc.m4.d6_en_US_unknown.ocVE.Stichera4.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //oc.m4.d4_en_US_unknown.ocVE.SticTheotokion.text
@@ -58,11 +60,13 @@ meVE.AposGlory.incipit = "That team of three, equal…"
 meVE.AposGlory.text = "That team of three, equal in number to the Holy Trinity, Probos, Tarachos, and the wise Andronicos, have shined from the East like radiant stars, and then invite all creation to a sacred celebration. They surrendered their flesh to wild beasts and reddened the ground with their blood. Now wearing crowns, they join chorus with the Angels in heaven, and they entreat the humane God on our behalf, that He grant us the forgiveness of sins and the great mercy."
 
 meVE.AposTheotokion.mode = miscellanea_en_US_unknown.misc.Mode1
+meVE.AposTheotokion.greekmelody = he.a.m1_en_US_unknown.heAU.TonOuranionTagmaton.greekname
 meVE.AposTheotokion.melody = he.a.m1_en_US_unknown.heAU.TonOuranionTagmaton.notmetered
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode1
+meVE.AposStavrotheotokion.greekmelody = he.a.m1_en_US_unknown.heAU.TonOuranionTagmaton.greekname
 meVE.AposStavrotheotokion.melody = he.a.m1_en_US_unknown.heAU.TonOuranionTagmaton.notmetered
 meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = //oc.m1.d6_en_US_unknown.ocVE.SticTheotokion.text
@@ -348,6 +352,7 @@ meMA.Ode9H.incipit = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_unknown.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_unknown.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "The Martyrs endured many kinds…"
 meMA.Exaposteilarion1.text = "The Martyrs endured many kinds of torture, and they were rewarded with many medals and awards by Christ the Savior for their victories. As we honor these steadfast athletes, godly-minded Tarachos, Andronicos, and Probos, and observe their sacred memory, they intercede for us, and they pray that we be freed of our sins."
@@ -363,11 +368,13 @@ meMA.AposGlory.incipit = meVE.SticGlory.incipit
 meMA.AposGlory.text = meVE.SticGlory.text
 
 meMA.AposTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.AposTheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
 meMA.AposTheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
 meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.AposStavrotheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
 meMA.AposStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
 meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""

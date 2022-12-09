@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m03.d01_en_US_unknown.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""

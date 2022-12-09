@@ -62,11 +62,13 @@ meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //he.o_en_US_unknown.heOT.TheotokeSyEiAthloforou.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_unknown.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_unknown.heAU.TriimerosAnestis.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //oc.m6.d4_en_US_unknown.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.notmetered
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
@@ -93,6 +95,7 @@ meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = //me.m01.d28_en_US_unknown.meVE.SticTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode6
+meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_unknown.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_unknown.heAU.TriimerosAnestis.notmetered
 meVE.AposStavrotheotokion.incipit = "…"
 meVE.AposStavrotheotokion.text = ""
@@ -579,11 +582,13 @@ meMA.Ode9H.incipit = he.h.m4_en_US_unknown.heHE.OTokosSouAfthoros.incipit
 meMA.Ode9H.text = he.h.m4_en_US_unknown.heHE.OTokosSouAfthoros.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_unknown.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_unknown.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_unknown.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_unknown.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_US_unknown.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
@@ -594,6 +599,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.greekname
 meMA.Lauds1.melody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
@@ -614,6 +620,7 @@ meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = //me.m04.d23_en_US_unknown.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.LaudsTheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
 meMA.LaudsTheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
 meMA.LaudsTheotokion.incipit = "…"
 meMA.LaudsTheotokion.text = //oc.m4.d4_en_US_unknown.ocVE.Stichera6.text

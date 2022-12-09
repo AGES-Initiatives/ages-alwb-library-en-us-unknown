@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = he.h.m2_en_US_unknown
 
 heHE.AkikoaKyrieTinEndoxon.notmetered = "N/M ()"
+heHE.AkikoaKyrieTinEndoxon.greekname = ""
 heHE.AkikoaKyrieTinEndoxon.name = ""
 heHE.AkikoaKyrieTinEndoxon.incipit = "…"
 heHE.AkikoaKyrieTinEndoxon.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -9,6 +10,7 @@ heHE.AkikoaKyrieTinEndoxon.ode = miscellanea_en_US_unknown.misc.Ode4
 heHE.AkikoaKyrieTinEndoxon.text = ""
 
 heHE.AkikoeKyrieFonisSou.notmetered = "N/M (When You thundered.)"
+heHE.AkikoeKyrieFonisSou.greekname = ""
 heHE.AkikoeKyrieFonisSou.name = "When You thundered."
 heHE.AkikoeKyrieFonisSou.incipit = "When You thundered…"
 heHE.AkikoeKyrieFonisSou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -17,6 +19,7 @@ heHE.AkikoeKyrieFonisSou.ode = miscellanea_en_US_unknown.misc.Ode4
 heHE.AkikoeKyrieFonisSou.text = ""
 
 heHE.AnarchouGennitoros.notmetered = "N/M (To us was revealed.)"
+heHE.AnarchouGennitoros.greekname = ""
 heHE.AnarchouGennitoros.name = "To us was revealed."
 heHE.AnarchouGennitoros.incipit = "To us was revealed…"
 heHE.AnarchouGennitoros.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -25,6 +28,7 @@ heHE.AnarchouGennitoros.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.AnarchouGennitoros.text = ""
 
 heHE.AntitheonProstagma.notmetered = "N/M (The godless decree.)"
+heHE.AntitheonProstagma.greekname = ""
 heHE.AntitheonProstagma.name = "The godless decree."
 heHE.AntitheonProstagma.incipit = "…"
 heHE.AntitheonProstagma.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -33,6 +37,7 @@ heHE.AntitheonProstagma.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.AntitheonProstagma.text = ""
 
 heHE.AporeiPasaGlossa.notmetered = "N/M (Every tongue.)"
+heHE.AporeiPasaGlossa.greekname = ""
 heHE.AporeiPasaGlossa.name = "Every tongue."
 heHE.AporeiPasaGlossa.incipit = "Every tongue…"
 heHE.AporeiPasaGlossa.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -41,6 +46,7 @@ heHE.AporeiPasaGlossa.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.AporeiPasaGlossa.text = ""
 
 heHE.AsomenToKyrio.notmetered = "N/M ()"
+heHE.AsomenToKyrio.greekname = ""
 heHE.AsomenToKyrio.name = ""
 heHE.AsomenToKyrio.incipit = "…"
 heHE.AsomenToKyrio.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -49,6 +55,7 @@ heHE.AsomenToKyrio.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.AsomenToKyrio.text = ""
 
 heHE.AtriptonAsynithi.notmetered = "N/M (When they had traversed.)"
+heHE.AtriptonAsynithi.greekname = ""
 heHE.AtriptonAsynithi.name = "When they had traversed."
 heHE.AtriptonAsynithi.incipit = "When they had traversed…"
 heHE.AtriptonAsynithi.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -57,6 +64,7 @@ heHE.AtriptonAsynithi.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.AtriptonAsynithi.text = ""
 
 heHE.AvyssosAmartimaton.notmetered = "N/M ()"
+heHE.AvyssosAmartimaton.greekname = ""
 heHE.AvyssosAmartimaton.name = ""
 heHE.AvyssosAmartimaton.incipit = "…"
 heHE.AvyssosAmartimaton.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -65,6 +73,7 @@ heHE.AvyssosAmartimaton.ode = miscellanea_en_US_unknown.misc.Ode2
 heHE.AvyssosAmartimaton.text = ""
 
 heHE.DefteLaoi.notmetered = "N/M (Peoples, now come.)"
+heHE.DefteLaoi.greekname = ""
 heHE.DefteLaoi.name = "Peoples, now come."
 heHE.DefteLaoi.incipit = "Peoples, now come…"
 heHE.DefteLaoi.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -73,6 +82,7 @@ heHE.DefteLaoi.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.DefteLaoi.text = ""
 
 heHE.EchthrouZofodous.notmetered = "N/M (The Spirit's cleansing.)"
+heHE.EchthrouZofodous.greekname = ""
 heHE.EchthrouZofodous.name = "The Spirit's cleansing."
 heHE.EchthrouZofodous.incipit = "The Spirit's cleansing…"
 heHE.EchthrouZofodous.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -86,6 +96,7 @@ heHE.EchthrouZofodous4.text = ""
 heHE.EchthrouZofodous5.text = ""
 
 heHE.EflexeReithro.notmetered = "N/M (He who retarded.)"
+heHE.EflexeReithro.greekname = ""
 heHE.EflexeReithro.name = "He who retarded."
 heHE.EflexeReithro.incipit = "He who retarded…"
 heHE.EflexeReithro.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -99,6 +110,7 @@ heHE.EflexeReithro4.text = ""
 heHE.EflexeReithro5.text = ""
 
 heHE.EfrixePaidonEvagon.notmetered = "N/M (Fed with unending fuel.)"
+heHE.EfrixePaidonEvagon.greekname = ""
 heHE.EfrixePaidonEvagon.name = "Fed with unending fuel."
 heHE.EfrixePaidonEvagon.incipit = "Fed with unending fuel…"
 heHE.EfrixePaidonEvagon.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -107,6 +119,7 @@ heHE.EfrixePaidonEvagon.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.EfrixePaidonEvagon.text = ""
 
 heHE.EikonosChrysis.notmetered = "N/M (The image of gold.)"
+heHE.EikonosChrysis.greekname = ""
 heHE.EikonosChrysis.name = "The image of gold."
 heHE.EikonosChrysis.incipit = "The image of gold…"
 heHE.EikonosChrysis.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -115,6 +128,7 @@ heHE.EikonosChrysis.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.EikonosChrysis.text = ""
 
 heHE.EisakikoaKyrieTinAkoin.notmetered = "N/M (I have heard.)"
+heHE.EisakikoaKyrieTinAkoin.greekname = ""
 heHE.EisakikoaKyrieTinAkoin.name = "I have heard the report."
 heHE.EisakikoaKyrieTinAkoin.incipit = "I have heard the report…"
 heHE.EisakikoaKyrieTinAkoin.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -123,6 +137,7 @@ heHE.EisakikoaKyrieTinAkoin.ode = miscellanea_en_US_unknown.misc.Ode4
 heHE.EisakikoaKyrieTinAkoin.text = ""
 
 heHE.EleftheraMenIKtisis.notmetered = "N/M (The created world.)"
+heHE.EleftheraMenIKtisis.greekname = ""
 heHE.EleftheraMenIKtisis.name = "The created world."
 heHE.EleftheraMenIKtisis.incipit = "The created world…"
 heHE.EleftheraMenIKtisis.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -136,6 +151,7 @@ heHE.EleftheraMenIKtisis4.text = ""
 heHE.EleftheraMenIKtisis5.text = ""
 
 heHE.ElilythasEkParthenou.notmetered = "N/M (You came, O Lord.)"
+heHE.ElilythasEkParthenou.greekname = ""
 heHE.ElilythasEkParthenou.name = "You came, O Lord."
 heHE.ElilythasEkParthenou.incipit = "You came, O Lord…"
 heHE.ElilythasEkParthenou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -144,6 +160,7 @@ heHE.ElilythasEkParthenou.ode = miscellanea_en_US_unknown.misc.Ode4
 heHE.ElilythasEkParthenou.text = ""
 
 heHE.EmegalynasChriste.notmetered = "N/M (You have magnified.)"
+heHE.EmegalynasChriste.greekname = ""
 heHE.EmegalynasChriste.name = "You have magnified."
 heHE.EmegalynasChriste.incipit = "You have magnified…"
 heHE.EmegalynasChriste.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -152,6 +169,7 @@ heHE.EmegalynasChriste.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.EmegalynasChriste.text = ""
 
 heHE.EnAvyssoPtaismaton.notmetered = "N/M (Like a deep sea, my sins.)"
+heHE.EnAvyssoPtaismaton.greekname = ""
 heHE.EnAvyssoPtaismaton.name = "Like a deep sea, my sins."
 heHE.EnAvyssoPtaismaton.incipit = "Like a deep sea, my sins…"
 heHE.EnAvyssoPtaismaton.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -160,6 +178,7 @@ heHE.EnAvyssoPtaismaton.ode = miscellanea_en_US_unknown.misc.Ode6
 heHE.EnAvyssoPtaismaton.text = ""
 
 heHE.EnPetraMeTisPisteos.notmetered = "N/M (On the rock of faith.)"
+heHE.EnPetraMeTisPisteos.greekname = ""
 heHE.EnPetraMeTisPisteos.name = "On the rock of faith."
 heHE.EnPetraMeTisPisteos.incipit = "On the rock of faith…"
 heHE.EnPetraMeTisPisteos.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -168,6 +187,7 @@ heHE.EnPetraMeTisPisteos.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.EnPetraMeTisPisteos.text = ""
 
 heHE.EnTiKamino.notmetered = "N/M ()"
+heHE.EnTiKamino.greekname = ""
 heHE.EnTiKamino.name = ""
 heHE.EnTiKamino.incipit = "…"
 heHE.EnTiKamino.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -176,6 +196,7 @@ heHE.EnTiKamino.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.EnTiKamino.text = ""
 
 heHE.EnVythoKatestrose.notmetered = "N/M (Long ago the overwhelming Force.)"
+heHE.EnVythoKatestrose.greekname = ""
 heHE.EnVythoKatestrose.name = "Long ago the overwhelming Force."
 heHE.EnVythoKatestrose.incipit = "Long ago the overwhelming Force…"
 heHE.EnVythoKatestrose.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -184,6 +205,7 @@ heHE.EnVythoKatestrose.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.EnVythoKatestrose.text = ""
 
 heHE.ExinthisenIErimos.notmetered = "N/M (The gentile church.)"
+heHE.ExinthisenIErimos.greekname = ""
 heHE.ExinthisenIErimos.name = "The gentile church."
 heHE.ExinthisenIErimos.incipit = "The gentile church…"
 heHE.ExinthisenIErimos.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -192,6 +214,7 @@ heHE.ExinthisenIErimos.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.ExinthisenIErimos.text = ""
 
 heHE.IEnOuranois.notmetered = "N/M ()"
+heHE.IEnOuranois.greekname = ""
 heHE.IEnOuranois.name = ""
 heHE.IEnOuranois.incipit = "…"
 heHE.IEnOuranois.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -200,6 +223,7 @@ heHE.IEnOuranois.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.IEnOuranois.text = ""
 
 heHE.IFoniTouLogou.notmetered = "N/M (The voice of the Logos.)"
+heHE.IFoniTouLogou.greekname = ""
 heHE.IFoniTouLogou.name = "The voice of the Logos."
 heHE.IFoniTouLogou.incipit = "The voice of the Logos…"
 heHE.IFoniTouLogou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -208,6 +232,7 @@ heHE.IFoniTouLogou.ode = miscellanea_en_US_unknown.misc.Ode6
 heHE.IFoniTouLogou.text = ""
 
 heHE.ITonAchoritonTheon.notmetered = "N/M ()"
+heHE.ITonAchoritonTheon.greekname = ""
 heHE.ITonAchoritonTheon.name = ""
 heHE.ITonAchoritonTheon.incipit = "…"
 heHE.ITonAchoritonTheon.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -216,6 +241,7 @@ heHE.ITonAchoritonTheon.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.ITonAchoritonTheon.text = ""
 
 heHE.ITonProIliouFostira.notmetered = "N/M (Lady, from your virginal belly.)"
+heHE.ITonProIliouFostira.greekname = ""
 heHE.ITonProIliouFostira.name = "Lady, from your virginal belly."
 heHE.ITonProIliouFostira.incipit = "Lady, from your virginal belly…"
 heHE.ITonProIliouFostira.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -224,6 +250,7 @@ heHE.ITonProIliouFostira.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.ITonProIliouFostira.text = ""
 
 heHE.IchouRimatonDeiseos.notmetered = "N/M ()"
+heHE.IchouRimatonDeiseos.greekname = ""
 heHE.IchouRimatonDeiseos.name = ""
 heHE.IchouRimatonDeiseos.incipit = "…"
 heHE.IchouRimatonDeiseos.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -232,6 +259,7 @@ heHE.IchouRimatonDeiseos.ode = miscellanea_en_US_unknown.misc.Ode6
 heHE.IchouRimatonDeiseos.text = ""
 
 heHE.IdeteIdeteOEnThalassi.notmetered = "N/M ()"
+heHE.IdeteIdeteOEnThalassi.greekname = ""
 heHE.IdeteIdeteOEnThalassi.name = ""
 heHE.IdeteIdeteOEnThalassi.incipit = "…"
 heHE.IdeteIdeteOEnThalassi.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -240,6 +268,7 @@ heHE.IdeteIdeteOEnThalassi.ode = miscellanea_en_US_unknown.misc.Ode2
 heHE.IdeteIdeteOEnThalassi.text = ""
 
 heHE.IisousOZoisArchigos.notmetered = "N/M (He is Jesus.)"
+heHE.IisousOZoisArchigos.greekname = ""
 heHE.IisousOZoisArchigos.name = "He is Jesus."
 heHE.IisousOZoisArchigos.incipit = "He is Jesus…"
 heHE.IisousOZoisArchigos.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -248,6 +277,7 @@ heHE.IisousOZoisArchigos.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.IisousOZoisArchigos.text = ""
 
 heHE.ImertonExefine.notmetered = "N/M (With the blessed utterance.)"
+heHE.ImertonExefine.greekname = ""
 heHE.ImertonExefine.name = "With the blessed utterance."
 heHE.ImertonExefine.incipit = "With the blessed utterance…"
 heHE.ImertonExefine.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -261,6 +291,7 @@ heHE.ImertonExefine4.text = ""
 heHE.ImertonExefine5.text = ""
 
 heHE.IndalmatosChrysou.notmetered = "N/M ()"
+heHE.IndalmatosChrysou.greekname = ""
 heHE.IndalmatosChrysou.name = ""
 heHE.IndalmatosChrysou.incipit = "…"
 heHE.IndalmatosChrysou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -269,6 +300,7 @@ heHE.IndalmatosChrysou.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.IndalmatosChrysou.text = ""
 
 heHE.IschynODidous.notmetered = "N/M (The Lord who bestows.)"
+heHE.IschynODidous.greekname = ""
 heHE.IschynODidous.name = "The Lord who bestows."
 heHE.IschynODidous.incipit = "The Lord who bestows…"
 heHE.IschynODidous.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -277,6 +309,7 @@ heHE.IschynODidous.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.IschynODidous.text = ""
 
 heHE.KaminosPote.notmetered = "N/M ()"
+heHE.KaminosPote.greekname = ""
 heHE.KaminosPote.name = ""
 heHE.KaminosPote.incipit = "…"
 heHE.KaminosPote.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -285,6 +318,7 @@ heHE.KaminosPote.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.KaminosPote.text = ""
 
 heHE.MesitisTheou.notmetered = "N/M ()"
+heHE.MesitisTheou.greekname = ""
 heHE.MesitisTheou.name = ""
 heHE.MesitisTheou.incipit = "…"
 heHE.MesitisTheou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -293,6 +327,7 @@ heHE.MesitisTheou.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.MesitisTheou.text = ""
 
 heHE.MystirionParadoxon.notmetered = "N/M (The furnace once.)"
+heHE.MystirionParadoxon.greekname = ""
 heHE.MystirionParadoxon.name = "The furnace once."
 heHE.MystirionParadoxon.incipit = "The furnace once…"
 heHE.MystirionParadoxon.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -301,6 +336,7 @@ heHE.MystirionParadoxon.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.MystirionParadoxon.text = ""
 
 heHE.NeousEfseveis.notmetered = "N/M (When the pious youths.)"
+heHE.NeousEfseveis.greekname = ""
 heHE.NeousEfseveis.name = "When the pious youths."
 heHE.NeousEfseveis.incipit = "When the pious youths…"
 heHE.NeousEfseveis.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -309,6 +345,7 @@ heHE.NeousEfseveis.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.NeousEfseveis.text = ""
 
 heHE.OAnthraxToIsaia.notmetered = "N/M ()"
+heHE.OAnthraxToIsaia.greekname = ""
 heHE.OAnthraxToIsaia.name = ""
 heHE.OAnthraxToIsaia.incipit = "…"
 heHE.OAnthraxToIsaia.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -317,6 +354,7 @@ heHE.OAnthraxToIsaia.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.OAnthraxToIsaia.text = ""
 
 heHE.OFotismos.notmetered = "N/M ()"
+heHE.OFotismos.greekname = ""
 heHE.OFotismos.name = ""
 heHE.OFotismos.incipit = "…"
 heHE.OFotismos.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -325,6 +363,7 @@ heHE.OFotismos.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.OFotismos.text = ""
 
 heHE.OSkiografonAchlyn.notmetered = "N/M ()"
+heHE.OSkiografonAchlyn.greekname = ""
 heHE.OSkiografonAchlyn.name = ""
 heHE.OSkiografonAchlyn.incipit = "…"
 heHE.OSkiografonAchlyn.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -333,6 +372,7 @@ heHE.OSkiografonAchlyn.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.OSkiografonAchlyn.text = ""
 
 heHE.OTinKaminonPalai.notmetered = "N/M ()"
+heHE.OTinKaminonPalai.greekname = ""
 heHE.OTinKaminonPalai.name = ""
 heHE.OTinKaminonPalai.incipit = "…"
 heHE.OTinKaminonPalai.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -341,6 +381,7 @@ heHE.OTinKaminonPalai.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.OTinKaminonPalai.text = ""
 
 heHE.OTonYperNoun.notmetered = "N/M (O all spotless Bride.)"
+heHE.OTonYperNoun.greekname = ""
 heHE.OTonYperNoun.name = "O all spotless Bride."
 heHE.OTonYperNoun.incipit = "O all spotless Bride…"
 heHE.OTonYperNoun.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -354,6 +395,7 @@ heHE.OTonYperNoun4.text = ""
 heHE.OTonYperNoun5.text = ""
 
 heHE.OTouFotosChorigos.notmetered = "N/M (Lord, the provider of light.)"
+heHE.OTouFotosChorigos.greekname = ""
 heHE.OTouFotosChorigos.name = "Lord, the provider of light."
 heHE.OTouFotosChorigos.incipit = "Lord, the provider of light…"
 heHE.OTouFotosChorigos.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -362,6 +404,7 @@ heHE.OTouFotosChorigos.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.OTouFotosChorigos.text = ""
 
 heHE.OlosYparcheisEfesis.notmetered = "N/M (You are desire entirely.)"
+heHE.OlosYparcheisEfesis.greekname = ""
 heHE.OlosYparcheisEfesis.name = "You are desire entirely."
 heHE.OlosYparcheisEfesis.incipit = "You are desire entirely…"
 heHE.OlosYparcheisEfesis.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -370,6 +413,7 @@ heHE.OlosYparcheisEfesis.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.OlosYparcheisEfesis.text = ""
 
 heHE.OsoiPalaion.notmetered = "N/M (From the ancient snares.)"
+heHE.OsoiPalaion.greekname = ""
 heHE.OsoiPalaion.name = "From the ancient snares."
 heHE.OsoiPalaion.incipit = "From the ancient snares…"
 heHE.OsoiPalaion.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -383,6 +427,7 @@ heHE.OsoiPalaion4.text = ""
 heHE.OsoiPalaion5.text = ""
 
 heHE.ProsKyrionEkKitous.notmetered = "N/M ()"
+heHE.ProsKyrionEkKitous.greekname = ""
 heHE.ProsKyrionEkKitous.name = ""
 heHE.ProsKyrionEkKitous.incipit = "…"
 heHE.ProsKyrionEkKitous.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -391,6 +436,7 @@ heHE.ProsKyrionEkKitous.ode = miscellanea_en_US_unknown.misc.Ode6
 heHE.ProsKyrionEkKitous.text = ""
 
 heHE.ProsecheteLaoi.notmetered = "N/M ()"
+heHE.ProsecheteLaoi.greekname = ""
 heHE.ProsecheteLaoi.name = ""
 heHE.ProsecheteLaoi.incipit = "…"
 heHE.ProsecheteLaoi.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -399,6 +445,7 @@ heHE.ProsecheteLaoi.ode = miscellanea_en_US_unknown.misc.Ode2
 heHE.ProsecheteLaoi.text = ""
 
 heHE.ProsecheteLaosMou.notmetered = "N/M ()"
+heHE.ProsecheteLaosMou.greekname = ""
 heHE.ProsecheteLaosMou.name = ""
 heHE.ProsecheteLaosMou.incipit = "…"
 heHE.ProsecheteLaosMou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -407,6 +454,7 @@ heHE.ProsecheteLaosMou.ode = miscellanea_en_US_unknown.misc.Ode2
 heHE.ProsecheteLaosMou.text = ""
 
 heHE.PsychaisKatharais.notmetered = "N/M (With souls that are pure.)"
+heHE.PsychaisKatharais.greekname = ""
 heHE.PsychaisKatharais.name = "With souls that are pure."
 heHE.PsychaisKatharais.incipit = "With souls that are pure…"
 heHE.PsychaisKatharais.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -415,6 +463,7 @@ heHE.PsychaisKatharais.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.PsychaisKatharais.text = ""
 
 heHE.PyrsoKathartheis.notmetered = "N/M (Once purged.)"
+heHE.PyrsoKathartheis.greekname = ""
 heHE.PyrsoKathartheis.name = "Once purged."
 heHE.PyrsoKathartheis.incipit = "Once purged…"
 heHE.PyrsoKathartheis.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -428,6 +477,7 @@ heHE.PyrsoKathartheis4.text = ""
 heHE.PyrsoKathartheis5.text = ""
 
 heHE.RimaTyrannou.notmetered = "N/M (When the decree.)"
+heHE.RimaTyrannou.greekname = ""
 heHE.RimaTyrannou.name = "When the decree."
 heHE.RimaTyrannou.incipit = "When the decree…"
 heHE.RimaTyrannou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -436,6 +486,7 @@ heHE.RimaTyrannou.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.RimaTyrannou.text = ""
 
 heHE.RitoresAnedeichthisanPaides.notmetered = "N/M ()"
+heHE.RitoresAnedeichthisanPaides.greekname = ""
 heHE.RitoresAnedeichthisanPaides.name = ""
 heHE.RitoresAnedeichthisanPaides.incipit = "…"
 heHE.RitoresAnedeichthisanPaides.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -444,6 +495,7 @@ heHE.RitoresAnedeichthisanPaides.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.RitoresAnedeichthisanPaides.text = ""
 
 heHE.SeTinNoitin.notmetered = "N/M ()"
+heHE.SeTinNoitin.greekname = ""
 heHE.SeTinNoitin.name = ""
 heHE.SeTinNoitin.incipit = "…"
 heHE.SeTinNoitin.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -452,6 +504,7 @@ heHE.SeTinNoitin.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.SeTinNoitin.text = ""
 
 heHE.SteirothentaMouTonNoun.notmetered = "N/M (Barren has my mind.)"
+heHE.SteirothentaMouTonNoun.greekname = ""
 heHE.SteirothentaMouTonNoun.name = "Barren has my mind."
 heHE.SteirothentaMouTonNoun.incipit = "Barren has my mind…"
 heHE.SteirothentaMouTonNoun.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -460,6 +513,7 @@ heHE.SteirothentaMouTonNoun.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.SteirothentaMouTonNoun.text = ""
 
 heHE.StereosonImasEnSoiKyrie.notmetered = "N/M (Establish us in You.)"
+heHE.StereosonImasEnSoiKyrie.greekname = ""
 heHE.StereosonImasEnSoiKyrie.name = "Establish us in You."
 heHE.StereosonImasEnSoiKyrie.incipit = "Establish us in You…"
 heHE.StereosonImasEnSoiKyrie.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -468,6 +522,7 @@ heHE.StereosonImasEnSoiKyrie.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.StereosonImasEnSoiKyrie.text = ""
 
 heHE.SteiveiThalassis.notmetered = "N/M (Israel treaded.)"
+heHE.SteiveiThalassis.greekname = ""
 heHE.SteiveiThalassis.name = "Israel treaded."
 heHE.SteiveiThalassis.incipit = "Israel treaded…"
 heHE.SteiveiThalassis.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -481,6 +536,7 @@ heHE.SteiveiThalassis4.text = ""
 heHE.SteiveiThalassis5.text = ""
 
 heHE.SyToLogoSouKyrie.notmetered = "N/M ()"
+heHE.SyToLogoSouKyrie.greekname = ""
 heHE.SyToLogoSouKyrie.name = ""
 heHE.SyToLogoSouKyrie.incipit = "…"
 heHE.SyToLogoSouKyrie.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -489,6 +545,7 @@ heHE.SyToLogoSouKyrie.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.SyToLogoSouKyrie.text = ""
 
 heHE.TaCherouvimMimoumenoi.notmetered = "N/M (The Servants in the furnace.)"
+heHE.TaCherouvimMimoumenoi.greekname = ""
 heHE.TaCherouvimMimoumenoi.name = "The Servants in the furnace."
 heHE.TaCherouvimMimoumenoi.incipit = "The Servants in the furnace…"
 heHE.TaCherouvimMimoumenoi.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -497,6 +554,7 @@ heHE.TaCherouvimMimoumenoi.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.TaCherouvimMimoumenoi.text = ""
 
 heHE.TinAchlynTisPsychisMou.notmetered = "N/M ()"
+heHE.TinAchlynTisPsychisMou.greekname = ""
 heHE.TinAchlynTisPsychisMou.name = ""
 heHE.TinAchlynTisPsychisMou.incipit = "…"
 heHE.TinAchlynTisPsychisMou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -505,6 +563,7 @@ heHE.TinAchlynTisPsychisMou.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.TinAchlynTisPsychisMou.text = ""
 
 heHE.TinAgninKaiAchranton.notmetered = "N/M ()"
+heHE.TinAgninKaiAchranton.greekname = ""
 heHE.TinAgninKaiAchranton.name = ""
 heHE.TinAgninKaiAchranton.incipit = "…"
 heHE.TinAgninKaiAchranton.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -513,6 +572,7 @@ heHE.TinAgninKaiAchranton.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.TinAgninKaiAchranton.text = ""
 
 heHE.TinEkParthenou.notmetered = "N/M (When he foresaw.)"
+heHE.TinEkParthenou.greekname = ""
 heHE.TinEkParthenou.name = "When he foresaw."
 heHE.TinEkParthenou.incipit = "When he foresaw…"
 heHE.TinEkParthenou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -521,6 +581,7 @@ heHE.TinEkParthenou.ode = miscellanea_en_US_unknown.misc.Ode4
 heHE.TinEkParthenou.text = ""
 
 heHE.TinMoseosOdin.notmetered = "N/M (O my soul, taking up.)"
+heHE.TinMoseosOdin.greekname = ""
 heHE.TinMoseosOdin.name = "O my soul, taking up."
 heHE.TinMoseosOdin.incipit = "O my soul, taking up…"
 heHE.TinMoseosOdin.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -529,6 +590,7 @@ heHE.TinMoseosOdin.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.TinMoseosOdin.text = ""
 
 heHE.TinParthenianSou.notmetered = "N/M ()"
+heHE.TinParthenianSou.greekname = ""
 heHE.TinParthenianSou.name = ""
 heHE.TinParthenianSou.incipit = "…"
 heHE.TinParthenianSou.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -537,6 +599,7 @@ heHE.TinParthenianSou.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.TinParthenianSou.text = ""
 
 heHE.TinYperfyosSarki.notmetered = "N/M ()"
+heHE.TinYperfyosSarki.greekname = ""
 heHE.TinYperfyosSarki.name = ""
 heHE.TinYperfyosSarki.incipit = "…"
 heHE.TinYperfyosSarki.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -545,6 +608,7 @@ heHE.TinYperfyosSarki.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.TinYperfyosSarki.text = ""
 
 heHE.TisNyktosDielthousis.notmetered = "N/M (With the night being over.)"
+heHE.TisNyktosDielthousis.greekname = ""
 heHE.TisNyktosDielthousis.name = "With the night being over."
 heHE.TisNyktosDielthousis.incipit = "With the night being over…"
 heHE.TisNyktosDielthousis.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -553,6 +617,7 @@ heHE.TisNyktosDielthousis.ode = miscellanea_en_US_unknown.misc.Ode5
 heHE.TisNyktosDielthousis.text = ""
 
 heHE.TisPisteosEnPetra.notmetered = "N/M (You strengthened me.)"
+heHE.TisPisteosEnPetra.greekname = ""
 heHE.TisPisteosEnPetra.name = "You strengthened me."
 heHE.TisPisteosEnPetra.incipit = "You strengthened me…"
 heHE.TisPisteosEnPetra.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -561,6 +626,7 @@ heHE.TisPisteosEnPetra.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.TisPisteosEnPetra.text = ""
 
 heHE.ToDogmatiToTyranniko.notmetered = "N/M ()"
+heHE.ToDogmatiToTyranniko.greekname = ""
 heHE.ToDogmatiToTyranniko.name = ""
 heHE.ToDogmatiToTyranniko.incipit = "…"
 heHE.ToDogmatiToTyranniko.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -569,6 +635,7 @@ heHE.ToDogmatiToTyranniko.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.ToDogmatiToTyranniko.text = ""
 
 heHE.ToTinAvaton.notmetered = "N/M (Let us sing to the Lord.)"
+heHE.ToTinAvaton.greekname = ""
 heHE.ToTinAvaton.name = "Let us sing to the Lord."
 heHE.ToTinAvaton.incipit = "Let us sing to the Lord…"
 heHE.ToTinAvaton.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -577,6 +644,7 @@ heHE.ToTinAvaton.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.ToTinAvaton.text = ""
 
 heHE.TonArritoSofia.notmetered = "N/M (With ineffable wisdom.)"
+heHE.TonArritoSofia.greekname = ""
 heHE.TonArritoSofia.name = "With ineffable wisdom."
 heHE.TonArritoSofia.incipit = "…"
 heHE.TonArritoSofia.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -585,6 +653,7 @@ heHE.TonArritoSofia.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.TonArritoSofia.text = ""
 
 heHE.TonEkTheouTheonLogon.notmetered = "N/M (Being from God.)"
+heHE.TonEkTheouTheonLogon.greekname = ""
 heHE.TonEkTheouTheonLogon.name = "Being from God."
 heHE.TonEkTheouTheonLogon.incipit = "Being from God…"
 heHE.TonEkTheouTheonLogon.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -593,6 +662,7 @@ heHE.TonEkTheouTheonLogon.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.TonEkTheouTheonLogon.text = ""
 
 heHE.TonEnFonaisAngelikais.notmetered = "N/M ()"
+heHE.TonEnFonaisAngelikais.greekname = ""
 heHE.TonEnFonaisAngelikais.name = ""
 heHE.TonEnFonaisAngelikais.incipit = "…"
 heHE.TonEnFonaisAngelikais.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -601,6 +671,7 @@ heHE.TonEnFonaisAngelikais.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.TonEnFonaisAngelikais.text = ""
 
 heHE.TonEnKaminoTouPyros.notmetered = "N/M (When God went down.)"
+heHE.TonEnKaminoTouPyros.greekname = ""
 heHE.TonEnKaminoTouPyros.name = "When God went down."
 heHE.TonEnKaminoTouPyros.incipit = "When God went down…"
 heHE.TonEnKaminoTouPyros.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -609,6 +680,7 @@ heHE.TonEnKaminoTouPyros.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.TonEnKaminoTouPyros.text = ""
 
 heHE.TonEnTiVatoMosi.notmetered = "N/M (Within the bush.)"
+heHE.TonEnTiVatoMosi.greekname = ""
 heHE.TonEnTiVatoMosi.name = "Within the bush."
 heHE.TonEnTiVatoMosi.incipit = "Within the bush…"
 heHE.TonEnTiVatoMosi.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -617,6 +689,7 @@ heHE.TonEnTiVatoMosi.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.TonEnTiVatoMosi.text = ""
 
 heHE.TonGigenonTisIkouse.notmetered = "N/M (Among the earthborn.)"
+heHE.TonGigenonTisIkouse.greekname = ""
 heHE.TonGigenonTisIkouse.name = "Among the earthborn."
 heHE.TonGigenonTisIkouse.incipit = "Among the earthborn…"
 heHE.TonGigenonTisIkouse.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -625,6 +698,7 @@ heHE.TonGigenonTisIkouse.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.TonGigenonTisIkouse.text = ""
 
 heHE.TonPalaiDrosisanta.notmetered = "N/M ()"
+heHE.TonPalaiDrosisanta.greekname = ""
 heHE.TonPalaiDrosisanta.name = ""
 heHE.TonPalaiDrosisanta.incipit = "…"
 heHE.TonPalaiDrosisanta.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -633,6 +707,7 @@ heHE.TonPalaiDrosisanta.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.TonPalaiDrosisanta.text = ""
 
 heHE.ToxonSynetriviDynaston.notmetered = "N/M ()"
+heHE.ToxonSynetriviDynaston.greekname = ""
 heHE.ToxonSynetriviDynaston.name = ""
 heHE.ToxonSynetriviDynaston.incipit = "…"
 heHE.ToxonSynetriviDynaston.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -641,6 +716,7 @@ heHE.ToxonSynetriviDynaston.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.ToxonSynetriviDynaston.text = ""
 
 heHE.VatosEnOrei.notmetered = "N/M ()"
+heHE.VatosEnOrei.greekname = ""
 heHE.VatosEnOrei.name = ""
 heHE.VatosEnOrei.incipit = "…"
 heHE.VatosEnOrei.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -649,6 +725,7 @@ heHE.VatosEnOrei.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.VatosEnOrei.text = ""
 
 heHE.VythoAmartimaton.notmetered = "N/M (The gulf.)"
+heHE.VythoAmartimaton.greekname = ""
 heHE.VythoAmartimaton.name = "The gulf of my transgressions."
 heHE.VythoAmartimaton.incipit = "The gulf of my transgressions…"
 heHE.VythoAmartimaton.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -657,6 +734,7 @@ heHE.VythoAmartimaton.ode = miscellanea_en_US_unknown.misc.Ode6
 heHE.VythoAmartimaton.text = ""
 
 heHE.VythouAnekalypse.notmetered = "N/M (The Lord who is powerful.)"
+heHE.VythouAnekalypse.greekname = ""
 heHE.VythouAnekalypse.name = "The Lord who is powerful."
 heHE.VythouAnekalypse.incipit = "The Lord who is powerful…"
 heHE.VythouAnekalypse.melody = miscellanea_en_US_unknown.misc.Heirmos
@@ -665,6 +743,7 @@ heHE.VythouAnekalypse.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.VythouAnekalypse.text = ""
 
 heHE.YmnoSeAkoi.notmetered = "N/M ()"
+heHE.YmnoSeAkoi.greekname = ""
 heHE.YmnoSeAkoi.name = ""
 heHE.YmnoSeAkoi.incipit = "…"
 heHE.YmnoSeAkoi.melody = miscellanea_en_US_unknown.misc.Heirmos

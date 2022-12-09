@@ -38,11 +38,13 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode1
+meVE.SticTheotokion.greekmelody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.greekname
 meVE.SticTheotokion.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //me.m01.d29_en_US_unknown.meMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode1
+meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.greekname
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //oc.m1.d4_en_US_unknown.ocVE.AposTheotokion.text
