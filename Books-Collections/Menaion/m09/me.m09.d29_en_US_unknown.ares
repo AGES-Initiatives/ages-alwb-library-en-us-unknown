@@ -90,6 +90,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_unknown.heHE.AsmaAnapempsomen.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_unknown.heHE.AsmaAnapempsomen.notmetered
 meMA.Ode1C11.incipit = "O Christ, Give me the…"
 meMA.Ode1C11.text = "O Christ, Give me the glory of divine knowledge and grace so that I may be worthy to praise the righteous Kyriakos by his intercessions. For you are the Giver of unfathomable wisdom."
@@ -120,6 +121,7 @@ meMA.Ode1C1T.text = "O Theotokos, you were shown to be the noetic ladder seen by
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "O righteous Kyriakos, you ran…"
 meMA.Ode3C11.text = "O righteous Kyriakos, you ran the whole path of life without growing tired, desiring your Creator from tender youth and thirsting for the One Whom you sought. You imitated the way of a deer towards springs of waters."
@@ -150,6 +152,7 @@ meMA.Ode3C1T.text = "O you who did not know wedlock, just as you gave birth as a
 
 meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_unknown.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m8_en_US_unknown.heHE.OukEstinAgios.text
@@ -171,6 +174,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.SyMouIschys.notmetered
 meMA.Ode4C11.incipit = "O righteous Kyriakos, the sun…"
 meMA.Ode4C11.text = "O righteous Kyriakos, the sun quaked at your abstinence and resolve, for it had never observed you to be angry or take food by day for many years. Rather, you powerfully sung in vigils without ceasing: \"Glory to Your power, O Friend of man.\""
@@ -207,6 +211,7 @@ meMA.Ode4C1T.text = "O Bride unwedded, all-blameless one, you are the boast of t
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "O Kyriakos, you mightily dethroned…"
 meMA.Ode5C11.text = "O Kyriakos, you mightily dethroned the wicked rulers of the world after receiving the invisible grace of the Spirit from Christ. You dominated the passions of the soul, and you received the crown of dispassion."
@@ -237,6 +242,7 @@ meMA.Ode5C1T.text = "O immaculate Virgin, the assembly of the Prophets was noeti
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "O Saint, you became like…"
 meMA.Ode6C11.text = "O Saint, you became like God by adoption through theosis in Christ, Who is God by nature. You corrected the sorrowful impairments of nature. By divine grace you healed the wounded and even cured those were possessed by demons."
@@ -261,6 +267,7 @@ meMA.Ode6C1T.text = "O Mother of God, you received the Logos without beginning a
 
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.text
@@ -272,6 +279,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
 meMA.Ode7C11.incipit = "O God, your abundantly faithful…"
 meMA.Ode7C11.text = "O God, your abundantly faithful servant Kyriakos made his throat sweet with meditation in the divinely inspired commandments and words which are sweeter than honey. He sang to You, \"Blessed are You, O Lord God, unto the ages.\""
@@ -308,6 +316,7 @@ meMA.Ode7C1T.text = "O Mother of God, extinguish the flame of my passions and pa
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.notmetered
 meMA.Ode8C11.incipit = "O blessed Kyriakos, you watered…"
 meMA.Ode8C11.text = "O blessed Kyriakos, you watered your holy soul with streams of tears and holy repentance, so that it would bear fruit. You sang: \"O all you works, bless you the Lord, and supremely exalt Him unto the ages.\""
@@ -338,12 +347,14 @@ meMA.Ode8C1T.text = "O Virgin, although you were a daughter of Adam who fell, yo
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.incipit
 meMA.Ode8H.text = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
 meMA.Ode9C11.incipit = "O wise Kyriakos, a cave…"
 meMA.Ode9C11.text = "O wise Kyriakos, a cave received you. You had received the God-given fountain of Father Chariton, who had done great miracles like Moses. You became an immovable wall and a most trustworthy guardian of his sheep."
@@ -374,6 +385,7 @@ meMA.Ode9C1T.text = "O Son of the Mother of God, pull Your bow, proceed in prosp
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.text

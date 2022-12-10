@@ -102,6 +102,7 @@ meMA.C2.verse = //prayers_en_US_unknown.pr.verse_Apostles.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.notmetered
 meMA.Ode1C11.incipit = "O Apostle Bartholomew, seer of…"
 meMA.Ode1C11.text = "O Apostle Bartholomew, seer of God, the Rock of Life has shown you to be a very precious stone, on which He has built His Church. Thus we venerate you and call you blessed."
@@ -126,6 +127,7 @@ meMA.Ode1C1T.text = "O divinely blessed Bartholomew, He Who is full is emptied o
 
 meMA.Ode1C21.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.notmetered
 meMA.Ode1C21.incipit = "O celebrated Titus, the grace…"
 meMA.Ode1C21.text = "O celebrated Titus, the grace of the Spirit has made you to overflow with diverse gifts and sends you to the ends of the world as a holy Apostle who announces the incarnation of the Logos."
@@ -150,6 +152,7 @@ meMA.Ode1C2T.text = "O Bride of God and Maiden, the Lord shone from your womb. H
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.notmetered
 meMA.Ode3C11.incipit = "O all-wise Bartholomew, they that…"
 meMA.Ode3C11.text = "O all-wise Bartholomew, they that were captive in error and lay in the insanity and gloom of godlessness found you to be a mighty consolation, a light, and a deliverance from tribulations."
@@ -174,6 +177,7 @@ meMA.Ode3C1T.text = "O immaculate Virgin and Mother, God the Logos was pleased t
 
 meMA.Ode3C21.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_US_unknown.heHE.OukEnSofia.greekname
 meMA.Ode3C21.melody = he.h.m4_en_US_unknown.heHE.OukEnSofia.notmetered
 meMA.Ode3C21.incipit = "O blessed Titus, you cast…"
 meMA.Ode3C21.text = "O blessed Titus, you cast away ignorance from souls that had recourse to you with genuine knowledge and not with the wisdom that made those who clung to it foolish."
@@ -198,6 +202,7 @@ meMA.Ode3C2T.text = "The One Who was born in the flesh from you has made you to 
 
 meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_US_unknown.heHE.OukEnSofia.greekname
 meMA.Ode3H.melody = he.h.m4_en_US_unknown.heHE.OukEnSofia.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_unknown.heHE.OukEnSofia.incipit
 meMA.Ode3H.text = he.h.m4_en_US_unknown.heHE.OukEnSofia.text
@@ -219,6 +224,7 @@ meMA.Ode3KathismaT.text = "O pure Maiden, rejoice. You are the fiery throne of t
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_unknown.heHE.TinAnexichniaston.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_unknown.heHE.TinAnexichniaston.notmetered
 meMA.Ode4C11.incipit = "The prophecy has been fulfilled…"
 meMA.Ode4C11.text = "The prophecy has been fulfilled. The divinely speaking disciple has shone like a light for the restoration of the nations, illuminating the entire world."
@@ -243,6 +249,7 @@ meMA.Ode4C1T.text = "O Virgin, you unfathomably conceived Him who is beyond unde
 
 meMA.Ode4C21.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C21.melody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C21.incipit = "O all-wise and all-celebrated Titus…"
 meMA.Ode4C21.text = "O all-wise and all-celebrated Titus, you filled the impoverished minds with a wealth of truth by drawing from endless treasuries. You brought deadened hearts to life and drove away the darkness of ignorance."
@@ -267,6 +274,7 @@ meMA.Ode4C2T.text = "The holy Theotokos, the unstained tabernacle and doorway of
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.notmetered
 meMA.Ode5C11.incipit = "O blessed Apostle Bartholomew, you…"
 meMA.Ode5C11.text = "O blessed Apostle Bartholomew, you acquired beautiful feet by preaching. You announced the glad tidings of good things to everyone. You preached peace and removed the ancient hostility towards the holy teachings of the Savior."
@@ -291,6 +299,7 @@ meMA.Ode5C1T.text = "I glorify you with the Angel's greeting as literally the al
 
 meMA.Ode5C21.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_US_unknown.heHE.AseveisOukOpsontai.greekname
 meMA.Ode5C21.melody = he.h.m4_en_US_unknown.heHE.AseveisOukOpsontai.notmetered
 meMA.Ode5C21.incipit = "O blessed Titus, as a…"
 meMA.Ode5C21.text = "O blessed Titus, as a skilled physician and a minister of grace, you healed the wound of unrighteousness that spread through the souls of the nations with the wonderful salt of your holy words."
@@ -315,6 +324,7 @@ meMA.Ode5C2T.text = "With a pure mind let us venerate her who is pure, the beaut
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.notmetered
 meMA.Ode6C11.incipit = "O Apostle, you became a…"
 meMA.Ode6C11.text = "O Apostle, you became a beam of the Sun Who shone on the earth by means of the body. With your light-bearing instructions, you drove away the polytheistic night of falsehood."
@@ -339,6 +349,7 @@ meMA.Ode6C1T.text = "O Virgin Mother, Maiden most graced of God, you became a te
 
 meMA.Ode6C21.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C21.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C21.incipit = "O blessed Titus, Paul, who…"
 meMA.Ode6C21.text = "O blessed Titus, Paul, who is the never-setting sun of the entire earth, sends you as a shining ray to illumine hearts that sleep in ignorant darkness."
@@ -357,6 +368,7 @@ meMA.Ode6C2T.text = "O all-praised Lady, generations of generations venerate you
 
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.text
@@ -375,6 +387,7 @@ meMA.Oikos2.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.notmetered
 meMA.Ode7C11.incipit = "O all-lauded Bartholomew, mankind, which…"
 meMA.Ode7C11.text = "O all-lauded Bartholomew, mankind, which had lost its savor through iniquity, was healed with the savory salt of your words. You convinced everyone to sing: \"O supremely praised Lord and God of our Fathers, blessed are You.\""
@@ -399,6 +412,7 @@ meMA.Ode7C1T.text = "O pure Theotokos, you have been given to us as a protection
 
 meMA.Ode7C21.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_US_unknown.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C21.melody = he.h.m4_en_US_unknown.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C21.incipit = "Titus rescued mortals from the…"
 meMA.Ode7C21.text = "Titus rescued mortals from the insanity of polytheism by instructing them to praise one Divinity and to worship one Lordship, and they devoutly exclaimed: \"O God of our Fathers, blessed are You.\""
@@ -423,6 +437,7 @@ meMA.Ode7C2T.text = "O unwedded Virgin, you are arrayed in many colors of virtue
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.notmetered
 meMA.Ode8C11.incipit = "O Saint, you have issued…"
 meMA.Ode8C11.text = "O Saint, you have issued forth like a river of Eden, watering everything under heaven with your instructions and drying up the waters of falsehood by grace, for you are awash in divine floods and exclaim: \"Praise you the Savior, and supremely exalt Him unto all the ages.\""
@@ -447,6 +462,7 @@ meMA.Ode8C1T.text = "You both give birth and remain ever-virgin by escaping the 
 
 meMA.Ode8C21.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.greekname
 meMA.Ode8C21.melody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.notmetered
 meMA.Ode8C21.incipit = "O Apostle Titus, the strange…"
 meMA.Ode8C21.text = "O Apostle Titus, the strange fire of delusion was extinguished by the drops of your sweat. Maladies were expelled and demons were cast out at your prayer to God. Thus we praise you as a holy servant of Christ the King of all."
@@ -471,12 +487,14 @@ meMA.Ode8C2T.text = "O Virgin, the sword that previously was turning about now t
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.greekname
 meMA.Ode8H.melody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_unknown.heHE.PaidasEvageis.incipit
 meMA.Ode8H.text = he.h.m4_en_US_unknown.heHE.PaidasEvageis.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_unknown.heHE.ApasGigenis.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_unknown.heHE.ApasGigenis.notmetered
 meMA.Ode9C11.incipit = "O Saint, the chorus of…"
 meMA.Ode9C11.text = "O Saint, the chorus of apostles keeps a feast for your memorial today, and the martyrs are joyful with the spirits of all the righteous. We the faithful venerate you with hymns and exclaim: \"Deliver us from every affliction, O disciple of Christ.\""
@@ -501,6 +519,7 @@ meMA.Ode9C1T.text = "O pure Mother of God, our unfailing protection, mortify our
 
 meMA.Ode9C21.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_US_unknown.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C21.melody = he.h.m4_en_US_unknown.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C21.incipit = "O Apostle Titus, Paul draws…"
 meMA.Ode9C21.text = "O Apostle Titus, Paul draws you to himself as a companion, so that he may preach the holy Gospel to the nations with you, for he is amazed at your complete love and trust in the Redeemer. Thus we honor you with him."
@@ -525,6 +544,7 @@ meMA.Ode9C2T.text = "O pure and all-blameless Lady, break the chains of my faili
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_US_unknown.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9H.melody = he.h.m4_en_US_unknown.heHE.EvaMenToTisParakois.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_unknown.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_unknown.heHE.EvaMenToTisParakois.text

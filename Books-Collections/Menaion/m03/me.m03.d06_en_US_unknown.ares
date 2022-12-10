@@ -98,12 +98,14 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "Manifesting at the top of…"
 meMA.Ode1C11.text = "Manifesting at the top of the Church of Christ as radiant stars, O glorious Martyrs, you illumine the souls of the faithful, banishing the darkness of falsehood."
@@ -134,12 +136,14 @@ meMA.Ode1C1T.text = "O exalted holy Virgin, who is the ornamentation from above 
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_unknown.heHE.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_unknown.heHE.OukEstinAgios.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "Standing in the middle of…"
 meMA.Ode3C11.text = "Standing in the middle of the arena, you did bravely declare with an uninhibited voice the Word of Salvation, Who was made flesh for us, O greatest Theodore of firm heart."
@@ -184,12 +188,14 @@ meMA.Ode3KathismaSt.text = "As the ewe-lamb saw, suspended on the Cross, the Red
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "By the might of the…"
 meMA.Ode4C11.text = "By the might of the Holy Spirit you trampled all the power of the enemy devoid of might, O Martyrs, who were put to death and inherited eternal life."
@@ -220,12 +226,14 @@ meMA.Ode4C1T.text = "Understanding that you are a pure Mother, O Maiden, the god
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "You manifested as mystical lanterns…"
 meMA.Ode5C11.text = "You manifested as mystical lanterns radiating on the souls of the righteous with the light of righteousness and dispelling the gloom of foolishness, O most beatific champions of the Lord."
@@ -250,12 +258,14 @@ meMA.Ode5C1T.text = "O pure Virgin, I ask you, guide my mind's movement to God, 
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "Guided by the sail of…"
 meMA.Ode6C11.text = "Guided by the sail of the Cross, the athletes were kept dry while traversing the ocean of sin; and when they arrived at peaceful shelter, they became guides of the righteous."
@@ -287,12 +297,14 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.notmetered
 meMA.Ode7C11.incipit = "After being incarcerated for many…"
 meMA.Ode7C11.text = "After being incarcerated for many years, the Forty-two Martyrs of Christ, who had held to His true statutes, were freed from the prison of the flesh and became our custodians, while living in the Heavens."
@@ -317,12 +329,14 @@ meMA.Ode7C1T.text = "You, O pure one, are the tome of a new book having inscribe
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.notmetered
 meMA.Ode8C11.incipit = "Beginning the holy race track…"
 meMA.Ode8C11.text = "Beginning the holy race track of the Martyrs, you resolutely manifested your trials, routing the adversary with unyielding defiance. Thus we commend you, O hoplites of Christ."
@@ -347,12 +361,14 @@ meMA.Ode8C1T.text = "The holy Archangel appeared to you as a bridegroom, saying 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_unknown.heHE.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_unknown.heHE.TheonAnthropois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "You are declared worthy to…"
 meMA.Ode9C11.text = "You are declared worthy to look upon the Lord, Who bestowed upon you the eternal crown of glory. O Constantine, Bassoes, Theodore, right-minded Kallistos, and blessed Theophilos, joined with the others of your cohorts, forever pray on our behalf."

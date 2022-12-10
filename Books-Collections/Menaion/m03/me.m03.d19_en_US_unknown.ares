@@ -63,12 +63,14 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "O admirable Martyr, you are…"
 meMA.Ode1C11.text = "O admirable Martyr, you are adorned with a crown that shines brighter than gold. You beam with the beauty of the martyrdom. You stand before the master and pray for us who honor you."
@@ -93,12 +95,14 @@ meMA.Ode1C1T.text = "O Virgin, He who is unapproachable in His divine nature bec
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "O Chrysanthos, you were gold…"
 meMA.Ode3C11.text = "O Chrysanthos, you were gold tried in the fire of torments. You bore the seal of the sufferings of the King."
@@ -138,12 +142,14 @@ meMA.Ode3KathismaSt.text = "You freely endured a most dishonorable death by bein
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "O Martyr, the rays of…"
 meMA.Ode4C11.text = "O Martyr, the rays of the Spirit flashed like lightning in your pure heart. They set you entirely ablaze with light. You eagerly cried: Glory to Your power, O Lord."
@@ -174,12 +180,14 @@ meMA.Ode4C1T.text = "O immaculate Maid, God preserved you as a virgin after chil
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "O blessed victorious Athlete, you…"
 meMA.Ode5C11.text = "O blessed victorious Athlete, you lifted up your mind above material things. You undid the evil of the enemy when you were bound."
@@ -204,12 +212,14 @@ meMA.Ode5C1T.text = "O all-pure Virgin, who is able to expound your mystery? You
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "O celebrated Chrysanthos, you were…"
 meMA.Ode6C11.text = "O celebrated Chrysanthos, you were confined in an exceedingly gloomy prison. You sang the praise of the Master of all. Light from Heaven completely compassed you about and brightly illuminated you."
@@ -240,12 +250,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "O God-inspired Martyr, you have…"
 meMA.Ode7C11.text = "O God-inspired Martyr, you have become the golden flower of Martyrs. You offered a host of athletes unto Christ by your divine words and miracles. We now faithfully magnify you with them."
@@ -270,12 +282,14 @@ meMA.Ode7C1T.text = "O all-blameless Lady, Jesus is uncircumscribable according 
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "O blessed Chrysanthos, you set…"
 meMA.Ode8C11.text = "O blessed Chrysanthos, you set yourself with steadfast purpose against the vain-minded fellow. You endured the scraping of your body. You were burned with torches but not consumed. You sang with the Children: O all you works of the Lord, bless you the Lord."
@@ -306,12 +320,14 @@ meMA.Ode8C1T.text = "O Virgin in all ways pure, God found you, blameless as you 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "O Martyr, a divine army…"
 meMA.Ode9C11.text = "O Martyr, a divine army was added unto you when you sacredly spoke the things of God. You were delivered from unhallowed error. They were offered by the sword as unblemished sacrifices unto Him that was sacrificed as a lamb for our sakes."

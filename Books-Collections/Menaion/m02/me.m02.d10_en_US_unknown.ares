@@ -236,6 +236,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -263,6 +264,7 @@ meMA.C2.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C21.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.notmetered
 meMA.Ode1C21.incipit = "O Lord, I desire to…"
 meMA.Ode1C21.text = "O Lord, I desire to sing hymns of your servant's venerable head and struggles, and I ask divine illumination from above, so that I may be able to sing the praise of them."
@@ -287,6 +289,7 @@ meMA.Ode1C2T.text = "Let us praise the undefiled Theotokos Mary, who is like a h
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
@@ -311,6 +314,7 @@ meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.greekname
 meMA.Ode3C21.melody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.notmetered
 meMA.Ode3C21.incipit = "O God-bearer, protect and preserve…"
 meMA.Ode3C21.text = "O God-bearer, protect and preserve those who praise you with songs and congregate in faith in your temple to venerate your holy and revered head from the stumbling blocks laid by the enemy."
@@ -350,6 +354,7 @@ meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -374,6 +379,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C21.melody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C21.incipit = "O Saint, the One Who…"
 meMA.Ode4C21.text = "O Saint, the One Who sits in glory upon the Throne of Divinity accepted you as a dove with golden wings soaring into the tabernacles of heaven, for you were a fighter invincible and glorious."
@@ -398,6 +404,7 @@ meMA.Ode4C2T.text = "Let us sing hymns to the immaculate Theotokos Mary. She gav
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -422,6 +429,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.greekname
 meMA.Ode5C21.melody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.notmetered
 meMA.Ode5C21.incipit = "O Saint, all creation was…"
 meMA.Ode5C21.text = "O Saint, all creation was profoundly amazed at your sacred glory. For all the faithful who have recourse to it, your precious head cures diseases, expels demons, and delivers healing and salvation from evil."
@@ -446,6 +454,7 @@ meMA.Ode5C2T.text = "O blameless and pure Virgin, the enhypostatic Logos of God 
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
@@ -470,6 +479,7 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.greekname
 meMA.Ode6C21.melody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.notmetered
 meMA.Ode6C21.incipit = "Let us kiss the honorable…"
 meMA.Ode6C21.text = "Let us kiss the honorable relics of blessed Charalampos as we commemorate his holy and venerable feast. Thus we will be granted release from afflictions."
@@ -501,6 +511,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_unknown.heHE.OiPaidesEnVavyloni.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_unknown.heHE.OiPaidesEnVavyloni.notmetered
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -525,6 +536,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.greekname
 meMA.Ode7C21.melody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.notmetered
 meMA.Ode7C21.incipit = "We sing hymns to you…"
 meMA.Ode7C21.text = "We sing hymns to you and exclaim: \"Rejoice, O glorious Martyr Charalampos. You have offered us your sacred head as a fountain pouring out inviolable wealth that makes the souls of those who faithfully glorify you to be joyful.\""
@@ -549,6 +561,7 @@ meMA.Ode7C2T.text = "The great never-setting Sun has risen upon all mortals from
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.notmetered
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -573,6 +586,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.greekname
 meMA.Ode8C21.melody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.notmetered
 meMA.Ode8C21.incipit = "O wise Charalampos, you have…"
 meMA.Ode8C21.text = "O wise Charalampos, you have manifested as a great protector of the Orthodox and a rescuer from troubles. You always rescue those who have your relics as their refuge, for they ask you for deliverance from evil, and supremely exalt Christ unto the ages."
@@ -597,6 +611,7 @@ meMA.Ode8C2T.text = "O Lady Bride of God, your Bridegroom from on high dwelt in 
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -621,6 +636,7 @@ meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_US_unknown.heHE.ApasGigenis.greekname
 meMA.Ode9C21.melody = he.h.m4_en_US_unknown.heHE.ApasGigenis.notmetered
 meMA.Ode9C21.incipit = "Let us the faithful approach…"
 meMA.Ode9C21.text = "Let us the faithful approach the relics of the revered Martyr, for the Lord of all has bestowed great grace upon them. Thus they expel demons, terminate illness, and give to those who touch them soundness, health, and mercy."

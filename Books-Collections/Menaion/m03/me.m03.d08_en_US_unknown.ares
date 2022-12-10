@@ -64,12 +64,14 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C11.incipit = "O God-bearing Father Theophylact, you…"
 meMA.Ode1C11.text = "O God-bearing Father Theophylact, you stand at the Master’s throne. Keep those who faithfully commemorate you."
@@ -94,12 +96,14 @@ meMA.Ode1C1T.text = "O immaculate Bride of God, the One who found delight in bei
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C11.incipit = "O glorious high priest, you…"
 meMA.Ode3C11.text = "O glorious high priest, you were submissive to the decrees of your Master. You scorned the decrees of sinful rulers because of how godly your mind was."
@@ -139,12 +143,14 @@ meMA.Ode3KathismaSt.text = "The Ewe-lamb observed the Redeemer, Shepherd, and La
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "O all-blessed and God-inspired Theophylact…"
 meMA.Ode4C11.text = "O all-blessed and God-inspired Theophylact, You had no terror of the flame of temptations. The easiness of pleasure did not cause the disposition of your soul to laxen."
@@ -169,12 +175,14 @@ meMA.Ode4C1T.text = "O Virgin without blame, your childbirth redeemed us from th
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C11.incipit = "O Father who was inspired…"
 meMA.Ode5C11.text = "O Father who was inspired by God, you piously lifted your hands to God. These hands caused the unrighteous to be routed."
@@ -199,12 +207,14 @@ meMA.Ode5C1T.text = "O immaculate Theotokos, those who decline to recognize you 
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.notmetered
 meMA.Ode6C11.incipit = "You held dominion over the…"
 meMA.Ode6C11.text = "You held dominion over the passions after slaying the senses with abstinence. And now you take pleasure in the bounty of dispassion, O Theophylact."
@@ -235,12 +245,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_unknown.heHE.PaidesEvraion.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_unknown.heHE.PaidesEvraion.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
 meMA.Ode7C11.incipit = "O wise and blessed Theophylact…"
 meMA.Ode7C11.text = "O wise and blessed Theophylact, because you completed the racetrack of righteousness and guarded your faith to the end, the crown of your works has been granted to you as you exclaim: Blessed are You, O Lord our God, forever and ever."
@@ -265,12 +277,14 @@ meMA.Ode7C1T.text = "O Mother of God, now I run to you and your refuge and divin
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "O confessor and guardian of…"
 meMA.Ode8C11.text = "O confessor and guardian of Truth, You are now dwelling in the place of those that rejoice. The light has come upon you because you are a just man. O Theophylact of great wisdom, you contested in the trials of Martyrs. With the Martyrs you now exclaim: Bless Christ, O you priests. Glorify Him in the highest, O you people, forever and ever."
@@ -295,12 +309,14 @@ meMA.Ode8C1T.text = "O immaculate Theotokos, wipe out the lacerations of my soul
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C11.incipit = "O God-bearer blessed by the…"
 meMA.Ode9C11.text = "O God-bearer blessed by the Divine, you have indeed been considered worthy of great gifts. With a mind of long-suffering you endured troubles for the cause of Christ."

@@ -63,12 +63,14 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_unknown.heHE.AsomaiSoiKyrie.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_unknown.heHE.AsomaiSoiKyrie.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.heHE.AsomaiSoiKyrie.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_unknown.heHE.AsomaiSoiKyrie.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_unknown.heHE.AsomaiSoiKyrie.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_unknown.heHE.AsomaiSoiKyrie.notmetered
 meMA.Ode1C11.incipit = "Because we have fasting as…"
 meMA.Ode1C11.text = "Because we have fasting as a strong weapon against every stronghold of the outsider, let us bravely trample down his schemes."
@@ -93,12 +95,14 @@ meMA.Ode1C1T.text = "Your perfect Child has led us to a heavenly life from the e
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_unknown.heHE.EnKyrioTheoMou.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_unknown.heHE.EnKyrioTheoMou.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_unknown.heHE.EnKyrioTheoMou.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_unknown.heHE.EnKyrioTheoMou.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_unknown.heHE.EnKyrioTheoMou.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_unknown.heHE.EnKyrioTheoMou.notmetered
 meMA.Ode3C11.incipit = "Killing the feral fauna of…"
 meMA.Ode3C11.text = "Killing the feral fauna of the passions with fasting, let us come closer to Christ through dispassion and purity."
@@ -138,12 +142,14 @@ meMA.Ode3KathismaSt.text = "When You, O Lord, were nailed to the Cross by the si
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_unknown.heHE.TisSisEpiGis.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_unknown.heHE.TisSisEpiGis.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_unknown.heHE.TisSisEpiGis.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_unknown.heHE.TisSisEpiGis.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_unknown.heHE.TisSisEpiGis.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_unknown.heHE.TisSisEpiGis.notmetered
 meMA.Ode4C11.incipit = "To prove Your love for…"
 meMA.Ode4C11.text = "To prove Your love for mortals, O Christ God, You have given the season of fasting, O Savior, during which You clean and sanctify the souls and bodies of Your servants."
@@ -168,12 +174,14 @@ meMA.Ode4C1T.text = "O immaculate Virgin, Because you have been granted to the f
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_unknown.heHE.OAnateilasToFos.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_unknown.heHE.OAnateilasToFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_unknown.heHE.OAnateilasToFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_unknown.heHE.OAnateilasToFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_unknown.heHE.OAnateilasToFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_unknown.heHE.OAnateilasToFos.notmetered
 meMA.Ode5C11.incipit = "O compassionate Jesus, take us…"
 meMA.Ode5C11.text = "O compassionate Jesus, take us away through fasting from servile attachment, and lead us to the summit of Your love."
@@ -198,12 +206,14 @@ meMA.Ode5C1T.text = "O Virgin one, wash us clean of the filth of our minds throu
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_unknown.heHE.OsIonanTonProfitin.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_unknown.heHE.OsIonanTonProfitin.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_unknown.heHE.OsIonanTonProfitin.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_unknown.heHE.OsIonanTonProfitin.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_unknown.heHE.OsIonanTonProfitin.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_unknown.heHE.OsIonanTonProfitin.notmetered
 meMA.Ode6C11.incipit = "O Savior, grant us to…"
 meMA.Ode6C11.text = "O Savior, grant us to be worthy who have been made radiant with the beauty of abstinence so that we may behold the divine glory and radiance of Your resurrection."
@@ -243,12 +253,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_unknown.heHE.OEnToOreiToMosei.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_unknown.heHE.OEnToOreiToMosei.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_unknown.heHE.OEnToOreiToMosei.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_unknown.heHE.OEnToOreiToMosei.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_unknown.heHE.OEnToOreiToMosei.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_unknown.heHE.OEnToOreiToMosei.notmetered
 meMA.Ode7C11.incipit = "Climbing the mountain of a…"
 meMA.Ode7C11.text = "Climbing the mountain of a God-inspired way of life by abstinence and self-control, we will noetically see the Lord, the Giver of Light, as in a mirror."
@@ -273,12 +285,14 @@ meMA.Ode7C1T.text = "O pure Theotokos, we who praise and hymn you, through fasti
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_unknown.heHE.TonVasileaChriston.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_unknown.heHE.TonVasileaChriston.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.heHE.TonVasileaChriston.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_unknown.heHE.TonVasileaChriston.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_unknown.heHE.TonVasileaChriston.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.heHE.TonVasileaChriston.notmetered
 meMA.Ode8C11.incipit = "O Lord and Master, Ruler…"
 meMA.Ode8C11.text = "O Lord and Master, Ruler of all, because You are righteous, ensure that we may rule over the passions and desires of the flesh through fasting and works, that we may bless You for all the ages."
@@ -303,12 +317,14 @@ meMA.Ode8C1T.text = "O pure Lady, He that took on flesh of your all-holy blood, 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_unknown.heHE.TonAsporonTokonSou.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_unknown.heHE.TonAsporonTokonSou.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.heHE.TonAsporonTokonSou.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_unknown.heHE.TonAsporonTokonSou.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_unknown.heHE.TonAsporonTokonSou.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_unknown.heHE.TonAsporonTokonSou.notmetered
 meMA.Ode9C11.incipit = "The richness of the grace…"
 meMA.Ode9C11.text = "The richness of the grace of the Holy Spirit is offered to all who harvest it by the works of abstinence."

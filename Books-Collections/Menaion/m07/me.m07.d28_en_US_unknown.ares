@@ -67,6 +67,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_Apostles.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "O all-wise Apostles, since you…"
 meMA.Ode1C11.text = "O all-wise Apostles, since you have become light by your participation in the Godhead, from the gloom of passions rescue those who celebrate your venerable and light-bearing festival and grant them illumination."
@@ -91,6 +92,7 @@ meMA.Ode1C1T.text = "O all-blameless Virgin, the processionals of God were made 
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "O glorious Apostles, in holiness…"
 meMA.Ode3C11.text = "O glorious Apostles, in holiness you rained down the water of true knowledge on those on earth as though you were spiritual clouds."
@@ -115,6 +117,7 @@ meMA.Ode3C1T.text = "O immaculate and all-blameless Virgin, you gave birth to th
 
 meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3H.melody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.text
@@ -136,6 +139,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "The Apostles of the Benefactor…"
 meMA.Ode4C11.text = "The Apostles of the Benefactor dissipated the darkness of impiety and illuminated the world by blazing in the canopy of the Church like stars that never set."
@@ -160,6 +164,7 @@ meMA.Ode4C1T.text = "O all-pure Lady, in virginal innocence you conceived God th
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "Lord, you sent forth Your…"
 meMA.Ode5C11.text = "Lord, you sent forth Your disciples as trumpets. They awakened those souls that sing Your worship out of the graveyard of delusion."
@@ -184,6 +189,7 @@ meMA.Ode5C1T.text = "O all-blameless one, we venerate you through whom we have b
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "Nicanor is put to death…"
 meMA.Ode6C11.text = "Nicanor is put to death, having been murdered at the hands of the Jews. He declared unending life and the Cross and Passion of Him Who suffered in the flesh for the sake of His compassion."
@@ -208,12 +214,14 @@ meMA.Ode6C1T.text = "O Birthgiver of God, you unfathomably conceived the King of
 
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "O all-praised Apostles, you received…"
 meMA.Ode7C11.text = "O all-praised Apostles, you received the heavenly Kingdom as your portion, since with your whole mind you loved Christ, Who alone is truly beautiful beyond compare."
@@ -238,6 +246,7 @@ meMA.Ode7C1T.text = "O all-pure Maiden, you gave birth at a word to the Word of 
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "O all-wise Apostles, you have…"
 meMA.Ode8C11.text = "O all-wise Apostles, you have rescued those who obey your teachings from the mire of passions and vanity. You have led them to the pinnacle of knowledge. They have become well-pleasing to God and exclaim: \"O all you works, praise you the Lord.\""
@@ -262,12 +271,14 @@ meMA.Ode8C1T.text = "O graced of God, behold that the voices of the holy heralds
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8H.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "O elect and venerable Deacons…"
 meMA.Ode9C11.text = "O elect and venerable Deacons, you are manifest as vessels of the Logos. You contain all of His splendor and are completely wise. You have ministered to the needs of the Saints and now enjoy unfathomable glory with the Logos."
@@ -292,6 +303,7 @@ meMA.Ode9C1T.text = "O Virgin, we joyously exclaim to you with the voice of the 
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9H.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.text

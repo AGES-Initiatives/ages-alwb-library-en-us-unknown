@@ -84,6 +84,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_unknown.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_unknown.heHE.ArmatilatinFarao.notmetered
 meMA.Ode1C11.incipit = "O blessed Father Gregory, work…"
 meMA.Ode1C11.text = "O blessed Father Gregory, work your holy wonders in me with clarity, deliver me from the pit of my failings, and illuminate me with your brightness, so that I may be worthy to sing your praise."
@@ -114,6 +115,7 @@ meMA.Ode1C1T.text = "O pure Virgin, you sprang from the royal root, and you unfa
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.notmetered
 meMA.Ode3C11.incipit = "O Gregory, you purified your…"
 meMA.Ode3C11.text = "O Gregory, you purified your mind of the arrogant waves of passions, and you were filled with holy vision. You became a majestic dwelling place for wisdom. You were made wealthy with the gift of prophecy."
@@ -144,6 +146,7 @@ meMA.Ode3C1T.text = "O pure Maiden blessed by God, all of us know that you are t
 
 meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.incipit
 meMA.Ode3H.text = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.text
@@ -165,6 +168,7 @@ meMA.Ode3KathismaSt.text = //me.m01.d29_en_US_unknown.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.SyMouIschys.notmetered
 meMA.Ode4C11.incipit = "O godly-minded Father Gregory, you…"
 meMA.Ode4C11.text = "O godly-minded Father Gregory, you imitated the good earth by receiving the seed of the Logos and producing a hundredfold crop, as the Gospel says. Even now through your teachings, you offer up those who sing in faith: \"Glory to Your power, O Friend of man.\""
@@ -195,6 +199,7 @@ meMA.Ode4C1T.text = "O all-blameless Lady, you were prefigured long ago by the a
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "O Hierarch of divine speech…"
 meMA.Ode5C11.text = "O Hierarch of divine speech, you made barren hearts fertile with the plow of your words by planting them with holy seeds. You offered the salvation of the faithful to the Redeemer as a bountiful crop."
@@ -225,6 +230,7 @@ meMA.Ode5C1T.text = "O Virgin, you were made beautiful with the immaculate fairn
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "O godly-minded HIerarch, rescue me…"
 meMA.Ode6C11.text = "O godly-minded HIerarch, rescue me from my sorrowful sins by your prayers, and shred the manuscript on which my sins are written. O Father, you are a priest and have been granted by God the authority to remit sins."
@@ -249,6 +255,7 @@ meMA.Ode6C1T.text = "O all-blameless Virgin, the efficacious Spirit came upon yo
 
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.text
@@ -262,6 +269,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C11.incipit = "O Gregory, you were proven…"
 meMA.Ode7C11.text = "O Gregory, you were proven to be the glory of the Fathers, the majesty of the preachers, the lantern of the Church, and the unconquerable pillar of true religion, as you exclaimed: \"Blessed is the God of our Fathers.\""
@@ -286,6 +294,7 @@ meMA.Ode7C1T.text = "O all-pure Virgin, now everything is full of divine light t
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "O Gregory, you have made…"
 meMA.Ode8C11.text = "O Gregory, you have made us wealthy with the enlightenment of the consubstantial and Holy Trinity. Thus we now observe your festival and ask to be illumined with the grace of wonder-working, as we exclaim: \"Bless the Master, O you priests. Supremely exalt Him, O you people, unto all the ages.\""
@@ -310,12 +319,14 @@ meMA.Ode8C1T.text = "O most pure Maiden, you shone with the beauty of virginity.
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_unknown.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_unknown.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C11.incipit = "O righteous Father and miracle-working…"
 meMA.Ode9C11.text = "O righteous Father and miracle-working Hierarch, you radiated with the light of a righteous life and now stand before the great Light. You have been given the crown of victory with divine powers of miracle-working. O godly-minded Gregory, lantern of the Church and adornment of Orthodox Christians."
@@ -340,6 +351,7 @@ meMA.Ode9C1T.text = "O Virgin, you became the Mother of God. Beyond nature you g
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_unknown.heHE.ExestiEpiTouto.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_unknown.heHE.ExestiEpiTouto.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_unknown.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_unknown.heHE.ExestiEpiTouto.text

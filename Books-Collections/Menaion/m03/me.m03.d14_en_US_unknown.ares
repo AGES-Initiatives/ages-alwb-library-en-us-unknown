@@ -60,6 +60,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_unknown.heHE.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_unknown.heHE.DefteLaoi.text
@@ -68,6 +69,7 @@ meMA.Ode1C1H.text = he.h.m2_en_US_unknown.heHE.DefteLaoi.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "O righteous Benedict, pray that…"
 meMA.Ode1C11.text = "O righteous Benedict, pray that grace and redemption from all my transgressions may be given to me. I yearn to praise your memory worthy of commemoration with songs."
@@ -92,12 +94,14 @@ meMA.Ode1C1T.text = "O immaculate Theotokos, we overflow with undefilement becau
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "O Benedict, your soul was…"
 meMA.Ode3C11.text = "O Benedict, your soul was filled to capacity with streams of life from the Holy Spirit. You soul poured forth rivers of wonders, and it dessicated the swarming of pestilence."
@@ -137,12 +141,14 @@ meMA.Ode3KathismaSt.text = "O Lord my Savior, when You were crucified to the Cro
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_US_unknown.heHE.YmnoSeAkoi.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_US_unknown.heHE.YmnoSeAkoi.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_unknown.heHE.YmnoSeAkoi.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_unknown.heHE.YmnoSeAkoi.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_unknown.heHE.YmnoSeAkoi.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_unknown.heHE.YmnoSeAkoi.notmetered
 meMA.Ode4C11.incipit = "O Father Benedict of a…"
 meMA.Ode4C11.text = "O Father Benedict of a godly mind, You crucified yourself to the passions and the world. You were a servant of Christ, who allowed Himself to spread His hands out on the Cross. Ask Him to grant salvation to our souls."
@@ -167,12 +173,14 @@ meMA.Ode4C1T.text = "O pure one, the Word came down into your honorable womb to 
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "O prudent Father Benedict, you…"
 meMA.Ode5C11.text = "O prudent Father Benedict, you filled the large jar with oil as Elias by invoking God. Those who watched this were amazed at you and had faith."
@@ -197,12 +205,14 @@ meMA.Ode5C1T.text = "O pure Lady, the One who abides in Heaven took His abode in
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "O miracle-working Benedict, you radiated…"
 meMA.Ode6C11.text = "O miracle-working Benedict, you radiated with the brilliance of the light of the Holy Spirit. You defeated the gloom of the vile demons. You are the great light of monks."
@@ -233,12 +243,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_US_unknown.heHE.RitoresAnedeichthisanPaides.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_US_unknown.heHE.RitoresAnedeichthisanPaides.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_unknown.heHE.RitoresAnedeichthisanPaides.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_unknown.heHE.RitoresAnedeichthisanPaides.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_unknown.heHE.RitoresAnedeichthisanPaides.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_unknown.heHE.RitoresAnedeichthisanPaides.notmetered
 meMA.Ode7C11.incipit = "O all-blessed Benedict, You took…"
 meMA.Ode7C11.text = "O all-blessed Benedict, You took hold of the mortification that grants life by your restraint from things that bring pleasure. Therefore you were declared to be worthy to resurrect the dead. Everyone of the faithful looked upon you in amazement as though you were Elias."
@@ -263,12 +275,14 @@ meMA.Ode7C1T.text = "O Virgin, holy Mother of God, work a cure for the passions 
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "O Father of a godly…"
 meMA.Ode8C11.text = "O Father of a godly mind, in Christ you were as though a king over the passions of defilement. You were declared to be worthy to abide in the Kingdom of Heaven with everyone who spent their lives correctly by loving the God who sees everything."
@@ -293,12 +307,14 @@ meMA.Ode8C1T.text = "O immaculate Virgin, observe that a Child has been born fro
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "O God-bearer, you were like…"
 meMA.Ode9C11.text = "O God-bearer, you were like a great sun which shines the sunbeams of righteousness and fearful signs upon Creation. Because of this we commemorate your memory, which truly shines with beauty. O Father Benedict, you illuminate us in the senses of our hearts."

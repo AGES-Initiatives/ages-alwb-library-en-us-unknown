@@ -73,6 +73,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_Prophet.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode1C11.greekmelody = he.h.m5_en_US_unknown.heHE.IpponKaiAnavatin.greekname
 meMA.Ode1C11.melody = he.h.m5_en_US_unknown.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C11.incipit = "O God-inspired Nahum, we count…"
 meMA.Ode1C11.text = "O God-inspired Nahum, we count you blessed when we look upon the holy burden your mind saw. O most excellent Prophet, your mind was overcome by divine inspiration from God, and it radiated with His grace."
@@ -97,6 +98,7 @@ meMA.Ode1C1T.text = "O supremely blessed and all-pure Virgin, guard those who fa
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode3C11.greekmelody = he.h.m5_en_US_unknown.heHE.OPixasEpOudenos.greekname
 meMA.Ode3C11.melody = he.h.m5_en_US_unknown.heHE.OPixasEpOudenos.notmetered
 meMA.Ode3C11.incipit = "O God-inspired Nahum, your soul…"
 meMA.Ode3C11.text = "O God-inspired Nahum, your soul became a great lantern by participation in the deifying Holy Spirit. You were appointed by holy inspiration to forewarn the people concerning everything that was in the distant future."
@@ -115,6 +117,7 @@ meMA.Ode3C1T.text = "O pure Virgin, He Who is above everyone is the Friend of ma
 
 meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode3H.greekmelody = he.h.m5_en_US_unknown.heHE.OPixasEpOudenos.greekname
 meMA.Ode3H.melody = he.h.m5_en_US_unknown.heHE.OPixasEpOudenos.melody
 meMA.Ode3H.incipit = he.h.m5_en_US_unknown.heHE.OPixasEpOudenos.incipit
 meMA.Ode3H.text = he.h.m5_en_US_unknown.heHE.OPixasEpOudenos.text
@@ -136,6 +139,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode4C11.greekmelody = he.h.m5_en_US_unknown.heHE.TinTheianEnnoisas.greekname
 meMA.Ode4C11.melody = he.h.m5_en_US_unknown.heHE.TinTheianEnnoisas.notmetered
 meMA.Ode4C11.incipit = "O revealer of divine things…"
 meMA.Ode4C11.text = "O revealer of divine things, You radiated with the light of the Holy Spirit. You preached to the Ninevites the warning of destruction. You displayed the unassailable power of God."
@@ -160,6 +164,7 @@ meMA.Ode4C1T.text = "O all-hymned Mary, the Sovereign Lady of creation, rescue m
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode5C11.greekmelody = he.h.m5_en_US_unknown.heHE.OAnavallomenos.greekname
 meMA.Ode5C11.melody = he.h.m5_en_US_unknown.heHE.OAnavallomenos.notmetered
 meMA.Ode5C11.incipit = "O most wondrous Prophet Nahum…"
 meMA.Ode5C11.text = "O most wondrous Prophet Nahum, you were counted as worthy of the power and enlightenment of the Holy Spirit, for you lived a life without blame or fault."
@@ -184,6 +189,7 @@ meMA.Ode5C1T.text = "O Theotokos, even the minds of those in heaven are not able
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode6C11.greekmelody = he.h.m5_en_US_unknown.heHE.MainomeninKlydoni.greekname
 meMA.Ode6C11.melody = he.h.m5_en_US_unknown.heHE.MainomeninKlydoni.notmetered
 meMA.Ode6C11.incipit = "We the faithful will honor…"
 meMA.Ode6C11.text = "We the faithful will honor Nahum, for he became a temple of the grace of God. He was a vessel free of blemish for the holy power which is beyond human understanding"
@@ -202,12 +208,14 @@ meMA.Ode6C1T.text = "O blessed and all-blameless Maiden, the noetic powers and a
 
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode6H.greekmelody = he.h.m5_en_US_unknown.heHE.MainomeninKlydoni.greekname
 meMA.Ode6H.melody = he.h.m5_en_US_unknown.heHE.MainomeninKlydoni.melody
 meMA.Ode6H.incipit = he.h.m5_en_US_unknown.heHE.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_en_US_unknown.heHE.MainomeninKlydoni.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode7C11.greekmelody = he.h.m5_en_US_unknown.heHE.OYperypsoumenos.greekname
 meMA.Ode7C11.melody = he.h.m5_en_US_unknown.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C11.incipit = "We piously observe this festival…"
 meMA.Ode7C11.text = "We piously observe this festival, for we have as our choir director the great prophet Nahum who saw God. Thus we are inspired to sing: \"O God, blessed are You.\""
@@ -232,6 +240,7 @@ meMA.Ode7C1T.text = "O all-immaculate Virgin, the Prophet saw you as a gate whic
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode8C11.greekmelody = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.notmetered
 meMA.Ode8C11.incipit = "O Prophet, you look upon…"
 meMA.Ode8C11.text = "O Prophet, you look upon the immaterial light of the Sovereign Trinity. Thus you joyously sing: \"O all you works, praise you the Lord, and supremely exalt Him unto all the ages.\""
@@ -250,12 +259,14 @@ meMA.Ode8C1T.text = "O pure Virgin, make the constitution of my soul to be firm,
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode8H.greekmelody = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.greekname
 meMA.Ode8H.melody = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.melody
 meMA.Ode8H.incipit = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.incipit
 meMA.Ode8H.text = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode9C11.greekmelody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.greekname
 meMA.Ode9C11.melody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.notmetered
 meMA.Ode9C11.incipit = "O Prophet, you truly preached…"
 meMA.Ode9C11.text = "O Prophet, you truly preached on earth as though you were an Angel. Now you have made your home in the Heavens with the angelic choirs, where you bask in the full Light of the Trinity. Thus you watch over those who praise you."
@@ -274,6 +285,7 @@ meMA.Ode9C1T.text = "O all-holy Virgin Mother, because you have given birth to G
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode9H.greekmelody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.greekname
 meMA.Ode9H.melody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.melody
 meMA.Ode9H.incipit = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.incipit
 meMA.Ode9H.text = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.text

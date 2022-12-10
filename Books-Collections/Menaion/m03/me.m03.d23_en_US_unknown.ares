@@ -61,6 +61,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.text
@@ -69,6 +70,7 @@ meMA.Ode1C1H.text = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_unknown.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "O righteous Nikon, you overcame…"
 meMA.Ode1C11.text = "O righteous Nikon, you overcame the deviser of evils in ascetical wrestlings. You were crowned with beauty as a victorious athlete. Now you stand in the presence of God and pray for us who honor you,"
@@ -93,12 +95,14 @@ meMA.Ode1C1T.text = "O Lord, the portal of Your condescension towards us gave bi
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "O Martyr of Christ, you…"
 meMA.Ode3C11.text = "O Martyr of Christ, you girded yourself for spiritual warfare. You armed a divine host for the struggles of contest."
@@ -138,12 +142,14 @@ meMA.Ode3KathismaSt.text = "The most pure and spotless Ewe lamb of the Logos, th
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "O praiseworthy Martyr Nikon, you…"
 meMA.Ode4C11.text = "O praiseworthy Martyr Nikon, you delighted in the divine emissions of light. You passed unharmed through the floods of torments. You have worthily received the crown of victory."
@@ -168,12 +174,14 @@ meMA.Ode4C1T.text = "O Virgin Mother, the Creator loved you. You are higher than
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_unknown.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "O Nikon, obedient to your…"
 meMA.Ode5C11.text = "O Nikon, obedient to your mother's divine admonitions, you had the power of the Cross in battles. You were initiated into more excellent things."
@@ -198,12 +206,14 @@ meMA.Ode5C1T.text = "O all-blameless Virgin, you gave birth for our sakes unto t
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "O godly-minded Nikon, like a…"
 meMA.Ode6C11.text = "O godly-minded Nikon, like a very bright sun you set out from the East. You led the choir of your disciples like stars. You enlightened the West with your rays."
@@ -228,12 +238,14 @@ meMA.Ode6C1T.text = "O Lady, knowing you to be a temple and living palace of God
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "O godly-minded Nikon, you were…"
 meMA.Ode7C11.text = "O godly-minded Nikon, you were tried more than gold with tortures. You were manifested as a tower of virtue. You fended off the forays of the demons. You cried out: Blessed are You in the temple of Your glory, O Lord."
@@ -264,12 +276,14 @@ meMA.Ode7C1T.text = "O Maiden, without altering your virginity at all, the Logos
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "O righteous Nikon, you vigilantly…"
 meMA.Ode8C11.text = "O righteous Nikon, you vigilantly bore the torch of your heart. You were fueled with streams of tears and the blood of contest. You abide now in the bridal chamber not built by hands, as you cry: O all you works of the Lord, bless the Lord."
@@ -294,12 +308,14 @@ meMA.Ode8C1T.text = "O immaculate and all-hymned Virgin, break into pieces the h
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "O Nikon, the Awarder of…"
 meMA.Ode9C11.text = "O Nikon, the Awarder of crowns beheld you in garlands with the beauty of your wounds and mantled with the purple of your martyric blood. He brought you to dwell with Him in divine gladness."

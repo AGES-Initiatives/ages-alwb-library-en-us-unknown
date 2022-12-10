@@ -61,12 +61,14 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C11.incipit = "O Martyrs, as you dwell…"
 meMA.Ode1C11.text = "O Martyrs, as you dwell in the tabernacles of heaven, guard illumination to the people that commemorate you on the earth."
@@ -91,12 +93,14 @@ meMA.Ode1C1T.text = "O Virgin, bright illumination to the eyes of my soul by the
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_unknown.heHE.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_unknown.heHE.OukEstinAgios.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_unknown.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "O Martyr Agapios, you were…"
 meMA.Ode3C11.text = "O Martyr Agapios, you were ignited with the flame of Christ’s love. You extinguished the pyre of the insanity of idolatry by the rivers of your blood. Therefore we honor you."
@@ -136,12 +140,14 @@ meMA.Ode3KathismaSt.text = "The immaculate she-lamb looked upon the Lamb and the
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_US_unknown.heHE.ExOrousKataskiou.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_US_unknown.heHE.ExOrousKataskiou.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_unknown.heHE.ExOrousKataskiou.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_unknown.heHE.ExOrousKataskiou.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.ExOrousKataskiou.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.ExOrousKataskiou.notmetered
 meMA.Ode4C11.incipit = "O Agapios, you nobily mimicked…"
 meMA.Ode4C11.text = "O Agapios, you nobily mimicked the sufferings of Christ, for whom you intensely longed for. You were willingly slain as though you were a lamb. You are a great Martyr who deserves our devotion."
@@ -166,12 +172,14 @@ meMA.Ode4C1T.text = "O pure and immaculate Virgin, you were given the Word to ca
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_US_unknown.heHE.OEkNyktosAgnoias.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_US_unknown.heHE.OEkNyktosAgnoias.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_unknown.heHE.OEkNyktosAgnoias.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_unknown.heHE.OEkNyktosAgnoias.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_unknown.heHE.OEkNyktosAgnoias.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_unknown.heHE.OEkNyktosAgnoias.notmetered
 meMA.Ode5C11.incipit = "O glorious Agapios, you became…"
 meMA.Ode5C11.text = "O glorious Agapios, you became admired in works as well as in name. You struggled for the love of our God, who is the King of all."
@@ -196,12 +204,14 @@ meMA.Ode5C1T.text = "We faithfully bless you, O Mother of God, with holy songs o
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "Let us sing of the…"
 meMA.Ode6C11.text = "Let us sing of the famous Agapios, Timolaos, Romulos, the two by the name of Alexander, and the two by the name of Dionysios. They battled with firmness in the contest, and the countless masses of the opposition were wrestled to the ground."
@@ -232,12 +242,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_US_unknown.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_US_unknown.heHE.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_unknown.heHE.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_unknown.heHE.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C11.incipit = "O renowned hoplites, you willingly…"
 meMA.Ode7C11.text = "O renowned hoplites, you willingly yielded yourselves to be slain as though lambs. You had no fear of the tortures, but you cried out in joy: O God of our Fathers, blessed are You."
@@ -262,12 +274,14 @@ meMA.Ode7C1T.text = "O all-blameless one, free me from the shackles of transgres
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_US_unknown.heHE.TonEnOreiAgio.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_US_unknown.heHE.TonEnOreiAgio.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_unknown.heHE.TonEnOreiAgio.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_unknown.heHE.TonEnOreiAgio.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.TonEnOreiAgio.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.TonEnOreiAgio.notmetered
 meMA.Ode8C11.incipit = "As healers of various maladies…"
 meMA.Ode8C11.text = "As healers of various maladies who use the surgery of the Holy Spirit, cure all of our diseases, that we may commend you and glorify your holy memory."
@@ -292,12 +306,14 @@ meMA.Ode8C1T.text = "O you who gave birth to the Spring of Dispassion, bring hea
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C11.incipit = "O champions, you were beautified…"
 meMA.Ode9C11.text = "O champions, you were beautified with the divine splendor of martyrdom. You now rejoice with the Lord forever as you stand in His presence."

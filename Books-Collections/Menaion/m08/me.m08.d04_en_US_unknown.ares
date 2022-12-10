@@ -62,6 +62,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "Let us come and faithfully…"
 meMA.Ode1C11.text = "Let us come and faithfully venerate those seven gleaming precious stones. They blaze upon the Church of Christ with a light greater than the seven-branched lampstand of the Law."
@@ -92,6 +93,7 @@ meMA.Ode1C1T.text = "O unwedded Bride, you have inaugurated a new kind of birth.
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "O prizewinners, as seven unerring…"
 meMA.Ode3C11.text = "O prizewinners, as seven unerring stars shining with faith, you guided them that were perishing on the sea of error to the harbor of salvation."
@@ -116,6 +118,7 @@ meMA.Ode3C1T.text = "O Virgin, the bush upon Sinai prefigured the uniqueness of 
 
 meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3H.greekmelody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3H.melody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3H.incipit = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.text
@@ -137,6 +140,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C11.incipit = "Let us praise the Seven…"
 meMA.Ode4C11.text = "Let us praise the Seven honorable Youths, who are a righteous company honored with the number seven."
@@ -167,6 +171,7 @@ meMA.Ode4C1T.text = "O blessed and immaculate Virgin, do not disdain to constant
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "O Ephesian Youths, first you…"
 meMA.Ode5C11.text = "O Ephesian Youths, first you died a normal death on earth. Then you wondrously rose again You demonstrably confirmed the Resurrection of the dead."
@@ -191,6 +196,7 @@ meMA.Ode5C1T.text = "Although transcendent in Essence, You were born of a holy M
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "The Seven Youths smashed the…"
 meMA.Ode6C11.text = "The Seven Youths smashed the godless decree of the tyrants with words like stones. Let the pillars be acclaimed that are equal in number to those of the Divine Wisdom."
@@ -215,6 +221,7 @@ meMA.Ode6C1T.text = "Now is the woman's nature joyful. Now has sorrow ended, and
 
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6H.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6H.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.text
@@ -226,6 +233,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "The Youths became the pure…"
 meMA.Ode7C11.text = "The Youths became the pure and elected vessels of Christ, by which heretical teaching is expelled far from the Church, and by which Orthodoxy shines. There will later be the Resurrection of every soul and body as has already happened to them."
@@ -250,6 +258,7 @@ meMA.Ode7C1T.text = "O Mary, in giving birth to God, the Savior of all, you beca
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "The divine Youths have now…"
 meMA.Ode8C11.text = "The divine Youths have now rooted out the bitter delusion and heresy of the godless that rose up in evil. By faith they live, were buried, and rose again, and so they are full of the fruit of the Faith."
@@ -280,12 +289,14 @@ meMA.Ode8C1T.text = "O pure Virgin, Mother of God, no man has ever perished who 
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8H.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8H.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8H.incipit = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8H.text = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_unknown.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_unknown.heHE.ITonProIliouFostira.notmetered
 meMA.Ode9C11.incipit = "The resurrection of the Saints…"
 meMA.Ode9C11.text = "The resurrection of the Saints has now demonstrated to be a treasure of mysteries anda revelation of holy wonders. For those who died a natural death long ago are now risen up without corruption. They are wearing clothes like men who had been asleep."
@@ -316,6 +327,7 @@ meMA.Ode9C1T.text = "O pure one, supremely glorious Mary, since you preserved yo
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9H.greekmelody = he.h.m2_en_US_unknown.heHE.ITonProIliouFostira.greekname
 meMA.Ode9H.melody = he.h.m2_en_US_unknown.heHE.ITonProIliouFostira.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_unknown.heHE.ITonProIliouFostira.incipit
 meMA.Ode9H.text = he.h.m2_en_US_unknown.heHE.ITonProIliouFostira.text

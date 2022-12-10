@@ -59,6 +59,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_unknown.heHE.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_unknown.heHE.DefteLaoi.text
@@ -67,6 +68,7 @@ meMA.Ode1C1H.text = he.h.m2_en_US_unknown.heHE.DefteLaoi.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "O James, you had received…"
 meMA.Ode1C11.text = "O James, you had received the enlightenment of your Master in your soul. You forsook the world and its murky deception. You attained to glory that transcends the world."
@@ -91,12 +93,14 @@ meMA.Ode1C1T.text = "O Maid, you alone gave birth to God, whom nothing can conta
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "Your way of life was…"
 meMA.Ode3C11.text = "Your way of life was delightful. Your speech was inspired and seasoned with the salt of love. Your heart was readily moved with compunction. For this reason, with faith we call you blessed."
@@ -136,12 +140,14 @@ meMA.Ode3KathismaSt.text = "O Mother of God, we who ceaselessly magnify you with
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_unknown.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C11.incipit = "O all-blessed James, you were…"
 meMA.Ode4C11.text = "O all-blessed James, you were washed with streams of tears. You became a pure vessel of the Spirit."
@@ -166,12 +172,14 @@ meMA.Ode4C1T.text = "O sovereign Lady, perpetually virgin, you inexpressibly con
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "O righteous Father, you loved…"
 meMA.Ode5C11.text = "O righteous Father, you loved true glory. You abominated that which is highly esteemed among men. You became a luminary, conspicuous with the splendor of humility."
@@ -196,12 +204,14 @@ meMA.Ode5C1T.text = "O immaculate Virgin, because you are compassionate, heal my
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "O righteous James, the rivers…"
 meMA.Ode6C11.text = "O righteous James, the rivers of your tears dried up a sea of evil passions. They gained consolation on high for your venerable soul."
@@ -226,12 +236,14 @@ meMA.Ode6C1T.text = "He who made the universe by His will, willed to dwell in yo
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_unknown.heHE.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_unknown.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "O Father, you endured many…"
 meMA.Ode7C11.text = "O Father, you endured many persecutions and unrelenting temptations. You warded off the enemies of the icons as a zealot of righteousness. O James, you enlightened all who saw, while crying: Blessed are You, the God of our Fathers."
@@ -256,12 +268,14 @@ meMA.Ode7C1T.text = "O venerable Mary, pure and blessed Ever-virgin, You restore
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "O righteous James, your most…"
 meMA.Ode8C11.text = "O righteous James, your most pure mind communed with the pure emissions of light. It wisely declined from the darkness of the demons and the murk of the passions, as you cried: Praise you Christ unto the ages."
@@ -286,12 +300,14 @@ meMA.Ode8C1T.text = "O Virgin Mother of God, you are the living fountain that br
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "O most sacred Father, peer…"
 meMA.Ode9C11.text = "O most sacred Father, peer of the righteous, after your many labors, and after innumerable pains, sweat, and veritable tribulations, you have come to rest in the heavenly port, bearing the riches of divine virtues."

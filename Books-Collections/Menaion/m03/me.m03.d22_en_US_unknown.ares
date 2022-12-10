@@ -61,6 +61,7 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.text
@@ -69,6 +70,7 @@ meMA.Ode1C1H.text = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_unknown.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "O King of All, the…"
 meMA.Ode1C11.text = "O King of All, the renowned Basil loved Your kingly glory. He contended staunchly on earth. Count us worthy of the Kingdom of the Heavens through him."
@@ -99,12 +101,14 @@ meMA.Ode1C1T.text = "O pure Virgin, the Only-begotten, who has His being with th
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_unknown.heHE.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_unknown.heHE.OukEstinAgios.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_unknown.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "O thrice-blessed Basil, you were…"
 meMA.Ode3C11.text = "O thrice-blessed Basil, you were lifted on a stock like a lamb. You endured mutilation with a pure mind. You dashed down the enemy's swollen pride by the might of the divine Spirit."
@@ -150,12 +154,14 @@ meMA.Ode3KathismaSt.text = "O Mother of Christ our God, blameless and pure Virgi
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "O Martyr, the impious one…"
 meMA.Ode4C11.text = "O Martyr, the impious one beheld your divine face flashing with the splendor of the Spirit. He was astonished. As a minister of darkness, he raved senselessly."
@@ -186,12 +192,14 @@ meMA.Ode4C1T.text = "O Lady, I praise you, who are greatly praised. O Virgin, I 
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_unknown.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "O Martyr, you were bowed…"
 meMA.Ode5C11.text = "O Martyr, you were bowed down under the weight of the iron which you had chosen to bear as the very light yoke of the Lord. You bowed down the enemy and braggart who lifted up his head against the Creator."
@@ -222,12 +230,14 @@ meMA.Ode5C1T.text = "Let us honor in song the only Theotokos. She is higher than
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "O great and glorious Martyr…"
 meMA.Ode6C11.text = "O great and glorious Martyr, you were exalted in your contests, and you dashed down the foe. O admirable Basil, at the close of your contest you went to God, wearing a crown of victory."
@@ -252,12 +262,14 @@ meMA.Ode6C1T.text = "O all-hymned Virgin, I extol you, whom the hosts of heavenl
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.notmetered
 meMA.Ode7C11.incipit = "O wise Basil, you were…"
 meMA.Ode7C11.text = "O wise Basil, you were a partaker of the unwaning day. You passed through the darkness of torments, shining with the light of divine grace and crying: Blessed are You, the God of our Fathers."
@@ -288,12 +300,14 @@ meMA.Ode7C1T.text = "O Virgin, you perceived that your virginity had remained in
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.notmetered
 meMA.Ode8C11.incipit = "O victorious Martyr, with all…"
 meMA.Ode8C11.text = "O victorious Martyr, with all your might towards the Divine, you reckoned the pains of the body as a dream. Therefore, you have gladly passed over to that blessed life that knows no pain."
@@ -324,12 +338,14 @@ meMA.Ode8C1T.text = "O all-holy Virgin most graced of God, the race of man has b
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_unknown.heHE.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_unknown.heHE.TheonAnthropois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "O all-blessed Basil, you were…"
 meMA.Ode9C11.text = "O all-blessed Basil, you were released from the flesh. You were counted worthy to see the delightful splendors of the Saints. You were united to the angelic hosts, always singing with them: Holy, Holy, Holy, O almighty Trinity, who accomplishes all things."

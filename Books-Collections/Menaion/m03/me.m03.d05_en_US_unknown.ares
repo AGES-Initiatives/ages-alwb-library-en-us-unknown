@@ -64,12 +64,14 @@ meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode1C1H.greekmelody = he.h.m5_en_US_unknown.heHE.ToSotiriTheo.greekname
 meMA.Ode1C1H.melody = he.h.m5_en_US_unknown.heHE.ToSotiriTheo.melody
 meMA.Ode1C1H.incipit = he.h.m5_en_US_unknown.heHE.ToSotiriTheo.incipit
 meMA.Ode1C1H.text = he.h.m5_en_US_unknown.heHE.ToSotiriTheo.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode1C11.greekmelody = he.h.m5_en_US_unknown.heHE.ToSotiriTheo.greekname
 meMA.Ode1C11.melody = he.h.m5_en_US_unknown.heHE.ToSotiriTheo.notmetered
 meMA.Ode1C11.incipit = "May Conon the righteous and…"
 meMA.Ode1C11.text = "May Conon the righteous and victorious Martyr be now honored; for being enlisted for Christ, the King over all, he battled bravely against falsehood, and has put on the undefiled crown."
@@ -100,12 +102,14 @@ meMA.Ode1C1T.text = "O pure Mother of God, always ask the God that was incarnate
 
 meMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode3C1H.greekmelody = he.h.m5_en_US_unknown.heHE.DynameiTouStavrouSou.greekname
 meMA.Ode3C1H.melody = he.h.m5_en_US_unknown.heHE.DynameiTouStavrouSou.melody
 meMA.Ode3C1H.incipit = he.h.m5_en_US_unknown.heHE.DynameiTouStavrouSou.incipit
 meMA.Ode3C1H.text = he.h.m5_en_US_unknown.heHE.DynameiTouStavrouSou.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode3C11.greekmelody = he.h.m5_en_US_unknown.heHE.DynameiTouStavrouSou.greekname
 meMA.Ode3C11.melody = he.h.m5_en_US_unknown.heHE.DynameiTouStavrouSou.notmetered
 meMA.Ode3C11.incipit = "You decided to worship God…"
 meMA.Ode3C11.text = "You decided to worship God, yearning for the light, O glorious Conon; but you hated the murky godlessness of the idols."
@@ -151,12 +155,14 @@ meMA.Ode3KathismaSt.text = "O immaculate and blameless Virgin, O Panagia, in all
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode4C1H.greekmelody = he.h.m5_en_US_unknown.heHE.AkikoaKyrieTinEkTouTafou.greekname
 meMA.Ode4C1H.melody = he.h.m5_en_US_unknown.heHE.AkikoaKyrieTinEkTouTafou.melody
 meMA.Ode4C1H.incipit = he.h.m5_en_US_unknown.heHE.AkikoaKyrieTinEkTouTafou.incipit
 meMA.Ode4C1H.text = he.h.m5_en_US_unknown.heHE.AkikoaKyrieTinEkTouTafou.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode4C11.greekmelody = he.h.m5_en_US_unknown.heHE.AkikoaKyrieTinEkTouTafou.greekname
 meMA.Ode4C11.melody = he.h.m5_en_US_unknown.heHE.AkikoaKyrieTinEkTouTafou.notmetered
 meMA.Ode4C11.incipit = "You threw down the one…"
 meMA.Ode4C11.text = "You threw down the one who deceives the masses, O blessed Conon, and displayed the Divinity of Jesus."
@@ -187,12 +193,14 @@ meMA.Ode4C1T.text = "We who are faithful glorify you as truly the Mother of God,
 
 meMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode5C1H.greekmelody = he.h.m5_en_US_unknown.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C1H.melody = he.h.m5_en_US_unknown.heHE.OrthrizontesVoomenSoi.melody
 meMA.Ode5C1H.incipit = he.h.m5_en_US_unknown.heHE.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m5_en_US_unknown.heHE.OrthrizontesVoomenSoi.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode5C11.greekmelody = he.h.m5_en_US_unknown.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C11.melody = he.h.m5_en_US_unknown.heHE.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C11.incipit = "Grace made you to be…"
 meMA.Ode5C11.text = "Grace made you to be a carrier of the pure and perfect light, O glory and boast of Martyrs."
@@ -217,12 +225,14 @@ meMA.Ode5C1T.text = "We laud you as a virgin after childbirth, O Mother of God; 
 
 meMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode6C1H.greekmelody = he.h.m5_en_US_unknown.heHE.EkykloseMeAvyssos.greekname
 meMA.Ode6C1H.melody = he.h.m5_en_US_unknown.heHE.EkykloseMeAvyssos.melody
 meMA.Ode6C1H.incipit = he.h.m5_en_US_unknown.heHE.EkykloseMeAvyssos.incipit
 meMA.Ode6C1H.text = he.h.m5_en_US_unknown.heHE.EkykloseMeAvyssos.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode6C11.greekmelody = he.h.m5_en_US_unknown.heHE.EkykloseMeAvyssos.greekname
 meMA.Ode6C11.melody = he.h.m5_en_US_unknown.heHE.EkykloseMeAvyssos.notmetered
 meMA.Ode6C11.incipit = "By your prayers, grace augmented…"
 meMA.Ode6C11.text = "By your prayers, grace augmented the riches for them that held faith; but for the lawless, immediate perdition, O all-blessed Conon."
@@ -253,12 +263,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode7C1H.greekmelody = he.h.m5_en_US_unknown.heHE.OEnKaminoPyros.greekname
 meMA.Ode7C1H.melody = he.h.m5_en_US_unknown.heHE.OEnKaminoPyros.melody
 meMA.Ode7C1H.incipit = he.h.m5_en_US_unknown.heHE.OEnKaminoPyros.incipit
 meMA.Ode7C1H.text = he.h.m5_en_US_unknown.heHE.OEnKaminoPyros.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode7C11.greekmelody = he.h.m5_en_US_unknown.heHE.OEnKaminoPyros.greekname
 meMA.Ode7C11.melody = he.h.m5_en_US_unknown.heHE.OEnKaminoPyros.notmetered
 meMA.Ode7C11.incipit = "O athlete, battling in martyrdom…"
 meMA.Ode7C11.text = "O athlete, battling in martyrdom, you exclaimed: Blessed is the God of our Fathers."
@@ -289,12 +301,14 @@ meMA.Ode7C1T.text = "You that was Virgin-born, who made her the Mother of God, b
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode8C1H.greekmelody = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.greekname
 meMA.Ode8C1H.melody = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.melody
 meMA.Ode8C1H.incipit = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.incipit
 meMA.Ode8C1H.text = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode8C11.greekmelody = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.notmetered
 meMA.Ode8C11.incipit = "Beholding the world's prince of…"
 meMA.Ode8C11.text = "Beholding the world's prince of darkness ruined of superstitious falsehood through the Saint's intercessions, praise Christ, O you priests, and maximally glorify Him, O you people, for all eternity."
@@ -325,12 +339,14 @@ meMA.Ode8C1T.text = "You have been manifested as higher than the Cherubim, O Mar
 
 meMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode9C1H.greekmelody = he.h.m5_en_US_unknown.heHE.SeTinYperNoun.greekname
 meMA.Ode9C1H.melody = he.h.m5_en_US_unknown.heHE.SeTinYperNoun.melody
 meMA.Ode9C1H.incipit = he.h.m5_en_US_unknown.heHE.SeTinYperNoun.incipit
 meMA.Ode9C1H.text = he.h.m5_en_US_unknown.heHE.SeTinYperNoun.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode5
+meMA.Ode9C11.greekmelody = he.h.m5_en_US_unknown.heHE.SeTinYperNoun.greekname
 meMA.Ode9C11.melody = he.h.m5_en_US_unknown.heHE.SeTinYperNoun.notmetered
 meMA.Ode9C11.incipit = "Completely consumed with immaterial yearning…"
 meMA.Ode9C11.text = "Completely consumed with immaterial yearning, you desired to drink the cup of Christ. Because of this, all of us call you blessed, O blessed Conon."

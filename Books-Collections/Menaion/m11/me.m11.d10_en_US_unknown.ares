@@ -91,6 +91,7 @@ meMA.C2.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode1C11.greekmelody = he.h.m1_en_US_unknown.heHE.SouITropaiouchos.greekname
 meMA.Ode1C11.melody = he.h.m1_en_US_unknown.heHE.SouITropaiouchos.notmetered
 meMA.Ode1C11.incipit = "O blessed Apostles, You are…"
 meMA.Ode1C11.text = "O blessed Apostles, You are holy disciples of our God, Who took on flesh for the sake of His compassion. Ask Him to grant the remission of sins to those who observe your memorial."
@@ -115,6 +116,7 @@ meMA.Ode1C1T.text = "O Virgin, you have reformed the race of man by your childbi
 
 meMA.Ode1C21.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode1C21.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 meMA.Ode1C21.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.notmetered
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -139,6 +141,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode3C11.greekmelody = he.h.m1_en_US_unknown.heHE.OMonosEidos.greekname
 meMA.Ode3C11.melody = he.h.m1_en_US_unknown.heHE.OMonosEidos.notmetered
 meMA.Ode3C11.incipit = "O apostles, you traveled through…"
 meMA.Ode3C11.text = "O apostles, you traveled through all creation in obedience to God, for you carried the word as though it were a spiritual lantern. By grace you dispersed the darkness and made the slaves in the night of ignorance into sons of the light."
@@ -163,6 +166,7 @@ meMA.Ode3C1T.text = "O Mary Bride of God, we confess that you are the Mother of 
 
 meMA.Ode3C21.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3C21.greekmelody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.greekname
 meMA.Ode3C21.melody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.notmetered
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -187,6 +191,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode3H.greekmelody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.greekname
 meMA.Ode3H.melody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.melody
 meMA.Ode3H.incipit = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.text
@@ -213,6 +218,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode4C11.greekmelody = he.h.m1_en_US_unknown.heHE.OrosSeTiChariti.greekname
 meMA.Ode4C11.melody = he.h.m1_en_US_unknown.heHE.OrosSeTiChariti.notmetered
 meMA.Ode4C11.incipit = "O Godlike Apostles of the…"
 meMA.Ode4C11.text = "O Godlike Apostles of the Savior, you became the support of those who had been unstable. You brought the many fortresses of the enemy down to complete destruction with the iron weapons of your divinely inspired teachings."
@@ -237,6 +243,7 @@ meMA.Ode4C1T.text = "O all-blameless one, the new wonder begun in you has clearl
 
 meMA.Ode4C21.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode4C21.greekmelody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C21.melody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -261,6 +268,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode5C11.greekmelody = he.h.m1_en_US_unknown.heHE.OFotisasTiEllampsei.greekname
 meMA.Ode5C11.melody = he.h.m1_en_US_unknown.heHE.OFotisasTiEllampsei.notmetered
 meMA.Ode5C11.incipit = "The Father created everything, and…"
 meMA.Ode5C11.text = "The Father created everything, and by His Wisdom He sent you into the world as teachers. You brought light to all men in righteousness with the wisdom of the Spirit and the exposition of the truth."
@@ -285,6 +293,7 @@ meMA.Ode5C1T.text = "O all-blameless Lady Theotokos, you conceived the Logos at 
 
 meMA.Ode5C21.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode5C21.greekmelody = he.h.m2_en_US_unknown.heHE.OFotismos.greekname
 meMA.Ode5C21.melody = he.h.m2_en_US_unknown.heHE.OFotismos.notmetered
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -309,6 +318,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode6C11.greekmelody = he.h.m1_en_US_unknown.heHE.EkyklosenImas.greekname
 meMA.Ode6C11.melody = he.h.m1_en_US_unknown.heHE.EkyklosenImas.notmetered
 meMA.Ode6C11.incipit = "O Godlike and most blessed…"
 meMA.Ode6C11.text = "O Godlike and most blessed initiates of the Logos, you were like very precious stones rolling on the earth. Those who out of godless belief sacrificed to inanimate rocks you rolled towards godliness."
@@ -333,6 +343,7 @@ meMA.Ode6C1T.text = "O Lady, we glorify you as another heaven higher than the fo
 
 meMA.Ode6C21.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6C21.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C21.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -357,6 +368,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode6H.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6H.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.text
@@ -368,6 +380,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode7C11.greekmelody = he.h.m1_en_US_unknown.heHE.SeNoitin.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_unknown.heHE.SeNoitin.notmetered
 meMA.Ode7C11.incipit = "O Erastus, when Paul the…"
 meMA.Ode7C11.text = "O Erastus, when Paul the Apostle wrote about you, he claimed that you were the sacred guardian of the Church of Christ in Jerusalem. We revere you with him, and we sing: \"O praised and supremely glorious God of our Fathers.\""
@@ -392,6 +405,7 @@ meMA.Ode7C1T.text = "O Maiden, you gave a body to the co-eternal Logos of the Fa
 
 meMA.Ode7C21.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode7C21.greekmelody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.greekname
 meMA.Ode7C21.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -416,6 +430,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode8C11.greekmelody = he.h.m1_en_US_unknown.heHE.EnKaminoPaides.greekname
 meMA.Ode8C11.melody = he.h.m1_en_US_unknown.heHE.EnKaminoPaides.notmetered
 meMA.Ode8C11.incipit = "The apostles who were shown…"
 meMA.Ode8C11.text = "The apostles who were shown to be unassailable castles of the Church of Christ overturned the high walls of unrighteousness. They established all the faithful upon the rock of the foundation of the Church of Christ like bricks. It is this Christ Whom we supremely exalt unto all the ages."
@@ -440,6 +455,7 @@ meMA.Ode8C1T.text = "O pure one, the vessel that carried the ancient Manna was a
 
 meMA.Ode8C21.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8C21.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C21.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -464,12 +480,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode8H.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8H.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8H.incipit = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8H.text = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode9C11.greekmelody = he.h.m1_en_US_unknown.heHE.TyponTisAgnis.greekname
 meMA.Ode9C11.melody = he.h.m1_en_US_unknown.heHE.TyponTisAgnis.notmetered
 meMA.Ode9C11.incipit = "O Apostles of the Lord…"
 meMA.Ode9C11.text = "O Apostles of the Lord and illuminators of our hearts, you all equally completed the race, were equally enriched with words by the Master, and were granted equal gifts of the Spirit. Thus you were also given a equal rewards."
@@ -500,6 +518,7 @@ meMA.Ode9C1T.text = "O Lord, spare your people, and rescue us from the invasions
 
 meMA.Ode9C21.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9C21.greekmelody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C21.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -524,6 +543,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Ode9H.greekmelody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9H.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9H.text = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.text
