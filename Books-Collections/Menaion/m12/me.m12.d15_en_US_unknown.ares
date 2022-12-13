@@ -82,31 +82,37 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Kathisma12.greekmelody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.greekname
 meMA.Kathisma12.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
 meMA.Kathisma12.incipit = "…"
 meMA.Kathisma12.text = //me.m12.d21_en_US_unknown.meMA.Ode3Kathisma3.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma22.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Kathisma22.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma22.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = //me.m12.d20_en_US_unknown.meMA.Kathisma11.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_unknown.misc.Mode3
+meMA.Kathisma31.greekmelody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.greekname
 meMA.Kathisma31.melody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = miscellanea_en_US_unknown.misc.Mode3
+meMA.Kathisma32.greekmelody = he.a.m3_en_US_unknown.heAU.TinOraiotita.greekname
 meMA.Kathisma32.melody = he.a.m3_en_US_unknown.heAU.TinOraiotita.notmetered
 meMA.Kathisma32.incipit = "…"
 meMA.Kathisma32.text = //me.m12.d20_en_US_unknown.meMA.Ode3Kathisma3.text
@@ -231,6 +237,7 @@ meMA.Ode3H.incipit = he.h.m6_en_US_unknown.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_unknown.heHE.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "Martyr Eleftherios, you completely became…"
 meMA.Ode3Kathisma1.text = "Martyr Eleftherios, you completely became the servant of Christ God, for your mind was free from the slavery of the passions. Those who wisely trusted you were set free from error. You struggled in your contest as a priest and a Martyr and have thus received a double crown, while you pray for our salvation."

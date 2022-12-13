@@ -167,17 +167,19 @@ meMA.Ode3C1T.incipit = "As the cohort of the…"
 meMA.Ode3C1T.text = "As the cohort of the Forty-two Saints battled, they openly declared you to be the true Mother of God who is above all, who made them mighty by your intercessions."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma1.incipit = "Bravely and with strength in…"
 meMA.Ode3Kathisma1.text = "Bravely and with strength in the face of the unrighteousness, and equipped in mind and word against the wicked, you clothed yourselves with the entire armor of our Christ and God. Resolutely grasping faith in hand as a sword for the battle, you placed hope as a shield on your shoulders in war; and as a chest piece, you were clothed with love; because of this, you truly routed the foes in defeat."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "Taken away in captivity and…"
 meMA.Ode3Kathisma2.text = "Taken away in captivity and bondage by the cruel enemy and incarcerated for many years, yet kept by devout faith, you were preserved entirely free of harm; and separated from the body through the sword, O Saints, you were truly tied in a love that was inspired by God. Therefore, as luminaries you enlighten the entire world and thereby you shine on all with the grace of the All-holy Spirit, O you most blessed champions. Pray to Christ our God that remission of all their sins may be given to them that with fervency honor your holy memory."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode8
-meMA.Ode3KathismaT.melody = miscellanea_en_US_unknown.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.text
 

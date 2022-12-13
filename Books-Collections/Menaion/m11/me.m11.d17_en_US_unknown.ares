@@ -152,6 +152,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.incipit
 meMA.Ode3H.text = he.h.m8_en_US_unknown.heHE.OStereosasKatArchas.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma1.incipit = "O Gregory, you were a…"
 meMA.Ode3Kathisma1.text = "O Gregory, you were a second Moses in your works, for Moses received the sacred tablets when on the mountain of revelation so that he could give the righteous laws of the Trinity to the nations. Thus all of us faithful honor your memorial and ask for great mercy by your intercessions."

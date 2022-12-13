@@ -197,11 +197,13 @@ meMA.Ode3H.incipit = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "Let us all together observe…"
 meMA.Ode3Kathisma1.text = "Let us all together observe the festival of Erastus, Tertius, Olympas, Rodion, Sosipater, and Quartus, as we exclaim to them: \"O Apostles, servants of the Logos and righteous preachers, save our souls from eternal sorrow by your holy prayers.\""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

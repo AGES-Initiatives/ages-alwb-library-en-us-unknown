@@ -3,6 +3,7 @@ A_Resource_Whose_Name = he.a.m2_en_US_unknown
 heAU.title = ""
 
 heAU.EfsplagchniasYparchousa.greekname = ""
+heAU.EfsplagchniasYparchousa.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.EfsplagchniasYparchousa.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.EfsplagchniasYparchousa.notmetered = "N/M (Since you are the source.)"
 heAU.EfsplagchniasYparchousa.name = "Since you are the source."
@@ -10,6 +11,7 @@ heAU.EfsplagchniasYparchousa.incipit = "Since you are the source…"
 heAU.EfsplagchniasYparchousa.text = ""
 
 heAU.GynaikesAkoutisthite.greekname = ""
+heAU.GynaikesAkoutisthite.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.GynaikesAkoutisthite.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.GynaikesAkoutisthite.notmetered = "N/M (O Women, hearken.)"
 heAU.GynaikesAkoutisthite.name = "O Women, hearken."
@@ -17,6 +19,7 @@ heAU.GynaikesAkoutisthite.incipit = "O Women, hearken…"
 heAU.GynaikesAkoutisthite.text = ""
 
 heAU.OikosTouEfratha.greekname = ""
+heAU.OikosTouEfratha.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OikosTouEfratha.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.OikosTouEfratha.notmetered = "N/M (O House of Ephratha.)"
 heAU.OikosTouEfratha.name = "O House of Ephratha."
@@ -24,6 +27,7 @@ heAU.OikosTouEfratha.incipit = "O House of Ephratha…"
 heAU.OikosTouEfratha.text = ""
 
 heAU.OteEkTouXylou.greekname = ""
+heAU.OteEkTouXylou.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OteEkTouXylou.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.OteEkTouXylou.notmetered = "N/M (Joseph took You.)"
 heAU.OteEkTouXylou.name = "Joseph took You down."
@@ -31,6 +35,7 @@ heAU.OteEkTouXylou.incipit = "Joseph took You down…"
 heAU.OteEkTouXylou.text = ""
 
 heAU.PoioisEffimionStemmasin.greekname = ""
+heAU.PoioisEffimionStemmasin.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.PoioisEffimionStemmasin.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.PoioisEffimionStemmasin.notmetered = "N/M (Are there any worthy crowns.)"
 heAU.PoioisEffimionStemmasin.name = "Are there any worthy crowns."
@@ -38,6 +43,7 @@ heAU.PoioisEffimionStemmasin.incipit = "Are there any worthy crowns…"
 heAU.PoioisEffimionStemmasin.text = ""
 
 heAU.SarkiYpnosas.greekname = ""
+heAU.SarkiYpnosas.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.SarkiYpnosas.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.SarkiYpnosas.notmetered = "N/M (When You had slumbered.)"
 heAU.SarkiYpnosas.name = "When You had slumbered."
@@ -45,6 +51,7 @@ heAU.SarkiYpnosas.incipit = "When You had slumbered…"
 heAU.SarkiYpnosas.text = ""
 
 heAU.StavrosOFylax.greekname = ""
+heAU.StavrosOFylax.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.StavrosOFylax.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.StavrosOFylax.notmetered = "N/M (O Cross, you are the guardian.)"
 heAU.StavrosOFylax.name = "O Cross, you are the guardian."
@@ -52,6 +59,7 @@ heAU.StavrosOFylax.incipit = "O Cross, you are the guardian…"
 heAU.StavrosOFylax.text = ""
 
 heAU.TaAnoZiton.greekname = ""
+heAU.TaAnoZiton.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TaAnoZiton.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
 heAU.TaAnoZiton.name = "In seeking the heights."
@@ -59,6 +67,7 @@ heAU.TaAnoZiton.incipit = "In seeking the heights…"
 heAU.TaAnoZiton.text = ""
 
 heAU.ToisMathitaisSynelthomen.greekname = ""
+heAU.ToisMathitaisSynelthomen.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.ToisMathitaisSynelthomen.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.ToisMathitaisSynelthomen.notmetered = "N/M (On the mountain.)"
 heAU.ToisMathitaisSynelthomen.name = "On the mountain."
@@ -66,6 +75,7 @@ heAU.ToisMathitaisSynelthomen.incipit = "On the mountain…"
 heAU.ToisMathitaisSynelthomen.text = ""
 
 heAU.ToisTonAimatonSou.greekname = ""
+heAU.ToisTonAimatonSou.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.ToisTonAimatonSou.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.ToisTonAimatonSou.notmetered = "N/M (In the pools of your blood.)"
 heAU.ToisTonAimatonSou.name = "In the pools of your blood."
@@ -73,6 +83,7 @@ heAU.ToisTonAimatonSou.incipit = "In the pools of your blood…"
 heAU.ToisTonAimatonSou.text = ""
 
 heAU.TonMathitonOrontonSe.greekname = ""
+heAU.TonMathitonOrontonSe.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TonMathitonOrontonSe.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.TonMathitonOrontonSe.notmetered = "N/M (With the disciples.)"
 heAU.TonMathitonOrontonSe.name = "With the disciples."
@@ -80,6 +91,7 @@ heAU.TonMathitonOrontonSe.incipit = "With the disciples…"
 heAU.TonMathitonOrontonSe.text = ""
 
 heAU.TousAsfaleis.greekname = ""
+heAU.TousAsfaleis.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TousAsfaleis.mode = miscellanea_en_US_unknown.misc.Mode2
 heAU.TousAsfaleis.notmetered = "N/M (You have taken.)"
 heAU.TousAsfaleis.name = "You have taken."

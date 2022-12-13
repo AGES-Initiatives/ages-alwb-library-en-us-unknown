@@ -222,11 +222,13 @@ meMA.Kontakion1.text = ""
 meMA.Oikos1.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma2.incipit = "O Phocas, the grace of…"
 meMA.Ode3Kathisma2.text = "O Phocas, the grace of the Spirit which dwelt in you has displayed you as a fountain overflowing with many gifts. You daily help those who sail perilous waters when they call on you with faith. Grant mercy and aid to us as well."

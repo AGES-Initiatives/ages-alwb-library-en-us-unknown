@@ -158,6 +158,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_unknown.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m8_en_US_unknown.heHE.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "O venerable Kyriakos, you rejected…"
 meMA.Ode3Kathisma1.text = "O venerable Kyriakos, you rejected the pleasure of the world which quickly fails, for you desired the life above which far surpasses the world. You lived in caves and deserts and thus proved yourself as a resident of the heavenly city, where you remember everyone who venerates your memorial."

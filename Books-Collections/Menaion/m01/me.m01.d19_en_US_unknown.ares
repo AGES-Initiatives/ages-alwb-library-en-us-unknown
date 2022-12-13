@@ -153,6 +153,7 @@ meMA.Ode3H.incipit = he.h.m4_en_US_unknown.heHE.ToxonDynatonIsthenise.incipit
 meMA.Ode3H.text = he.h.m4_en_US_unknown.heHE.ToxonDynatonIsthenise.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "O wise Father, you were…"
 meMA.Ode3Kathisma1.text = "O wise Father, you were tested in ascetic discipline like gold is in fire, and you shone even brighter. Then you were translated to heavenly courts. We faithfully extol you and cry out: Pray that we may receive grace, mercy and forgiveness of sins."

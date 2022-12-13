@@ -124,6 +124,7 @@ meMA.Ode3H.incipit = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma1.incipit = "Let all the faithful venerate…"
 meMA.Ode3Kathisma1.text = "Let all the faithful venerate the Seven Youths with songs of praise on this day while we exalt Christ. For they that rejected all the things of the world as corrupted found the gifts that nothing can corrupt. Corruption did not touch them when they died. Thus after many years they again awoke and buried all the unbelief of the malicious."

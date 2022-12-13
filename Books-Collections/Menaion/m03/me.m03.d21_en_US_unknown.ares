@@ -124,6 +124,7 @@ meMA.Ode3C1T.incipit = "O Virgin, we call you…"
 meMA.Ode3C1T.text = "O Virgin, we call you golden censer, the vessel of the divine manna, and the throne and most delightful palace of God."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_unknown.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_unknown.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma1.incipit = "O Father blessed by God…"
 meMA.Ode3Kathisma1.text = "O Father blessed by God, we are amazed before the splendor of your thoughts, the beauty of your wise teachings of piety, and the persecutions that you endured for the holy icons. Therefore, as is fitting, we honor you, far-famed and all-lauded James, sacred priest of your Fashioner. Thus with praises we cry out to you: O Saint, grant us salvation by your prayers."

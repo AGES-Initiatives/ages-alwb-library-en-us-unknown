@@ -113,6 +113,7 @@ meMA.Ode3H.incipit = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""

@@ -95,20 +95,24 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma11.text = "" //me.m07.d11_en_US_unknown.meMA.Ode3Kathisma1.text
 
 meMA.Kathisma12.mode = miscellanea_en_US_unknown.misc.Mode4
-meMA.Kathisma12.melody = miscellanea_en_US_unknown.misc.Automelon
+meMA.Kathisma12.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
+meMA.Kathisma12.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.melody
 meMA.Kathisma12.incipit = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.incipit
 meMA.Kathisma12.text = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma21.incipit = "O pure and modest maiden…"
 meMA.Kathisma21.text = "O pure and modest maiden, your contests, and your crown, your sweat and your miracles have cast down the devil's trophies. for you longed for Christ your Bridegroom with all your heart, and you were not frightened by torture and death for His sake, but you gave yourself wholly to God, wearing the crown of the true Faith."
 
 meMA.Kathisma22.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma22.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = //oc.m4.d4_en_US_unknown.ocMA.Kathisma31.text
@@ -184,11 +188,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

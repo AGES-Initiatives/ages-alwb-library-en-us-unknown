@@ -127,6 +127,7 @@ meMA.Ode3C1T.incipit = "O Lord, You dwelt bodily…"
 meMA.Ode3C1T.text = "O Lord, You dwelt bodily in the Virgin. You were seen by men as it was meet for You to be seen. O only Friend of man, You have shown her to be the true Theotokos and the help of the faithful."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_unknown.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_unknown.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma1.incipit = "O you godly ascetics, you…"
 meMA.Ode3Kathisma1.text = "O you godly ascetics, you slew the fiery movements and uprisings of the passions by your abstinence and fasting. You followed the footsteps of God, Who alone devised all things that were made. You offered yourselves as sacred, acceptable sacrifices. You were beaten and were put to death, cut asunder with violence, at the hands of the barbarians."

@@ -122,6 +122,7 @@ meVE.Apolytikion3.text = ""
 meMA.Kathisma1.notice = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -134,6 +135,7 @@ meMA.Kathisma1T.text = //ho.s23_en_US_unknown.hoCA.Apolytikion2.text
 meMA.Kathisma2.notice = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = //me.m07.d26_en_US_unknown.meMA.Kathisma21.text
@@ -255,11 +257,13 @@ meMA.Ode3H.incipit = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3H.text = he.h.m2_en_US_unknown.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma2.incipit = "O famous Kyriake, by the…"
 meMA.Ode3Kathisma2.text = "O famous Kyriake, by the radiant light of your purity, you produced a fragrant lily for Christ within the valley of martyrdom. You were enlightened with the light of the knowledge of God, which casts out the odious and noisy ruin of error. O Martyr, we therefore commemorate your holy memory."

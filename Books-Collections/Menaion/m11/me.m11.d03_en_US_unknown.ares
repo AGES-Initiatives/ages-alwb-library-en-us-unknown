@@ -241,11 +241,13 @@ meMA.Kontakion1.text = ""
 meMA.Oikos1.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "The courageous and noble champion…"
 meMA.Ode3Kathisma1.text = "The courageous and noble champion Joseph, Akepsimas the destroyer of delusion, and the invincible and glorious athlete Aethalas are bright and radiant stars of the holy Faith. Truly they are worthy to be praised in hymns on this day. They diminished the glory of the Persians by refusing to offer a sacrifice to the sun or worship the fire. Thus let us faithfully exclaim: \"Intercede with Christ our God that He may grant remission of all the sins of those who venerate their sacred memorial.\""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "O prizewinner and Great Martyr…"
 meMA.Ode3Kathisma2.text = "O prizewinner and Great Martyr George, you courageously overthrew the tyrants and all their might by the strength of the sign of Christ the Savior, the sign of Whom you were fully armed with as the champion of the Faith. You strengthened the faithful in their faith when you exposed the depravity of the idols, O godly-minded George. Thus, as is right, you have received from the hand of the Lord the crowns of your victory, for you have struggled in martyrdom. Intercede with Christ our God that He may grant remission of all the sins of those who venerate your sacred memorial."
