@@ -81,9 +81,9 @@ heHE.EnNomoSkia.mode = miscellanea_en_US_unknown.misc.Mode3
 heHE.EnNomoSkia.ode = miscellanea_en_US_unknown.misc.Ode9
 heHE.EnNomoSkia.text = ""
 
-heHE.EnSinaioToOrei.notmetered = "N/M ()"
-heHE.EnSinaioToOrei.greekname = ""
-heHE.EnSinaioToOrei.name = ""
+heHE.EnSinaioToOrei.notmetered = "N/M (When the bush on Mt. Sinai.)"
+heHE.EnSinaioToOrei.greekname = "Ἐν Σιναίῳ τῷ ὅρει."
+heHE.EnSinaioToOrei.name = "When the bush on Mt. Sinai."
 heHE.EnSinaioToOrei.incipit = "…"
 heHE.EnSinaioToOrei.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.EnSinaioToOrei.mode = miscellanea_en_US_unknown.misc.Mode3
@@ -459,9 +459,9 @@ heHE.TonExAnarchou.mode = miscellanea_en_US_unknown.misc.Mode3
 heHE.TonExAnarchou.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.TonExAnarchou.text = ""
 
-heHE.TonYpAngelon.notmetered = "N/M ()"
-heHE.TonYpAngelon.greekname = ""
-heHE.TonYpAngelon.name = ""
+heHE.TonYpAngelon.notmetered = "N/M (To Him whom Angels.)"
+heHE.TonYpAngelon.greekname = "Τὸν ὑπʼ Ἀγγέλων."
+heHE.TonYpAngelon.name = "To Him whom Angels."
 heHE.TonYpAngelon.incipit = "…"
 heHE.TonYpAngelon.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.TonYpAngelon.mode = miscellanea_en_US_unknown.misc.Mode3
