@@ -12,6 +12,7 @@ R01 = ""
 
 hoCA.Ode11.ode = miscellanea_en_US_unknown.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode11.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 hoCA.Ode11.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.name
 hoCA.Ode11.incipit = "May Your holy Body be…"
 hoCA.Ode11.text = "May Your holy Body be for me the Bread of life everlasting, O compassionate Lord, and may Your precious Blood be a remedy for diverse maladies."
@@ -30,6 +31,7 @@ hoCA.Ode1T.text = "O blessed Bride of God, O good land which produced the Ear of
 
 hoCA.Ode31.ode = miscellanea_en_US_unknown.misc.Ode3
 hoCA.Ode31.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode31.greekmelody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.greekname
 hoCA.Ode31.melody = he.h.m2_en_US_unknown.heHE.EnPetraMeTisPisteos.name
 hoCA.Ode31.incipit = "Grant me, O Christ, teardrops…"
 hoCA.Ode31.text = "Grant me, O Christ, teardrops to cleanse the defilement of my heart, that, purified and with good conscience, I may draw near with fear and faith, O Master, to the communion of Your divine Gifts."
@@ -48,6 +50,7 @@ hoCA.Ode3T.text = "O all-holy one, table of the Bread of life Who for mercy's sa
 
 hoCA.Ode41.ode = miscellanea_en_US_unknown.misc.Ode4
 hoCA.Ode41.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode41.greekmelody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.greekname
 hoCA.Ode41.melody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.name
 hoCA.Ode41.incipit = "O most merciful One, Who…"
 hoCA.Ode41.text = "O most merciful One, Who was incarnate for us, You willed to be slain as a sheep for the sins of mortals.  Therefore also, I implore You to blot out my offenses."
@@ -66,6 +69,7 @@ hoCA.Ode4T.text = "Make Him Who came forth from your womb, O Lady, to be graciou
 
 hoCA.Ode51.ode = miscellanea_en_US_unknown.misc.Ode5
 hoCA.Ode51.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode51.greekmelody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.greekname
 hoCA.Ode51.melody = he.h.m2_en_US_unknown.heHE.OTouFotosChorigos.name
 hoCA.Ode51.incipit = "As You foretold, O Christ…"
 hoCA.Ode51.text = "As You foretold, O Christ, so let it be even now to me Your abject slave, and abide in me as You promised; for behold, I eat Your divine Body and drink Your Blood."
@@ -84,6 +88,7 @@ hoCA.Ode5T.text = "O Mary, Mother of God, august tabernacle of the sweet Fragran
 
 hoCA.Ode61.ode = miscellanea_en_US_unknown.misc.Ode6
 hoCA.Ode61.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode61.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 hoCA.Ode61.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.name
 hoCA.Ode61.incipit = "O Savior, sanctify my mind…"
 hoCA.Ode61.text = "O Savior, sanctify my mind, soul, heart, and body; and grant that without condemnation, O Master, I may approach the dread Mysteries."
@@ -107,6 +112,7 @@ hoCA.Kontakion.text = "Disdain me not to receive now, O Christ, the bread which 
 
 hoCA.Ode71.ode = miscellanea_en_US_unknown.misc.Ode7
 hoCA.Ode71.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode71.greekmelody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.greekname
 hoCA.Ode71.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.name
 hoCA.Ode71.incipit = "May the reception of Your…"
 hoCA.Ode71.text = "May the reception of Your immortal Mysteries, the Source of every good, O Christ, be now light, and life, and dispassion, and the cause of furtherance and proficiency in divine virtue, O only good One, that I may glorify You."
@@ -125,6 +131,7 @@ hoCA.Ode7T.text = "O you who are graced of God, and who gave birth incomprehensi
 
 hoCA.Ode81.ode = miscellanea_en_US_unknown.misc.Ode8
 hoCA.Ode81.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode81.greekmelody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.greekname
 hoCA.Ode81.melody = he.h.m2_en_US_unknown.heHE.TonEnKaminoTouPyros.name
 hoCA.Ode81.incipit = "Grant me, who am despairing…"
 hoCA.Ode81.text = "Grant me, who am despairing, to be a communicant now of Your heavenly, dread, and holy Mysteries, O Christ, and of Your divine and mystical Supper, O God my Savior."
@@ -143,6 +150,7 @@ hoCA.Ode8T.text = "I tremble as I receive the Fire, lest I be burned as wax and 
 
 hoCA.Ode91.ode = miscellanea_en_US_unknown.misc.Ode9
 hoCA.Ode91.mode = miscellanea_en_US_unknown.misc.Mode2
+hoCA.Ode91.greekmelody = he.h.m2_en_US_unknown.heHE.AnarchouGennitoros.greekname
 hoCA.Ode91.melody = he.h.m2_en_US_unknown.heHE.AnarchouGennitoros.name
 hoCA.Ode91.incipit = "The Lord is good: O…"
 hoCA.Ode91.text = "The Lord is good: O taste and see.  For of old He became like us for our sake, and offered Himself once as an offering to His Father, and is ever slain, sanctifying those that partake of Him."

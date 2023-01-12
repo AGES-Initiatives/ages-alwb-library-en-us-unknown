@@ -26,16 +26,19 @@ trVE.AposMartyric.incipit = "…"
 trVE.AposMartyric.text = //oc.m6.d2_en_US_unknown.ocVE.Aposticha3.text
 
 trVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode6
+trVE.Stichera01.greekmelody = he.a.m6_en_US_unknown.heAU.OlinApothemenoi.greekname
 trVE.Stichera01.melody = he.a.m6_en_US_unknown.heAU.OlinApothemenoi.notmetered
 trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = //me.m03.d25_en_US_unknown.meVE.Stichera01.text
 
 trVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode6
+trVE.Stichera02.greekmelody = he.a.m6_en_US_unknown.heAU.OlinApothemenoi.greekname
 trVE.Stichera02.melody = he.a.m6_en_US_unknown.heAU.OlinApothemenoi.notmetered
 trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = //me.m03.d25_en_US_unknown.meVE.Stichera02.text
 
 trVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode6
+trVE.Stichera03.greekmelody = he.a.m6_en_US_unknown.heAU.OlinApothemenoi.greekname
 trVE.Stichera03.melody = he.a.m6_en_US_unknown.heAU.OlinApothemenoi.notmetered
 trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = //me.m03.d25_en_US_unknown.meVE.Stichera03.text
@@ -47,6 +50,7 @@ trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = //me.m03.d25_en_US_unknown.meMA.LaudsGlory.text
 
 trVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode8
+trVE.Apolytikion1.greekmelody = he.a.m8_en_US_unknown.heAU.ToProstachthen.greekname
 trVE.Apolytikion1.melody = he.a.m8_en_US_unknown.heAU.ToProstachthen.melody
 trVE.Apolytikion1.incipit = he.a.m8_en_US_unknown.heAU.ToProstachthen.incipit
 trVE.Apolytikion1.text = he.a.m8_en_US_unknown.heAU.ToProstachthen.text
@@ -138,12 +142,14 @@ trMA.C1.verse = //prayers_en_US_unknown.pr.verse_Theotokos.text
 
 trMA.Ode1C1H.ode = miscellanea_en_US_unknown.misc.Ode1
 trMA.Ode1C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode1C1H.greekmelody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.greekname
 trMA.Ode1C1H.melody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.text
 
 trMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode1C11.greekmelody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.greekname
 trMA.Ode1C11.melody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.notmetered
 trMA.Ode1C11.incipit = "…"
 trMA.Ode1C11.text = ""
@@ -174,12 +180,14 @@ trMA.Ode1K.text = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.text
 
 trMA.Ode3C1H.ode = miscellanea_en_US_unknown.misc.Ode3
 trMA.Ode3C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode3C1H.greekmelody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.greekname
 trMA.Ode3C1H.melody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.incipit
 trMA.Ode3C1H.text = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.text
 
 trMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode3C11.greekmelody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.greekname
 trMA.Ode3C11.melody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.notmetered
 trMA.Ode3C11.incipit = "…"
 trMA.Ode3C11.text = ""
@@ -245,23 +253,27 @@ trAK.Oikos180.text = ""
 trAK.Oikos181.text = trAK.Refrain2.text
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma1.incipit = "…"
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_US_unknown.misc.Mode1
+trMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma2.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma2.incipit = "…"
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode4C1H.greekmelody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.greekname
 trMA.Ode4C1H.melody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.melody
 trMA.Ode4C1H.incipit = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.text = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.text
 
 trMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode4C11.greekmelody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.greekname
 trMA.Ode4C11.melody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.notmetered
 trMA.Ode4C11.incipit = "…"
 trMA.Ode4C11.text = ""
@@ -298,12 +310,14 @@ trMA.Ode4K.text = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.text
 
 trMA.Ode5C1H.ode = miscellanea_en_US_unknown.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode5C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.greekname
 trMA.Ode5C1H.melody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.melody
 trMA.Ode5C1H.incipit = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.incipit
 trMA.Ode5C1H.text = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.text
 
 trMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode5C11.greekmelody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.greekname
 trMA.Ode5C11.melody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.notmetered
 trMA.Ode5C11.incipit = "…"
 trMA.Ode5C11.text = ""
@@ -340,12 +354,14 @@ trMA.Ode5K.text = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.text
 
 trMA.Ode6C1H.ode = miscellanea_en_US_unknown.misc.Ode6
 trMA.Ode6C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode6C1H.greekmelody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.greekname
 trMA.Ode6C1H.melody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.incipit
 trMA.Ode6C1H.text = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.text
 
 trMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode6C11.greekmelody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.greekname
 trMA.Ode6C11.melody = he.h.m4_en_US_unknown.heHE.TinTheianTaftin.notmetered
 trMA.Ode6C11.incipit = "…"
 trMA.Ode6C11.text = ""
@@ -381,6 +397,7 @@ trMA.C3.verse = //prayers_en_US_unknown.pr.verse_SaintsM.text
 
 trMA.Ode6C21.ode = miscellanea_en_US_unknown.misc.Ode6
 trMA.Ode6C21.mode = miscellanea_en_US_unknown.misc.Mode6
+trMA.Ode6C21.greekmelody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.greekname
 trMA.Ode6C21.melody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.notmetered
 trMA.Ode6C21.incipit = "Through their sufferings the martyrs…"
 trMA.Ode6C21.text = "Through their sufferings the martyrs became like chosen stones, which roll across the earth and overturn every building of the enemy; and they were made into temples of God."
@@ -405,6 +422,7 @@ trMA.Ode6C2T.text = "O Mother and Virgin, alone worthy of all glory, intercede w
 
 trMA.Ode6C31.ode = miscellanea_en_US_unknown.misc.Ode6
 trMA.Ode6C31.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode6C31.greekmelody = he.h.m5_en_US_unknown.heHE.TouKitousTonProfitin.greekname
 trMA.Ode6C31.melody = he.h.m5_en_US_unknown.heHE.TouKitousTonProfitin.notmetered
 trMA.Ode6C31.incipit = "As we celebrate today the…"
 trMA.Ode6C31.text = "As we celebrate today the memory of the martyrs, let us with holy joy offer hymns of praise to the Lord."
@@ -441,6 +459,7 @@ trMA.Ode6C3A2.text = "O Christ, the Lord of death and life, give rest with Your 
 
 trMA.Ode6C3H.ode = miscellanea_en_US_unknown.misc.Ode6
 trMA.Ode6C3H.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode6C3H.greekmelody = he.h.m5_en_US_unknown.heHE.TouKitousTonProfitin.greekname
 trMA.Ode6C3H.melody = he.h.m5_en_US_unknown.heHE.TouKitousTonProfitin.melody
 trMA.Ode6C3H.incipit = he.h.m5_en_US_unknown.heHE.TouKitousTonProfitin.incipit
 trMA.Ode6C3H.text = he.h.m5_en_US_unknown.heHE.TouKitousTonProfitin.text
@@ -514,12 +533,14 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 trMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode7C1H.greekmelody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.greekname
 trMA.Ode7C1H.melody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.melody
 trMA.Ode7C1H.incipit = he.h.m4_en_US_unknown.heHE.OukElatrefsan.incipit
 trMA.Ode7C1H.text = he.h.m4_en_US_unknown.heHE.OukElatrefsan.text
 
 trMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode7C11.greekmelody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.greekname
 trMA.Ode7C11.melody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.notmetered
 trMA.Ode7C11.incipit = "…"
 trMA.Ode7C11.text = ""
@@ -550,6 +571,7 @@ trMA.Ode7C15.text = ""
 
 trMA.Ode7C21.ode = miscellanea_en_US_unknown.misc.Ode7
 trMA.Ode7C21.mode = miscellanea_en_US_unknown.misc.Mode6
+trMA.Ode7C21.greekmelody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.greekname
 trMA.Ode7C21.melody = he.h.m6_en_US_unknown.heHE.DrosovolonMenTinKaminon.notmetered
 trMA.Ode7C21.incipit = "O Christ most merciful, the…"
 trMA.Ode7C21.text = "O Christ most merciful, the glorious company of Your divine martyrs dwells now in Your light that knows no evening. At their intercessions, grant to all of us enlightenment and cleansing from our sins."
@@ -574,6 +596,7 @@ trMA.Ode7C2T.text = "O Ever-Virgin who bore the Giver of the Law, pray to Him th
 
 trMA.Ode7C31.ode = miscellanea_en_US_unknown.misc.Ode7
 trMA.Ode7C31.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode7C31.greekmelody = he.h.m5_en_US_unknown.heHE.EvlogitosEiOTheos.greekname
 trMA.Ode7C31.melody = he.h.m5_en_US_unknown.heHE.EvlogitosEiOTheos.notmetered
 trMA.Ode7C31.incipit = "Blessed are You, O God…"
 trMA.Ode7C31.text = "Blessed are You, O God, who gave courage to the martyrs who suffered for Your sake: for You are praised and glorified above all."
@@ -610,18 +633,21 @@ trMA.Ode7C3A2.text = "Blessed are You, O God, who translated from death to life 
 
 trMA.Ode7C3H.ode = miscellanea_en_US_unknown.misc.Ode7
 trMA.Ode7C3H.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode7C3H.greekmelody = he.h.m5_en_US_unknown.heHE.EvlogitosEiOTheos.greekname
 trMA.Ode7C3H.melody = he.h.m5_en_US_unknown.heHE.EvlogitosEiOTheos.melody
 trMA.Ode7C3H.incipit = he.h.m5_en_US_unknown.heHE.EvlogitosEiOTheos.incipit
 trMA.Ode7C3H.text = he.h.m5_en_US_unknown.heHE.EvlogitosEiOTheos.text
 
 trMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode8C1H.greekmelody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.greekname
 trMA.Ode8C1H.melody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_US_unknown.heHE.PaidasEvageis.incipit
 trMA.Ode8C1H.text = he.h.m4_en_US_unknown.heHE.PaidasEvageis.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode8C11.greekmelody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.greekname
 trMA.Ode8C11.melody = he.h.m4_en_US_unknown.heHE.PaidasEvageis.notmetered
 trMA.Ode8C11.incipit = "…"
 trMA.Ode8C11.text = ""
@@ -652,6 +678,7 @@ trMA.Ode8C15.text = ""
 
 trMA.Ode8C21.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C21.mode = miscellanea_en_US_unknown.misc.Mode6
+trMA.Ode8C21.greekmelody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.greekname
 trMA.Ode8C21.melody = he.h.m6_en_US_unknown.heHE.EkFlogosToisOsiois.notmetered
 trMA.Ode8C21.incipit = "The powers of heaven marveled…"
 trMA.Ode8C21.text = "The powers of heaven marveled at the victory of the holy martyrs. At their prayers, compassionate Master, bestow on us the rich wonders of Your mercy."
@@ -676,6 +703,7 @@ trMA.Ode8C2T.text = "At the prayers of Your Mother, O compassionate Lord, and of
 
 trMA.Ode8C31.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C31.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode8C31.greekmelody = he.h.m5_en_US_unknown.heHE.TonPoiitinTisKtiseos.greekname
 trMA.Ode8C31.melody = he.h.m5_en_US_unknown.heHE.TonPoiitinTisKtiseos.notmetered
 trMA.Ode8C31.incipit = "Holy choirs of martyrs, remember…"
 trMA.Ode8C31.text = "Holy choirs of martyrs, remember us how sing your praises with love, exalting Christ above all for ever."
@@ -712,18 +740,21 @@ trMA.Ode8C3A2.text = "Grant a place with Abraham, O Lord, to Your servants who h
 
 trMA.Ode8C3H.ode = miscellanea_en_US_unknown.misc.Ode8
 trMA.Ode8C3H.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode8C3H.greekmelody = he.h.m5_en_US_unknown.heHE.TonPoiitinTisKtiseos.greekname
 trMA.Ode8C3H.melody = he.h.m5_en_US_unknown.heHE.TonPoiitinTisKtiseos.melody
 trMA.Ode8C3H.incipit = he.h.m5_en_US_unknown.heHE.TonPoiitinTisKtiseos.incipit
 trMA.Ode8C3H.text = he.h.m5_en_US_unknown.heHE.TonPoiitinTisKtiseos.text
 
 trMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode9C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.greekname
 trMA.Ode9C1H.melody = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.incipit
 trMA.Ode9C1H.text = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Ode9C11.greekmelody = he.h.m4_en_US_unknown.heHE.ApasGigenis.greekname
 trMA.Ode9C11.melody = he.h.m4_en_US_unknown.heHE.ApasGigenis.notmetered
 trMA.Ode9C11.incipit = "…"
 trMA.Ode9C11.text = ""
@@ -754,6 +785,7 @@ trMA.Ode9C15.text = ""
 
 trMA.Ode9C21.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_en_US_unknown.misc.Mode6
+trMA.Ode9C21.greekmelody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.greekname
 trMA.Ode9C21.melody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.notmetered
 trMA.Ode9C21.incipit = "Dawning as light, as the…"
 trMA.Ode9C21.text = "Dawning as light, as the rising sun, the martyrs have illumined all the earth with the rays of the true faith and with the radiance of their miracles, and they have destroyed the darkness of pagan idolatry. At their prayers, O Lord, have mercy on us."
@@ -778,6 +810,7 @@ trMA.Ode9C2T.text = "At the voice of the angel, O Theotokos, ineffably you conce
 
 trMA.Ode9C31.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C31.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode9C31.greekmelody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.greekname
 trMA.Ode9C31.melody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.notmetered
 trMA.Ode9C31.incipit = "Celebrating a feast today in…"
 trMA.Ode9C31.text = "Celebrating a feast today in honor of the martyrs, O peoples, let us dance for joy, singing to Christ, who set the contest and gave them victory over their enemies: with our hymns we magnify Him."
@@ -814,16 +847,19 @@ trMA.Ode9C3A2.text = "When You will raise for judgment all whom You fashioned, h
 
 trMA.Ode9C3H.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C3H.mode = miscellanea_en_US_unknown.misc.Mode5
+trMA.Ode9C3H.greekmelody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.greekname
 trMA.Ode9C3H.melody = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.melody
 trMA.Ode9C3H.incipit = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.incipit
 trMA.Ode9C3H.text = he.h.m5_en_US_unknown.heHE.IsaiaChoreve.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_unknown.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_unknown.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_unknown.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion1.incipit = "…"
 trMA.Exaposteilarion1.text = ""
 
 trMA.Lauds1.mode = miscellanea_en_US_unknown.misc.Mode4
+trMA.Lauds1.greekmelody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.greekname
 trMA.Lauds1.melody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.notmetered
 trMA.Lauds1.incipit = "…"
 trMA.Lauds1.text = //me.m03.d24_en_US_unknown.meVE.Stichera01.text

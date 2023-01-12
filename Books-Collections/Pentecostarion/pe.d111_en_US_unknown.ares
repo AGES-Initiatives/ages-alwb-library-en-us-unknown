@@ -34,6 +34,7 @@ peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = ////pe.d110_en_US_unknown.peVE.Aposticha1.text
 
 peVE.Aposticha1.mode = miscellanea_en_US_unknown.misc.Mode2
+peVE.Aposticha1.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname
 peVE.Aposticha1.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.name
 peVE.Aposticha1.incipit = "…"
 peVE.Aposticha1.text = ""
@@ -54,16 +55,19 @@ peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = //pe.d110_en_US_unknown.peVE.Stichera03.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_unknown.misc.Mode8
+peMA.Kathisma11.greekmelody = he.a.m8_en_US_unknown.heAU.ToProstachthen.greekname
 peMA.Kathisma11.melody = he.a.m8_en_US_unknown.heAU.ToProstachthen.name
 peMA.Kathisma11.incipit = "When You had gone up…"
 peMA.Kathisma11.text = "When You had gone up upon the Mount of Olives, * thence were you taken, O my Jesus, rich in mercy. * For a bright cloud received You from earth, as Your disciples * did marvel and gaze in awe, and the hosts on high * did hear the dread bodiless ones as they cried out: * Be you lifted in fear, you gates. * With them creation doth praise * and laud You, Who are King and God, * yea, the Lord of all things that be."
 
 peMA.Kathisma21.mode = //pe.d110_en_US_unknown.peMA.Ode3Kathisma1.mode
+peMA.Kathisma21.greekmelody = //pe.d110_en_US_unknown.peMA.Ode3Kathisma1.greekmelody
 peMA.Kathisma21.melody = //pe.d110_en_US_unknown.peMA.Ode3Kathisma1.melody
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = //pe.d110_en_US_unknown.peMA.Ode3Kathisma1.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_unknown.misc.Mode2
+peMA.Aposticha1.greekmelody = he.a.m2_en_US_unknown.heAU.OikosTouEfratha.greekname
 peMA.Aposticha1.melody = he.a.m2_en_US_unknown.heAU.OikosTouEfratha.name
 peMA.Aposticha1.incipit = "O new and wondrous deed!…"
 peMA.Aposticha1.text = "O new and wondrous deed! * Lo, mortal human nature * ascends to the Heavens; * for it is now made one with the Word, Who is Almighty God."

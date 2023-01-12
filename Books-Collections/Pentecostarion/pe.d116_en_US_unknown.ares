@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = //dismissals_en_US_unknown.dis00.ascension
 
 peVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode4
+peVE.Stichera01.greekmelody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.greekname
 peVE.Stichera01.melody = he.a.m4_en_US_unknown.heAU.OsGennaionEnMartysi.name
 peVE.Stichera01.incipit = "As Your godly disciples watched…"
 peVE.Stichera01.text = "As Your godly disciples watched, * You did go up to Heaven's heights. * At the Father's right hand did You take up Your place, * though You were not separated from Him, for like Him, You, the Son, * are transcendent in Your being. * You did send forth the Comforter * as You had foretold, * that He might fashion earthly heavens out of Your divinely-wise Apostles, * those men whose speech was of things above."
@@ -34,6 +35,7 @@ peVE.SticGlory.incipit = "Come, O you assemblies of…"
 peVE.SticGlory.text = "Come, O you assemblies of the faithful, acquiring the mind of Christ's disciples, let us sing an unceasing hymn upon the Mount of Olives, and like the Apostles let us cry out with David: God is gone up in jubilation, the Lord with the voice of the trumpet, that He might rescue the kindred of mortal men from the stumbling-blocks of the wicked one and enlighten our souls."
 
 peVE.Aposticha1.mode = pe.d111_en_US_unknown.peMA.Aposticha1.mode
+peVE.Aposticha1.greekmelody = pe.d111_en_US_unknown.peMA.Aposticha1.greekmelody
 peVE.Aposticha1.melody = pe.d111_en_US_unknown.peMA.Aposticha1.melody
 peVE.Aposticha1.incipit = pe.d111_en_US_unknown.peMA.Aposticha1.incipit
 peVE.Aposticha1.text = pe.d111_en_US_unknown.peMA.Aposticha1.text
@@ -54,16 +56,19 @@ peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = //pe.d111_en_US_unknown.peMA.AposGlory.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_unknown.misc.Mode4
+peMA.Kathisma11.greekmelody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.greekname
 peMA.Kathisma11.melody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.name
 peMA.Kathisma11.incipit = "Since You have returned unto…"
 peMA.Kathisma11.text = "Since You have returned unto * Your Father, leave not * us, Your servants, orphaned now, * O You Creator of all things. * Thus Your disciples cried out to You * as they beheld Your Ascension, O Friend of man."
 
 peMA.Kathisma21.mode = miscellanea_en_US_unknown.misc.Mode4
+peMA.Kathisma21.greekmelody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.greekname
 peMA.Kathisma21.melody = he.a.m4_en_US_unknown.heAU.EpefanisSimeron.name
 peMA.Kathisma21.incipit = "The august adornments of *…"
 peMA.Kathisma21.text = "The august adornments of * noetic spirits * saw the Lord of Glory visibly ascending to the heights, * bearing that flesh in which He was clothed. * Therefore, they cried to each other: Lift up the gates."
 
 peMA.Aposticha1.mode = miscellanea_en_US_unknown.misc.Mode6
+peMA.Aposticha1.greekmelody = he.a.m6_en_US_unknown.heAU.TriimerosAnestis.greekname
 peMA.Aposticha1.melody = he.a.m6_en_US_unknown.heAU.TriimerosAnestis.name
 peMA.Aposticha1.incipit = "In Your extreme compassion, O…"
 peMA.Aposticha1.text = "In Your extreme compassion, O Christ, * Your birth in flesh was from a Maid; * of Your will, You * did endure the Cross and death, * arising on the third day, * O You who have great mercy. * Thus You did raise us up and give us life."

@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = //dismissals_en_US_unknown.dis00.ascension
 
 peVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode4
+peVE.Stichera01.greekmelody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.greekname
 peVE.Stichera01.melody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.name
 peVE.Stichera01.incipit = "Having achieved the salvation of…"
 peVE.Stichera01.text = "Having achieved the salvation of all mankind, * You did go up to the Mount of Olives, O Christ God, * whence You before Your disciples were * taken to Heaven, * being borne thither in awesome majesty. * Wherefore, as they stood amazed, seeing the mystery, * the lower orders cried out unto * the higher powers: * Lift you the gates, that the sovereign God of all * may enter in to where He was before * and whence He had departed, as He had willed, * to effect the salvation * of the world in a most wondrous way."
@@ -34,6 +35,7 @@ peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = //pe.d110_en_US_unknown.peVE.AposGlory.text
 
 peVE.Aposticha1.mode = miscellanea_en_US_unknown.misc.Mode6
+peVE.Aposticha1.greekmelody = he.a.m6_en_US_unknown.heAU.AiAngelikai.greekname
 peVE.Aposticha1.melody = he.a.m6_en_US_unknown.heAU.AiAngelikai.name
 peVE.Aposticha1.incipit = "That You might raise me…"
 peVE.Aposticha1.text = "That You might raise me, who down to earth was fallen, * You did come on earth, did assume me, and did lead me * on high with You and glorify me there on Your Father's throne, * and did thus dash down all the conceit of him that had cast me down aforetime. * I chant hymns of praise * to Your unfathomed love for man, * O Master, O Sovereign Lord."
@@ -54,16 +56,19 @@ peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = //pe.d110_en_US_unknown.peMA.PostGospelIdiomelon.text
 
 peMA.Kathisma11.mode = //pe.d110_en_US_unknown.peMA.Kathisma31.mode
+peMA.Kathisma11.greekmelody = //pe.d110_en_US_unknown.peMA.Kathisma31.greekmelody
 peMA.Kathisma11.melody = //pe.d110_en_US_unknown.peMA.Kathisma31.melody
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = //pe.d110_en_US_unknown.peMA.Kathisma31.text
 
 peMA.Kathisma21.mode = pe.d111_en_US_unknown.peMA.Kathisma11.mode
+peMA.Kathisma21.greekmelody = pe.d111_en_US_unknown.peMA.Kathisma11.greekmelody
 peMA.Kathisma21.melody = pe.d111_en_US_unknown.peMA.Kathisma11.melody
 peMA.Kathisma21.incipit = pe.d111_en_US_unknown.peMA.Kathisma11.incipit
 peMA.Kathisma21.text = pe.d111_en_US_unknown.peMA.Kathisma11.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_unknown.misc.Mode6
+peMA.Aposticha1.greekmelody = he.a.m6_en_US_unknown.heAU.AiAngelikai.greekname
 peMA.Aposticha1.melody = he.a.m6_en_US_unknown.heAU.AiAngelikai.name
 peMA.Aposticha1.incipit = "Wholly taking me on Yourself…"
 peMA.Aposticha1.text = "Wholly taking me on Yourself ineffably, You * with Your divine nature were wholly blended with me, * O Christ, while suff'ring neither change, division, nor fusing, thus * glory to Your awesome condescension, Passion, and to Your Resurrection * and Your Ascension, Lord, * whereby our nature, fallen once, * is raised to the heights again."

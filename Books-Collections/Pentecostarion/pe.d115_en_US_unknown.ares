@@ -34,6 +34,7 @@ peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = //pe.d110_en_US_unknown.peVE.Lity4.text
 
 peVE.Aposticha1.mode = pe.d112_en_US_unknown.peVE.Aposticha1.mode
+peVE.Aposticha1.greekmelody = pe.d112_en_US_unknown.peVE.Aposticha1.greekmelody
 peVE.Aposticha1.melody = pe.d112_en_US_unknown.peVE.Aposticha1.melody
 peVE.Aposticha1.incipit = pe.d112_en_US_unknown.peVE.Aposticha1.incipit
 peVE.Aposticha1.text = pe.d112_en_US_unknown.peVE.Aposticha1.text
@@ -54,11 +55,13 @@ peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = //pe.d110_en_US_unknown.peVE.Lity5.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_unknown.misc.Mode2
+peMA.Kathisma11.greekmelody = he.a.m2_en_US_unknown.heAU.TaAnoZiton.greekname
 peMA.Kathisma11.melody = he.a.m2_en_US_unknown.heAU.TaAnoZiton.name
 peMA.Kathisma11.incipit = "From Heaven to earth *…"
 peMA.Kathisma11.text = "From Heaven to earth * You have descended unto us. * In turn You have gone * from earth up to the heights again. * When You did ascend to Your Father, Your disciples looked on with awe. * And with them we now celebrate * and praise Your Ascension, O our Saviour Christ."
 
 peMA.Kathisma21.mode = //pe.d110_en_US_unknown.peMA.Kathisma21.mode
+peMA.Kathisma21.greekmelody = //pe.d110_en_US_unknown.peMA.Kathisma21.greekmelody
 peMA.Kathisma21.melody = //pe.d110_en_US_unknown.peMA.Kathisma21.melody
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = //pe.d110_en_US_unknown.peMA.Kathisma21.text
