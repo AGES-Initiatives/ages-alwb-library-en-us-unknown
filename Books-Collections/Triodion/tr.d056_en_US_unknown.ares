@@ -174,7 +174,7 @@ trMA.Ode1C14.text = ""
 
 trMA.Ode1K.ode = miscellanea_en_US_unknown.misc.Ode1
 trMA.Ode1K.mode = miscellanea_en_US_unknown.misc.Mode4
-trMA.Ode1K.melody = miscellanea_en_US_unknown.misc.Heirmos
+trMA.Ode1K.melody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.melody
 trMA.Ode1K.incipit = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.incipit
 trMA.Ode1K.text = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.text
 
@@ -212,7 +212,7 @@ trMA.Ode3C14.text = ""
 
 trMA.Ode3K.ode = miscellanea_en_US_unknown.misc.Ode3
 trMA.Ode3K.mode = miscellanea_en_US_unknown.misc.Mode4
-trMA.Ode3K.melody = miscellanea_en_US_unknown.misc.Heirmos
+trMA.Ode3K.melody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.melody
 trMA.Ode3K.incipit = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.incipit
 trMA.Ode3K.text = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.text
 
@@ -304,7 +304,7 @@ trMA.Ode4C15.text = ""
 
 trMA.Ode4K.ode = miscellanea_en_US_unknown.misc.Ode4
 trMA.Ode4K.mode = miscellanea_en_US_unknown.misc.Mode4
-trMA.Ode4K.melody = miscellanea_en_US_unknown.misc.Heirmos
+trMA.Ode4K.melody = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.melody
 trMA.Ode4K.incipit = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.incipit
 trMA.Ode4K.text = he.h.m4_en_US_unknown.heHE.OKathimenosEnDoxi.text
 
@@ -348,7 +348,7 @@ trMA.Ode5C15.text = ""
 
 trMA.Ode5K.ode = miscellanea_en_US_unknown.misc.Ode5
 trMA.Ode5K.mode = miscellanea_en_US_unknown.misc.Mode4
-trMA.Ode5K.melody = miscellanea_en_US_unknown.misc.Heirmos
+trMA.Ode5K.melody = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.melody
 trMA.Ode5K.incipit = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.incipit
 trMA.Ode5K.text = he.h.m4_en_US_unknown.heHE.ExestiTaSympanta.text
 
