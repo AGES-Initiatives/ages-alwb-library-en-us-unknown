@@ -49,6 +49,7 @@ meVE.SticStavrotheotokion.text = //me.m02.d03_en_US_unknown.meVE.SticStavrotheot
 
 meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode4
+meVE.Apolytikion1ger.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meVE.Apolytikion1ger.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meVE.Apolytikion1ger.incipit = "…"
 meVE.Apolytikion1ger.text = ""

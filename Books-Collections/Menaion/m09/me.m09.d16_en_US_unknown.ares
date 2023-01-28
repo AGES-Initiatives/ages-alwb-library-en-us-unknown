@@ -90,6 +90,7 @@ meVE.AposBoth.incipit = "…"
 meVE.AposBoth.text = //me.m09.d14_en_US_unknown.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode3
+meVE.Apolytikion1.greekmelody = he.a.m3_en_US_unknown.heAU.TinOraiotita.greekname
 meVE.Apolytikion1.melody = he.a.m3_en_US_unknown.heAU.TinOraiotita.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""

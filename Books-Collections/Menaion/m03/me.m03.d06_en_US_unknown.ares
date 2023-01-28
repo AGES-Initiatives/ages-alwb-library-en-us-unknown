@@ -84,6 +84,7 @@ meVE.AposStavrotheotokion.text = //oc.m6.d4_en_US_unknown.ocMA.AposTheotokion.te
 
 meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode3
+meVE.Apolytikion1ger.greekmelody = he.a.m3_en_US_unknown.heAU.TinOraiotita.greekname
 meVE.Apolytikion1ger.melody = he.a.m3_en_US_unknown.heAU.TinOraiotita.notmetered
 meVE.Apolytikion1ger.incipit = "…"
 meVE.Apolytikion1ger.text = ""

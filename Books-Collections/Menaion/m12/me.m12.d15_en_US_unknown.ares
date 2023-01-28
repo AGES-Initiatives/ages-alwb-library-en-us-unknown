@@ -77,6 +77,7 @@ meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = //oc.m8.d5_en_US_unknown.ocMA.AposTheotokion.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_unknown.misc.Mode5
+meVE.Apolytikion1.greekmelody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion1.melody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
