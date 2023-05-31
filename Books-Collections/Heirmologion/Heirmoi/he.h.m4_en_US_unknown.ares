@@ -1165,9 +1165,9 @@ heHE.ToxonDynatonIsthenise.mode = miscellanea_en_US_unknown.misc.Mode4
 heHE.ToxonDynatonIsthenise.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.ToxonDynatonIsthenise.text = ""
 
-heHE.TristatasKrataious.notmetered = "N/M ()"
-heHE.TristatasKrataious.greekname = ""
-heHE.TristatasKrataious.name = ""
+heHE.TristatasKrataious.notmetered = "N/M (I pray You to submerge.)"
+heHE.TristatasKrataious.greekname = "Τριστάτας κραταιούς."
+heHE.TristatasKrataious.name = "I pray You to submerge."
 heHE.TristatasKrataious.incipit = "…"
 heHE.TristatasKrataious.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.TristatasKrataious.mode = miscellanea_en_US_unknown.misc.Mode4
