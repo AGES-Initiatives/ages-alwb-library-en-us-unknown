@@ -5,9 +5,9 @@ heAU.title = ""
 heAU.AnestisEkNekron.greekname = ""
 heAU.AnestisEkNekron.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.AnestisEkNekron.mode = miscellanea_en_US_unknown.misc.Mode8
-heAU.AnestisEkNekron.notmetered = "N/M (When You, the Life.)"
-heAU.AnestisEkNekron.name = "When You, the Life of all."
-heAU.AnestisEkNekron.incipit = "When You, the Life of all…"
+heAU.AnestisEkNekron.notmetered = "N/M (O Life of all, You rose.)"
+heAU.AnestisEkNekron.name = "O Life of all, You rose."
+heAU.AnestisEkNekron.incipit = "…"
 heAU.AnestisEkNekron.text = ""
 
 heAU.AvlonPoimenikon.greekname = ""
@@ -29,8 +29,8 @@ heAU.DefteApantesPistoi.text = ""
 heAU.KyrieEiKaiKritirio.greekname = ""
 heAU.KyrieEiKaiKritirio.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.KyrieEiKaiKritirio.mode = miscellanea_en_US_unknown.misc.Mode8
-heAU.KyrieEiKaiKritirio.notmetered = "N/M (Lord, even if.)"
-heAU.KyrieEiKaiKritirio.name = "Lord, even if."
+heAU.KyrieEiKaiKritirio.notmetered = "N/M (Lord, even though.)"
+heAU.KyrieEiKaiKritirio.name = "Lord, even though."
 heAU.KyrieEiKaiKritirio.incipit = "Lord, even if…"
 heAU.KyrieEiKaiKritirio.text = ""
 
