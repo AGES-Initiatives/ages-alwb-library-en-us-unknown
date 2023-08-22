@@ -56,7 +56,7 @@ meVE.SticGlory.text = ""
 meVE.SticTheotokion2.mode = miscellanea_en_US_unknown.misc.Mode2
 meVE.SticTheotokion2.melody = ""
 meVE.SticTheotokion2.incipit = "…"
-meVE.SticTheotokion2.text = //ho.s23_en_US_unknown.hoCA.Troparion7.text
+meVE.SticTheotokion2.text = //ho.ho23_en_US_unknown.hoCA.Troparion7.text
 
 meVE.SticStavrotheotokion2.mode = miscellanea_en_US_unknown.misc.Mode2
 meVE.SticStavrotheotokion2.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname

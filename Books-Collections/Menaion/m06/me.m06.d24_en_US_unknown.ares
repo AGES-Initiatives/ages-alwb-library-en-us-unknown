@@ -215,12 +215,12 @@ meMA.MM.Prokeimenon.text = properties_en_US_unknown.media.key
 meMA.PostGospelGlory.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = "…"
-meMA.PostGospelGlory.text = //ho.s03_en_US_unknown.hoMA.PostGospelForerunner.text
+meMA.PostGospelGlory.text = //ho.ho03_en_US_unknown.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = "…"
-meMA.PostGospelBoth.text = //ho.s03_en_US_unknown.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.text = //ho.ho03_en_US_unknown.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.PostGospelIdiomelon.melody = miscellanea_en_US_unknown.misc.Idiomelon

@@ -42,7 +42,7 @@ meSV.SticGlory.text = ""
 meSV.SticBoth.mode = miscellanea_en_US_unknown.misc.Mode2
 meSV.SticBoth.melody = ""
 meSV.SticBoth.incipit = "…"
-meSV.SticBoth.text = //ho.s23_en_US_unknown.hoCA.Troparion7.text
+meSV.SticBoth.text = //ho.ho23_en_US_unknown.hoCA.Troparion7.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_unknown.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_unknown.heAU.OikosTouEfratha.notmetered
@@ -224,12 +224,12 @@ meMA.MM.Prokeimenon.text = properties_en_US_unknown.media.key
 meMA.PostGospelGlory.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = "…"
-meMA.PostGospelGlory.text = //ho.s03_en_US_unknown.hoMA.PostGospelMaleMartyr.text
+meMA.PostGospelGlory.text = //ho.ho03_en_US_unknown.hoMA.PostGospelMaleMartyr.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = "…"
-meMA.PostGospelBoth.text = //ho.s03_en_US_unknown.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.text = //ho.ho03_en_US_unknown.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_unknown.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""

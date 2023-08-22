@@ -231,12 +231,12 @@ meMA.MM.Prokeimenon.text = properties_en_US_unknown.media.key
 meMA.PostGospelGlory.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = "…"
-meMA.PostGospelGlory.text = //ho.s03_en_US_unknown.hoMA.PostGospelTeachers.text
+meMA.PostGospelGlory.text = //ho.ho03_en_US_unknown.hoMA.PostGospelTeachers.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = "…"
-meMA.PostGospelBoth.text = //ho.s03_en_US_unknown.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.text = //ho.ho03_en_US_unknown.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_unknown.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
@@ -962,7 +962,7 @@ meMA.Exaposteilarion2.text = ""
 meMA.ExapTheotokion.mode = miscellanea_en_US_unknown.misc.Mode3
 meMA.ExapTheotokion.melody = he.a.m3_en_US_unknown.heAU.OOuranonToisAstrois.notmetered
 meMA.ExapTheotokion.incipit = "…"
-meMA.ExapTheotokion.text = //ho.s23_en_US_unknown.hoCA.Exaposteilarion4.text
+meMA.ExapTheotokion.text = //ho.ho23_en_US_unknown.hoCA.Exaposteilarion4.text
 
 meMA.Lauds1.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Lauds1.greekmelody = he.a.m2_en_US_unknown.heAU.PoioisEffimionStemmasin.greekname

@@ -617,7 +617,7 @@ meMA.LaudsGlory.text = ""
 meMA.LaudsTheotokion.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.incipit = "…"
-meMA.LaudsTheotokion.text = //ho.s23_en_US_unknown.hoCA.Troparion7.text
+meMA.LaudsTheotokion.text = //ho.ho23_en_US_unknown.hoCA.Troparion7.text
 
 meMA.MM.Lauds123as678.text = properties_en_US_unknown.media.key
 
