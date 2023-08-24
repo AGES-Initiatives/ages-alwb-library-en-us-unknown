@@ -262,6 +262,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_unknown.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_unknown.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -418,6 +419,7 @@ meMA.AposStavrotheotokion.text = ""
 meMA.MM.Lauds1123as5678.text = properties_en_US_unknown.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

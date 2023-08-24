@@ -406,6 +406,7 @@ meMA.Ode6H.incipit = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_unknown.heAU.TousAsfaleis.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_unknown.heAU.TousAsfaleis.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -622,6 +623,7 @@ meMA.LaudsTheotokion.text = //ho.ho23_en_US_unknown.hoCA.Troparion7.text
 meMA.MM.Lauds123as678.text = properties_en_US_unknown.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

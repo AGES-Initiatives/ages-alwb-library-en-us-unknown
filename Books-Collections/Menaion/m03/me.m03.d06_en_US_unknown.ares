@@ -292,6 +292,7 @@ meMA.Ode6C1T.incipit = "The Mother of God and…"
 meMA.Ode6C1T.text = "The Mother of God and Maiden supernaturally conceived You against the natural laws, O Christ, who has indeed given the crowns to the  Martyrs that righteously competed through faith."
 
 meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_unknown.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_unknown.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -412,6 +413,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
