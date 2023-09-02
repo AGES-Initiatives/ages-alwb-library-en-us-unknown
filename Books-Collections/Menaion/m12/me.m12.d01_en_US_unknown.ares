@@ -137,8 +137,8 @@ meMA.Ode3KathismaT.text = "Ever-virgin and pure Lady, the most amazing wonder wa
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode3KathismaSt.melody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.incipit = //oc.m5.d4_en_US_unknown.ocMA.Kathisma23.incipit
+meMA.Ode3KathismaSt.text = //oc.m5.d4_en_US_unknown.ocMA.Kathisma23.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode5
