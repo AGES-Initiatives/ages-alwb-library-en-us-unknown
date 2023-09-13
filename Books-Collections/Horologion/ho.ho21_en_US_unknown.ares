@@ -185,8 +185,8 @@ hoPrayer.Key002.text = "How can I, the unworthy one, shamelessly dare to partake
 hoPrayer.Key003.incipit = "Great are the multitudes…" //oc.m6.d3_en_US_unknown.ocMA.Kathisma33.text
 hoPrayer.Key003.text = "Great are the multitudes of my offenses, O Theotokos; I have fled to you, O pure one, and implore salvation.  Visit my ailing soul, and intercede with your Son and our God that He may grant me forgiveness for the grievous deeds which I have committed, O only-blessed one." //oc.m6.d3_en_US_unknown.ocMA.Kathisma33.text
 hoPrayer.Key004.title = ""
-hoPrayer.Key004.incipit = "…" //tr.d068_en_US_unknown.trHW.Troparion.incipit
-hoPrayer.Key004.text = "" //tr.d068_en_US_unknown.trHW.Troparion.text
+hoPrayer.Key004.incipit = "…" //tr.d068_en_US_unknown.trMA.Troparion.incipit
+hoPrayer.Key004.text = "" //tr.d068_en_US_unknown.trMA.Troparion.text
 
 hoPrayer.Key005.title = "Didactic Verses on"
 hoPrayer.Key005.title2 = "How One Must Approach the Immaculate Mysteries"
