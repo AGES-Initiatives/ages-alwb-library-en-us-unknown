@@ -1007,7 +1007,7 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_unknown.media.key
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
 
 alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "" //full title of day
