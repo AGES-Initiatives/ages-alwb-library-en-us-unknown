@@ -19,48 +19,6 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera01.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
-meVE.Stichera01.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.SticTheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
-meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = //me.m03.d01_en_US_unknown.meVE.SticTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Apolytikion1ger.greekmelody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.greekname
-meVE.Apolytikion1ger.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
-
-meVE.Apolytikion2ger.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion2ger.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.Apolytikion2ger.greekmelody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.greekname
-meVE.Apolytikion2ger.melody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.notmetered
-meVE.Apolytikion2ger.incipit = "…"
-meVE.Apolytikion2ger.text = ""
-
 //Canon translated by Austin Martin
 
 meMA.C1.acrostic.title = "Canon for the Saints."
@@ -138,16 +96,6 @@ meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_unknown.heAU.TinOraiotita.greekna
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_unknown.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma1.incipit = "You were ordained as priests…"
 meMA.Ode3Kathisma1.text = "You were ordained as priests through fragrant chrism. O lights that shine everywhere, you Martyrs who are commended by everyone, you became shepherds to a people full of faith and divine prudence. As immaculate and unblemished lambs, you were sacrificed on behalf of the Word and brought to the Highest Shepherd, Christ, who was sacrificed as though a sheep. Therefore, all of us hold a feast with yearning for your godly and holy memory."
-
-meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode3
-meMA.Ode3KathismaT.melody = he.a.m3_en_US_unknown.heAU.TinOraiotita.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = //oc.m3.d5_en_US_unknown.octrMA.Kathisma1T.text
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_US_unknown.heAU.TinOraiotita.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = //oc.m3.d6_en_US_unknown.octrMA.Kathisma1T.text
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -250,12 +198,6 @@ meMA.Ode6C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "O Virgin without any guilt…"
 meMA.Ode6C1T.text = "O Virgin without any guilt, the Prophets foretold of you with their unclear messages, as did the Law which cast shadows of you. Your conception beyond of understanding delivered the world from destruction."
-
-meMA.Kontakion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meMA.Kontakion1ger.mode = miscellanea_en_US_unknown.misc.Mode8
-meMA.Kontakion1ger.melody = he.a.m8_en_US_unknown.heAU.OsAparchas.notmetered
-meMA.Kontakion1ger.incipit = "…"
-meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -364,11 +306,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C1T.incipit = "The Maiden who was given…"
 meMA.Ode9C1T.text = "The Maiden who was given grace by God, as she cradled Christ in her arms, this Christ who Himself holds everything in His own hand, she exclaimed in wonder: How can I understand You to be both my Son and my Creator, You who are beyond understanding?"
-
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
-
-meLI.Megalynarion.text = ""
 

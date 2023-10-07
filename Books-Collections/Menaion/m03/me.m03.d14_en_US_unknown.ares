@@ -19,40 +19,6 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.Stichera01.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname
-meVE.Stichera01.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.Stichera02.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.Stichera03.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.SticTheotokion.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname
-meVE.SticStavrotheotokion.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.SticStavrotheotokion.text = "" //oc.m2.d6_en_US_unknown.ocMA.AposTheotokion.text
-
-meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.Apolytikion1ger.greekmelody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.greekname
-meVE.Apolytikion1ger.melody = he.a.m1_en_US_unknown.heAU.TisErimouPolitis.notmetered
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -130,11 +96,6 @@ meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TouLithouSfragisthen
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TouLithouSfragisthentos.notmetered
 meMA.Ode3Kathisma1.incipit = "O renowned Benedict, you lived…"
 meMA.Ode3Kathisma1.text = "O renowned Benedict, you lived in virtue and solitude so as to please God. You attained hte grace to work cures, dreadful signs, and miracles. You established a holy dwelling and monastery. You led a large mass of people who found salvation through you to the Lord. Glory to God who caused you to be radiant. Glory to Him who gave you the crown. Glory to Him who facilitates cures for everyone through you."
-
-meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode1
-meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.heAU.TouLithouSfragisthentos.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = //me.m02.d13_en_US_unknown.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.heAU.TouLithouSfragisthentos.notmetered
@@ -237,12 +198,6 @@ meMA.Ode6C1T.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "O all-hymned Virgin Mother of…"
 meMA.Ode6C1T.text = "O all-hymned Virgin Mother of God, the Sun of Righteousness who never sets came to dawn from your holy womb so that He may bring light to the faithful."
 
-meMA.Kontakion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meMA.Kontakion1ger.mode = miscellanea_en_US_unknown.misc.Mode8
-meMA.Kontakion1ger.melody = he.a.m8_en_US_unknown.heAU.TiYpermacho.notmetered
-meMA.Kontakion1ger.incipit = "…"
-meMA.Kontakion1ger.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C1H.greekmelody = he.h.m2_en_US_unknown.heHE.RitoresAnedeichthisanPaides.greekname
@@ -338,11 +293,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C1T.incipit = "O Virgin, all-hymned Lady, Birthgiver…"
 meMA.Ode9C1T.text = "O Virgin, all-hymned Lady, Birthgiver of the Light, force the clouds out from my soul. Enable me to mirror in clarity the salvific splendor of Him who beyond understanding radiated from your all-holy womb as a light for the nations."
-
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
-
-meLI.Megalynarion.text = ""
 

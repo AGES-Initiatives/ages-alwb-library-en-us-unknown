@@ -19,41 +19,6 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.Stichera01.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname
-meVE.Stichera01.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.Stichera02.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.Stichera03.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.SticTheotokion.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = //oc.m2.d1_en_US_unknown.ocSV.Aposticha1.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode2
-meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.greekname
-meVE.SticStavrotheotokion.melody = he.a.m2_en_US_unknown.heAU.OteEkTouXylou.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode5
-meVE.Apolytikion1ger.greekmelody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.greekname
-meVE.Apolytikion1ger.melody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.notmetered
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
-
 meMA.C1.poet = poets_en_US_unknown.po.Ignatiou
 meMA.C1.title = titles_en_US_unknown.ti.CanonSaintM
 meMA.C1.verse = //prayers_en_US_unknown.pr.verse_SaintM.text
@@ -331,11 +296,6 @@ meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C1T.incipit = "Spare me, O Lord, spare…"
 meMA.Ode9C1T.text = "Spare me, O Lord, spare me when You come to judge me. Do not condemn me to the fire nor rebuke me in Your anger. O Christ, the Virgin that gave You birth beseeches You, and so do the multitudes of the Angels and the glorious James."
-
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
 
 meLI.Megalynarion.text = ""
 

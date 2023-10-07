@@ -19,41 +19,6 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera01.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
-meVE.Stichera01.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.SticTheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
-meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = //me.m03.d01_en_US_unknown.meVE.SticTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.greekname
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.EdokasSimeiosin.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = //me.m02.d03_en_US_unknown.meVE.SticStavrotheotokion.text
-
-meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Apolytikion1ger.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
-meVE.Apolytikion1ger.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -123,16 +88,6 @@ meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.gre
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "Through faith, the straight and…"
 meMA.Ode3Kathisma1.text = "Through faith, the straight and difficult path was made broad by these two righteous Fathers who walked it together. In turn, they straighten all the plans and traps of the dragon. Thus let us all honor them with piety of heart for the glory of God as we celebrate their holy memorial."
-
-meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode1
-meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = //me.m07.d08_en_US_unknown.meMA.Ode3KathismaT.text
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode1
-meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = //me.m07.d08_en_US_unknown.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -215,12 +170,6 @@ meMA.Ode6H.greekmelody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_unknown.heHE.ThysoSoiMetaFonis.text
-
-meMA.Kontakion1.mode = miscellanea_en_US_unknown.misc.Mode1
-meMA.Kontakion1.greekmelody = he.a.m1_en_US_unknown.heAU.ChorosAngelikos.greekname
-meMA.Kontakion1.melody = he.a.m1_en_US_unknown.heAU.ChorosAngelikos.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
@@ -312,22 +261,3 @@ meMA.Ode9H.greekmelody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.greeknam
 meMA.Ode9H.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.text
-
-meMA.Exaposteilarion1.mode = miscellanea_en_US_unknown.misc.Mode3
-meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_unknown.heAU.OOuranonToisAstrois.greekname
-meMA.Exaposteilarion1.melody = he.a.m3_en_US_unknown.heAU.OOuranonToisAstrois.notmetered
-meMA.Exaposteilarion1.incipit = "…"
-meMA.Exaposteilarion1.text = ""
-
-meMA.ExapTheotokion.mode = miscellanea_en_US_unknown.misc.Mode3
-meMA.ExapTheotokion.melody = he.a.m3_en_US_unknown.heAU.OOuranonToisAstrois.notmetered
-meMA.ExapTheotokion.incipit = "…"
-meMA.ExapTheotokion.text = //da.d7_en_US_unknown.daMA.ExapTheotokion1.text
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.Megalynarion.text = ""

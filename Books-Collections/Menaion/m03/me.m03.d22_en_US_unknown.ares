@@ -19,41 +19,6 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera01.greekmelody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.greekname
-meVE.Stichera01.melody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.SticTheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.greekname
-meVE.SticTheotokion.melody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.notmetered
-meVE.SticTheotokion.incipit = me.m03.d06_en_US_unknown.meVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = me.m03.d06_en_US_unknown.meVE.SticTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode4
-meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.greekname
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_unknown.heAU.OExYpsistouKlitheis.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = //oc.m4.d6_en_US_unknown.ocVE.AposTheotokion.text
-
-meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode3
-meVE.Apolytikion1ger.greekmelody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.greekname
-meVE.Apolytikion1ger.melody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.notmetered
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -375,11 +340,6 @@ meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode6
 meMA.Ode9C1T.melody = he.h.m6_en_US_unknown.heHE.TheonAnthropois.notmetered
 meMA.Ode9C1T.incipit = "O Virgin, awe-inspiring is the…"
 meMA.Ode9C1T.text = "O Virgin, awe-inspiring is the manner of your childbirth! For it was God incarnate who was born. O venerable Mother, perpetual Virgin, ask Him that all who honor you with undoubting faith may be delivered from terrible punishment."
-
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
 
 meLI.Megalynarion.text = ""
 

@@ -21,41 +21,6 @@ meHO.note2 = ""
 
 meR001 = ""
 
-meVE.Stichera01.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.Stichera01.greekmelody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.greekname
-meVE.Stichera01.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.Stichera02.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.Stichera03.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.SticTheotokion.greekmelody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.greekname
-meVE.SticTheotokion.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = //me.m01.d29_en_US_unknown.meMA.AposTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_unknown.misc.Mode1
-meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.greekname
-meVE.SticStavrotheotokion.melody = he.a.m1_en_US_unknown.heAU.PaneffimoiMartyres.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = //oc.m1.d4_en_US_unknown.ocVE.AposTheotokion.text
-
-meVE.Apolytikion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_unknown.misc.Mode3
-meVE.Apolytikion1ger.greekmelody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.greekname
-meVE.Apolytikion1ger.melody = he.a.m3_en_US_unknown.heAU.TheiasPisteos.notmetered
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -239,12 +204,6 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.notmetered
 meMA.Ode6C1T.incipit = "O immaculate one, your Son…"
 meMA.Ode6C1T.text = "O immaculate one, your Son is more beautiful than all mortals because of the beauty of His Divine nature, even though He incarnated for our cause."
 
-meMA.Kontakion1ger.poet = poets_en_US_unknown.po.Gerasimou
-meMA.Kontakion1ger.mode = miscellanea_en_US_unknown.misc.Mode2
-meMA.Kontakion1ger.melody = he.a.m2_en_US_unknown.heAU.TousAsfaleis.notmetered
-meMA.Kontakion1ger.incipit = "…"
-meMA.Kontakion1ger.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C1H.greekmelody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.greekname
@@ -340,11 +299,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_unknown.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C1T.incipit = "O Virgin, you held in…"
 meMA.Ode9C1T.text = "O Virgin, you held in your arms Christ who is the Sun of Uprightness. As the new morning, you have caused Him to rise on those that were in dimness and foolishness."
-
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
-
-meLI.Megalynarion.text = ""
 
