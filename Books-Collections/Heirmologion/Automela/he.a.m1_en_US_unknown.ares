@@ -53,9 +53,9 @@ heAU.TisErimouPolitis.text = ""
 heAU.TonOuranionTagmaton.greekname = ""
 heAU.TonOuranionTagmaton.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TonOuranionTagmaton.mode = miscellanea_en_US_unknown.misc.Mode1
-heAU.TonOuranionTagmaton.notmetered = "N/M (For the celestial.)"
-heAU.TonOuranionTagmaton.name = "For the celestial orders."
-heAU.TonOuranionTagmaton.incipit = "For the celestial orders…"
+heAU.TonOuranionTagmaton.notmetered = "N/M (For all the powers.)"
+heAU.TonOuranionTagmaton.name = "For all the powers of heaven."
+heAU.TonOuranionTagmaton.incipit = "For all the powers of heaven…"
 heAU.TonOuranionTagmaton.text = ""
 
 heAU.TonTafonSouSotir.greekname = ""
