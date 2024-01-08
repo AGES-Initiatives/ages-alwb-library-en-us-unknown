@@ -95,10 +95,10 @@ heHE.EchthrouZofodous3.text = ""
 heHE.EchthrouZofodous4.text = ""
 heHE.EchthrouZofodous5.text = ""
 
-heHE.EflexeReithro.notmetered = "N/M (He who retarded.)"
+heHE.EflexeReithro.notmetered = "N/M (He who impeded.)"
 heHE.EflexeReithro.greekname = ""
-heHE.EflexeReithro.name = "He who retarded."
-heHE.EflexeReithro.incipit = "He who retarded…"
+heHE.EflexeReithro.name = "He who impeded."
+heHE.EflexeReithro.incipit = "He who impeded…"
 heHE.EflexeReithro.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.EflexeReithro.mode = miscellanea_en_US_unknown.misc.Mode2
 heHE.EflexeReithro.ode = miscellanea_en_US_unknown.misc.Ode7
