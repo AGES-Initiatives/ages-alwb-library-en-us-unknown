@@ -1450,7 +1450,7 @@ trMA.Kontakion1.melody = ""
 trMA.Kontakion1.incipit = "My soul, O my soul…"
 trMA.Kontakion1.text = "My soul, O my soul, rise up! Why are you sleeping? The end draws near and soon you shall be troubled. Watch, then, that Christ your God may spare you, for He is everywhere present and fills all things."
 
-trMA.Oikos1.text = "Seeing Christ's house of healing opened, and health flowing down from it upon Adam, the devil suffered and was wounded; and as one in mortal danger he lamented, crying to his friends: 'What shall I do to the Son of Mary? I am slain by the Man from Bethlehem, who is everywhere present and fills all things.'"
+trMA.Oikos1.text = "Seeing Christ's house of healing opened, and health flowing down from it upon Adam, the devil suffered and was wounded; and as one in mortal danger he lamented, crying to his friends: \"What shall I do to the Son of Mary? I am slain by the Man from Bethlehem, who is everywhere present and fills all things.\""
 
 trSY.commemoration.text = "On this day, Thursday of the fifth week of Lent, according to ancient tradition, we chant the service of the Great and compunctious Canon."
 trSY.commemoration.onotherday.text = "On this day, we chant the service of the Great and compunctious Canon."

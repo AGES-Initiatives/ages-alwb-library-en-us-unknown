@@ -22,7 +22,7 @@ meHO.note2 = ""
 meVE.SticTheotokion.mode = miscellanea_en_US_unknown.misc.Mode8
 meVE.SticTheotokion.greekmelody = he.a.m8_en_US_unknown.heAU.TiYmasKalesomen.greekname
 meVE.SticTheotokion.melody = he.a.m8_en_US_unknown.heAU.TiYmasKalesomen.name
-meVE.SticTheotokion.text =  //me.m06.d18_en_US_unknown.meVE.SticTheotokion.text
+meVE.SticTheotokion.text = //me.m06.d18_en_US_unknown.meVE.SticTheotokion.text
 
 meMA.C1.poet = poets_en_US_unknown.po.Theofanous
 meMA.C1.title = titles_en_US_unknown.ti.CanonSaintM
