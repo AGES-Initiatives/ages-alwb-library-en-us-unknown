@@ -49,7 +49,7 @@ meMA.Ode1C13.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_unknown.heHE.AsmaAnapempsomen.notmetered
 meMA.Ode1C13.incipit = "O all-blessed Kyriakos, you triumphed…"
-meMA.Ode1C13.text = "O all-blessed Kyriakos, you triumphed over the rulers of darkness, because the Master gave you His mighty strength. O Father, you received the inheritance on high by following in the Master's footsteps."
+meMA.Ode1C13.text = "O all-blessed Kyriakos, you triumphed over the rulers of darkness, because the Master gave you His mighty strength. O Father, you received the inheritance on high by following in the Master’s footsteps."
 
 meMA.Ode1C14.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C14.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -117,13 +117,13 @@ meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.SyMouIschys.notmetered
 meMA.Ode4C11.incipit = "O righteous Kyriakos, the sun…"
-meMA.Ode4C11.text = "O righteous Kyriakos, the sun quaked at your abstinence and resolve, for it had never observed you to be angry or take food by day for many years. Rather, you powerfully sung in vigils without ceasing: \"Glory to Your strength, O Friend of man.\""
+meMA.Ode4C11.text = "O righteous Kyriakos, the sun quaked at your abstinence and resolve, for it had never observed you to be angry or take food by day for many years. Rather, you powerfully sung in vigils without ceasing: “Glory to Your strength, O Friend of man.”"
 
 meMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_unknown.heHE.SyMouIschys.notmetered
 meMA.Ode4C12.incipit = "O wise Kyriakos, you took…"
-meMA.Ode4C12.text = "O wise Kyriakos, you took every form of saintly virtue for yourself by understanding and meditating on the laws of the Old and New Covenant. O blessed one, you imitated the wise bee and became a chosen vessel. Thus you exclaimed: \"Glory to Your strength, O Friend of man.\""
+meMA.Ode4C12.text = "O wise Kyriakos, you took every form of saintly virtue for yourself by understanding and meditating on the laws of the Old and New Covenant. O blessed one, you imitated the wise bee and became a chosen vessel. Thus you exclaimed: “Glory to Your strength, O Friend of man.”"
 
 meMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -172,7 +172,7 @@ meMA.Ode5C14.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C14.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode5C14.melody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C14.incipit = "O righteous Father, your venerable…"
-meMA.Ode5C14.text = "O righteous Father, your venerable mouth was filled with illuminating and prophetic speech. You foretold the complete and total destruction of the perverse and soul-corrupting plague of Origen's teachings which were prevailing in tyranny."
+meMA.Ode5C14.text = "O righteous Father, your venerable mouth was filled with illuminating and prophetic speech. You foretold the complete and total destruction of the perverse and soul-corrupting plague of Origen’s teachings which were prevailing in tyranny."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -217,31 +217,31 @@ meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
 meMA.Ode7C11.incipit = "O God, your abundantly faithful…"
-meMA.Ode7C11.text = "O God, your abundantly faithful servant Kyriakos made his throat sweet with meditation in the divinely inspired commandments and words which are sweeter than honey. He sang to You, \"Blessed are You, O Lord God, unto the ages.\""
+meMA.Ode7C11.text = "O God, your abundantly faithful servant Kyriakos made his throat sweet with meditation in the divinely inspired commandments and words which are sweeter than honey. He sang to You, “Blessed are You, O Lord God, unto the ages.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
 meMA.Ode7C12.incipit = "O blessed and inspired Kyriakos…"
-meMA.Ode7C12.text = "O blessed and inspired Kyriakos, offer to God those who are cleansed from the filth of passions by your intercessions and who praise you, so that they may exclaim: \"Blessed are You, O Lord God, unto the ages.\""
+meMA.Ode7C12.text = "O blessed and inspired Kyriakos, offer to God those who are cleansed from the filth of passions by your intercessions and who praise you, so that they may exclaim: “Blessed are You, O Lord God, unto the ages.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
 meMA.Ode7C13.incipit = "O Christ, Kyriakos let the…"
-meMA.Ode7C13.text = "O Christ, Kyriakos let the grace of the Spirit completely dwell in himself. He was a fervent lover of Your unfathomable light with his entire soul. To You he exclaimed: \"O God, blessed are You.\""
+meMA.Ode7C13.text = "O Christ, Kyriakos let the grace of the Spirit completely dwell in himself. He was a fervent lover of Your unfathomable light with his entire soul. To You he exclaimed: “O God, blessed are You.”"
 
 meMA.Ode7C14.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C14.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C14.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
 meMA.Ode7C14.incipit = "O Christ, Daniel was glorified…"
-meMA.Ode7C14.text = "O Christ, Daniel was glorified by escaping the ferocity of the lions, but Kyriakos commanded lions as his servants. To You he exclaimed: \"O God, blessed are You.\""
+meMA.Ode7C14.text = "O Christ, Daniel was glorified by escaping the ferocity of the lions, but Kyriakos commanded lions as his servants. To You he exclaimed: “O God, blessed are You.”"
 
 meMA.Ode7C15.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C15.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C15.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
 meMA.Ode7C15.incipit = "O God-inspired Kyriakos, you took…"
-meMA.Ode7C15.text = "O God-inspired Kyriakos, you took up divine vision in your activity and announced the tri-hypostatic essence in Father, Son, and Spirit, as you exclaimed: \"O God, blessed are You.\""
+meMA.Ode7C15.text = "O God-inspired Kyriakos, you took up divine vision in your activity and announced the tri-hypostatic essence in Father, Son, and Spirit, as you exclaimed: “O God, blessed are You.”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -254,25 +254,25 @@ meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.notmetered
 meMA.Ode8C11.incipit = "O blessed Kyriakos, you watered…"
-meMA.Ode8C11.text = "O blessed Kyriakos, you watered your holy soul with streams of tears and holy repentance, so that it would bear fruit. You sang: \"O all you works, bless you the Lord, and supremely exalt Him unto the ages.\""
+meMA.Ode8C11.text = "O blessed Kyriakos, you watered your holy soul with streams of tears and holy repentance, so that it would bear fruit. You sang: “O all you works, bless you the Lord, and supremely exalt Him unto the ages.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.notmetered
 meMA.Ode8C12.incipit = "O blessed Father, in ancient…"
-meMA.Ode8C12.text = "O blessed Father, in ancient times the Thesbite brought a drought by making it not rain. You on the other hand caused a downpour in midsummer, while singing: \"O all you works, bless you the Lord, and supremely exalt Him unto the ages.\""
+meMA.Ode8C12.text = "O blessed Father, in ancient times the Thesbite brought a drought by making it not rain. You on the other hand caused a downpour in midsummer, while singing: “O all you works, bless you the Lord, and supremely exalt Him unto the ages.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.notmetered
 meMA.Ode8C13.incipit = "O Saint, with your righteous…"
-meMA.Ode8C13.text = "O Saint, with your righteous struggles you corrected the falsehood and wicked beliefs of the disciples of Origen, who was a frivolous myth-maker. And you sang in piety: \"O all Creation, bless you the Lord, and supremely exalt Him unto the ages.\""
+meMA.Ode8C13.text = "O Saint, with your righteous struggles you corrected the falsehood and wicked beliefs of the disciples of Origen, who was a frivolous myth-maker. And you sang in piety: “O all Creation, bless you the Lord, and supremely exalt Him unto the ages.”"
 
 meMA.Ode8C14.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C14.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C14.melody = he.h.m8_en_US_unknown.heHE.NikitaiTyrannou.notmetered
 meMA.Ode8C14.incipit = "O Father, you taught the…"
-meMA.Ode8C14.text = "O Father, you taught the true religion, that there is one essence of the Trinity in Three Suns which together have one radiance and glory. And you exclaimed in piety: \"O all creation, bless you the Lord, and supremely exalt Him unto the ages.\""
+meMA.Ode8C14.text = "O Father, you taught the true religion, that there is one essence of the Trinity in Three Suns which together have one radiance and glory. And you exclaimed in piety: “O all creation, bless you the Lord, and supremely exalt Him unto the ages.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode8

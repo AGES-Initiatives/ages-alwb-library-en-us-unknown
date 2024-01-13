@@ -40,7 +40,7 @@ meMA.Ode1C21.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode1C21.greekmelody = he.h.m2_en_US_unknown.heHE.DefteLaoi.greekname
 meMA.Ode1C21.melody = he.h.m2_en_US_unknown.heHE.DefteLaoi.notmetered
 meMA.Ode1C21.incipit = "Let us joyfully form a…"
-meMA.Ode1C21.text = "Let us joyfully form a choir for the memorial of the victorious Martyr, and let us sing: \"O compassionate Savior Christ, by her prayers, save Your world.\""
+meMA.Ode1C21.text = "Let us joyfully form a choir for the memorial of the victorious Martyr, and let us sing: “O compassionate Savior Christ, by her prayers, save Your world.”"
 
 meMA.Ode1C22.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -158,7 +158,7 @@ meMA.Ode6C21.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode6C21.greekmelody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C21.melody = he.h.m2_en_US_unknown.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C21.incipit = "O famous Kyriake, you surpassed…"
-meMA.Ode6C21.text = "O famous Kyriake, you surpassed nature's boundaries in your struggle beyond nature. With your great suffering, you mortally wounded him that wounded Eve."
+meMA.Ode6C21.text = "O famous Kyriake, you surpassed nature’s boundaries in your struggle beyond nature. With your great suffering, you mortally wounded him that wounded Eve."
 
 meMA.Ode6C22.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -192,25 +192,25 @@ meMA.Ode7C21.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C21.greekmelody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.greekname
 meMA.Ode7C21.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C21.incipit = "O virgin Martyr, you stood…"
-meMA.Ode7C21.text = "O virgin Martyr, you stood in the midst of the furnace and in no way were burned. Your mind was made to shine with the light of the love of God. You manifested as unconquerable, and you sang to your Creator: \"Blessed are You, the God of our Fathers.\""
+meMA.Ode7C21.text = "O virgin Martyr, you stood in the midst of the furnace and in no way were burned. Your mind was made to shine with the light of the love of God. You manifested as unconquerable, and you sang to your Creator: “Blessed are You, the God of our Fathers.”"
 
 meMA.Ode7C22.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C22.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C22.incipit = "The furnace burns neither the…"
-meMA.Ode7C22.text = "The furnace burns neither the Three Servants in ancient times nor the Martyr now. She stood praying in the midst of it unshaken. She received the divine dew and exclaimed in praise: \"Blessed are You, the God of our Fathers.\""
+meMA.Ode7C22.text = "The furnace burns neither the Three Servants in ancient times nor the Martyr now. She stood praying in the midst of it unshaken. She received the divine dew and exclaimed in praise: “Blessed are You, the God of our Fathers.”"
 
 meMA.Ode7C23.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C23.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C23.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C23.incipit = "O virgin Martyr Kyriake, you…"
-meMA.Ode7C23.text = "O virgin Martyr Kyriake, you slew the enemy of the truth with the sword of your boldness. You yearned to inherit the glory that stays forever, and you exclaimed: \"Blessed are You, the God of our Fathers.\""
+meMA.Ode7C23.text = "O virgin Martyr Kyriake, you slew the enemy of the truth with the sword of your boldness. You yearned to inherit the glory that stays forever, and you exclaimed: “Blessed are You, the God of our Fathers.”"
 
 meMA.Ode7C2T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C2T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C2T.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C2T.incipit = "The only God found your…"
-meMA.Ode7C2T.text = "The only God found your womb alone to be pure. He took on a body and is known as a Man Who saves man. Because we know you are the source of blessings, we sing: \"Blessed are You, the God of our Fathers.\""
+meMA.Ode7C2T.text = "The only God found your womb alone to be pure. He took on a body and is known as a Man Who saves man. Because we know you are the source of blessings, we sing: “Blessed are You, the God of our Fathers.”"
 
 meMA.Ode8C21.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -261,7 +261,7 @@ meMA.Ode9C23.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C23.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C23.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C23.incipit = "O Kyriake, your body which…"
-meMA.Ode9C23.text = "O Kyriake, your body which struggled greatly was buried in the earth. It springs forth rivers of healings for those who reverently approach. It washes away the stain of passions. It casts the demons' wicked assaults into the abyss."
+meMA.Ode9C23.text = "O Kyriake, your body which struggled greatly was buried in the earth. It springs forth rivers of healings for those who reverently approach. It washes away the stain of passions. It casts the demons’ wicked assaults into the abyss."
 
 meMA.Ode9C24.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C24.mode = miscellanea_en_US_unknown.misc.Mode2

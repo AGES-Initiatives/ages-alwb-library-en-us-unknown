@@ -95,7 +95,7 @@ meMA.Ode3Kathisma3.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma3.incipit = "Today the gate which shall…"
-meMA.Ode3Kathisma3.text = "Today the gate which shall not be entered is truly conceived for the world. The bright city shines with her light, and the only one without stain is declared today to the righteous by an Angel. Thus they joyfully exclaimed to the Creator: \"The source of incorruption do you grant unto us as fruit.\""
+meMA.Ode3Kathisma3.text = "Today the gate which shall not be entered is truly conceived for the world. The bright city shines with her light, and the only one without stain is declared today to the righteous by an Angel. Thus they joyfully exclaimed to the Creator: “The source of incorruption do you grant unto us as fruit.”"
 
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -195,20 +195,20 @@ meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C11.greekmelody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
-meMA.Ode7C11.incipit = "Today the foretaste of God's…"
-meMA.Ode7C11.text = "Today the foretaste of God's grace has descended to humanity by the conception of the all-immaculate Virgin. We celebrate it in anticipation and longing, as we exclaim: \"Blessed are You, the God of our Fathers.\""
+meMA.Ode7C11.incipit = "Today the foretaste of God’s…"
+meMA.Ode7C11.text = "Today the foretaste of God’s grace has descended to humanity by the conception of the all-immaculate Virgin. We celebrate it in anticipation and longing, as we exclaim: “Blessed are You, the God of our Fathers.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C12.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C12.incipit = "The sacred conception of the…"
-meMA.Ode7C12.text = "The sacred conception of the all-pure Virgin exudes a spiritual fragrance before the time. Our understanding is filled with the breath of myrrh which bestows the sweet fragrance of grace onto those who keep her prefestival and exclaim: \"Blessed are You, the God of our Fathers.\""
+meMA.Ode7C12.text = "The sacred conception of the all-pure Virgin exudes a spiritual fragrance before the time. Our understanding is filled with the breath of myrrh which bestows the sweet fragrance of grace onto those who keep her prefestival and exclaim: “Blessed are You, the God of our Fathers.”"
 
 meMA.Ode7C2T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C2T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C2T.melody = he.h.m2_en_US_unknown.heHE.EikonosChrysis.notmetered
 meMA.Ode7C2T.incipit = "O immaculate one, because of…"
-meMA.Ode7C2T.text = "O immaculate one, because of your unanticipated conception, the nature of mortals is now established upon the noetic rock of the knowledge of the Master and of the divine nature. Having already proclaimed this, it now sings: \"Blessed are You, the God of our Fathers.\""
+meMA.Ode7C2T.text = "O immaculate one, because of your unanticipated conception, the nature of mortals is now established upon the noetic rock of the knowledge of the Master and of the divine nature. Having already proclaimed this, it now sings: “Blessed are You, the God of our Fathers.”"
 
 meMA.Ode8C1H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -266,8 +266,8 @@ meMA.Ode9C12.text = "O immaculate and all-pure Virgin, Anna was freed from her b
 meMA.Ode9C2T.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C2T.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode9C2T.melody = he.h.m2_en_US_unknown.heHE.TonEkTheouTheonLogon.notmetered
-meMA.Ode9C2T.incipit = "The grace of Christ's compassion…"
-meMA.Ode9C2T.text = "The grace of Christ's compassion pours out over all humanity in abundance. It has given you as a mediatress and supplier of all His blessings to mankind. Thus we faithfully and longingly bless you."
+meMA.Ode9C2T.incipit = "The grace of Christ’s compassion…"
+meMA.Ode9C2T.text = "The grace of Christ’s compassion pours out over all humanity in abundance. It has given you as a mediatress and supplier of all His blessings to mankind. Thus we faithfully and longingly bless you."
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode2

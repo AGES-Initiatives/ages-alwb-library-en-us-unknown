@@ -113,7 +113,7 @@ meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.SyMouIschys.notmetered
 meMA.Ode4C11.incipit = "O godly-minded Father Gregory, you…"
-meMA.Ode4C11.text = "O godly-minded Father Gregory, you imitated the good earth by receiving the seed of the Logos and producing a hundredfold crop, as the Gospel says. Even now through your teachings, you offer up those who sing in faith: \"Glory to Your strength, O Friend of man.\""
+meMA.Ode4C11.text = "O godly-minded Father Gregory, you imitated the good earth by receiving the seed of the Logos and producing a hundredfold crop, as the Gospel says. Even now through your teachings, you offer up those who sing in faith: “Glory to Your strength, O Friend of man.”"
 
 meMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -137,7 +137,7 @@ meMA.Ode4C1T.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_US_unknown.heHE.SyMouIschys.notmetered
 meMA.Ode4C1T.incipit = "O all-blameless Lady, you were…"
-meMA.Ode4C1T.text = "O all-blameless Lady, you were prefigured long ago by the ark that held the divinely inscribed Law. You unfathomably conceived the life-originating Logos in your womb. The Logos abundantly nourishes the souls of those who exclaim: \"Glory to Your strength, O Friend of man.\""
+meMA.Ode4C1T.text = "O all-blameless Lady, you were prefigured long ago by the ark that held the divinely inscribed Law. You unfathomably conceived the life-originating Logos in your womb. The Logos abundantly nourishes the souls of those who exclaim: “Glory to Your strength, O Friend of man.”"
 
 meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -209,50 +209,50 @@ meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C11.incipit = "O Gregory, you were proven…"
-meMA.Ode7C11.text = "O Gregory, you were proven to be the glory of the Fathers, the majesty of the preachers, the lantern of the Church, and the unconquerable pillar of true religion, as you exclaimed: \"Blessed is the God of our Fathers.\""
+meMA.Ode7C11.text = "O Gregory, you were proven to be the glory of the Fathers, the majesty of the preachers, the lantern of the Church, and the unconquerable pillar of true religion, as you exclaimed: “Blessed is the God of our Fathers.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_unknown.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C12.incipit = "O godly-minded Gregory, you shone…"
-meMA.Ode7C12.text = "O godly-minded Gregory, you shone like lightning by your miracles. You guided the nations by your light. Thus we take joy in your words as we come together to call you blessed, and we sing: \"Blessed is the God of our Fathers.\""
+meMA.Ode7C12.text = "O godly-minded Gregory, you shone like lightning by your miracles. You guided the nations by your light. Thus we take joy in your words as we come together to call you blessed, and we sing: “Blessed is the God of our Fathers.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_unknown.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C13.incipit = "O all-wise Father, like a…"
-meMA.Ode7C13.text = "O all-wise Father, like a fountain you poured out healings to all those who were ill. The grace of miracle-working was plentifully poured onto your lips. Thus we exclaim: \"Blessed is the God of our Fathers.\""
+meMA.Ode7C13.text = "O all-wise Father, like a fountain you poured out healings to all those who were ill. The grace of miracle-working was plentifully poured onto your lips. Thus we exclaim: “Blessed is the God of our Fathers.”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_US_unknown.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C1T.incipit = "O all-pure Virgin, now everything…"
-meMA.Ode7C1T.text = "O all-pure Virgin, now everything is full of divine light through you. You have manifested as the gate by which God had his discourse with the world, illuminating those who faithfully exclaim: \"Blessed is the God of our Fathers.\""
+meMA.Ode7C1T.text = "O all-pure Virgin, now everything is full of divine light through you. You have manifested as the gate by which God had his discourse with the world, illuminating those who faithfully exclaim: “Blessed is the God of our Fathers.”"
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "O Gregory, you have made…"
-meMA.Ode8C11.text = "O Gregory, you have made us wealthy with the enlightenment of the consubstantial and Holy Trinity. Thus we now observe your festival and ask to be illumined with the grace of wonder-working, as we exclaim: \"Bless the Master, O you priests. Supremely exalt Him, O you people, unto all the ages.\""
+meMA.Ode8C11.text = "O Gregory, you have made us wealthy with the enlightenment of the consubstantial and Holy Trinity. Thus we now observe your festival and ask to be illumined with the grace of wonder-working, as we exclaim: “Bless the Master, O you priests. Supremely exalt Him, O you people, unto all the ages.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C12.incipit = "O all-blessed Saint, you reflect…"
-meMA.Ode8C12.text = "O all-blessed Saint, you reflect the shining rays of the Sovereign Godhead like a mirror that has just recently appeared. You light up the world by reflecting light to Orthodox Christians who melodiously exclaim: \"You Servants, bless Christ. O you priests, sing His praises. Exalt Him, O you people, unto all the ages.\""
+meMA.Ode8C12.text = "O all-blessed Saint, you reflect the shining rays of the Sovereign Godhead like a mirror that has just recently appeared. You light up the world by reflecting light to Orthodox Christians who melodiously exclaim: “You Servants, bless Christ. O you priests, sing His praises. Exalt Him, O you people, unto all the ages.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C13.incipit = "O all-wise Gregory, you were…"
-meMA.Ode8C13.text = "O all-wise Gregory, you were sheltered by God and were maintained as a foundation of righteousness for the God-fearing. While standing on a mountain like the other law-giver Moses, you taught the faithful to exclaim: \"Bless the Creator and Redeemer, O you priests. Supremely exalt Him, O you people, unto all the ages.\""
+meMA.Ode8C13.text = "O all-wise Gregory, you were sheltered by God and were maintained as a foundation of righteousness for the God-fearing. While standing on a mountain like the other law-giver Moses, you taught the faithful to exclaim: “Bless the Creator and Redeemer, O you priests. Supremely exalt Him, O you people, unto all the ages.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C1T.incipit = "O most pure Maiden, you…"
-meMA.Ode8C1T.text = "O most pure Maiden, you shone with the beauty of virginity. You became the dwelling of the never-setting Light. You have illumined all who confess you as the true Theotokos with their whole soul, as they exclaim: \"You Servants, bless Christ. O you priests, sing His praises. Exalt Him, O you people, unto all the ages.\""
+meMA.Ode8C1T.text = "O most pure Maiden, you shone with the beauty of virginity. You became the dwelling of the never-setting Light. You have illumined all who confess you as the true Theotokos with their whole soul, as they exclaim: “You Servants, bless Christ. O you priests, sing His praises. Exalt Him, O you people, unto all the ages.”"
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode8

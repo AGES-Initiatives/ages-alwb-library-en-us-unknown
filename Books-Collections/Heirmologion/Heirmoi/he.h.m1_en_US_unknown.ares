@@ -606,10 +606,10 @@ heHE.ProsecheOuraneKaiLaliso.mode = miscellanea_en_US_unknown.misc.Mode1
 heHE.ProsecheOuraneKaiLaliso.ode = miscellanea_en_US_unknown.misc.Ode2
 heHE.ProsecheOuraneKaiLaliso.text = ""
 
-heHE.RavdosEkTisRizis.notmetered = "N/M (Jesse's root.)"
+heHE.RavdosEkTisRizis.notmetered = "N/M (Jesse’s root.)"
 heHE.RavdosEkTisRizis.greekname = ""
-heHE.RavdosEkTisRizis.name = "Jesse's root."
-heHE.RavdosEkTisRizis.incipit = "Jesse's root…"
+heHE.RavdosEkTisRizis.name = "Jesse’s root."
+heHE.RavdosEkTisRizis.incipit = "Jesse’s root…"
 heHE.RavdosEkTisRizis.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.RavdosEkTisRizis.mode = miscellanea_en_US_unknown.misc.Mode1
 heHE.RavdosEkTisRizis.ode = miscellanea_en_US_unknown.misc.Ode4
@@ -755,10 +755,10 @@ heHE.SynToThavmasioStas.mode = miscellanea_en_US_unknown.misc.Mode1
 heHE.SynToThavmasioStas.ode = miscellanea_en_US_unknown.misc.Ode4
 heHE.SynToThavmasioStas.text = ""
 
-heHE.ThavmatosYperfyous.notmetered = "N/M (Babylon's bedewing furnace.)"
+heHE.ThavmatosYperfyous.notmetered = "N/M (Babylon’s bedewing furnace.)"
 heHE.ThavmatosYperfyous.greekname = ""
-heHE.ThavmatosYperfyous.name = "Babylon's bedewing furnace."
-heHE.ThavmatosYperfyous.incipit = "Babylon's bedewing furnace…"
+heHE.ThavmatosYperfyous.name = "Babylon’s bedewing furnace."
+heHE.ThavmatosYperfyous.incipit = "Babylon’s bedewing furnace…"
 heHE.ThavmatosYperfyous.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.ThavmatosYperfyous.mode = miscellanea_en_US_unknown.misc.Mode1
 heHE.ThavmatosYperfyous.ode = miscellanea_en_US_unknown.misc.Ode8

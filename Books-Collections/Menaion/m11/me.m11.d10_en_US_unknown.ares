@@ -94,7 +94,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "Let us all together observe…"
-meMA.Ode3Kathisma1.text = "Let us all together observe the festival of Erastus, Tertius, Olympas, Rodion, Sosipater, and Quartus, as we exclaim to them: \"O Apostles, servants of the Logos and righteous preachers, save our souls from eternal sorrow by your holy prayers.\""
+meMA.Ode3Kathisma1.text = "Let us all together observe the festival of Erastus, Tertius, Olympas, Rodion, Sosipater, and Quartus, as we exclaim to them: “O Apostles, servants of the Logos and righteous preachers, save our souls from eternal sorrow by your holy prayers.”"
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode1
@@ -183,19 +183,19 @@ meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode7C11.greekmelody = he.h.m1_en_US_unknown.heHE.SeNoitin.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_unknown.heHE.SeNoitin.notmetered
 meMA.Ode7C11.incipit = "O Erastus, when Paul the…"
-meMA.Ode7C11.text = "O Erastus, when Paul the Apostle wrote about you, he claimed that you were the sacred guardian of the Church of Christ in Jerusalem. We revere you with him, and we sing: \"O praised and supremely glorious God of our Fathers.\""
+meMA.Ode7C11.text = "O Erastus, when Paul the Apostle wrote about you, he claimed that you were the sacred guardian of the Church of Christ in Jerusalem. We revere you with him, and we sing: “O praised and supremely glorious God of our Fathers.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode7C12.melody = he.h.m1_en_US_unknown.heHE.SeNoitin.notmetered
 meMA.Ode7C12.incipit = "O all-blessed Erastus, you were…"
-meMA.Ode7C12.text = "O all-blessed Erastus, you were approved through your endurance of trials, afflictions, and persecutions. You were wonderfully covered with the marks of Christ. With a great voice you exclaimed: \"O praised and supremely glorious God of our Fathers.\""
+meMA.Ode7C12.text = "O all-blessed Erastus, you were approved through your endurance of trials, afflictions, and persecutions. You were wonderfully covered with the marks of Christ. With a great voice you exclaimed: “O praised and supremely glorious God of our Fathers.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode7C13.melody = he.h.m1_en_US_unknown.heHE.SeNoitin.notmetered
 meMA.Ode7C13.incipit = "O Quartus, you manifested as…"
-meMA.Ode7C13.text = "O Quartus, you manifested as a preacher of the new law. You brought men of a foolish mind to break with their old wickedness. You led them into a restoration of life, as they exclaimed: \"O praised and supremely glorious God of our Fathers.\""
+meMA.Ode7C13.text = "O Quartus, you manifested as a preacher of the new law. You brought men of a foolish mind to break with their old wickedness. You led them into a restoration of life, as they exclaimed: “O praised and supremely glorious God of our Fathers.”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode1
@@ -214,7 +214,7 @@ meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode8C12.melody = he.h.m1_en_US_unknown.heHE.EnKaminoPaides.notmetered
 meMA.Ode8C12.incipit = "O all-blessed Apostles, you were…"
-meMA.Ode8C12.text = "O all-blessed Apostles, you were beheld as the givers of the law, for you wrote the law of the Spirit upon the hearts of the faithful. Having been illuminated, the faithful exclaimed: \"All you works, praise and supremely exalt Him unto all the ages.\""
+meMA.Ode8C12.text = "O all-blessed Apostles, you were beheld as the givers of the law, for you wrote the law of the Spirit upon the hearts of the faithful. Having been illuminated, the faithful exclaimed: “All you works, praise and supremely exalt Him unto all the ages.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode1

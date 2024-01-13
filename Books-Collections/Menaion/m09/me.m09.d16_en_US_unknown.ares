@@ -29,7 +29,7 @@ meMA.Kathisma21.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma21.incipit = "O pure and modest maiden…"
-meMA.Kathisma21.text = "O pure and modest maiden, your contests, and your crown, your sweat and your miracles have cast down the devil's trophies. for you longed for Christ your Bridegroom with all your heart, and you were not frightened by torture and death for His sake, but you gave yourself wholly to God, wearing the crown of the true Faith."
+meMA.Kathisma21.text = "O pure and modest maiden, your contests, and your crown, your sweat and your miracles have cast down the devil’s trophies. for you longed for Christ your Bridegroom with all your heart, and you were not frightened by torture and death for His sake, but you gave yourself wholly to God, wearing the crown of the true Faith."
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -51,7 +51,7 @@ meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.notmetered
 meMA.Ode6C11.incipit = "O glorious maiden, you possessed…"
-meMA.Ode6C11.text = "O glorious maiden, you possessed a manly disposition of soul in a woman's body, and thus you regarded the beasts in the water with disdain."
+meMA.Ode6C11.text = "O glorious maiden, you possessed a manly disposition of soul in a woman’s body, and thus you regarded the beasts in the water with disdain."
 
 meMA.Ode6C12.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -63,7 +63,7 @@ meMA.Ode6C13.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_US_unknown.heHE.ChitonaMoiParaschou.notmetered
 meMA.Ode6C13.incipit = "O all-famed Euphemia, the Lord…"
-meMA.Ode6C13.text = "O all-famed Euphemia, the Lord heard your prayer, and He rescued you from injury by beasts, as He for Daniel of old in the lion's den."
+meMA.Ode6C13.text = "O all-famed Euphemia, the Lord heard your prayer, and He rescued you from injury by beasts, as He for Daniel of old in the lion’s den."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_unknown.misc.Mode8

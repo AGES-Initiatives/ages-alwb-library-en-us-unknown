@@ -28,17 +28,17 @@ meVE.Lity1.text = "Come, O worshipers of the Trinity in heaven, let us praise th
 meVE.Lity2.mode = miscellanea_en_US_unknown.misc.Mode2
 meVE.Lity2.melody = ""
 meVE.Lity2.incipit = "They are embers, lit by…"
-meVE.Lity2.text = "They are embers, lit by the unbearable fire, and through them we have been illumined. Therefore let us faithfully extol them. They were set afire through union with that divine fire, and they became luminaries for the world, vivifying power for us who are poor. They proclaimed the Father, the Son and the Holy Spirit, in Orthodox theology. Let us salute them and say: \"Rejoice, O divinely wise trinity of the Trinity!\""
+meVE.Lity2.text = "They are embers, lit by the unbearable fire, and through them we have been illumined. Therefore let us faithfully extol them. They were set afire through union with that divine fire, and they became luminaries for the world, vivifying power for us who are poor. They proclaimed the Father, the Son and the Holy Spirit, in Orthodox theology. Let us salute them and say: “Rejoice, O divinely wise trinity of the Trinity!”"
 
 meVE.Lity3.mode = miscellanea_en_US_unknown.misc.Mode6
 meVE.Lity3.melody = ""
 meVE.Lity3.incipit = "Let us faithfully extol the…"
-meVE.Lity3.text = "Let us faithfully extol the wise hierarchs Basil the Great, the divine Gregory, and John Chrysostom. They are likened to David's sling of three cords, Solomon's scarlet thread, and the triply-plaited whip of the Word. By Christ, the Chief Corner-stone, they cast down the spiritual Goliath, and they led us to unanimity in the Faith, setting a wall around it with the scarlet Blood of Christ. With their words, they cast far from the enclosures of Christ's divine flock those leaders of heresy who made merchandise of the things of God. And now they strengthen the Faith, and they intercede with the Lord that He have mercy on our souls."
+meVE.Lity3.text = "Let us faithfully extol the wise hierarchs Basil the Great, the divine Gregory, and John Chrysostom. They are likened to David’s sling of three cords, Solomon’s scarlet thread, and the triply-plaited whip of the Word. By Christ, the Chief Corner-stone, they cast down the spiritual Goliath, and they led us to unanimity in the Faith, setting a wall around it with the scarlet Blood of Christ. With their words, they cast far from the enclosures of Christ’s divine flock those leaders of heresy who made merchandise of the things of God. And now they strengthen the Faith, and they intercede with the Lord that He have mercy on our souls."
 
 meVE.Lity4.mode = miscellanea_en_US_unknown.misc.Mode8
 meVE.Lity4.melody = ""
 meVE.Lity4.incipit = "The grace of God has…"
-meVE.Lity4.text = "The grace of God has appeared to all men. Through these three teachers, it instructs us to adorn our manners and to better our way of life, so that our mind may be illumined with the light of divine knowledge. So, let us cry out in prayer: \"O Holy Trinity, Lord of all, by the prayers of Your three shepherds, preserve this Your flock in peace, in safety, and free of sorrow; and save us, in Your love for humanity."
+meVE.Lity4.text = "The grace of God has appeared to all men. Through these three teachers, it instructs us to adorn our manners and to better our way of life, so that our mind may be illumined with the light of divine knowledge. So, let us cry out in prayer: “O Holy Trinity, Lord of all, by the prayers of Your three shepherds, preserve this Your flock in peace, in safety, and free of sorrow; and save us, in Your love for humanity."
 
 meVE.Lity5.mode = miscellanea_en_US_unknown.misc.Mode6
 meVE.Lity5.melody = ""
@@ -47,13 +47,13 @@ meVE.Lity5.text = "O worshipful Holy Trinity, glory to Your wise providence! For
 
 meVE.LityGlory.mode = miscellanea_en_US_unknown.misc.Mode6
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "O fans of the Church's…"
-meVE.LityGlory.text = "O fans of the Church's feasts, let us come together and with songs of praise let us extol the holy hierarchs of Christ, the glory of the fathers, the pillars of the Faith, the teachers and preservers of the faithful, and let us say: \"Rejoice, O all-wise Basil, beacon and indestructible tower of the Church! Rejoice, O Gregory the Theologian, celestial mind and greatest among hierarchs! Rejoice, O solid gold John of golden eloquence, preacher of repentance! O fathers who are thrice honored, never cease in your supplications to Christ on behalf of those who with faith and love observe your most sacred and divine celebration.\""
+meVE.LityGlory.incipit = "O fans of the Church’s…"
+meVE.LityGlory.text = "O fans of the Church’s feasts, let us come together and with songs of praise let us extol the holy hierarchs of Christ, the glory of the fathers, the pillars of the Faith, the teachers and preservers of the faithful, and let us say: “Rejoice, O all-wise Basil, beacon and indestructible tower of the Church! Rejoice, O Gregory the Theologian, celestial mind and greatest among hierarchs! Rejoice, O solid gold John of golden eloquence, preacher of repentance! O fathers who are thrice honored, never cease in your supplications to Christ on behalf of those who with faith and love observe your most sacred and divine celebration.”"
 
 meVE.LityBoth.mode = miscellanea_en_US_unknown.misc.Mode6
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "O fans of the Church's…"
-meVE.LityBoth.text = "O fans of the Church's feasts, let us come together and with songs of praise let us extol the only Theotokos, the beauty of virginity, the joy of the Bodiless hosts, the firm rampart of the faithful, and let us say: \"Rejoice, O pure Virgin Mother, radiant lamp and gate of heaven! Rejoice, O most pure one, sacred tabernacle that contained God in your womb! Rejoice! You are incomparably superior to all celestial hierarchies! Therefore, O Virgin Mother, our Lady, never cease to protect your servants, who ever extol you with faith and love, and who revere your seedless childbirth.\""
+meVE.LityBoth.incipit = "O fans of the Church’s…"
+meVE.LityBoth.text = "O fans of the Church’s feasts, let us come together and with songs of praise let us extol the only Theotokos, the beauty of virginity, the joy of the Bodiless hosts, the firm rampart of the faithful, and let us say: “Rejoice, O pure Virgin Mother, radiant lamp and gate of heaven! Rejoice, O most pure one, sacred tabernacle that contained God in your womb! Rejoice! You are incomparably superior to all celestial hierarchies! Therefore, O Virgin Mother, our Lady, never cease to protect your servants, who ever extol you with faith and love, and who revere your seedless childbirth.”"
 
 //Ἕτερον, ψαλλόμενον εἰ βούλη.
 meVE.AposBoth.poet = poets_en_US_unknown.po.GermanouPatriarchou

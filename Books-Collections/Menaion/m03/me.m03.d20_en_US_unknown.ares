@@ -197,7 +197,7 @@ meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.ProsTonDynamenonSozein.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.ProsTonDynamenonSozein.notmetered
 meMA.Ode6C11.incipit = "The servants of Christ did…"
-meMA.Ode6C11.text = "The servants of Christ did not cower before the tyrants' threats. They had already made their life a continual meditation on death."
+meMA.Ode6C11.text = "The servants of Christ did not cower before the tyrants’ threats. They had already made their life a continual meditation on death."
 
 meMA.Ode6C12.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_unknown.misc.Mode8
@@ -240,8 +240,8 @@ meMA.Ode7C12.text = "O Christ our Redeemer, God of our Fathers, those who were e
 meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_unknown.heHE.OiEkTisIoudaias.notmetered
-meMA.Ode7C13.incipit = "O Christ, the barbarians' thirst…"
-meMA.Ode7C13.text = "O Christ, the barbarians' thirst for blood could not drive away Your lovers of divine worship in the wilderness. They did not fear them that destroy the body, since they held fast to Your commandments as an unshakeable foundation."
+meMA.Ode7C13.incipit = "O Christ, the barbarians’ thirst…"
+meMA.Ode7C13.text = "O Christ, the barbarians’ thirst for blood could not drive away Your lovers of divine worship in the wilderness. They did not fear them that destroy the body, since they held fast to Your commandments as an unshakeable foundation."
 
 meMA.Ode7C14.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C14.mode = miscellanea_en_US_unknown.misc.Mode8

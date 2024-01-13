@@ -63,7 +63,7 @@ meMA.Ode3C12.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3C12.melody = he.h.m4_en_US_unknown.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C12.incipit = "O all-wise Deacons, you were…"
-meMA.Ode3C12.text = "O all-wise Deacons, you were filled with the Spirit's grace. You were appointed by His election to minister to the needs of the Saints."
+meMA.Ode3C12.text = "O all-wise Deacons, you were filled with the Spirit’s grace. You were appointed by His election to minister to the needs of the Saints."
 
 meMA.Ode3C13.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -194,7 +194,7 @@ meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_unknown.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C13.incipit = "O blessed Nicanor, you fought…"
-meMA.Ode7C13.text = "O blessed Nicanor, you fought an unusual contest. You were murdered by the will of the godless Hebrews and offered to Christ as a lamb, while exclaiming, \"Blessed are You, O my God and my Lord.\""
+meMA.Ode7C13.text = "O blessed Nicanor, you fought an unusual contest. You were murdered by the will of the godless Hebrews and offered to Christ as a lamb, while exclaiming, “Blessed are You, O my God and my Lord.”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -207,13 +207,13 @@ meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C11.greekmelody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "O all-wise Apostles, you have…"
-meMA.Ode8C11.text = "O all-wise Apostles, you have rescued those who obey your teachings from the mire of passions and vanity. You have led them to the pinnacle of knowledge. They have become well-pleasing to God and exclaim: \"O all you works, praise you the Lord.\""
+meMA.Ode8C11.text = "O all-wise Apostles, you have rescued those who obey your teachings from the mire of passions and vanity. You have led them to the pinnacle of knowledge. They have become well-pleasing to God and exclaim: “O all you works, praise you the Lord.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C12.incipit = "Let the holy Parmenas be…"
-meMA.Ode8C12.text = "Let the holy Parmenas be venerated in inspired songs with Timon, the praiseworthy Prochoros, and the wonderful Nicanor. They are disciples of Jesus and enrich the nations. They exclaim: \"O all you works, praise you the Lord.\""
+meMA.Ode8C12.text = "Let the holy Parmenas be venerated in inspired songs with Timon, the praiseworthy Prochoros, and the wonderful Nicanor. They are disciples of Jesus and enrich the nations. They exclaim: “O all you works, praise you the Lord.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -225,7 +225,7 @@ meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C1T.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C1T.incipit = "O graced of God, behold…"
-meMA.Ode8C1T.text = "O graced of God, behold that the voices of the holy heralds have been fulfilled. For you have given birth to the Lord, Who is transcendent in His Essence. He was announced by them for the salvation of the faithful who exclaim: \"O all you works, praise you the Lord.\""
+meMA.Ode8C1T.text = "O graced of God, behold that the voices of the holy heralds have been fulfilled. For you have given birth to the Lord, Who is transcendent in His Essence. He was announced by them for the salvation of the faithful who exclaim: “O all you works, praise you the Lord.”"
 
 meMA.Ode8H.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -257,7 +257,7 @@ meMA.Ode9C1T.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C1T.incipit = "O Virgin, we joyously exclaim…"
-meMA.Ode9C1T.text = "O Virgin, we joyously exclaim to you with the voice of the Archangel: \"Rejoice, joy of the Angels, revered glory of the Apostles, message of the Prophets, and crowning of the Martyrs.\""
+meMA.Ode9C1T.text = "O Virgin, we joyously exclaim to you with the voice of the Archangel: “Rejoice, joy of the Angels, revered glory of the Apostles, message of the Prophets, and crowning of the Martyrs.”"
 
 meMA.Ode9H.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_unknown.misc.Mode4

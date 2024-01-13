@@ -57,8 +57,8 @@ meMA.Ode1C13.text = "Now clothed with a raiment of incorruption, O glorious Cono
 meMA.Ode1C14.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C14.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode1C14.melody = he.h.m5_en_US_unknown.heHE.ToSotiriTheo.notmetered
-meMA.Ode1C14.incipit = "Freed from our ancestor's curse…"
-meMA.Ode1C14.text = "Freed from our ancestor's curse of defilement, the thoroughly famous Martyr unshouldered the yoke of falsehood and made purity his partner and companion."
+meMA.Ode1C14.incipit = "Freed from our ancestor’s curse…"
+meMA.Ode1C14.text = "Freed from our ancestor’s curse of defilement, the thoroughly famous Martyr unshouldered the yoke of falsehood and made purity his partner and companion."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_unknown.misc.Mode5
@@ -108,7 +108,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "From the time of your…"
-meMA.Ode3Kathisma1.text = "From the time of your infancy you clung to God, O Godbearer, becoming the Good Spirit's vessel of greatest honor; and you subdued the most vile spirits to your rule. Correctly you are magnified, since you have fought. Thus we all faithfully keep the feast, on your holy memory."
+meMA.Ode3Kathisma1.text = "From the time of your infancy you clung to God, O Godbearer, becoming the Good Spirit’s vessel of greatest honor; and you subdued the most vile spirits to your rule. Correctly you are magnified, since you have fought. Thus we all faithfully keep the feast, on your holy memory."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
@@ -271,8 +271,8 @@ meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode8C11.greekmelody = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_unknown.heHE.TonEkPatrosProAionon.notmetered
-meMA.Ode8C11.incipit = "Beholding the world's prince of…"
-meMA.Ode8C11.text = "Beholding the world's prince of darkness ruined of superstitious falsehood through the Saint's intercessions, praise Christ, O you priests, and maximally glorify Him, O you people, for all eternity."
+meMA.Ode8C11.incipit = "Beholding the world’s prince of…"
+meMA.Ode8C11.text = "Beholding the world’s prince of darkness ruined of superstitious falsehood through the Saint’s intercessions, praise Christ, O you priests, and maximally glorify Him, O you people, for all eternity."
 
 meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode5

@@ -97,7 +97,7 @@ meMA.Ode3Kathisma1.text = "Martyr Eleftherios, you completely became the servant
 meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3KathismaT.incipit = "O Mary full of grace…"
-meMA.Ode3KathismaT.text = "O Mary full of grace, you are our Master's most honorable vessel. Lift us up who have stumbled and fallen into a deep pit of sins, trials, and despondency. You always rescue your servants, for you are the mighty guardian, the salvation of sinners and an unfailing aid for everyone."
+meMA.Ode3KathismaT.text = "O Mary full of grace, you are our Master’s most honorable vessel. Lift us up who have stumbled and fallen into a deep pit of sins, trials, and despondency. You always rescue your servants, for you are the mighty guardian, the salvation of sinners and an unfailing aid for everyone."
 
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode1
@@ -154,7 +154,7 @@ meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode6C11.greekmelody = he.h.m1_en_US_unknown.heHE.TonProfitinIonan.greekname
 meMA.Ode6C11.melody = he.h.m1_en_US_unknown.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C11.incipit = "Eleftherios is the exceptional ram…"
-meMA.Ode6C11.text = "Eleftherios is the exceptional ram of Christ's lambs, for he is the spiritual shepherd and the joy of trials. Thus he who had glorified God in his own body is glorified himself."
+meMA.Ode6C11.text = "Eleftherios is the exceptional ram of Christ’s lambs, for he is the spiritual shepherd and the joy of trials. Thus he who had glorified God in his own body is glorified himself."
 
 meMA.Ode6C12.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_unknown.misc.Mode1
@@ -188,13 +188,13 @@ meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode7C11.greekmelody = he.h.m1_en_US_unknown.heHE.TousEnKaminoPaidas.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_unknown.heHE.TousEnKaminoPaidas.notmetered
 meMA.Ode7C11.incipit = "O wise Eleftherios, you exclaimed…"
-meMA.Ode7C11.text = "O wise Eleftherios, you exclaimed while being tortured on the rack: \"Now may Christ be magnified in my flesh. I do not fear the burning of the cauldrons. Because of He Who is the Life of all, I fear neither death nor the ferocity of wild animals."
+meMA.Ode7C11.text = "O wise Eleftherios, you exclaimed while being tortured on the rack: “Now may Christ be magnified in my flesh. I do not fear the burning of the cauldrons. Because of He Who is the Life of all, I fear neither death nor the ferocity of wild animals."
 
 meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode1
 meMA.Ode7C12.melody = he.h.m1_en_US_unknown.heHE.TousEnKaminoPaidas.notmetered
 meMA.Ode7C12.incipit = "O glorious Martyr, you exclaimed:…"
-meMA.Ode7C12.text = "O glorious Martyr, you exclaimed: \"Only the beauty of God do I seek. I yearn to possess only His glory. Let my body be racked and all my members be torched. I look for the freedom that subjects me to Christ."
+meMA.Ode7C12.text = "O glorious Martyr, you exclaimed: “Only the beauty of God do I seek. I yearn to possess only His glory. Let my body be racked and all my members be torched. I look for the freedom that subjects me to Christ."
 
 meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode1

@@ -48,7 +48,7 @@ meMA.Ode1C13.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode1C13.melody = he.h.m5_en_US_unknown.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C13.incipit = "O all-celebrated Nahum, you showed…"
-meMA.Ode1C13.text = "O all-celebrated Nahum, you showed yourself to be a harp played by the Spirit. You sang about God's jealousy and preached the impartial holy judgment to all."
+meMA.Ode1C13.text = "O all-celebrated Nahum, you showed yourself to be a harp played by the Spirit. You sang about God’s jealousy and preached the impartial holy judgment to all."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_unknown.misc.Mode5
@@ -86,7 +86,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode3Kathisma1.greekmelody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "O renowned and holy Prophet…"
-meMA.Ode3Kathisma1.text = "O renowned and holy Prophet of the Lord Nahum, you became a pure vessel for truth by the Holy Spirit. Your mind was free of earthly images. You passed on the Lord's enlightenment which you had brilliantly received to all men. Thus we now ask you to pray that peace may be given to the world."
+meMA.Ode3Kathisma1.text = "O renowned and holy Prophet of the Lord Nahum, you became a pure vessel for truth by the Holy Spirit. Your mind was free of earthly images. You passed on the Lord’s enlightenment which you had brilliantly received to all men. Thus we now ask you to pray that peace may be given to the world."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode3KathismaT.melody = he.a.m5_en_US_unknown.heAU.TonSynanarchonLogon.notmetered
@@ -174,38 +174,38 @@ meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode7C11.greekmelody = he.h.m5_en_US_unknown.heHE.OYperypsoumenos.greekname
 meMA.Ode7C11.melody = he.h.m5_en_US_unknown.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C11.incipit = "We piously observe this festival…"
-meMA.Ode7C11.text = "We piously observe this festival, for we have as our choir director the great prophet Nahum who saw God. Thus we are inspired to sing: \"O God, blessed are You.\""
+meMA.Ode7C11.text = "We piously observe this festival, for we have as our choir director the great prophet Nahum who saw God. Thus we are inspired to sing: “O God, blessed are You.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode7C12.melody = he.h.m5_en_US_unknown.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C12.incipit = "O Nahum, we know that…"
-meMA.Ode7C12.text = "O Nahum, we know that you are an instrument played by the Holy Spirit. You are a God-inspired harp. We call upon you to be our helper, while we sing the hymn: \"O God, blessed are You.\""
+meMA.Ode7C12.text = "O Nahum, we know that you are an instrument played by the Holy Spirit. You are a God-inspired harp. We call upon you to be our helper, while we sing the hymn: “O God, blessed are You.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode7C13.melody = he.h.m5_en_US_unknown.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C13.incipit = "O Saint, the Lord has…"
-meMA.Ode7C13.text = "O Saint, the Lord has give you the crown of an inspired Prophet. He has given you the grace to speak of things that have not yet happened. We all sing to Him: \"O God, blessed are You.\""
+meMA.Ode7C13.text = "O Saint, the Lord has give you the crown of an inspired Prophet. He has given you the grace to speak of things that have not yet happened. We all sing to Him: “O God, blessed are You.”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode7C1T.melody = he.h.m5_en_US_unknown.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C1T.incipit = "O all-immaculate Virgin, the Prophet…"
-meMA.Ode7C1T.text = "O all-immaculate Virgin, the Prophet saw you as a gate which could not be passed through. Christ alone has traveled through this gate, and we all sing to Him: \"O God, blessed are You.\""
+meMA.Ode7C1T.text = "O all-immaculate Virgin, the Prophet saw you as a gate which could not be passed through. Christ alone has traveled through this gate, and we all sing to Him: “O God, blessed are You.”"
 
 meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode8C11.greekmelody = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.notmetered
 meMA.Ode8C11.incipit = "O Prophet, you look upon…"
-meMA.Ode8C11.text = "O Prophet, you look upon the immaterial light of the Sovereign Trinity. Thus you joyously sing: \"O all you works, praise you the Lord, and supremely exalt Him unto all the ages.\""
+meMA.Ode8C11.text = "O Prophet, you look upon the immaterial light of the Sovereign Trinity. Thus you joyously sing: “O all you works, praise you the Lord, and supremely exalt Him unto all the ages.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode5
 meMA.Ode8C12.melody = he.h.m5_en_US_unknown.heHE.SoiToPantourgo.notmetered
 meMA.Ode8C12.incipit = "O marvelous Prophet Nahum, we…"
-meMA.Ode8C12.text = "O marvelous Prophet Nahum, we piously remember your holy life. Thus we sing: \"O all you works, praise you the Lord, and supremely exalt Him unto all the ages.\""
+meMA.Ode8C12.text = "O marvelous Prophet Nahum, we piously remember your holy life. Thus we sing: “O all you works, praise you the Lord, and supremely exalt Him unto all the ages.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode5

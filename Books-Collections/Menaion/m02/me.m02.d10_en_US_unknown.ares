@@ -33,7 +33,7 @@ meMA.Ode1C21.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode1C21.greekmelody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C21.melody = he.h.m4_en_US_unknown.heHE.AnoixoToStomaMou.notmetered
 meMA.Ode1C21.incipit = "O Lord, I desire to…"
-meMA.Ode1C21.text = "O Lord, I desire to sing hymns of your servant's venerable head and struggles, and I ask divine illumination from above, so that I may be able to sing the praise of them."
+meMA.Ode1C21.text = "O Lord, I desire to sing hymns of your servant’s venerable head and struggles, and I ask divine illumination from above, so that I may be able to sing the praise of them."
 
 meMA.Ode1C22.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -70,7 +70,7 @@ meMA.Ode3C23.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C23.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3C23.melody = he.h.m4_en_US_unknown.heHE.TousSousYmnologous.notmetered
 meMA.Ode3C23.incipit = "O multitude of Christians, come…"
-meMA.Ode3C23.text = "O multitude of Christians, come and faithfully praise the Lord's Martyr. Let us crown his most revered head with spiritual songs, so that we may be loosened from our shortcomings."
+meMA.Ode3C23.text = "O multitude of Christians, come and faithfully praise the Lord’s Martyr. Let us crown his most revered head with spiritual songs, so that we may be loosened from our shortcomings."
 
 meMA.Ode3C2T.ode = miscellanea_en_US_unknown.misc.Ode3
 meMA.Ode3C2T.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -160,7 +160,7 @@ meMA.Ode7C21.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C21.greekmelody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.greekname
 meMA.Ode7C21.melody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.notmetered
 meMA.Ode7C21.incipit = "We sing hymns to you…"
-meMA.Ode7C21.text = "We sing hymns to you and exclaim: \"Rejoice, O glorious Martyr Charalampos. You have offered us your sacred head as a fountain pouring out inviolable wealth that makes the souls of those who faithfully glorify you to be joyful.\""
+meMA.Ode7C21.text = "We sing hymns to you and exclaim: “Rejoice, O glorious Martyr Charalampos. You have offered us your sacred head as a fountain pouring out inviolable wealth that makes the souls of those who faithfully glorify you to be joyful.”"
 
 meMA.Ode7C22.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -178,7 +178,7 @@ meMA.Ode7C2T.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C2T.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode7C2T.melody = he.h.m4_en_US_unknown.heHE.OukElatrefsan.notmetered
 meMA.Ode7C2T.incipit = "The great never-setting Sun has…"
-meMA.Ode7C2T.text = "The great never-setting Sun has risen upon all mortals from your womb. With the light of knowledge He has enlightened everyone who exclaims: \"Blessed, O all-pure, is the Fruit of your womb.\""
+meMA.Ode7C2T.text = "The great never-setting Sun has risen upon all mortals from your womb. With the light of knowledge He has enlightened everyone who exclaims: “Blessed, O all-pure, is the Fruit of your womb.”"
 
 meMA.Ode8C21.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_unknown.misc.Mode4

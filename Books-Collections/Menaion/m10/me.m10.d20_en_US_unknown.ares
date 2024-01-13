@@ -32,7 +32,7 @@ meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode1C11.greekmelody = he.h.m2_en_US_unknown.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_unknown.heHE.EnVythoKatestrose.notmetered
 meMA.Ode1C11.incipit = "O Martyr Artemios, you fought…"
-meMA.Ode1C11.text = "O Martyr Artemios, you fought the good fight and have received a radiant crown. You stand around the Light, for you have been illumined by participation in the immaterial. Thus we ask you: \"Illuminate us by your prayers.\""
+meMA.Ode1C11.text = "O Martyr Artemios, you fought the good fight and have received a radiant crown. You stand around the Light, for you have been illumined by participation in the immaterial. Thus we ask you: “Illuminate us by your prayers.”"
 
 meMA.Ode1C12.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -44,7 +44,7 @@ meMA.Ode1C13.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_unknown.heHE.EnVythoKatestrose.notmetered
 meMA.Ode1C13.incipit = "O blessed Artemios, you desired…"
-meMA.Ode1C13.text = "O blessed Artemios, you desired to suffer a martyr's death, when you contemplated how the incomprehensible Lord, Who is the Originator of Life, was killed in the body on the Cross. Thus you have achieved glory without end."
+meMA.Ode1C13.text = "O blessed Artemios, you desired to suffer a martyr’s death, when you contemplated how the incomprehensible Lord, Who is the Originator of Life, was killed in the body on the Cross. Thus you have achieved glory without end."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_unknown.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -87,8 +87,8 @@ meMA.Ode3H.text = he.h.m2_en_US_unknown.heHE.ExinthisenIErimos.text
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Ode3Kathisma1.incipit = "Let us all praise Christ's…"
-meMA.Ode3Kathisma1.text = "Let us all praise Christ's unconquerable soldier who radiates in mighty wonders. He is the brave and noble destroyer of our common enemy. Let us faithfully and fervently honor Artemios, for he heals those who ask him. He causes sorrowful trials to end, and he defends the downtrodden and troubled."
+meMA.Ode3Kathisma1.incipit = "Let us all praise Christ’s…"
+meMA.Ode3Kathisma1.text = "Let us all praise Christ’s unconquerable soldier who radiates in mighty wonders. He is the brave and noble destroyer of our common enemy. Let us faithfully and fervently honor Artemios, for he heals those who ask him. He causes sorrowful trials to end, and he defends the downtrodden and troubled."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
@@ -112,7 +112,7 @@ meMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode4C13.melody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C13.incipit = "O all-celebrated Martyr, our Life…"
-meMA.Ode4C13.text = "O all-celebrated Martyr, our Life the Heavenly Bread brought sustenance and strength to you by an Angel's hand. You have become the equal of an Angel by the radiance of your trials."
+meMA.Ode4C13.text = "O all-celebrated Martyr, our Life the Heavenly Bread brought sustenance and strength to you by an Angel’s hand. You have become the equal of an Angel by the radiance of your trials."
 
 meMA.Ode4C1T.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -184,13 +184,13 @@ meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C11.greekmelody = he.h.m2_en_US_unknown.heHE.AntitheonProstagma.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_unknown.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C11.incipit = "O Martyr Artemios, you destroyed…"
-meMA.Ode7C11.text = "O Martyr Artemios, you destroyed all the machinations of the enemy because of your invincible mind and completely indestructible perseverance of soul. In harmony you sing: \"Blessed is He Who is and, supremely glorified.\""
+meMA.Ode7C11.text = "O Martyr Artemios, you destroyed all the machinations of the enemy because of your invincible mind and completely indestructible perseverance of soul. In harmony you sing: “Blessed is He Who is and, supremely glorified.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode7C12.melody = he.h.m2_en_US_unknown.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C12.incipit = "O blessed of God, you…"
-meMA.Ode7C12.text = "O blessed of God, you extinguished the fire of torments raised against you with streams of your blood. Surrounded by the Spirit's dew, you exclaimed in joy: \"Blessed is He Who is and, supremely glorified.\""
+meMA.Ode7C12.text = "O blessed of God, you extinguished the fire of torments raised against you with streams of your blood. Surrounded by the Spirit’s dew, you exclaimed in joy: “Blessed is He Who is and, supremely glorified.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -209,7 +209,7 @@ meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C11.greekmelody = he.h.m2_en_US_unknown.heHE.KaminosPote.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_unknown.heHE.KaminosPote.notmetered
 meMA.Ode8C11.incipit = "O glorious Artemios, you endured…"
-meMA.Ode8C11.text = "O glorious Artemios, you endured violent scourging despite your exhaustion. You looked ahead to the future inheritance, which the Lord now gives to you who exclaims: \"O all you works, praise you the Lord.\""
+meMA.Ode8C11.text = "O glorious Artemios, you endured violent scourging despite your exhaustion. You looked ahead to the future inheritance, which the Lord now gives to you who exclaims: “O all you works, praise you the Lord.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -221,13 +221,13 @@ meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C13.melody = he.h.m2_en_US_unknown.heHE.KaminosPote.notmetered
 meMA.Ode8C13.incipit = "O Artemios, you manifested as…"
-meMA.Ode8C13.text = "O Artemios, you manifested as the adornment of athletes. With a pious mind you cast away all the things of the world. You bought for yourself the things beyond the earth with only a small portion of your honorable blood, while exclaiming: \"O all you works, praise you the Lord.\""
+meMA.Ode8C13.text = "O Artemios, you manifested as the adornment of athletes. With a pious mind you cast away all the things of the world. You bought for yourself the things beyond the earth with only a small portion of your honorable blood, while exclaiming: “O all you works, praise you the Lord.”"
 
 meMA.Ode8C14.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C14.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode8C14.melody = he.h.m2_en_US_unknown.heHE.KaminosPote.notmetered
 meMA.Ode8C14.incipit = "O Artemios, you are a…"
-meMA.Ode8C14.text = "O Artemios, you are a calm harbor for those who are afflicted by a tempest and who daily sail the sea of troubles, trials, and sorrows. Having been saved by grace, we sing: \"O all you works, praise you the Lord.\""
+meMA.Ode8C14.text = "O Artemios, you are a calm harbor for those who are afflicted by a tempest and who daily sail the sea of troubles, trials, and sorrows. Having been saved by grace, we sing: “O all you works, praise you the Lord.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode2
