@@ -747,10 +747,10 @@ trMA.Ode8C3H.text = he.h.m5_en_US_unknown.heHE.TonPoiitinTisKtiseos.text
 
 trMA.Ode9C1H.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_unknown.misc.Mode4
-trMA.Ode9C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.greekname
-trMA.Ode9C1H.melody = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.melody
-trMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.incipit
-trMA.Ode9C1H.text = he.h.m4_en_US_unknown.heHE.ApasGigenis_Akathist.text
+trMA.Ode9C1H.greekmelody = he.h.m4_en_US_unknown.heHE.ApasGigenisAkathist.greekname
+trMA.Ode9C1H.melody = he.h.m4_en_US_unknown.heHE.ApasGigenisAkathist.melody
+trMA.Ode9C1H.incipit = he.h.m4_en_US_unknown.heHE.ApasGigenisAkathist.incipit
+trMA.Ode9C1H.text = he.h.m4_en_US_unknown.heHE.ApasGigenisAkathist.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode4
