@@ -114,8 +114,8 @@ meMA.Ode4C11.text = "Permit it that the holy chorus of Martyrs may be commended,
 meMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_unknown.heHE.EparthentaSeIdousa.notmetered
-meMA.Ode4C12.incipit = "The Holy Spirit displayed Ephraim…"
-meMA.Ode4C12.text = "The Holy Spirit displayed Ephraim, Basilefs, Capito, Eugene, Elpidios, and the holy Aetherios as sailors of the Church and carriers of God."
+meMA.Ode4C12.incipit = "The Holy Spirit displayed Ephrem…"
+meMA.Ode4C12.text = "The Holy Spirit displayed Ephrem, Basilefs, Capito, Eugene, Elpidios, and the holy Aetherios as sailors of the Church and carriers of God."
 
 meMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -249,7 +249,7 @@ meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_unknown.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C12.incipit = "O you faithful, let us…"
-meMA.Ode8C12.text = "O you faithful, let us sing with one voice of Eugene, Agathodoros, Ephraim, Elpidios, Aetherios, Basilefs, and Capito. They annihilated the adversary. They are hierarchs of Christ. To them we exclaim: Praise the Lord, all you works of the Lord."
+meMA.Ode8C12.text = "O you faithful, let us sing with one voice of Eugene, Agathodoros, Ephrem, Elpidios, Aetherios, Basilefs, and Capito. They annihilated the adversary. They are hierarchs of Christ. To them we exclaim: Praise the Lord, all you works of the Lord."
 
 meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode4
@@ -298,8 +298,8 @@ meMA.Ode9C13.text = "On this day the city of Cherson commemorates your memory, b
 meMA.Ode9C14.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode9C14.melody = he.h.m4_en_US_unknown.heHE.LithosAcheirotmitos.notmetered
-meMA.Ode9C14.incipit = "Eugene, Ephraim, Capito, Elpidios, Aetherios…"
-meMA.Ode9C14.text = "Eugene, Ephraim, Capito, Elpidios, Aetherios, the glorious Basilefs, and Agathodors of a godly mind, who are a chorus of Fathers, are already added to the choruses of Angels."
+meMA.Ode9C14.incipit = "Eugene, Ephrem, Capito, Elpidios, Aetherios…"
+meMA.Ode9C14.text = "Eugene, Ephrem, Capito, Elpidios, Aetherios, the glorious Basilefs, and Agathodors of a godly mind, who are a chorus of Fathers, are already added to the choruses of Angels."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_unknown.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode4
