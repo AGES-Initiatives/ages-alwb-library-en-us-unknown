@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = rubrical_en_US_unknown 
+A_Resource_Whose_Name = rubrical_en_US_unknown
 
 ru.AfterEachPetition = ""
 
@@ -27,6 +27,8 @@ ru.ChoirRightBegins = ""
 ru.ContinueBasilLiturgy = "Continue with the Liturgy of St. Basil the Great."
 
 ru.ContinueLiturgy = "Continue with the rest of the Divine Liturgy."
+
+ru.CrossLitany = ""
 
 ru.DifferentMenaionCanonInEnglish = "The Menaion canon presented here is not the same as the Greek. Due to unavailability of a free full Menaion in English, we are using a general canon for today’s commemoration."
 
@@ -71,6 +73,8 @@ ru.Inaudibly = "(inaudibly)"
 ru.InPlaceOfRightChoir = "(in place of the Right Choir)"
 
 ru.Intoned = "(intoned)"
+
+ru.IntonedAfterEachPetition = ""
 
 ru.LityLordHaveMercy101010103 = "As the deacon or priest intones the following long petition, the choirs sing “Lord, have mercy” 40 times quickly, in sets of ten, antiphonally, then 3 slowly."
 

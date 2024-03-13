@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = titles_en_US_unknown 
+A_Resource_Whose_Name = titles_en_US_unknown
 
 ti.AdditionalForCanonOfSaint = "Additional for the Canon of the Saint."
 ti.AdditionalForDead = "Additional for the Dead."
@@ -273,6 +273,9 @@ ti.Lauds = "Lauds."
 ti.Lazarus = "For Lazarus."
 ti.LeavetakingOfFeast = "Leave-taking of the Feast."
 ti.Litanies.uc = "THE LITANIES"
+ti.LitanyGreat.uc = ""
+ti.LitanyFerv.uc = ""
+ti.LitanyComp.uc = ""
 ti.Liturgy.uc = "LITURGY"
 ti.Lity = "Procession and Litany."
 ti.LityAndLoaves = "Litany and Blessing of Loaves."
