@@ -705,9 +705,9 @@ heHE.StereosonKyrie.mode = miscellanea_en_US_unknown.misc.Mode1
 heHE.StereosonKyrie.ode = miscellanea_en_US_unknown.misc.Ode3
 heHE.StereosonKyrie.text = ""
 
-heHE.StereosonMeChriste.notmetered = "N/M (Establish me on the rock.)"
+heHE.StereosonMeChriste.notmetered = "N/M (Establish me, O my Christ.)"
 heHE.StereosonMeChriste.greekname = ""
-heHE.StereosonMeChriste.name = "Establish me on the rock."
+heHE.StereosonMeChriste.name = "Establish me, O my Christ."
 heHE.StereosonMeChriste.incipit = "…"
 heHE.StereosonMeChriste.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.StereosonMeChriste.mode = miscellanea_en_US_unknown.misc.Mode1
