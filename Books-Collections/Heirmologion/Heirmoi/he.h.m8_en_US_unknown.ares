@@ -72,9 +72,9 @@ heHE.AsomenOdinToTheo.mode = miscellanea_en_US_unknown.misc.Mode8
 heHE.AsomenOdinToTheo.ode = miscellanea_en_US_unknown.misc.Ode1
 heHE.AsomenOdinToTheo.text = ""
 
-heHE.AsomenToKyrioPantesLaoi.notmetered = "N/M ()"
+heHE.AsomenToKyrioPantesLaoi.notmetered = "N/M (Come, all you peoples, let us sing.)"
 heHE.AsomenToKyrioPantesLaoi.greekname = ""
-heHE.AsomenToKyrioPantesLaoi.name = ""
+heHE.AsomenToKyrioPantesLaoi.name = "Come, all you peoples, let us sing."
 heHE.AsomenToKyrioPantesLaoi.incipit = "…"
 heHE.AsomenToKyrioPantesLaoi.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.AsomenToKyrioPantesLaoi.mode = miscellanea_en_US_unknown.misc.Mode8
