@@ -69,11 +69,11 @@ meMA.Ode9H.melody = he.h.m2_en_US_unknown.heHE.AporeiPasaGlossa.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_unknown.heHE.AporeiPasaGlossa.incipit
 meMA.Ode9H.text = he.h.m2_en_US_unknown.heHE.AporeiPasaGlossa.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d11_en_US_unknown.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d11_en_US_unknown.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d11_en_US_unknown.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d11_en_US_unknown.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d11_en_US_unknown.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 

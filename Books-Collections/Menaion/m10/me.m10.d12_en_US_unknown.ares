@@ -102,14 +102,14 @@ meMA.ExapTheotokion.text = "O Lady Theotokos, come quickly in your almighty powe
 
 meMA.AposGlory.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = meVE.SticGlory.incipit
-meMA.AposGlory.text = meVE.SticGlory.text
+meMA.AposGlory.incipit = me.m10.d12_en_US_unknown.meVE.SticGlory.incipit
+meMA.AposGlory.text = me.m10.d12_en_US_unknown.meVE.SticGlory.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m10.d12_en_US_unknown.meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody = me.m10.d12_en_US_unknown.meMA.Kontakion1.greekmelody
+meLI.Kontakion1.melody = me.m10.d12_en_US_unknown.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m10.d12_en_US_unknown.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m10.d12_en_US_unknown.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
