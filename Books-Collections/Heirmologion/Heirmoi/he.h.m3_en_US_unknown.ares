@@ -99,9 +99,9 @@ heHE.EnylouFlogaPyros.mode = miscellanea_en_US_unknown.misc.Mode3
 heHE.EnylouFlogaPyros.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.EnylouFlogaPyros.text = ""
 
-heHE.EpiTisGis.notmetered = "N/M ()"
+heHE.EpiTisGis.notmetered = "N/M (Upon the earth.)"
 heHE.EpiTisGis.greekname = ""
-heHE.EpiTisGis.name = ""
+heHE.EpiTisGis.name = "Upon the earth."
 heHE.EpiTisGis.incipit = "…"
 heHE.EpiTisGis.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.EpiTisGis.mode = miscellanea_en_US_unknown.misc.Mode3
