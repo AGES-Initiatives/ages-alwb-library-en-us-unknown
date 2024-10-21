@@ -225,9 +225,9 @@ heHE.PyrosSvestirion.mode = miscellanea_en_US_unknown.misc.Mode5
 heHE.PyrosSvestirion.ode = miscellanea_en_US_unknown.misc.Ode7
 heHE.PyrosSvestirion.text = ""
 
-heHE.SalevomeninTinKardian.notmetered = "N/M ()"
+heHE.SalevomeninTinKardian.notmetered = "N/M (I pray You earnestly.)"
 heHE.SalevomeninTinKardian.greekname = ""
-heHE.SalevomeninTinKardian.name = ""
+heHE.SalevomeninTinKardian.name = "I pray You earnestly."
 heHE.SalevomeninTinKardian.incipit = "…"
 heHE.SalevomeninTinKardian.melody = miscellanea_en_US_unknown.misc.Heirmos
 heHE.SalevomeninTinKardian.mode = miscellanea_en_US_unknown.misc.Mode5
