@@ -117,11 +117,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmeter
 meMA.Ode3KathismaT.incipit = "O spotless Maid, by your…"
 meMA.Ode3KathismaT.text = "O spotless Maid, by your divine childbirth, you have renewed the whole mortal nature of those born on earth, which was corrupt with passions and dead in sins. You have raised all men from death to life, pure and endless. Therefore, O most glorious Virgin, as is due we all now call you blessed, as you truly prophesied."
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_unknown.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "O Mother of Christ our…"
-meMA.Ode3KathismaSt.text = "O Mother of Christ our God, blameless and pure Virgin, a sword pierced your spotless and all-holy soul, when you saw your Son and God willingly enduring crucifixion, O Maiden. O most blessed Lady, do not cease to ask Him to grant us forgiveness of our failings and many sins."
-
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode6
 meMA.Ode4C1H.greekmelody = he.h.m6_en_US_unknown.heHE.ChristosMouDynamis.greekname
