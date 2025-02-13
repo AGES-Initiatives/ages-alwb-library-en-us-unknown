@@ -47,11 +47,6 @@ meMA.Kontakion1.text = "O Apostle Philip, as an imitator of your Lord and Teache
 
 meMA.Oikos1.text = "O blessed and wise Apostle Philip, when you heard the saving and life-giving words of Christ, and saw His wondrous deeds, you were enlightened through them with the light of truth. You believed in Him with joy, and you eagerly preached Him to others, saying: “The salvation of man has appeared; the Sun of Righteousness has risen.” And you became a lamp and beacon, guiding many to the knowledge of Him and to the divine Faith, and a light to those in darkness. Therefore we believers now call you blest."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.melody
-meMA.Ode3KathismaT.incipit = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.incipit
-meMA.Ode3KathismaT.text = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.text
-
 meMA.Ode6H.ode = miscellanea_en_US_unknown.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_unknown.misc.Mode6
 meMA.Ode6H.greekmelody = he.h.m6_en_US_unknown.heHE.TouViouTinThalassan.greekname
