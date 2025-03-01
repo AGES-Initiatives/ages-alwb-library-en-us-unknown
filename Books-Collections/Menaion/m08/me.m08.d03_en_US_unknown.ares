@@ -1,0 +1,219 @@
+A_Resource_Whose_Name = me.m08.d03_en_US_unknown
+
+meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_unknown.heHE.IKekommeni.greekname
+meMA.Ode1C11.melody = he.h.m8_en_US_unknown.heHE.IKekommeni.notmetered
+meMA.Ode1C11.incipit = "As you radiantly stand…"
+meMA.Ode1C11.text = "As you radiantly stand before the divine light, filled at all times with the tri-solar splendor and truly deified by adoption, O blessed Isaacius, Dalmatus, and Faustus, you divinely illumine those who celebrate your all-sacred memory with faith and sing to the Lord."
+
+meMA.Ode1C12.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_unknown.heHE.IKekommeni.notmetered
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = "You looked only to those things that last, and you drove back every impulse of things that are fleeting. You clung to the Lord with your whole mind, and you discarded the pleasures of the flesh, O all-venerable Fathers. Therefore, you passed over to the never-setting light."
+
+meMA.Ode1C13.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_unknown.heHE.IKekommeni.notmetered
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = "O wise Father Dalmatus, you were winged by sacred meditations, and you were adorned with the divine teachings of the blessed Isaacius. You swiftly ascended to the height of virtue and became a pillar and support of monastics. Therefore we call you blessed."
+
+meMA.Ode1C1T.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_unknown.heHE.IKekommeni.notmetered
+meMA.Ode1C1T.incipit = "…"
+meMA.Ode1C1T.text = "O glorious Maiden who gave birth to God, free me from the ignominy of the passions. O pure Virgin, give me thoughts of compunction, and shine the light of repentance in my mind, that I may magnify you who have magnified all."
+
+meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_unknown.heHE.OuraniasApsidos.greekname
+meMA.Ode3C11.melody = he.h.m8_en_US_unknown.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C11.incipit = "…"
+meMA.Ode3C11.text = "O devout Father Isaacius, we all know you to be an inerrant star that came from the East. You ended the darkness of bitter heresy and made the faithful radiant by your words."
+
+meMA.Ode3C12.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_unknown.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C12.incipit = "…"
+meMA.Ode3C12.text = "O blessed Father Faustus, you spiritually dawned with the clear rays of your struggles. You became a light, enlightening all who observe you and faithfully imitate your way of life."
+
+meMA.Ode3C13.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_unknown.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = "O devout Fathers, you put all the passions of the body to sleep with unceasing hymnody and prayer. You have received from God unsleeping grace and inalienable riches, O most blessed Isaacius, Dalmatus, and Faustus."
+
+meMA.Ode3C14.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C14.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C14.melody = he.h.m8_en_US_unknown.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C14.incipit = "…"
+meMA.Ode3C14.text = "O devout Dalmatus, you showed your endurance to all by your prolonged fasting, like Moses. You were adorned by your illustrious labors and beautified by your way of life."
+
+meMA.Ode3C1T.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_unknown.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C1T.incipit = "…"
+meMA.Ode3C1T.text = "O Virgin, we recognize you metaphorically as a divine palace, a shining lamp that received the unendurable Fire within, and a most lofty throne, on which superessential God reclined."
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.greekname
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma1.incipit = "…"
+meMA.Ode3Kathisma1.text = "O luminous Fathers, you brightly shone with the brilliant light of the Trinity. You avoided profound gloom of pleasure, and like stars bright with fiery rays, you enkindled the hearts of the faithful by your godly deeds, O blessed Faustus, Dalmatus, and devout Isaacius. Therefore, we honor your radiant and holy memory today, and with one voice we cry to you, O all-blessed, God-bearing Saints: Intercede with Christ our God that grant forgiveness of offences to those observing your holy memory with faith and love."
+
+meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.greekname
+meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C11.incipit = "…"
+meMA.Ode4C11.text = "O Saints, you became fruitful branches of the true vine. You made the saving wine of pure compunction to gush forth to all."
+
+meMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C12.incipit = "…"
+meMA.Ode4C12.text = "O devout Dalmatus, we all know you were an advocate of the Third Council. You confirmed Orthodoxy and opposed the shameless heretics."
+
+meMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C13.incipit = "…"
+meMA.Ode4C13.text = "O Dalmatus, you outshone all men, being famous for your godly virtues. The divine Council decreed that you should have the care of all monasteries."
+
+meMA.Ode4C1T.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C1T.incipit = "…"
+meMA.Ode4C1T.text = "O pure one, the sleep of sin has overtaken me in a slumber of indolence. With your unsleeping supplication, rouse me to repentance."
+
+meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.greekname
+meMA.Ode5C11.melody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C11.incipit = "…"
+meMA.Ode5C11.text = "O sacred father Isaacius, you came as a sojourner from the West to the Queen of Cities. You multiplied her fruit with the divine seed, thoroughly uprooting all the wicked blight of Arius."
+
+meMA.Ode5C12.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = "O sacred Dalmatus, you were a follower of Isaacius, even as Elisha was of Elijah. You parted the waters of evil demonic harm with the mantle of the Spirit's gifts and made passage easy for the faithful."
+
+meMA.Ode5C13.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C13.incipit = "…"
+meMA.Ode5C13.text = "O God-bearing Faustus, you were obedient to the divine laws. You wholly turned away from the laws of sin and were a pillar going on before the divine assembly, becoming a rule and model for monks and an unshaken foundation of the faithful."
+
+meMA.Ode5C1T.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_unknown.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C1T.incipit = "…"
+meMA.Ode5C1T.text = "O spotless and all-holy Virgin, all generations glorify you as the true Theotokos, who are clearly holier than the Angels. Therefore, I pray to you: Sanctify my soul, which is infected with passions."
+
+meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.TinDeisinEkcheo.greekname
+meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.TinDeisinEkcheo.notmetered
+meMA.Ode6C11.incipit = "…"
+meMA.Ode6C11.text = "O Dalmatus, you were the companion of Angels, for you emulated their way of life while dwelling on the earth. You refined your body through abstinence, and became a trainer of monastics and a most exact rule of virtue."
+
+meMA.Ode6C12.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_unknown.heHE.TinDeisinEkcheo.notmetered
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = "O blessed Isaacius, like Elijah you burned with zeal for the Lord's love. You boldly convicted the defender of falsehood, who was dementedly diseased with the evil heresy of Arius, like another Ahab."
+
+meMA.Ode6C13.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_unknown.heHE.TinDeisinEkcheo.notmetered
+meMA.Ode6C13.incipit = "…"
+meMA.Ode6C13.text = "O God-bearing fathers Faustus, Dalmatus, and divine Isaacius, servants of Jesus, and ever-shining lights of monastics, you were guides to the erring, and havens for the saved believers."
+
+meMA.Ode6C1T.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_unknown.heHE.TinDeisinEkcheo.notmetered
+meMA.Ode6C1T.incipit = "…"
+meMA.Ode6C1T.text = "O all-holy Virgin, with your saving visitation, quickly visit my soul, sick with sins and all the mistreatment by my enemies. O all-lauded Theotokos, as my hope, heal it, since you are good."
+
+meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.greekname
+meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
+meMA.Ode7C11.incipit = "…"
+meMA.Ode7C11.text = "O God-bearers, you burned away the substance of wickedness, with coals kindled with the Comforter's divine fire, but you enlightened the faithful, unto the ages."
+
+meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = "O God-bearer Dalmatus, you made the stubborn flesh subject to the spirit with fasting, and you washed away the wickedness of the enemy with the showers of your spiritual tears, unto the ages."
+
+meMA.Ode7C13.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
+meMA.Ode7C13.incipit = "…"
+meMA.Ode7C13.text = "O fathers, you have found a blessed end. You dwell in the heavenly Kingdom and you have joined the choirs of the devout Saints, with whom you cry: O Lord God, blessed are You."
+
+meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
+meMA.Ode7C1T.incipit = "…"
+meMA.Ode7C1T.text = "O pure Theotokos, you have stopped the tide of death, for you alone gave birth to deathless God, to whom we sing in faith: Blessed are You, O Lord God, to the ages."
+
+meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.greekname
+meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C11.incipit = "…"
+meMA.Ode8C11.text = "O Saints, you divided the sea of passions with the rod of the Cross. You destroyed all the power of the spiritual Pharaoh. You led a sacred multitude of monks to the land of dispassion, O fathers, while ceaselessly singing: Bless Christ, O you priests; supremely exalt Him, O you people, unto the ages."
+
+meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = "O Dalmatus, you humbled the heretics' uplifted pride, in the sight of all, having foreseen their ruin from afar. You supplied the needs of of the poor and became a guide to the blind, the staff of the elderly, and a defender of widows, as you sang: Praise Christ, O you priests; supremely exalt Him, O you people, unto the ages."
+
+meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = "O wise Dalmatus, you fasted thirty-three days, and again for as many you slept a supernatural sleep, during which the eye of your heart was wakeful. You were led by the light of God, to Whom you sing: Bless Him, O you priests; supremely exalt Him, O you people, unto the ages."
+
+meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C1T.incipit = "…"
+meMA.Ode8C1T.text = "O Virgin, the Lord Who dwelt in your undefiled womb made you wholly pure and luminous. Therefore purify me, who am defiled with the poisonous bites and ravaging assaults of my enemies, and make me worthy to sing: Supremely exalt Christ, O you people, unto the ages."
+
+meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.greekname
+meMA.Ode9C11.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C11.incipit = "…"
+meMA.Ode9C11.text = "The heavenly-minded leaders of monks prevailed in the strength of God. They received power to throw down the unavailing arrogance of the adversary. And they have passed over to the spiritual mansions, now glorified and rejoicing."
+
+meMA.Ode9C12.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = "O thrice-blessed fathers, you are a lamp of three lights, spreading the splendor that never wanes. You are roses of Paradise that never wilt, and you spread fragrance to the minds of the faithful. Therefore, we faithfully celebrate your all-festive memory."
+
+meMA.Ode9C13.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = "O wise fathers, you wore dispassion like a majestic crown, and you were robed with the achievements of divine love. You have entered with joy into the bridal hall of Christ, and you have found your rest and have received the rewards of your labors."
+
+meMA.Ode9C14.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C14.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C14.incipit = "…"
+meMA.Ode9C14.text = "O blessed Dalmatus, Faustus, and Isaacius, the leaders of monastics, your divine memory has flashed with spiritual light, illuminating the congregations of believers. Therefore, illumine also the senses of our souls."
+
+meMA.Ode9C1T.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C1T.incipit = "…"
+meMA.Ode9C1T.text = "O Gate of the Light, enlighten my heart, which is blinded by wickedness. Do not permit me to sleep unto death, ever benighted as I am with impure thoughts; so that with gratitude I may glorify you, O all-blameless Theotokos."

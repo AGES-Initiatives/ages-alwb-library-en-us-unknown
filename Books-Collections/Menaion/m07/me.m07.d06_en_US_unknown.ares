@@ -1,0 +1,200 @@
+A_Resource_Whose_Name = me.m07.d06_en_US_unknown
+
+meMA.Ode1C11.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.greekname
+meMA.Ode1C11.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C11.incipit = "Father, you now stand…"
+meMA.Ode1C11.text = "Father, you now stand with confidence near the Life of the living. Therefore, by your intercessions, make me alive, dead as I am because of passions."
+
+meMA.Ode1C12.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = "Blessed father Sisoes, you resisted all carnal loves with love for God. Therefore, with longing you followed after Him who called you."
+
+meMA.Ode1C13.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = "Father, you received immaterial splendor in your heart. Therefore, you were enlightened and made all the gloom of the passions vanish."
+
+meMA.Ode1C1T.ode = miscellanea_en_US_unknown.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_unknown.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C1T.incipit = "…"
+meMA.Ode1C1T.text = "All-blameless Virgin, save me, who am tossed in a storm of all the pleasures. You gave birth to the Savior, the serenity of all."
+
+meMA.Ode3C11.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.greekname
+meMA.Ode3C11.melody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.notmetered
+meMA.Ode3C11.incipit = "…"
+meMA.Ode3C11.text = "Devout Sisoes, you firmly subordinated the flesh to the mind. Therefore, you made your soul free from the bondage of passions."
+
+meMA.Ode3C12.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.notmetered
+meMA.Ode3C12.incipit = "…"
+meMA.Ode3C12.text = "Devout ffather, you wisely cultivated the field of your soul with you labors. Therefore, you made it blossom with the wheat of dispassion and miracles."
+
+meMA.Ode3C13.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.notmetered
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = "Glorious Saint, you followed Christ, and you you clothed yourself with a life-giving mortification. Therefore, He also gave you the grace to raise the dead."
+
+meMA.Ode3C1T.ode = miscellanea_en_US_unknown.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_unknown.heHE.SyEiToStereoma.notmetered
+meMA.Ode3C1T.incipit = "…"
+meMA.Ode3C1T.text = "We extol you, O pure one, the place of holiness and allegorical table that received the Bread, Christ, the Life of all."
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.greekname
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
+meMA.Ode3Kathisma1.incipit = "…"
+meMA.Ode3Kathisma1.text = "O father Sisoes, through unremitting self-control and attention to virtue, you killed carnal pleasures. Therefore, you advanced in divine ascents. Having found the way that leads up to the heavens, you now stand near Christ God with the Angels."
+
+meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode1
+meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.heAU.TonTafonSouSotir.notmetered
+meMA.Ode3KathismaT.incipit = "…"
+meMA.Ode3KathismaT.text = "Through his mother's voice, John, that great preacher of grace, called you the nurse and Mother of God, O pure Virgin, when by the Spirit he recognized the Lord God in your womb. And after he was born, with his finger he pointed out Christ the Lamb, who by assuming inferior human nature takes away the sins of the world."
+
+meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.greekname
+meMA.Ode4C11.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C11.incipit = "…"
+meMA.Ode4C11.text = "Blessed father, you poured out rivers of miracles when grace rained on you. They cleanse from defilement those who rely on you with faith."
+
+meMA.Ode4C12.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C12.incipit = "…"
+meMA.Ode4C12.text = "Devout Sisoes, you purified your soul by all-night prayers and by standing for entire days. Thus you made it a house for the Trinity."
+
+meMA.Ode4C13.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C13.incipit = "…"
+meMA.Ode4C13.text = "Blessed father, you fled far off into the wilderness, awaiting Him who saved you from faintheartedness and misery."
+
+meMA.Ode4C1T.ode = miscellanea_en_US_unknown.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_unknown.heHE.EisakikoaKyrie.notmetered
+meMA.Ode4C1T.incipit = "…"
+meMA.Ode4C1T.text = "All-blameless Virgin, long ago Habakkuk foresaw you as an uncut mountain, from which God appeared and renewed us who were damaged."
+
+meMA.Ode5C11.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.greekname
+meMA.Ode5C11.melody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.notmetered
+meMA.Ode5C11.incipit = "…"
+meMA.Ode5C11.text = "As a temple of the tri-solar Godhead, O Saint, you obliterated the idols of passions passions from your soul, ."
+
+meMA.Ode5C12.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.notmetered
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = "God-bearing Saint, once you mortified your mind set on the flesh, you raised the dead with the synergy of grace."
+
+meMA.Ode5C1T.ode = miscellanea_en_US_unknown.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_unknown.heHE.OrthrizontesVoomenSoi.notmetered
+meMA.Ode5C1T.incipit = "…"
+meMA.Ode5C1T.text = "Virgin Theotokos, since you gave birth to the unwaning Sun of grace, enlighten me who am darkened."
+
+meMA.Ode6C11.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.greekname
+meMA.Ode6C11.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C11.incipit = "…"
+meMA.Ode6C11.text = "Father, you escaped destruction by the spirtual sea-monster by acquiring self-control, prayer, genuine love, mighty humility, and strong affection for Christ."
+
+meMA.Ode6C12.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = "All-blessed and God-bearing Sisoes, Christ directed your steps to himself. He who is mighty indeed made you mighty, so that you might trample on the heads of snakes and scorpions."
+
+meMA.Ode6C13.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C13.incipit = "…"
+meMA.Ode6C13.text = "God-bearing father, focusing on God, you clearly became a god; and through your consummate love for the Light, you also became light, an earthly angel, and a heavenly man."
+
+meMA.Ode6C1T.ode = miscellanea_en_US_unknown.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_unknown.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C1T.incipit = "…"
+meMA.Ode6C1T.text = "O all-blameless Mary, the pure treasure of virginity, purify my mind of the darkness caused by the passions, and fill my heart with grace and righteousness."
+
+meMA.Ode7C11.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.greekname
+meMA.Ode7C11.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
+meMA.Ode7C11.incipit = "…"
+meMA.Ode7C11.text = "You received the whole brightness of the Spirit in your purified mind, and you are a luminary to those that faithfully sing: Blessed are You, O Lord God, unto the ages."
+
+meMA.Ode7C12.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = "You incinerated the thorns of sin with the divine fire of self-control, and you passed over to the spiritual Light, singing: Blessed are You, O Lord God, unto the ages."
+
+meMA.Ode7C1T.ode = miscellanea_en_US_unknown.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_unknown.heHE.PaidesEvraion.notmetered
+meMA.Ode7C1T.incipit = "…"
+meMA.Ode7C1T.text = "Mother of the Savior, save me, for I am stuck in the ocean of my sins. Snatch me from all the mischief of the enemy, so that I, being saved, might magnify your protection."
+
+meMA.Ode8C11.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.greekname
+meMA.Ode8C11.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C11.incipit = "…"
+meMA.Ode8C11.text = "Sisoes, you drove away the epidemic of passions from your soul by constant prayers and supplications. You cleansed the eye of your mind. Therefore, you were allowed to see the future as a prophet, and you piously sang: O you people, exalt Christ beyond measure unto the ages."
+
+meMA.Ode8C12.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = "Devout father, you lived in the body like an angel, and you triumphed over the armies of the foe. And now you joyously dwell in immaterial life, where the orders of the Angels are, With them you sing: Bless Christ, O you priests; exalt Him, O you people, unto the ages."
+
+meMA.Ode8C13.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = "God-bearing father, by your sacred supplications to God, cleanse my soul, for it is overgrown with passions, and deliver me, for I am held in captivity, and I shall sing in purity: You children, bless Christ; O you priests, sing His praises; exalt Him, O you people, unto the ages."
+
+meMA.Ode8C1T.ode = miscellanea_en_US_unknown.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_unknown.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C1T.incipit = "…"
+meMA.Ode8C1T.text = "Pure Virgin, sanctified by the Spirit, you received in your womb the Maker of man's nature, and you gave birth to Him ineffably. We continually extol Him and sing: Bless Him, O you children; O you priests, sing His praises; exalt Him, O you people, unto the ages."
+
+meMA.Ode9C11.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.greekname
+meMA.Ode9C11.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C11.incipit = "…"
+meMA.Ode9C11.text = "O father, an awesome wonder was apparent at the hour of your repose, when your face shone like lightning, brighter than the sun, and the choirs of Saints were there to welcome your soul and to bring it to God the Creator."
+
+meMA.Ode9C12.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = "Blessed St. Sisoes, you delight in the divine beauty, deified by adoption and illumined with the bright rays that proceed from the other world. By your entreaties, deliver us from the murky filth of passions, as we faithfully honor your luminous memory."
+
+meMA.Ode9C13.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = "Father, you were devout and guileless, righteous and blameless; you shunned all wickedness, and you served God in holiness. Therefore, the Trinity reposed in your heart. And now you clearly delight in God, O praiseworthy Saint."
+
+meMA.Ode9C1T.ode = miscellanea_en_US_unknown.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_unknown.misc.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_unknown.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C1T.incipit = "…"
+meMA.Ode9C1T.text = "All-blameless Virgin, I will not be saved for any good deeds, of which I have none. I have taken the opposite path, and I am filled with darkness. Since you have shined on us the Light that is from Light, I pray that you enlighten me and save me. Please do not ignore me, who am sadly perishing."
