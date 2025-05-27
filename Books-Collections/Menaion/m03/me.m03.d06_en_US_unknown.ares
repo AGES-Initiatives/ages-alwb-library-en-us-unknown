@@ -115,7 +115,7 @@ meMA.Ode3Kathisma2.text = "Taken away in captivity and bondage by the cruel enem
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_unknown.heAU.TinSofianKaiLogon.melody
-meMA.Ode3KathismaT.incipit = ""
+meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = ""
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode8
