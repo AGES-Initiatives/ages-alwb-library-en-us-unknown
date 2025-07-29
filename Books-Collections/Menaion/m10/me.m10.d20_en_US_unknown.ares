@@ -94,11 +94,6 @@ meMA.Ode3Kathisma1.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notm
 meMA.Ode3Kathisma1.incipit = "Let us all praise Christ’s…"
 meMA.Ode3Kathisma1.text = "Let us all praise Christ’s unconquerable soldier who radiates in mighty wonders. He is the brave and noble destroyer of our common enemy. Let us faithfully and fervently honor Artemios, for he heals those who ask him. He causes sorrowful trials to end, and he defends the downtrodden and troubled."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_unknown.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaT.incipit = "O Lady, He Who sits…"
-meMA.Ode3KathismaT.text = "O Lady, He Who sits on the throne of the Cherubim and dwells forever in the bosom of His Father is the Same Who in the flesh reclines in your embrace as a holy throne. For He is truly our God and King Who rules over all the nations. As we now sing to Him with knowledge, ask Him that we your servants may be saved."
-
 meMA.Ode4C11.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_unknown.misc.Mode2
 meMA.Ode4C11.greekmelody = he.h.m2_en_US_unknown.heHE.ElilythasEkParthenou.greekname
