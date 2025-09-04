@@ -7,7 +7,7 @@ heAU.ChairoisAskitikon.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.ChairoisAskitikon.mode = miscellanea_en_US_unknown.misc.Mode5
 heAU.ChairoisAskitikon.notmetered = "N/M (Rejoice.)"
 heAU.ChairoisAskitikon.name = "Rejoice."
-heAU.ChairoisAskitikon.incipit = "Rejoice…"
+heAU.ChairoisAskitikon.incipit = "…"
 heAU.ChairoisAskitikon.text = ""
 
 heAU.LampeiSimeron.greekname = ""
@@ -23,7 +23,7 @@ heAU.OsiePater.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OsiePater.mode = miscellanea_en_US_unknown.misc.Mode5
 heAU.OsiePater.notmetered = "N/M (God-bearing Father.)"
 heAU.OsiePater.name = "God-bearing Father."
-heAU.OsiePater.incipit = "God-bearing Father…"
+heAU.OsiePater.incipit = "…"
 heAU.OsiePater.text = ""
 
 heAU.TonSynanarchonLogon.greekname = ""
@@ -31,5 +31,5 @@ heAU.TonSynanarchonLogon.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TonSynanarchonLogon.mode = miscellanea_en_US_unknown.misc.Mode5
 heAU.TonSynanarchonLogon.notmetered = "N/M (Let us worship the Word.)"
 heAU.TonSynanarchonLogon.name = "Let us worship the Word."
-heAU.TonSynanarchonLogon.incipit = "Let us worship the Word…"
+heAU.TonSynanarchonLogon.incipit = "…"
 heAU.TonSynanarchonLogon.text = ""

@@ -7,7 +7,7 @@ heAU.KatafronisantesPanton.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.KatafronisantesPanton.mode = miscellanea_en_US_unknown.misc.Mode7
 heAU.KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
 heAU.KatafronisantesPanton.name = "When you had wisely."
-heAU.KatafronisantesPanton.incipit = "When you had wisely…"
+heAU.KatafronisantesPanton.incipit = "…"
 heAU.KatafronisantesPanton.text = ""
 
 heAU.ODiEmeAnaschomenos.greekname = ""
@@ -31,7 +31,7 @@ heAU.OuketiFloginiRomfaia.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OuketiFloginiRomfaia.mode = miscellanea_en_US_unknown.misc.Mode7
 heAU.OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
 heAU.OuketiFloginiRomfaia.name = "The fiery sword."
-heAU.OuketiFloginiRomfaia.incipit = "The fiery sword…"
+heAU.OuketiFloginiRomfaia.incipit = "…"
 heAU.OuketiFloginiRomfaia.text = ""
 
 heAU.OukEtiKolyometha.greekname = ""
@@ -39,7 +39,7 @@ heAU.OukEtiKolyometha.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OukEtiKolyometha.mode = miscellanea_en_US_unknown.misc.Mode7
 heAU.OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
 heAU.OukEtiKolyometha.name = "No longer are we barred."
-heAU.OukEtiKolyometha.incipit = "No longer are we barred…"
+heAU.OukEtiKolyometha.incipit = "…"
 heAU.OukEtiKolyometha.text = ""
 
 heAU.PyrosFoteinoteron.greekname = ""
@@ -55,7 +55,7 @@ heAU.SimeronGrigoreiOIoudas.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.SimeronGrigoreiOIoudas.mode = miscellanea_en_US_unknown.misc.Mode7
 heAU.SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
 heAU.SimeronGrigoreiOIoudas.name = "Judas today is vigilant."
-heAU.SimeronGrigoreiOIoudas.incipit = "Judas today is vigilant…"
+heAU.SimeronGrigoreiOIoudas.incipit = "…"
 heAU.SimeronGrigoreiOIoudas.text = ""
 
 heAU.XylonZois.greekname = ""
@@ -63,5 +63,5 @@ heAU.XylonZois.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.XylonZois.mode = miscellanea_en_US_unknown.misc.Mode7
 heAU.XylonZois.notmetered = "N/M (The tree of life.)"
 heAU.XylonZois.name = "The tree of life."
-heAU.XylonZois.incipit = "The tree of life…"
+heAU.XylonZois.incipit = "…"
 heAU.XylonZois.text = ""

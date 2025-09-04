@@ -5,9 +5,9 @@ heAU.title = ""
 heAU.AiAngelikai.greekname = ""
 heAU.AiAngelikai.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.AiAngelikai.mode = miscellanea_en_US_unknown.misc.Mode6
-heAU.AiAngelikai.notmetered = "N/M (Hosts of herald Angels.)"
-heAU.AiAngelikai.name = "Hosts of herald Angels."
-heAU.AiAngelikai.incipit = "Hosts of herald Angels…"
+heAU.AiAngelikai.notmetered = "N/M (Host of herald Angels.)"
+heAU.AiAngelikai.name = "Host of herald Angels."
+heAU.AiAngelikai.incipit = "…"
 heAU.AiAngelikai.text = ""
 
 heAU.AngelikaiDynameis.greekname = ""
@@ -15,7 +15,7 @@ heAU.AngelikaiDynameis.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.AngelikaiDynameis.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.AngelikaiDynameis.notmetered = "N/M (When the angelic powers.)"
 heAU.AngelikaiDynameis.name = "When the angelic powers."
-heAU.AngelikaiDynameis.incipit = "When the angelic powers…"
+heAU.AngelikaiDynameis.incipit = "…"
 heAU.AngelikaiDynameis.text = ""
 
 heAU.EkGastrosEtechthis.greekname = ""
@@ -23,7 +23,7 @@ heAU.EkGastrosEtechthis.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.EkGastrosEtechthis.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.EkGastrosEtechthis.notmetered = "N/M (From the womb.)"
 heAU.EkGastrosEtechthis.name = "From the womb."
-heAU.EkGastrosEtechthis.incipit = "From the womb…"
+heAU.EkGastrosEtechthis.incipit = "…"
 heAU.EkGastrosEtechthis.text = ""
 
 heAU.ElpisTouKosmouAgathi.greekname = ""
@@ -31,7 +31,7 @@ heAU.ElpisTouKosmouAgathi.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.ElpisTouKosmouAgathi.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.ElpisTouKosmouAgathi.notmetered = "N/M (You are the good hope.)"
 heAU.ElpisTouKosmouAgathi.name = "You are the good hope."
-heAU.ElpisTouKosmouAgathi.incipit = "You are the good hope…"
+heAU.ElpisTouKosmouAgathi.incipit = "…"
 heAU.ElpisTouKosmouAgathi.text = ""
 
 heAU.IApegnosmeni.greekname = ""
@@ -39,7 +39,7 @@ heAU.IApegnosmeni.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.IApegnosmeni.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.IApegnosmeni.notmetered = "N/M (That woman, who was spurned.)"
 heAU.IApegnosmeni.name = "That woman, who was spurned."
-heAU.IApegnosmeni.incipit = "That woman, who was spurned…"
+heAU.IApegnosmeni.incipit = "…"
 heAU.IApegnosmeni.text = ""
 
 heAU.KyrieEleisonImas.greekname = ""
@@ -55,7 +55,7 @@ heAU.OlinApothemenoi.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OlinApothemenoi.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.OlinApothemenoi.notmetered = "N/M (When the saints.)"
 heAU.OlinApothemenoi.name = "When the saints deposited."
-heAU.OlinApothemenoi.incipit = "When the saints deposited…"
+heAU.OlinApothemenoi.incipit = "…"
 heAU.OlinApothemenoi.text = ""
 
 heAU.TinEnPresveiais.greekname = ""
@@ -63,7 +63,7 @@ heAU.TinEnPresveiais.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TinEnPresveiais.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.TinEnPresveiais.notmetered = "N/M (The Theotokos, unsleeping.)"
 heAU.TinEnPresveiais.name = "The Theotokos, unsleeping."
-heAU.TinEnPresveiais.incipit = "The Theotokos, unsleeping…"
+heAU.TinEnPresveiais.incipit = "…"
 heAU.TinEnPresveiais.text = ""
 
 heAU.TinYperImon.greekname = ""
@@ -71,7 +71,7 @@ heAU.TinYperImon.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TinYperImon.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.TinYperImon.notmetered = "N/M (When You had fulfilled.)"
 heAU.TinYperImon.name = "When You had fulfilled."
-heAU.TinYperImon.incipit = "When You had fulfilled…"
+heAU.TinYperImon.incipit = "…"
 heAU.TinYperImon.text = ""
 
 heAU.TriimerosAnestis.greekname = ""
@@ -79,5 +79,5 @@ heAU.TriimerosAnestis.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TriimerosAnestis.mode = miscellanea_en_US_unknown.misc.Mode6
 heAU.TriimerosAnestis.notmetered = "N/M (O Christ, as it is written.)"
 heAU.TriimerosAnestis.name = "O Christ, as it is written."
-heAU.TriimerosAnestis.incipit = "O Christ, as it is written…"
+heAU.TriimerosAnestis.incipit = "…"
 heAU.TriimerosAnestis.text = ""

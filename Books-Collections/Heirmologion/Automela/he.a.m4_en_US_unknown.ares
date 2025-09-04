@@ -7,7 +7,7 @@ heAU.DiaXylouOAdam.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.DiaXylouOAdam.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.DiaXylouOAdam.notmetered = "N/M (Adam fell by a tree.)"
 heAU.DiaXylouOAdam.name = "Adam fell by a tree."
-heAU.DiaXylouOAdam.incipit = "Adam fell by a tree…"
+heAU.DiaXylouOAdam.incipit = "…"
 heAU.DiaXylouOAdam.text = ""
 
 heAU.EdokasSimeiosin.greekname = ""
@@ -15,7 +15,7 @@ heAU.EdokasSimeiosin.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.EdokasSimeiosin.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.EdokasSimeiosin.notmetered = "N/M (You have given.)"
 heAU.EdokasSimeiosin.name = "You have given."
-heAU.EdokasSimeiosin.incipit = "You have given…"
+heAU.EdokasSimeiosin.incipit = "…"
 heAU.EdokasSimeiosin.text = ""
 
 heAU.EpefanisSimeron.greekname = ""
@@ -23,7 +23,7 @@ heAU.EpefanisSimeron.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.EpefanisSimeron.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.EpefanisSimeron.notmetered = "N/M (You revealed yourself today.)"
 heAU.EpefanisSimeron.name = "You revealed yourself today."
-heAU.EpefanisSimeron.incipit = "You revealed yourself today…"
+heAU.EpefanisSimeron.incipit = "…"
 heAU.EpefanisSimeron.text = ""
 
 heAU.IthelonDakrysinExaleipsai.greekname = ""
@@ -31,7 +31,7 @@ heAU.IthelonDakrysinExaleipsai.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.IthelonDakrysinExaleipsai.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.IthelonDakrysinExaleipsai.notmetered = "N/M (How I intended.)"
 heAU.IthelonDakrysinExaleipsai.name = "How I intended."
-heAU.IthelonDakrysinExaleipsai.incipit = "How I intended…"
+heAU.IthelonDakrysinExaleipsai.incipit = "…"
 heAU.IthelonDakrysinExaleipsai.text = ""
 
 heAU.KateplagiIosif.greekname = ""
@@ -39,7 +39,7 @@ heAU.KateplagiIosif.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.KateplagiIosif.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
 heAU.KateplagiIosif.name = "Joseph marveled."
-heAU.KateplagiIosif.incipit = "Joseph marveled…"
+heAU.KateplagiIosif.incipit = "…"
 heAU.KateplagiIosif.text = ""
 
 heAU.KyrieAnelthonEnToStavro.greekname = ""
@@ -55,7 +55,7 @@ heAU.OExYpsistouKlitheis.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OExYpsistouKlitheis.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.OExYpsistouKlitheis.notmetered = "N/M (When you were called.)"
 heAU.OExYpsistouKlitheis.name = "When you were called."
-heAU.OExYpsistouKlitheis.incipit = "When you were called…"
+heAU.OExYpsistouKlitheis.incipit = "…"
 heAU.OExYpsistouKlitheis.text = ""
 
 heAU.OYpsotheisEnToStavro.greekname = ""
@@ -63,7 +63,7 @@ heAU.OYpsotheisEnToStavro.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OYpsotheisEnToStavro.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.OYpsotheisEnToStavro.notmetered = "N/M (You who were lifted.)"
 heAU.OYpsotheisEnToStavro.name = "You who were lifted."
-heAU.OYpsotheisEnToStavro.incipit = "You who were lifted…"
+heAU.OYpsotheisEnToStavro.incipit = "…"
 heAU.OYpsotheisEnToStavro.text = ""
 
 heAU.OsGennaionEnMartysi.greekname = ""
@@ -71,7 +71,7 @@ heAU.OsGennaionEnMartysi.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.OsGennaionEnMartysi.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.OsGennaionEnMartysi.notmetered = "N/M (To a brave one.)"
 heAU.OsGennaionEnMartysi.name = "To a brave one."
-heAU.OsGennaionEnMartysi.incipit = "To a brave one…"
+heAU.OsGennaionEnMartysi.incipit = "…"
 heAU.OsGennaionEnMartysi.text = ""
 
 heAU.TachyProkatalave.greekname = ""
@@ -79,5 +79,5 @@ heAU.TachyProkatalave.melody = miscellanea_en_US_unknown.misc.Automelon
 heAU.TachyProkatalave.mode = miscellanea_en_US_unknown.misc.Mode4
 heAU.TachyProkatalave.notmetered = "N/M (Come quickly.)"
 heAU.TachyProkatalave.name = "Come quickly."
-heAU.TachyProkatalave.incipit = "Come quickly…"
+heAU.TachyProkatalave.incipit = "…"
 heAU.TachyProkatalave.text = ""
