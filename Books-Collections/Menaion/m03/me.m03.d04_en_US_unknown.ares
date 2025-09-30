@@ -101,16 +101,6 @@ meMA.Ode3Kathisma1.melody = he.a.m1_en_US_unknown.heAU.TouLithouSfragisthentos.n
 meMA.Ode3Kathisma1.incipit = "You fervently climbed the ladder…"
 meMA.Ode3Kathisma1.text = "You fervently climbed the ladder of godly morality and you reached the summit of divine noetic vision, receiving meditations unblemished and unmurky showing the divine mysteries of Christ. Thus we honor you with reverence, as we exclaim, God-bearer Gerasimos: Glory to Christ, who strengthened you. Glory to Him who gave you the crown. Glory to Him who heals everyone through you."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_unknown.misc.Mode1
-meMA.Ode3KathismaT.melody = he.a.m1_en_US_unknown.heAU.TouLithouSfragisthentos.notmetered
-meMA.Ode3KathismaT.incipit = "Reach out your divine hands…"
-meMA.Ode3KathismaT.text = "Reach out your divine hands that carried the Creator, who in His great benevolence took on flesh, O Virgin Theotokos; arduously ask Him to redeem us from all varieties of passions and temptations and all perils, we who faithfully chant your praise and cry out to you with yearning: *Glory to Him whose will was to dwell in you. Glory to Him that came forth from you. Glory to Him that has delivered us through your child-bearing."
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_unknown.misc.Mode1
-meMA.Ode3KathismaSt.melody = he.a.m1_en_US_unknown.heAU.TouLithouSfragisthentos.notmetered
-meMA.Ode3KathismaSt.incipit = "When You, O Lord, were…"
-meMA.Ode3KathismaSt.text = "When You, O Lord, were nailed to the Cross by the sinners and stabbed in Your side with a lance by the soldiers, O my Savior, the immaculate Virgin grieved You sorrowfully, torn on the inside with painful maternal mourning; and because Your dread patience suffered so much, she exclaimed in her amazement: Glory unto Your gentle love for mankind. Glory to Your kindness. Glory to You that through Your death all of us mortals are delivered from death."
-
 meMA.Ode4C1H.ode = miscellanea_en_US_unknown.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_unknown.misc.Mode4
 meMA.Ode4C1H.greekmelody = he.h.m4_en_US_unknown.heHE.TisSisEpiGis.greekname
