@@ -23,6 +23,7 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 meDA.dismissal = ""
+meDA.dismissal.incipit = ""
 
 meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
