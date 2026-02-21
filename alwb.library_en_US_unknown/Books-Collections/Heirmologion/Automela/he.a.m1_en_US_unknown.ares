@@ -1,0 +1,75 @@
+A_Resource_Whose_Name = he.a.m1_en_US_unknown
+
+heAU.title = ""
+
+heAU.ChorosAngelikos.greekname = ""
+heAU.ChorosAngelikos.melody = "Automelon."
+heAU.ChorosAngelikos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.ChorosAngelikos.notmetered = "N/M (In heaven.)"
+heAU.ChorosAngelikos.name = "In heaven be amazed."
+heAU.ChorosAngelikos.incipit = "…"
+heAU.ChorosAngelikos.text = ""
+
+heAU.NefelinSeFotos.greekname = ""
+heAU.NefelinSeFotos.melody = "Automelon."
+heAU.NefelinSeFotos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.NefelinSeFotos.notmetered = "N/M (O Virgin, you were called.)"
+heAU.NefelinSeFotos.name = "Nefelin Se Fotos."
+heAU.NefelinSeFotos.incipit = "…"
+heAU.NefelinSeFotos.text = ""
+
+heAU.OTouParadoxouThavmatos.greekname = ""
+heAU.OTouParadoxouThavmatos.melody = "Automelon."
+heAU.OTouParadoxouThavmatos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.OTouParadoxouThavmatos.notmetered = "N/M (What a paradoxical.)"
+heAU.OTouParadoxouThavmatos.name = "What a paradoxical miracle."
+heAU.OTouParadoxouThavmatos.incipit = "…"
+heAU.OTouParadoxouThavmatos.text = ""
+
+heAU.OtanElthisOTheos.greekname = ""
+heAU.OtanElthisOTheos.melody = "Automelon."
+heAU.OtanElthisOTheos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.OtanElthisOTheos.notmetered = "N/M (When You come down.)"
+heAU.OtanElthisOTheos.name = "When You come down."
+heAU.OtanElthisOTheos.incipit = "…"
+heAU.OtanElthisOTheos.text = ""
+
+heAU.PaneffimoiMartyres.greekname = ""
+heAU.PaneffimoiMartyres.melody = "Automelon."
+heAU.PaneffimoiMartyres.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.PaneffimoiMartyres.notmetered = "N/M (O Martyrs, extolled.)"
+heAU.PaneffimoiMartyres.name = "O Martyrs, extolled."
+heAU.PaneffimoiMartyres.incipit = "…"
+heAU.PaneffimoiMartyres.text = ""
+
+heAU.TisErimouPolitis.greekname = ""
+heAU.TisErimouPolitis.melody = "Automelon."
+heAU.TisErimouPolitis.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TisErimouPolitis.notmetered = "N/M (As a citizen.)"
+heAU.TisErimouPolitis.name = "As a citizen of the desert."
+heAU.TisErimouPolitis.incipit = "…"
+heAU.TisErimouPolitis.text = ""
+
+heAU.TonOuranionTagmaton.greekname = ""
+heAU.TonOuranionTagmaton.melody = "Automelon."
+heAU.TonOuranionTagmaton.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TonOuranionTagmaton.notmetered = "N/M (For all the powers.)"
+heAU.TonOuranionTagmaton.name = "For all the powers of heaven."
+heAU.TonOuranionTagmaton.incipit = "…"
+heAU.TonOuranionTagmaton.text = ""
+
+heAU.TonTafonSouSotir.greekname = ""
+heAU.TonTafonSouSotir.melody = "Automelon."
+heAU.TonTafonSouSotir.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TonTafonSouSotir.notmetered = "N/M (The soldiers.)"
+heAU.TonTafonSouSotir.name = "The soldiers keeping watch."
+heAU.TonTafonSouSotir.incipit = "…"
+heAU.TonTafonSouSotir.text = ""
+
+heAU.TouLithouSfragisthentos.greekname = ""
+heAU.TouLithouSfragisthentos.melody = "Automelon."
+heAU.TouLithouSfragisthentos.mode = miscellanea_en_US_unknown.misc.Mode1
+heAU.TouLithouSfragisthentos.notmetered = "N/M (The stone.)"
+heAU.TouLithouSfragisthentos.name = "The stone had been secured."
+heAU.TouLithouSfragisthentos.incipit = "…"
+heAU.TouLithouSfragisthentos.text = ""
